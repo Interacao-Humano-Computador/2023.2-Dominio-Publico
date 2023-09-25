@@ -1,0 +1,64 @@
+# Project information
+site_name: Dominio Publico
+site_author: Grupo 4
+site_description: >-
+  Documentação para do projeto de avaliação de interface do site Dominio Publico realizado na disciplina de Interação Humano Computador na Universidade de Brasília
+
+
+# Repository
+repo_url: https://github.com/Interacao-Humano-Computador/2023.2-Grupo04
+repo_name: Dominio Publico
+
+
+# Configuration
+docs_dir: docs
+theme: 
+  name: material
+  language: pt-BR
+  icon: 
+   repo: fontawesome/brands/github
+  font: 
+    text: Roboto
+  features:
+  - navigation.instant
+  - navigation.section
+  - navigation.path
+  - navigation.top
+  - tabs
+
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Mudar para o modo escuro
+      primary: deep purple
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/brightness-4
+        name: Mudar para o modo claro
+      primary: deep purple
+      accent: purple
+
+
+# Page tree
+nav: 
+  - Início: index.md
+
+
+# Extensions
+markdown_extensions:
+  - pymdownx.emoji
+  - pymdownx.tasklist
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
