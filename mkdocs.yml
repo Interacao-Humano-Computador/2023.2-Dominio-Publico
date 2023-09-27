@@ -44,6 +44,13 @@ theme:
 # Page tree
 nav: 
   - Início: index.md
+  - Planejamento do projeto:
+      - Cronograma: planejamento/cronograma.md
+      - Ferramentas: planejamento/ferramentas.md
+      - Metodologia: planejamento/metodologia.md
+      - Sites avaliados: planejamento/sites_avaliados.md
+      - Site escolhido: planejamento/site_escolhido.md
+      - Processo design: planejamento/processo_de_design.md
 
 
 # Extensions
