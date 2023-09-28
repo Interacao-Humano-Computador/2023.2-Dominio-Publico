@@ -65,6 +65,7 @@ A documentação do projeto está disponivel nesse [link](https://interacao-huma
 **Para desenvolver a documentação:**
 
 ### Requisitos
+
 - Python
 - pip
 

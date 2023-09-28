@@ -61,6 +61,6 @@ para o chat GPT formar a tabela em HTML -->
 
 ## Histórico de versões
 
-| Versão | Data | Descrição | Autor(es) |
-| ------ | ---- | --------- | --------- |
+| Versão | Data  | Descrição | Autor(es) |
+| ------ | :---: | --------- | --------- |
 
