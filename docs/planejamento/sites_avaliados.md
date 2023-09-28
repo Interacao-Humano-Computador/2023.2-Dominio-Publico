@@ -45,3 +45,9 @@
  - introdução do site
  - motivos de escolha 
  - resultados
+
+ ## Histórico de Versões
+
+| Versão | Data       | Descrição                         | Autor(es)                                       | Revisor(es) |
+| ------ | ---------- | --------------------------------- | ----------------------------------------------- | ----------- |
+| 1.0    | 28/09/2023 | Estrutura da documentação         | [Victor Hugo](https://github.com/ViictorHugoo)  | Todos       |
