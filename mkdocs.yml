@@ -55,7 +55,6 @@ nav:
       - Site escolhido: planejamento/site_escolhido.md
       - Processo design: planejamento/processo_de_design.md
 
-
 # Extensions
 markdown_extensions:
   - pymdownx.emoji
