@@ -31,4 +31,4 @@ _Fonte: Autores._
 | Versão | Data       | Descrição                         | Autor(es)                                       | Revisor(es) |
 | ------ | ---------- | --------------------------------- | ----------------------------------------------- | ----------- |
 | 1.0    | 27/09/2023 | Criação da página de cronograma   | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)|
-| 1.1    | 28/09/2023 | Remoção de descrição              | [Victor Hugo](https://github.com/ViictorHugoo)  | [Maria Alice](https://github.com/Maliz30)     |
+| 1.1    | 28/09/2023 | Remoção de descrição              | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo)     |
