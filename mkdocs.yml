@@ -24,7 +24,7 @@ theme:
   - navigation.section
   - navigation.path
   - navigation.top
-  - tabs
+  - navigation.tabs
 
   palette:
     - scheme: default

@@ -66,4 +66,4 @@ _Fonte: Autores._
 | Versão | Data       | Descrição                         | Autor(es)                                       | Revisor(es) |
 | ------ | ---------- | --------------------------------- | ----------------------------------------------- | ----------- |
 | 1.0    | 27/09/2023 | Criação da página de ferramentas. | [Gustavo França](https://github.com/gustavofbs) | Todos       |
-|        |
+| 1.1    | 28/09/2023 | Mudança em referenciamento        | [Victor Hugo](https://github.com/ViictorHugoo)  | Todos       |
