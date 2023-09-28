@@ -44,6 +44,9 @@ theme:
 # Page tree
 nav: 
   - Início: index.md
+  - Atas:
+      - atas/Ata_25-09-2023.md
+      - atas/Ata_27-09-2023.md
   - Planejamento do projeto:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
