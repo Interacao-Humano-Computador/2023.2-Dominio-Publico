@@ -15,23 +15,33 @@
 - Planning: dia, horário
 - Review: dia, horário
 - Retrospective: dia, horário
-Falar sobre o scrum (criar subtópicos para explicar os ritos)
 
 ## Quadros Kanban
     Falar sobre Kanban
 
 ## Politica de Issues 
-<p style="text-align: justify;">&emsp;Quando abrir um issue:</p>
-&emsp;&emsp;Identificação de Bugs ou defeitos<br>
-&emsp;&emsp;Solicitação de Melhorias<br>
-&emsp;&emsp;Tarefas ou Atividades<br>
-&emsp;&emsp;Discussões e Decisões<br>
-<p style="text-align: justify;">&emsp;Como participar de uma issue:</p>
-&emsp;&emsp;Comunique ao criador da issue o desejo de participação<br>
 
+##### Quando abrir um issue?
+- Identificação de Bugs ou defeitos
+- Solicitação de Melhorias
+- Tarefas ou Atividades
+- Discussões e Decisões
+
+##### Como participar de uma issue?
+- Comunique ao criador da issue o desejo de participação
 
 ## Politica de Commit
-    Descrever politicas de commit
-<p style="text-align: justify;">&emsp;&emsp;</p>
 
-## Reuniões
+<p style="text-align: justify;">
+&emsp;&emsp; Ao realizar um commit, os membros devem se certificar de estar com o código atualizado, funcionando, na branch correta e seguir o seguinte padrão de commit:
+</p>
+- `docs` - para commits onde foram realizadas alterações na documentação 
+- `fix` - para commits que realizam a correção de problemas
+- `feat` - para a inclusão de novos arquivos
+- `del` - para a remoção de arquivos 
+
+<p style="text-align: justify;">
+&emsp;&emsp; Já para a realizar pull request, devem colocar um membro para realizar a revisão do conteúdo e acompanhar quais alterações ou comentários foram feitos pelo revisor. O revisor por sua vez deve verificar a possibilidade de conflitos, quais alterações foram realizadas e deixar um comentário sobre o que foi avaliado. 
+Vale destacar que a equipe realizará commits frequentes e pequenos, de forma a verificar o mais cedo possível a ocorrencia de conflitos e erros, além de facilitar a revisão de código.
+</p>
+
