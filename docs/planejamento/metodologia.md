@@ -21,7 +21,8 @@ Falar sobre o scrum (criar subtópicos para explicar os ritos)
     Falar sobre Kanban
 
 ## Politica de Issues 
-     
+<p style="text-align: justify;">&emsp;Quando abrir um issue:</p>
+&emsp;&emsp; <p>Identificação de Bugs ou defeitos<p>
 
 ## Politica de Commit
     Descrever politicas de commit
