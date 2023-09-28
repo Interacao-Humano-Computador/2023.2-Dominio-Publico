@@ -2,31 +2,83 @@
 <h3 align="center"> 2023.2 </h3>
 
 ## 💡 Sobre
-Projeto criado por estudantes da disciplina Interação Humano Computador, Engenharia de Software, UnB.
 
+O Portal Domínio Público foi reconstruído por estudantes da disciplina Interação Humano Computador, Engenharia de Software (UnB) com o intuito de garantir uma melhor experiência ao usuário.
+
+## 👥 Membros da equipe
+
+
+<center>
+
+<div style="display: flex; flex-direction: row; gap: 15px; flex-wrap: wrap; justify-content: center;" >
+    <div>
+        <a href="https://github.com/an4catarina">
+                <img style="border-radius: 50%;"         src="https://github.com/an4catarina.png" width="100px;"/>
+                <h5 class="text-center">Ana Catarina</h5>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/gustavofbs">
+                <img style="border-radius: 50%;"         src="https://github.com/gustavofbs.png" width="100px;"/>
+                <h5 class="text-center">Gustavo França</h5>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/harry-cmartin">
+                <img style="border-radius: 50%;"         src="https://github.com/harry-cmartin.png" width="100px;"/>
+                <h5 class="text-center">Harryson Martins</h5>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/l-ricardo">
+                <img style="border-radius: 50%;"         src="https://github.com/l-ricardo.png" width="100px;"/>
+                <h5 class="text-center">Luciano Ricardo</h5>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/Maliz30">
+                <img style="border-radius: 50%;"         src="https://github.com/Maliz30.png" width="100px;"/>
+                <h5 class="text-center">Maria Alice</h5>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/pedro-hsf">
+                <img style="border-radius: 50%;"         src="https://github.com/pedro-hsf.png" width="100px;"/>
+                <h5 class="text-center">Pedro Henrique</h5>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/ViictorHugoo">
+                <img style="border-radius: 50%;"         src="https://github.com/ViictorHugoo.png" width="100px;"/>
+                <h5 class="text-center">Victor Hugo</h5>
+        </a>
+    </div>
+</div>
+    
+</center>
 
 ## 📒 Documentação
 A documentação do projeto está disponivel nesse [link](https://interacao-humano-computador.github.io/2023.2-Grupo04/).
-
-## 👥 Colaboradores
-
-| Matrícula | Nome                                        | Nick no GitHub |                                                       📸                                                        |
-| :-------: | ------------------------------------------- | -------------- | :------------------------------------------------------------------------------------------------------------: |
-| 211041099 | ANA CATARINA LOPES E VASCONCELOS DOS SANTOS | an4catarina    |  [<img src="https://avatars.githubusercontent.com/u/89619442?v=4" width=50>](https://github.com/an4catarina)   |
-| 211030774 | GUSTAVO FRANÇA BOA SORTE                    | gustavofbs     |   [<img src="https://avatars.githubusercontent.com/u/61592832?v=4" width=50>](https://github.com/gustavofbs)   |
-| 211039466 | HARRYSON CAMPOS MARTINS                     | harry-cmartin  | [<img src="https://avatars.githubusercontent.com/u/129622482?v=4" width=50>](https://github.com/harry-cmartin) |
-| 221007653 | LUCIANO RICARDO DA SILVA JUNIOR             | l-ricardo      |   [<img src="https://avatars.githubusercontent.com/u/88405145?v=4" width=50>](https://github.com/l-ricardo)    |
-| 211063210 | MARIA ALICE BERNARDO DA COSTA SILVA         | Maliz30        |    [<img src="https://avatars.githubusercontent.com/u/105389239?v=4" width=50>](https://github.com/Maliz30)    |
-| 211063229 | PEDRO HENRIQUE DOS SANTOS FERREIRA          | pedro-hsf      |   [<img src="https://avatars.githubusercontent.com/u/97897684?v=4" width=50>](https://github.com/pedro-hsf )   |
-| 211063256 | VICTOR HUGO RODRIGUES GUIMARAES             | ViictorHugoo   |  [<img src="https://avatars.githubusercontent.com/u/99771740?v=4" width=50>](https://github.com/ViictorHugoo)  |
-
 
 ## ⚙️ Instruções para colaboradores
 
 **Para desenvolver a documentação:**
 
-1. Instale o python e o pip
-2. Instale o mkdocs-material com ```pip install mkdocs-material```
-3. Execute a documentação localmente com ```python -m mkdocs serve```
-4. **Obs:** As suas alterações só ficaram disponíveis na versão online após o PR para o branch *main* ser aceito
-5. **Importante:** Nunca mexa no branch *gh-pages*
+### Requisitos
+- Python
+- pip
+
+### Uso
+
+Para rodar localmente é preciso instalar algumas bibliotecas que serão listadas com os seguintes comandos:
+
+```terminal
+$ pip install mkdocs-material
+```
+```terminal
+$ python -m mkdocs serve
+```
+
+**Obs:** As suas alterações só ficaram disponíveis na versão online após o PR para a branch *main* ser aceito.
+
+**Importante:** Nunca mexa na branch *gh-pages*
