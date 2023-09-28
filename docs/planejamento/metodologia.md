@@ -17,7 +17,21 @@
 - Retrospective: dia, horário
 
 ## Quadros Kanban
-    Falar sobre Kanban
+&emsp;&emsp; Os quadros kanban são quadros de organização em formato de cartão, que permitem que a equipe tenha uma visualização clara do o fluxo de trabalho. Ele costuma ser dividir as tarefas de acordo com seu progresso, podendo se dividir em:
+
+- A fazer
+- Fazendo
+- A revisar
+- Em revisão
+- Finalizado
+
+&emsp;&emsp; Além disso, cada cartão possui as seguinte informações para descrever, organizar e priorizar as tarefas a serem realizadas:
+
+- Nome e descrição
+- Responsável
+- Revisor
+- Data inicial e final
+- Nível de prioridade 
 
 ## Politica de Issues 
 
@@ -44,4 +58,8 @@
 &emsp;&emsp; Já para a realizar pull request, devem colocar um membro para realizar a revisão do conteúdo e acompanhar quais alterações ou comentários foram feitos pelo revisor. O revisor por sua vez deve verificar a possibilidade de conflitos, quais alterações foram realizadas e deixar um comentário sobre o que foi avaliado. 
 Vale destacar que a equipe realizará commits frequentes e pequenos, de forma a verificar o mais cedo possível a ocorrencia de conflitos e erros, além de facilitar a revisão de código.
 </p>
+
+| Versão | Data       | Descrição         | Autor(es)                                       | Revisor(es) |
+| ------ | ---------- | ----------------- | ----------------------------------------------- | ----------- |
+| 1.0    | 28/09/2023 | Estrutura inicial | [Maria Alice](https://github.com/Maliz30) <br> [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano](https://github.com/l-ricardo)   |
 
