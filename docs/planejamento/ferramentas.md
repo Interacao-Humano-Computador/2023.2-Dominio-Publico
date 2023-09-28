@@ -1,4 +1,4 @@
- # Ferramentas
+# Ferramentas
 
 ## Introdução
 
@@ -9,20 +9,20 @@
 <center>
 
 
-| Ferramenta                | Descrição                                                                                                  |
-| ------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| Figma                     | Produção de artefatos gráficos. <a id="anchor_1" href="#FRM1">1</a>                                        |
-| GitHub                    | Organização, versionamento e documentação de artefatos produzidos no projeto. <a id="anchor_2" href="#FRM2">2</a> |
-| Google                    | Site para buscas de informações. <a id="anchor_3" href="#FRM3">3</a>                        |
-| Google Drive              | Compartilhamento de arquivos. <a id="anchor_4" href="#FRM4">4</a>                                      |
-| Google Docs               | Criação e editação de tabelas e arquivos. <a id="anchor_5" href="#FRM5">5</a>                               |
-| Google Planilhas          |  Criação de planilhas relacionadas a cronogramas e horários. <a id="anchor_6" href="#FRM6">6</a>           |
-| Microsoft Teams           | Realização de reuniões e gravações de apresentações. <a id="anchor_7" href="#FRM7">7</a>                  |
-| Miro                      |  Interação sobre o produto com os usuários. <a id="anchor_8" href="#FRM8">8</a>                             |
-| MkDocs                    | Criação de páginas de documentação. <a id="anchor_9" href="#FRM9">9</a>                                   |
-| Telegram                  | Canal de comunicação principal entre a equipe. <a id="anchor_10" href="#FRM10">10</a>                        |
-| Visual Studio Code        | IDE destinado ao desenvolvimento e edição dos arquivos de documentação. <a id="anchor_11" href="#FRM11">11</a>                                  |
-| YouTube                   | Plataforma de hospedagem de vídeos produzidos. <a id="anchor_12" href="#FRM12">12</a>                                      |
+| Ferramenta         | Descrição                                                                                                         |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| Figma              | Produção de artefatos gráficos. <a id="anchor_1" href="#FRM1">1</a>                                               |
+| GitHub             | Organização, versionamento e documentação de artefatos produzidos no projeto. <a id="anchor_2" href="#FRM2">2</a> |
+| Google             | Site para buscas de informações. <a id="anchor_3" href="#FRM3">3</a>                                              |
+| Google Drive       | Compartilhamento de arquivos. <a id="anchor_4" href="#FRM4">4</a>                                                 |
+| Google Docs        | Criação e editação de tabelas e arquivos. <a id="anchor_5" href="#FRM5">5</a>                                     |
+| Google Planilhas   | Criação de planilhas relacionadas a cronogramas e horários. <a id="anchor_6" href="#FRM6">6</a>                   |
+| Microsoft Teams    | Realização de reuniões e gravações de apresentações. <a id="anchor_7" href="#FRM7">7</a>                          |
+| Miro               | Interação sobre o produto com os usuários. <a id="anchor_8" href="#FRM8">8</a>                                    |
+| MkDocs             | Criação de páginas de documentação. <a id="anchor_9" href="#FRM9">9</a>                                           |
+| Telegram           | Canal de comunicação principal entre a equipe. <a id="anchor_10" href="#FRM10">10</a>                             |
+| Visual Studio Code | IDE destinado ao desenvolvimento e edição dos arquivos de documentação. <a id="anchor_11" href="#FRM11">11</a>    |
+| YouTube            | Plataforma de hospedagem de vídeos produzidos. <a id="anchor_12" href="#FRM12">12</a>                             |
 
 
 **Tabela 1** - Ferramentas utilizadas no projeto (Fonte: Autores).
@@ -62,8 +62,8 @@
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                 | Autor(es)                                                                                         | Revisor(es)                                    |
-| ------ | ---------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 27/09/2023 | Criação da página de ferramentas.        | Gustavo França | Todos                                         |
-| 1.1    | 28/09/2023 | Atualização do formato das ferramentas         | Gustavo França                                                                      | Victor Hugo               |
+| Versão | Data       | Descrição                              | Autor(es)      | Revisor(es) |
+| ------ | ---------- | -------------------------------------- | -------------- | ----------- |
+| 1.0    | 27/09/2023 | Criação da página de ferramentas       | Gustavo França | Todos       |
+| 1.1    | 28/09/2023 | Atualização do formato das ferramentas | Gustavo França | Victor Hugo |
 

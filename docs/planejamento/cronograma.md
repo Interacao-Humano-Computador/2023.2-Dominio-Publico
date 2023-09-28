@@ -6,8 +6,6 @@
 ## Cronograma de Atividades da Entrega 1
 <center>
 
-**Tabela 1** - Cronograma de Atividades da Entrega 1
-
 | Atividade                 | Periodo de Desenvolvimento | Responsável  | Periodo de Revisão | Revisores   | Descrição                                                                                                                                                                   |
 | ------------------------- | :------------------------: | ------------ | :----------------: | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Definir site              |         21/09/2023         | Todos        |     25/09/2023     | Todos       | Definir site que ultilizaremos, porque o usaremos. Quais sites foram opções e porque não foram escolhidos.                                                                  |
@@ -22,6 +20,13 @@
 | Edição da gravação        |         30/09/2023         | Ana Catarina |     01/09/2023     | Todos       | Editar a gravação e postar no gitpages.                                                                                                                                     |
 | Correção pós apresentação |         02/10/2023         | Todos        |     28/09/2023     | Todos       | Corrigir o que for pedido e orientado pelo professor.                                                                                                                       |
 
-_Fonte: Autores._
+**Tabela 1** - Cronograma de Atividades da Entrega 1 (Fonte: Autores).
 
 </center>
+
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição                       | Autor(es) | Revisor(es) |
+| ------ | ---------- | ------------------------------- | --------- | ----------- |
+| 1.0    | 27/09/2023 | Criação da página de cronograma | Ricardo   | Victor Hugo |
