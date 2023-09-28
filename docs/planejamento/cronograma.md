@@ -20,7 +20,7 @@
 | Documentar Equipe         |         29/09/2023         | Victor       |     29/09/2023     | Todos       |
 | Gravação da apresentação  |         29/09/2023         | Todos        |     29/09/2023     | Todos       |
 | Edição da gravação        |         30/09/2023         | Ana Catarina |     01/09/2023     | Todos       |
-| Correção pós apresentação |         02/10/2023         | Todos        |     28/09/2023     | Todos       |
+| Correção pós apresentação |         02/10/2023         | Todos        |     02/10/2023     | Todos       |
 
 _Fonte: Autores._
 
