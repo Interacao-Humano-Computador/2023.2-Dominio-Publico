@@ -9,9 +9,9 @@
 ## Quadros Kanban
     Falar sobre Kanban
 
-## Issues 
-    Falar sobre o issues do github 
+## Politica de Issues 
+     
 
-## Politica de commit
+## Politica de Commit
     Descrever politicas de commit
 <p style="text-align: justify;">&emsp;&emsp;</p>
