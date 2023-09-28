@@ -11,7 +11,7 @@
     &emsp;&emsp; O Scrum pode ser adaptado de acordo com a necessidade da equipe, mas sempre focando na comunicação clara e transparência. No desenvolvimento deste projeto o grupo realizou algumas adaptações no Scrum, para que ele se adequasse melhor às necessidades encontradas. Desta forma, optamos por não ter Product Owner e Scrum Master, distribuindo as tarefas de forma horizontal e fazendo com que todos os membros sejam igualmente importantes para a realização do projeto. Nossas <b>sprints</b> serão de xx dias, realizaremos <b>dailys</b> assíncronas por mensagens em horários em que todos os membros estão disponíveis e as outras cerimônias como planejamento (planning), análise(review) e retrospectiva(retrospective) em reuniões.
 </p>
 
-- Daily: Diariamente via telegram xx h
+- Daily: Diariamente via telegram xxh
 - Planning: dia, horário
 - Review: dia, horário
 - Retrospective: dia, horário
@@ -22,8 +22,16 @@ Falar sobre o scrum (criar subtópicos para explicar os ritos)
 
 ## Politica de Issues 
 <p style="text-align: justify;">&emsp;Quando abrir um issue:</p>
-&emsp;&emsp; <p>Identificação de Bugs ou defeitos<p>
+&emsp;&emsp;Identificação de Bugs ou defeitos<br>
+&emsp;&emsp;Solicitação de Melhorias<br>
+&emsp;&emsp;Tarefas ou Atividades<br>
+&emsp;&emsp;Discussões e Decisões<br>
+<p style="text-align: justify;">&emsp;Como participar de uma issue:</p>
+&emsp;&emsp;Comunique ao criador da issue o desejo de participação<br>
+
 
 ## Politica de Commit
     Descrever politicas de commit
 <p style="text-align: justify;">&emsp;&emsp;</p>
+
+## Reuniões
