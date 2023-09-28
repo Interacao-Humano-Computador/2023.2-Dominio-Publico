@@ -24,7 +24,7 @@ theme:
   - navigation.section
   - navigation.path
   - navigation.top
-  - tabs
+  - navigation.tabs
 
   palette:
     - scheme: default
@@ -45,8 +45,8 @@ theme:
 nav: 
   - Início: index.md
   - Atas:
-      - atas/Ata_25-09-2023.md
-      - atas/Ata_27-09-2023.md
+      - Ata 1: atas/Ata_25-09-2023.md
+      - Ata 2: atas/Ata_27-09-2023.md
   - Planejamento do projeto:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
@@ -54,7 +54,6 @@ nav:
       - Sites avaliados: planejamento/sites_avaliados.md
       - Site escolhido: planejamento/site_escolhido.md
       - Processo design: planejamento/processo_de_design.md
-
 
 # Extensions
 markdown_extensions:
