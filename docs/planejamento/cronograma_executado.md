@@ -18,7 +18,7 @@
 | Edição da gravação        |                                        | Ana Catarina |                                        | Victor      |
 | Correção pós apresentação |                                        | Ricardo      |                                        | Pedro       |
 
-**Tabela 1** - Cronograma de Atividades da Entrega 1 - Planejamento do Projeto (Fonte: Autores).
+**Tabela 1** - Cronograma de Atividades da Entrega 1 - Planejamento do Projeto.
 
 </center>
 

@@ -25,7 +25,7 @@
 | YouTube            | Plataforma de hospedagem de vídeos produzidos. <a id="anchor_12" href="#FRM12">12</a>                             |
 
 
-**Tabela 1** - Ferramentas utilizadas no projeto (Fonte: Autores).
+**Tabela 1** - Ferramentas utilizadas no projeto.
 
 </center>
 

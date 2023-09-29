@@ -22,7 +22,7 @@
 | Edição da gravação        | Início: 30/09 <br>Fim: 25/09 | Ana Catarina | Início: 29/09 <br>Fim: 01/10 | Victor      |
 | Correção pós apresentação | Início: 03/10 <br>Fim: 03/10 | Ricardo      | Início: 03/10 <br>Fim: 03/10 | Pedro       |
 
-**Tabela 1** - Cronograma de Atividades da Entrega 1 - Planejamento do Projeto (Fonte: Autores).
+**Tabela 1** - Cronograma de Atividades da Entrega 1 - Planejamento do Projeto.
 
 </center>
 
@@ -44,7 +44,7 @@
 | Edição da gravação                            | Inicio: 14/10/2023 <br>Fim: 14/10/2023 | Ana Catarina | Inicio: 14/10/2023 <br>Fim: 14/10/2023 |             |
 | Correção pós apresentação                     | Inicio: 17/10/2023 <br>Fim: 17/10/2023 |              | Inicio: 17/10/2023 <br>Fim: 17/10/2023 |             |
 
-**Tabela 2** - Cronograma de Atividades da Entrega 2 - Perfil do usuário (Fonte: Autores).
+**Tabela 2** - Cronograma de Atividades da Entrega 2 - Perfil do usuário.
 
 </center>
 
@@ -64,7 +64,7 @@
 | Edição da gravação           | Inicio: 22/10/2023 <br>Fim: 23/10/2023| Ana Catarina | Inicio: 23/10/2023 <br>Fim: 23/10/2023|           |
 | Correção pós apresentação    | Inicio: 24/10/2023 <br>Fim: 24/10/2023|              | Inicio: 25/10/2023 <br>Fim: 26/10/2023|           |
 
-**Tabela 3** - Cronograma de Atividades da Entrega 3 - Princípios gerais (Fonte: Autores).
+**Tabela 3** - Cronograma de Atividades da Entrega 3 - Princípios gerais.
 
 </center>
 
@@ -86,7 +86,7 @@
 | Edição da gravação                                               | Inicio: 30/10/2023 <br>Fim: 30/10/2023| Ana Catarina | Inicio: 30/10/2023 <br>Fim: 30/10/2023|           |
 | Correção pós apresentação                                        | Inicio: 31/10/2023 <br>Fim: 31/10/2023|              | Inicio: 31/10/2023 <br>Fim: 31/10/2023|           |
 
-**Tabela 4** - Cronograma de Atividades da Entrega 4 (Fonte: Autores).
+**Tabela 4** - Cronograma de Atividades da Entrega 4.
 
 </center>
 
@@ -106,7 +106,7 @@
 | Edição da gravação                                                      | Inicio: 08/11/2023 <br>Fim: 08/11/2023| Ana Catarina | Inicio: 08/11/2023 <br>Fim: 08/11/2023|           |
 | Correção pós apresentação                                               | Inicio: 09/11/2023 <br>Fim: 09/11/2023|              | Inicio: 09/11/2023 <br>Fim: 09/11/2023|           |
 
-**Tabela 5** - Cronograma de Atividades da Entrega 5 (Fonte: Autores).
+**Tabela 5** - Cronograma de Atividades da Entrega 5.
 
 </center>
 
@@ -134,7 +134,7 @@
 | Edição da gravação                     | Inicio: 15/11/2023 <br>Fim: 15/11/2023| Ana Catarina | Inicio: 15/11/2023 <br>Fim: 15/11/2023|           |
 | Correção pós apresentação              | Inicio: 16/11/2023 <br>Fim: 16/11/2023|              | Inicio: 16/11/2023 <br>Fim: 16/11/2023|           |
 
-**Tabela 6** - Cronograma de Atividades da Entrega 6.1 (Fonte: Autores).
+**Tabela 6** - Cronograma de Atividades da Entrega 6.1.
 
 </center>
 
@@ -149,7 +149,7 @@
 | Verificação e Relato artefatos etapa 4, 5 e 6 | Inicio: 24/11/2023 <br>Fim: 26/11/2023 |              | Inicio: 28/11/2023 <br>Fim: 29/11/2023 |           |
 | Execução do protótipo de alta fidelidade      | Inicio: 24/11/2023 <br>Fim: 29/11/2023 |              | Inicio: 28/11/2023 <br>Fim: 28/11/2023 |           |
 
-**Tabela 7** - Cronograma de Atividades da Entrega 6.2 (Fonte: Autores).
+**Tabela 7** - Cronograma de Atividades da Entrega 6.2.
 
 </center>
 
@@ -170,7 +170,7 @@
 | Edição da gravação                                                                 | Inicio: 22/11/2023 <br>Fim: 22/11/2023| Ana Catarina | Inicio: 22/11/2023 <br>Fim: 22/11/2023|           |
 | Correção pós apresentação                                                          | Inicio: 23/11/2023 <br>Fim: 23/11/2023|              | Inicio: 23/11/2023 <br>Fim: 23/11/2023|           |
 
-**Tabela 8** - Cronograma de Atividades da Entrega 7 (Fonte: Autores).
+**Tabela 8** - Cronograma de Atividades da Entrega 7.
 
 </center>
 
@@ -196,7 +196,7 @@
 | Edição da gravação                                                 | Inicio: 27/11/2023 <br>Fim: 27/11/2023| Ana Catarina | Inicio: 27/11/2023 <br>Fim: 27/11/2023|           |
 | Correção pós apresentação                                          | Inicio: 28/11/2023 <br>Fim: 28/11/2023|              | Inicio: 28/11/2023 <br>Fim: 28/11/2023|           |
 
-**Tabela 9** - Cronograma de Atividades da Entrega 8 (Fonte: Autores).
+**Tabela 9** - Cronograma de Atividades da Entrega 8.
 
 </center>
 
@@ -218,7 +218,7 @@
 | Edição da gravação                                       | Inicio: 06/12/2023 <br>Fim: 06/12/2023| Ana Catarina | Inicio: 06/12/2023 <br>Fim: 06/12/2023|           |
 
 
-**Tabela 10** - Cronograma de Atividades da Entrega Final (Fonte: Autores).
+**Tabela 10** - Cronograma de Atividades da Entrega Final.
 
 </center>
 
