@@ -6,8 +6,6 @@
 ## Cronograma de Atividades da Entrega 1
 <center>
 
-**Tabela 1** - Cronograma de Atividades da Entrega 1
-
 | Atividade                 | Periodo de Desenvolvimento | Responsável  | Periodo de Revisão | Revisores   |
 | ------------------------- | :------------------------: | ------------ | :----------------: | ----------- |
 | Definir site              |         21/09/2023         | Todos        |     25/09/2023     | Todos       |
@@ -22,13 +20,13 @@
 | Edição da gravação        |         30/09/2023         | Ana Catarina |     01/09/2023     | Todos       |
 | Correção pós apresentação |         02/10/2023         | Todos        |     02/10/2023     | Todos       |
 
-_Fonte: Autores._
+**Tabela 1** - Cronograma de Atividades da Entrega 1 (Fonte: Autores).
 
 </center>
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                         | Autor(es)                                       | Revisor(es) |
-| ------ | ---------- | --------------------------------- | ----------------------------------------------- | ----------- |
-| 1.0    | 27/09/2023 | Criação da página de cronograma   | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)|
-| 1.1    | 28/09/2023 | Remoção de descrição              | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo)     |
+| Versão |    Data    | Descrição                       | Autor(es)                                       | Revisor(es)                                     |
+| ------ | :--------: | ------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 27/09/2023 | Criação da página de cronograma | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.1    | 28/09/2023 | Remoção de descrição            | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |

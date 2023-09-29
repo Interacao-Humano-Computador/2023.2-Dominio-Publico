@@ -6,7 +6,7 @@ Projeto criado por estudantes da disciplina Interação Humano Computador, Engen
 
 
 ## 📒 Documentação
-A documentação do projeto está disponivel nesse [link](https://interacao-humano-computador.github.io/2023.2-Grupo04/).
+A documentação do projeto está disponivel nesse [link](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
 
 ## 👥 Colaboradores
 
