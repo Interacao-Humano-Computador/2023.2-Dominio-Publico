@@ -5,7 +5,7 @@
 
 
 
-## Entrega 1 - Planejamento do Projeto
+## Entrega 1
 <center>
 
 | Atividade                 | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores   |
@@ -22,13 +22,13 @@
 | Edição da gravação        | Início: 30/09 <br>Fim: 25/09 | Ana Catarina | Início: 29/09 <br>Fim: 01/10 | Todos       |
 | Correção pós apresentação | Início: 02/10 <br>Fim: 02/10 | Todos        | Início: 02/10 <br>Fim: 02/10 | Todos       |
 
-**Tabela 1** - Cronograma de Atividades da Entrega 1 (Fonte: Autores).
+**Tabela 1** - Cronograma de Atividades da Entrega 1 - Planejamento do Projeto (Fonte: Autores).
 
 </center>
 
 
 
-## Entrega 2 - Perfil do usuário
+## Entrega 2
 
 <center>
 
@@ -45,13 +45,13 @@
 | Edição da gravação                            | 3 dias                     | Ana Catarina | 1 dias             | Todos     |
 | Correção pós apresentação                     | 1 dias                     | Todos        | 3 dias             | Todos     |
 
-**Tabela 2** - Cronograma de Atividades da Entrega 2 (Fonte: Autores).
+**Tabela 2** - Cronograma de Atividades da Entrega 2 - Perfil do usuário (Fonte: Autores).
 
 </center>
 
 
 
-## Entrega 3 - Princípios gerais do projeto
+## Entrega 3 
 
 <center>
 
@@ -66,7 +66,7 @@
 | Edição da gravação           | 3 dias                     | Ana Catarina | 1 dias             | Todos     |
 | Correção pós apresentação    | 1 dias                     | Todos        | 3 dias             | Todos     |
 
-**Tabela 3** - Cronograma de Atividades da Entrega 3 (Fonte: Autores).
+**Tabela 3** - Cronograma de Atividades da Entrega 3 - Princípios gerais do projeto (Fonte: Autores).
 
 </center>
 
