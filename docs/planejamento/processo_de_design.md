@@ -83,6 +83,6 @@ são valiosas para aprimorar o sistema em futuras versões ou até mesmo identif
 
 |**Versão**| **Data**| **Autor(es)**|**Revisor(es)**|
 |:--------:|:---------:|:---------------:|:--------|
-|1.0|28/09|Harryson e Pedro H.| |
+|1.0|28/09|Harryson e Pedro H.| Gustavo e Catarina|
 
 <p style="text-align: justify;">&emsp;&emsp;</p>
