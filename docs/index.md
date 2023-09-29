@@ -58,13 +58,14 @@ O Portal Domínio Público foi reconstruído por estudantes da disciplina Intera
 </center>
 
 ## 📒 Documentação
-A documentação do projeto está disponivel nesse [link](https://interacao-humano-computador.github.io/2023.2-Grupo04/).
+A documentação do projeto está disponivel nesse [link](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
 
 ## ⚙️ Instruções para colaboradores
 
 **Para desenvolver a documentação:**
 
 ### Requisitos
+
 - Python
 - pip
 

@@ -36,12 +36,14 @@
 ## Politica de Issues 
 
 ##### Quando abrir um issue?
+
 - Identificação de Bugs ou defeitos
 - Solicitação de Melhorias
 - Tarefas ou Atividades
 - Discussões e Decisões
 
 ##### Como participar de uma issue?
+
 - Comunique ao criador da issue o desejo de participação
 
 ## Politica de Commit
@@ -49,6 +51,7 @@
 <p style="text-align: justify;">
 &emsp;&emsp; Ao realizar um commit, os membros devem se certificar de estar com o código atualizado, funcionando, na branch correta e seguir o seguinte padrão de commit:
 </p>
+
 - `docs` - para commits onde foram realizadas alterações na documentação 
 - `fix` - para commits que realizam a correção de problemas
 - `feat` - para a inclusão de novos arquivos
@@ -59,7 +62,7 @@
 Vale destacar que a equipe realizará commits frequentes e pequenos, de forma a verificar o mais cedo possível a ocorrencia de conflitos e erros, além de facilitar a revisão de código.
 </p>
 
-| Versão | Data       | Descrição         | Autor(es)                                       | Revisor(es) |
-| ------ | ---------- | ----------------- | ----------------------------------------------- | ----------- |
-| 1.0    | 28/09/2023 | Estrutura inicial | [Maria Alice](https://github.com/Maliz30) <br> [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano](https://github.com/l-ricardo)   |
+| Versão | Data       | Descrição         | Autor(es)                                                                                     | Revisor(es)                                     |
+| ------ | ---------- | ----------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 28/09/2023 | Estrutura inicial | [Maria Alice](https://github.com/Maliz30) <br> [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo) |
 
