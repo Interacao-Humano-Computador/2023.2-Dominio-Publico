@@ -69,7 +69,7 @@
 
 | Versão | Data       | Descrição                                                                    | Autor(es)                                       | Revisor(es)                                    |
 | ------ | ---------- | ---------------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 28/09/2023 | Estrutura da documentação                                                    | [Victor Hugo](https://github.com/ViictorHugoo)  | Todos                                          |
+| 1.0    | 28/09/2023 | Estrutura da documentação                                                    | [Victor Hugo](https://github.com/ViictorHugoo)  | [Maria Alice](https://github.com/Maliz30)      |
 | 1.1    | 28/09/2023 | Avaliação do [Portal da Legislação](http://www4.planalto.gov.br/legislacao/) | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.2    | 29/09/2023 | Avaliação do [Analãndia](https://www.analandia.sp.gov.br/)                   | [Harry](https://github.com/harry-cmartin)       | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.3   | 29/09/2023       | Avaliação do [Matias Olimpio](https://www.matiasolimpio.pi.gov.br/)                                                                    | [Gustavo França](https://github.com/gustavofbs)                                       |   [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo)                                  |

@@ -4,19 +4,19 @@
 ## Entrega 1
 <center>
 
-| Atividade                 | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores   |
-| ------------------------- | ---------------------------- | ------------ | ---------------------------- | ----------- |
-| Definir site              | Início: 21/09 <br>Fim: 25/09 | Todos        | Início: 25/09 <br>Fim: 25/09 | Todos       |
-| Escolher ferramentas      | Início: 21/09 <br>Fim: 21/09 | Todos        | Início: 25/09 <br>Fim: 25/09 | Todos       |
-| Elaborar cronograma       | Início: 25/09 <br>Fim:       | Victor       |                              | Todos       |
-| Criar do Gitpages         | Início: 25/09 <br>Fim: 25/09 | Ricardo      | Início: 26/09 <br>Fim: 26/09 | Maria Alice |
-| Planejamento              | Início: 26/09 <br>Fim: 25/09 | Maria Alice  | Início: 27/09 <br>Fim: 27/09 | Gustavo     |
-| Processo de Design        | Início: 26/09 <br>Fim: 22/04 | Pedro        | Início: 27/09 <br>Fim: 27/09 | Harry       |
-| Implementar Git Pages     | Início: 28/09 <br>Fim:       | Ana Catarina |                              | Pedro       |
-| Documentar Equipe         |                              | Victor       |                              | Todos       |
-| Gravar apresentação       |                              | Todos        |                              | Todos       |
-| Edição da gravação        |                              | Ana Catarina |                              | Todos       |
-| Correção pós apresentação |                              | Todos        |                              | Todos       |
+| Atividade                 | Período de desenvolvimento             | Responsáveis | Periodo de Revisão                     | Revisores   |
+| ------------------------- | -------------------------------------- | ------------ | -------------------------------------- | ----------- |
+| Definir site              | Início: 21/09/2023 <br>Fim: 21/09/2023 | Maria Alice  | Início: 25/09/2023 <br>Fim: 25/09/2023 | Victor      |
+| Escolher ferramentas      | Início: 21/09/2023 <br>Fim: 21/09/2023 | Harry        | Início: 25/09/2023 <br>Fim: 25/09/2023 | Ricardo     |
+| Elaborar cronograma       | Início: 25/09/2023 <br>Fim: 29/09/2023 | Victor       | Início: 29/09/2023 <br>Fim: xx/09/2023 | Ana Catarina|
+| Criar do Gitpages         | Início: 25/09/2023 <br>Fim: 25/09/2023 | Ricardo      | Início: 26/09/2023 <br>Fim: 26/09/2023 | Maria Alice |
+| Planejamento              | Início: 27/09/2023 <br>Fim: 28/09/2023 | Maria Alice  | Início: 27/09/2023 <br>Fim: 27/09/2023 | Gustavo     |
+| Processo de Design        | Início: 27/09/2023 <br>Fim: 28/09/2023 | Pedro        | Início: 27/09/2023 <br>Fim: 27/09/2023 | Harry       |
+| Implementar Git Pages     | Início: 28/09/2023 <br>Fim: xx/09/2023 | Ana Catarina |                                        | Pedro       |
+| Documentar Equipe         |                                        | Victor       |                                        | Maria Alice |
+| Gravar apresentação       |                                        | Gustavo      |                                        | Harry       |
+| Edição da gravação        |                                        | Ana Catarina |                                        | Victor      |
+| Correção pós apresentação |                                        | Ricardo      |                                        | Pedro       |
 
 **Tabela 1** - Cronograma de Atividades da Entrega 1 - Planejamento do Projeto (Fonte: Autores).
 
