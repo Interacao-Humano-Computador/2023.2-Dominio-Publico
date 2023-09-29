@@ -1,5 +1,5 @@
 # Project information
-site_name: Dominio Publico
+site_name: Dominio Público
 site_author: Grupo 4
 site_description: >-
   Documentação para do projeto de avaliação de interface do site Dominio Publico realizado na disciplina de Interação Humano Computador na Universidade de Brasília
@@ -7,7 +7,7 @@ site_description: >-
 
 # Repository
 repo_url: https://github.com/Interacao-Humano-Computador/2023.2-Dominio-Publico
-repo_name: Dominio Publico
+repo_name: 2023.2-dominio-publico
 
 
 # Configuration
@@ -15,6 +15,8 @@ docs_dir: docs
 theme: 
   name: material
   language: pt-BR
+  favicon: assets/logo.png
+  logo: assets/logo.png
   icon: 
    repo: fontawesome/brands/github
   font: 
@@ -25,20 +27,23 @@ theme:
   - navigation.path
   - navigation.top
   - navigation.tabs
+  - navigation.tabs.sticky
 
   palette:
     - scheme: default
       toggle:
         icon: material/brightness-7
         name: Mudar para o modo escuro
-      primary: deep purple
-      accent: purple 
+      # primary: deep purple
+      # accent: purple 
     - scheme: slate 
       toggle:
         icon: material/brightness-4
         name: Mudar para o modo claro
-      primary: deep purple
-      accent: purple
+      # primary: deep purple
+      # accent: purple
+
+extra_css: [stylesheets/extra.css]
 
 
 # Page tree
