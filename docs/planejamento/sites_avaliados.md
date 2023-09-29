@@ -42,12 +42,16 @@
 - motivos de escolha 
 - resultados
 
-## Nome do Site 
+## Prefeitura Matios Olímpio 
 
-- responsavel 
-- introdução do site
-- motivos de escolha 
-- resultados
+- Responsável: [Gustavo França Boa Sorte](https://github.com/gustavofbs)
+- Introdução do site: Site municipal da Prefeitura da cidade do Piauí, Matias Olímpio
+- Motivos de escolha: O site proposto decepciona em relação a sua função primária de fornecer informações para os seus usuários, percebendo que a maneira de como está sendo transmitida poderia ser muito mais eficaz. Momentos de pesquisa por um determinado conteúdo mostra-se prejudicial analisando o seu público.
+- Resultados: A partir das análises por meio da Avaliação Heurística, temos um destaque para: 
+   - Visibilidade do status do sistema: Severidade grave
+   - Consistência e padrões: Severidade grave
+   - Estética e design minimalista: Severidade grave
+   - Ajuda e documentação: Severidade catastrófico
 
 ## Prefeitura de Analândia  
 
@@ -68,3 +72,4 @@
 | 1.0    | 28/09/2023 | Estrutura da documentação                                                    | [Victor Hugo](https://github.com/ViictorHugoo)  | Todos                                          |
 | 1.1    | 28/09/2023 | Avaliação do [Portal da Legislação](http://www4.planalto.gov.br/legislacao/) | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.2    | 29/09/2023 | Avaliação do [Analãndia](https://www.analandia.sp.gov.br/)                   | [Harry](https://github.com/harry-cmartin)       | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.3   | 29/09/2023       | Avaliação do [Matias Olimpio](https://www.matiasolimpio.pi.gov.br/)                                                                    | [Gustavo França](https://github.com/gustavofbs)                                       |   [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo)                                  |
