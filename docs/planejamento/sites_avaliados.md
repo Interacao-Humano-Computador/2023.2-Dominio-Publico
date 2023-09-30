@@ -15,7 +15,7 @@
 
 **A avaliação na íntegra pode ser encontrada [aqui](/docs/assets/AvalicaoLegislativo.pdf).**
 
-## Nome do Site 
+## VIM
 
 - Responsável: [Victor Hugo](https://github.com/ViictorHugoo) 
 - Introdução: [Vim](https://www.vim.org) é um editor de texto para sitemas UNIX.
@@ -25,19 +25,25 @@
 - consistência e padronização: Severidade Simples
 - projeto estético e minimalista: Severidade Grave
 
-## Nome do Site 
+## NaHora
 
-- responsavel 
-- introdução do site
-- motivos de escolha 
-- resultados
+- Responsável: [Pedro Henrique](https://github.com/pedro-hsf)
+- Introdução do site: O [NaHora](https://www.nahora.df.gov.br/) reúne em um único local, representações de órgãos públicos federais e distritais, de forma articulada, para a prestação de serviços públicos aos cidadãos. 
+- Motivos de escolha: O site foi selecionado para avaliação pois sua estética poderia ser melhor, com uma estrutura mais clara dos componentes da página e com mais opções para os usuários interagirem de forma fluída.
+- Resultados: A avaliação heurística do site NaHora encontrou problemas principalmente no quesito estética e design, pois o site possui uma sobrecarga em sua tela inicial, com notícias e diversos links que levam para páginas fora de funcionamento, o site poderia ser mais interativo para que a experiência do usuário fosse mais pontual e eficaz.
 
-## Nome do Site 
+## Portal da NF-e – Secretaria da Fazenda
 
-- responsavel 
-- introdução do site
-- motivos de escolha 
-- resultados
+- Responsável: [Ana Catarina Santos](https://github.com/an4catarina)
+- Introdução do site: “Este portal tem como objetivo a divulgação de informações sobre a Nota Fiscal eletrônica, coordenada pelo ENCAT e desenvolvida em parceria com a Receita Federal do Brasil, tendo como finalidade a alteração da sistemática atual de emissão da nota fiscal em papel por nota fiscal eletrônica com validade jurídica para todos os fins.”
+- Motivos de escolha: O site foi selecionado para avaliação por conta do seu design antigo e sua usabilidade não tão intuitiva. Esses aspectos fundamentais podem impactar negativamente a experiência do usuário, tornando crucial a identificação de áreas de melhoria para garantir uma interação mais eficiente e satisfatória com a plataforma.
+- Resultados: A partir das análises por meio da Avaliação Heurística, tem-se:
+   -Visibilidade do Estado do Sistema
+   - Severidade: Simples
+   - Consistência e Padronização
+   - Severidade: Simples
+   - Projeto Estético e Minimalista
+   - Severidade: Médio
 
 ## Nome do Site 
 
