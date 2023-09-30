@@ -17,7 +17,6 @@ Na tabela 1, tem-se o cronograma executado para todas as atividades da primeira 
 | Planejamento              | Início: 27/09/2023 <br>Fim: 28/09/2023 | Maria Alice  | Início: 27/09/2023 <br>Fim: 27/09/2023 | Ricardo     |
 | Processo de Design        | Início: 27/09/2023 <br>Fim: 28/09/2023 | Pedro e Harryson| Início: 27/09/2023 <br>Fim: 27/09/2023 | Gustavo  |
 | Implementar Git Pages     | Início: 28/09/2023 <br>Fim: xx/09/2023 | Victor       |                                        | Ana Catarina|
-| Documentar Equipe         |                                        | Victor       |                                        | Maria Alice |
 | Gravar apresentação       |                                        | Gustavo      |                                        | Harry       |
 | Edição da gravação        |                                        | Ana Catarina |                                        | Victor      |
 | Correção pós apresentação |                                        | Ricardo      |                                        | Pedro       |
