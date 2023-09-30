@@ -1,5 +1,8 @@
 # Cronograma Executado
 
+## Introdução
+<p style="text-align: justify;">&emsp;&emsp;Seguindo o planejamento previamente feito, seguem os cronogramas de execução do projeto: </p>
+
 
 ## Entrega 1
 <center>
