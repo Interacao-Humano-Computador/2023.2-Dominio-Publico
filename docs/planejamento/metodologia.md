@@ -111,6 +111,6 @@ Vale destacar que a equipe realizará commits frequentes e pequenos, de forma a 
 
 | Versão | Data       | Descrição         | Autor(es)                                       | Revisor(es) |
 | ------ | ---------- | ----------------- | ----------------------------------------------- | ----------- |
-| 1.0    | 28/09/2023 | Estrutura inicial | [Maria Alice](https://github.com/Maliz30) <br> [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano](https://github.com/l-ricardo)   |
-| 1.1    | 29/09/2023 | Correções | [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano](https://github.com/l-ricardo)   |
-| 1.2    | 30/09/2023     | Atualiza metodologias adicionando imagem do scrum e novo tópico de heurísticas | [Gustavo França](https://github.com/gustavofbs) | [Luciano](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.0    | 28/09/2023 | Estrutura inicial | [Maria Alice](https://github.com/Maliz30) <br> [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo)   |
+| 1.1    | 29/09/2023 | Correções | [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo)   |
+| 1.2    | 30/09/2023     | Atualiza metodologias adicionando imagem do scrum e novo tópico de heurísticas | [Gustavo](https://github.com/gustavofbs) | [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |

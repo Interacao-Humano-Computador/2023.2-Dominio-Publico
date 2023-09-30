@@ -79,10 +79,8 @@ são valiosas para aprimorar o sistema em futuras versões ou até mesmo identif
 ## Referências Bibliográficas
 <p align = "justify" > 1.BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. </p>
 
-## Histórico de versão
-
-|**Versão**| **Data**| **Autor(es)**|**Revisor(es)**|
-|:--------:|:---------:|:---------------:|:--------|
-|1.0|28/09|Harryson e Pedro H.| Gustavo e Catarina|
+| Versão | Data       | Descrição         | Autor(es)                                       | Revisor(es) |
+| ------ | ---------- | ----------------- | ----------------------------------------------- | ----------- |
+| 1.0    | 28/09/2023 | Criação do Documento | [Harryson](https://github.com/harry-cmartin) <br> [Pedro](https://github.com/pedro-hsf) | [Gustavo](https://github.com/gustavofbs)   |
 
 <p style="text-align: justify;">&emsp;&emsp;</p>

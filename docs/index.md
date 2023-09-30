@@ -90,5 +90,5 @@ $ python -m mkdocs serve
 
 | Versão |    Data    | Descrição                              | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | -------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 26/09/2023 | Criação da página                      |[Luciano Ricardo](https://github.com/l-ricardo)  |[Victor Hugo](https://github.com/ViictorHugoo)                                  |
+| 1.0    | 26/09/2023 | Criação da página                      |[Luciano Ricardo](https://github.com/l-ricardo)  |[Maria Alice](https://github.com/Maliz30)       |
 | 1.1    | 28/09/2023 |Atualização da distribuição de informação| [Gustavo França](https://github.com/gustavofbs)| [Victor Hugo](https://github.com/ViictorHugoo) |
