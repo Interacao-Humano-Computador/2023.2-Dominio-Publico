@@ -21,7 +21,7 @@ modelos estudados e colocados em pauta na decisão de escolha para utilização 
 
 <p align = "justify"> &emsp;&emsp;No modelo em questão o design tem total liberdade para escolher qual a primeira atividade a
 ser feita, porém sempre após terminar uma atividade o designer deve fazer uma avaliação,
-trazendo constantes feedbacks relacionados a última etapa realizada no ciclo, como podemos ver no diagrama abaixo:</p>
+trazendo constantes feedbacks relacionados a última etapa realizada no ciclo, como podemos ver na Figura 1:</p>
 
 ![Ciclo em estrela](../assets/processo-design/Ciclo_em_estrela.png)
 <div align="center" style = "text-align: center">
@@ -61,7 +61,7 @@ desenvolvimento, a interface é avaliada com a participação dos usuários. </p
 <p align = "justify"> &emsp;&emsp;Na fase de instalação, é crucial coletar feedback dos usuários após algum tempo de uso. Essas opiniões
 são valiosas para aprimorar o sistema em futuras versões ou até mesmo identificar a demanda pornovos sistemas interativos que ainda não foram considerados.</p>
 
-
+<p align = "justify"> &emsp;&emsp;Podemos verificar tais atividade na Figura 2: </p>
 
 
 
@@ -79,10 +79,8 @@ são valiosas para aprimorar o sistema em futuras versões ou até mesmo identif
 ## Referências Bibliográficas
 <p align = "justify" > 1.BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. </p>
 
-## Histórico de versão
-
-|**Versão**| **Data**| **Autor(es)**|**Revisor(es)**|
-|:--------:|:---------:|:---------------:|:--------|
-|1.0|28/09|Harryson e Pedro H.| Gustavo e Catarina|
+| Versão | Data       | Descrição         | Autor(es)                                       | Revisor(es) |
+| ------ | ---------- | ----------------- | ----------------------------------------------- | ----------- |
+| 1.0    | 28/09/2023 | Criação do Documento | [Harryson](https://github.com/harry-cmartin) <br> [Pedro](https://github.com/pedro-hsf) | [Gustavo](https://github.com/gustavofbs)   |
 
 <p style="text-align: justify;">&emsp;&emsp;</p>

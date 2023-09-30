@@ -60,16 +60,16 @@ O Portal Domínio Público foi reconstruído por estudantes da disciplina Intera
 ## 📒 Documentação
 A documentação do projeto está disponivel nesse [link](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
 
-## ⚙️ Instruções para colaboradores
+## Instruções para colaboradores
 
 **Para desenvolver a documentação:**
 
-### Requisitos
+**Requisitos:**
 
 - Python
 - pip
 
-### Uso
+**Uso:**
 
 Para rodar localmente é preciso instalar algumas bibliotecas que serão listadas com os seguintes comandos:
 
@@ -83,3 +83,12 @@ $ python -m mkdocs serve
 **Obs:** As suas alterações só ficaram disponíveis na versão online após o PR para a branch *main* ser aceito.
 
 **Importante:** Nunca mexa na branch *gh-pages*
+
+
+
+## Histórico de Versões
+
+| Versão |    Data    | Descrição                              | Autor(es)                                       | Revisor(es)                                    |
+| ------ | :--------: | -------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 26/09/2023 | Criação da página                      |[Luciano Ricardo](https://github.com/l-ricardo)  |[Maria Alice](https://github.com/Maliz30)       |
+| 1.1    | 28/09/2023 |Atualização da distribuição de informação| [Gustavo França](https://github.com/gustavofbs)| [Victor Hugo](https://github.com/ViictorHugoo) |

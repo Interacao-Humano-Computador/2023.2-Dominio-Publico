@@ -64,6 +64,6 @@
 
 | Versão |    Data    | Descrição                              | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | -------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 27/09/2023 | Criação da página de ferramentas       | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.1    | 28/09/2023 | Atualização do formato das ferramentas | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.0    | 27/09/2023 | Criação da página de ferramentas       | [Gustavo](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.1    | 28/09/2023 | Atualização do formato das ferramentas | [Gustavo](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
 
