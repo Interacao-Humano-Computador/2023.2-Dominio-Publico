@@ -2,7 +2,8 @@
 
 ## Introdução
 
-<p style="text-align: justify;">&emsp;&emsp;</p> Com base nas heuristicas de <a href="##">Nielsen</a> a equipe realizou, individualmente, analises em sites candidatos para a realização do projeto. Sendo eles: 
+ <p style="text-align: justify;">&emsp;&emsp;Com base nas heuristicas de <a href="##">Nielsen</a> a equipe realizou, individualmente, analises em sites candidatos para a realização do projeto. Sendo eles:
+ </p>
 
 
 ## Portal da Legislação
@@ -49,9 +50,9 @@
 - Motivos de escolha: O site proposto decepciona em relação a sua função primária de fornecer informações para os seus usuários, percebendo que a maneira de como está sendo transmitida poderia ser muito mais eficaz. Momentos de pesquisa por um determinado conteúdo mostra-se prejudicial analisando o seu público.
 - Resultados: A partir das análises por meio da Avaliação Heurística, temos um destaque para: 
    - Visibilidade do status do sistema: Severidade grave
-   - Consistência e padrões: Severidade grave
-   - Estética e design minimalista: Severidade grave
-   - Ajuda e documentação: Severidade catastrófico
+   - Consistência e padrões: Severidade simples
+   - Estética e design minimalista: Severidade catastrófico
+   - Ajuda e documentação: Severidade grave
 
 ## Prefeitura de Analândia  
 
