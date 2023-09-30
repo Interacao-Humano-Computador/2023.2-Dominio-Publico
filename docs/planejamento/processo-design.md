@@ -23,7 +23,7 @@ modelos estudados e colocados em pauta na decisão de escolha para utilização 
 ser feita, porém sempre após terminar uma atividade o designer deve fazer uma avaliação,
 trazendo constantes feedbacks relacionados a última etapa realizada no ciclo, como podemos ver no diagrama abaixo:</p>
 
-![Ciclo em estrela](../assets/ferramentas/Ciclo_em_estrela.png)
+![Ciclo em estrela](../assets/processo-design/Ciclo_em_estrela.png)
 <div align="center" style = "text-align: center">
 <p>Figura 1: Ciclo em estrela.</p>
 </div>
@@ -65,7 +65,7 @@ são valiosas para aprimorar o sistema em futuras versões ou até mesmo identif
 
 
 
-![Ciclo de mayhew](../assets/ferramentas/Ciclo_de_mayhew.png)
+![Ciclo de mayhew](../assets/processo-design/Ciclo_de_mayhew.png)
 <div align="center" style = "text-align: center">
 <p>Figura 2: Ciclo de Mayhew.</p>
 </div>

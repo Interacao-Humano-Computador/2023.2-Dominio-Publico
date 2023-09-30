@@ -59,7 +59,7 @@ nav:
       - Metodologia: planejamento/metodologia.md
       - Sites avaliados: planejamento/sites_avaliados.md
       - Site escolhido: planejamento/site_escolhido.md
-      - Processo design: planejamento/processo_de_design.md
+      - Processo de Design: planejamento/processo-design.md
 
 # Extensions
 markdown_extensions:
