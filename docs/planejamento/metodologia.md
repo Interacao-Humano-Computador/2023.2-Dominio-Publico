@@ -8,12 +8,12 @@
     &emsp;&emsp; O Scrum é uma estrutura ágil de gestão de projetos amplamente utilizada. Ele é realizado em ciclos, denominados sprints, onde ocorrem reuniões de <b>planejamento</b>, para definir o que será realizado no ciclo, <b>análise</b>, para validar os produtos desenvolvidos, e <b> retrospectiva</b>, visando avaliar aspectos positivos e negativos que ocorreram ao longo da sprint. Além disso, ele é estruturado para que as equipes possam se adaptar as mudanças que ocorrem ao longo da execução de um projeto, permitindo a repriorização e mudanças de requisitos.
 </p>
 <p style="text-align: justify;">
-    &emsp;&emsp; O Scrum pode ser adaptado de acordo com a necessidade da equipe, mas sempre focando na comunicação clara e transparência. No desenvolvimento deste projeto o grupo realizou algumas adaptações no Scrum, para que ele se adequasse melhor às necessidades encontradas. Desta forma, optamos por não ter Product Owner(Dono do Produto) e Scrum Master(Mestre Scrum), distribuindo as tarefas de forma horizontal e fazendo com que todos os membros sejam igualmente importantes para a realização do projeto. Nossas <b>sprints</b>(Ciclos) serão de 07 dias, realizaremos <b>dailys</b>(Reuniões diárias) assíncronas por mensagens em horários em que todos os membros estão disponíveis e as outras cerimônias como planejamento (planning), análise (review) e retrospectiva (retrospective) em reuniões.
+    &emsp;&emsp; O Scrum pode ser adaptado de acordo com a necessidade da equipe, mas sempre focando na comunicação clara e transparência. No desenvolvimento deste projeto o grupo realizou algumas adaptações no Scrum, para que ele se adequasse melhor às necessidades encontradas. Desta forma, optamos por não ter Product Owner(Dono do Produto) e Scrum Master(Mestre Scrum), distribuindo as tarefas de forma horizontal e fazendo com que todos os membros sejam igualmente importantes para a realização do projeto. Nossas <b>sprints</b>(Ciclos) serão de 07 dias, realizaremos <b>dailys</b>(Reuniões diárias) assíncronas por mensagens em horários em que todos os membros estão disponíveis e as outras cerimônias como planejamento (planning), análise (review) e retrospectiva (retrospective) em reuniões conforme ilustrado na Figura 1:.
 </p>
 
 <center>
 
-![Heuristicas](../assets/metodologia/scrum.png)
+![Scrum](../assets/metodologia/scrum.png)
 Figura 1: Metodologia Scrum (Fonte: [GS1 Brasil](https://noticias.gs1br.org/scrum-veja-como-usar-abordagem-nos-negocios/), 2021)
 
 </center>
