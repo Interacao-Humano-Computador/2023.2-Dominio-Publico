@@ -1,9 +1,11 @@
 # Sites Avaliados
 
+
+
 ## Introdução
 
- <p style="text-align: justify;">&emsp;&emsp;Com base nas heuristicas de <a href="##">Nielsen</a> a equipe realizou, individualmente, analises em sites candidatos para a realização do projeto. Sendo eles:
- </p>
+<p>Com base nas heuristicas de <a href="##">Nielsen</a> a equipe realizou, individualmente, analises em sites candidatos para a realização do projeto. Sendo eles:</p>
+
 
 
 ## Portal da Legislação
@@ -13,7 +15,8 @@
 - Motivos de escolha: A importância do portal bem como o fato de seus problemas de usabilidade serem facilmente percepitíveis até mesmo ao usuario comum.
 - Resultados: A avaliação heurística do Portal da Legislação identificou diversos problemas principalmente no que se diz respeito á apropriação da interface pelos usuários e a conformidade com os padrões de interface dos demais sites sob o domínio gov.br.
 
-**[Avaliação Completa](docs/assets/avaliacoes/AvalicaoLegislativo.pdf).**
+**[Avaliação Completa](../assets/avaliacoes/AvalicaoLegislativo.pdf).**
+
 
 
 ## Vim
@@ -22,9 +25,10 @@
 - Introdução: [Vim](https://www.vim.org) é um editor de texto para sitemas UNIX.
 - Motivos de escolha: Os sistemas UNIX estão cada vez mais conquistando mais usuários, pelo fato de o Vim ser o principal editor de texto presente em tal sistema se faz necessária a avaliação de navegabilidade para novos usuário, assim como, a constatação da capacidade de aprendizado (learnability) presente no _website_.
 - Resultados:  A partir das análises por meio da Avaliação Heurística, tem-se:
-    - visibilidade do estado do sistema: Severidade Simples
-    - consistência e padronização: Severidade Simples
-    - projeto estético e minimalista: Severidade Grave
+    - Visibilidade do estado do sistema: Severidade simples
+    - Consistência e padronização: Severidade simples
+    - Projeto estético e minimalista: Severidade grave
+
 
 
 ## NaHora
@@ -42,15 +46,12 @@
 ## Portal da NF-e – Secretaria da Fazenda
 
 - Responsável: [Ana Catarina Santos](https://github.com/an4catarina)
-- Introdução do site: “Este portal tem como objetivo a divulgação de informações sobre a Nota Fiscal eletrônica, coordenada pelo ENCAT e desenvolvida em parceria com a Receita Federal do Brasil, tendo como finalidade a alteração da sistemática atual de emissão da nota fiscal em papel por nota fiscal eletrônica com validade jurídica para todos os fins.”
+- Introdução: “Este portal tem como objetivo a divulgação de informações sobre a Nota Fiscal eletrônica, coordenada pelo ENCAT e desenvolvida em parceria com a Receita Federal do Brasil, tendo como finalidade a alteração da sistemática atual de emissão da nota fiscal em papel por nota fiscal eletrônica com validade jurídica para todos os fins.”
 - Motivos de escolha: O site foi selecionado para avaliação por conta do seu design antigo e sua usabilidade não tão intuitiva. Esses aspectos fundamentais podem impactar negativamente a experiência do usuário, tornando crucial a identificação de áreas de melhoria para garantir uma interação mais eficiente e satisfatória com a plataforma.
 - Resultados: A partir das análises por meio da Avaliação Heurística, tem-se:
-   -Visibilidade do Estado do Sistema
-   - Severidade: Simples
-   - Consistência e Padronização
-   - Severidade: Simples
-   - Projeto Estético e Minimalista
-   - Severidade: Médio
+    - Visibilidade do Estado do Sistema: Severidade simples
+    - Consistência e Padronização: Severidade simples
+    - Projeto Estético e Minimalista: Severidade médio
 
 
 
@@ -60,26 +61,28 @@
 - Introdução: O site [Domínio Público](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp) é um site do governo que armazena obras literárias, artistas e científicas que possuem direitos autorais cedidos ao público e estão livres para consumo sem custos. Nele podem ser encontradas imagens, vídeos, sons e textos.
 - Motivos de escolha: O site foi escolhido devido ao seu importante papel na preservação de de obras e materiais científicos importantes para o patrimônio nacional. Além disso, o site tem o intuito de proporcionar de forma simplificada o acesso e download de obras nacionais e de grande importância cultural, incentivando a leitura e promovendo a cultura.
 - Resultados: Por meio da avaliação heurística, foi possível constatar que o site possui alguns problemas de construção. Dentre eles é possível citar:
-    - visibilidade e estado do sistema: Severidade grande
-    - consistência e padronização: Severidade pequena
-    - flexibilidade e eficiência de uso: Severidade grande
-    - projeto estético e minimalista: Severidade catastófica
-    - ajuda aos usuários no reconhecimento, diagnostico e recuperação de erros: Severidade grande
+    - Visibilidade e estado do sistema: Severidade grande
+    - Consistência e padronização: Severidade pequena
+    - Flexibilidade e eficiência de uso: Severidade grande
+    - Projeto estético e minimalista: Severidade catastófica
+    - Ajuda aos usuários no reconhecimento, diagnostico e recuperação de erros: Severidade grande
 
+**[Avaliação Completa](../assets/avaliacoes/DominioPublico.pdf).**
 
-**[Avaliação Completa](docs/assets/avaliacoes/DominioPublico).**
 
 
 ## Prefeitura Matios Olímpio 
 
 - Responsável: [Gustavo França Boa Sorte](https://github.com/gustavofbs)
-- Introdução do site: Site municipal da Prefeitura da cidade do Piauí, Matias Olímpio
+- Introdução do site: Site municipal da Prefeitura da cidade do Piauí, [Matias Olimpio](https://www.matiasolimpio.pi.gov.br/)
 - Motivos de escolha: O site proposto decepciona em relação a sua função primária de fornecer informações para os seus usuários, percebendo que a maneira de como está sendo transmitida poderia ser muito mais eficaz. Momentos de pesquisa por um determinado conteúdo mostra-se prejudicial analisando o seu público.
 - Resultados: A partir das análises por meio da Avaliação Heurística, temos um destaque para: 
     - Visibilidade do status do sistema: Severidade grave
     - Consistência e padrões: Severidade simples
     - Estética e design minimalista: Severidade catastrófico
     - Ajuda e documentação: Severidade grave
+
+
 
 ## Prefeitura de Analândia  
 
@@ -93,7 +96,9 @@
     - Estética e design minimalista: Severidade simples
     - Flexibildade e eficiência de uso: Severidade catastrófico
 
-## Histórico de Versões
+
+
+## Histórico de versões
 
 | Versão | Data       | Descrição                                                                    | Autor(es)                                       | Revisor(es)                                    |
 | ------ | ---------- | ---------------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
@@ -104,3 +109,4 @@
 | 1.4    | 30/09/2023 | Avaliação do [Vim](https://www.vim.org)                                      | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo)|
 | 1.5    | 30/09/2023 | Avaliação do [NaHora](https://www.nahora.df.gov.br/) e do [Portal da NF-e](https://www.nfe.fazenda.gov.br/portal/principal.aspx)                                     | [Pedro Henrique](https://github.com/pedro-hsf)  | [Victor Hugo](https://github.com/ViictorHugoo)|
 | 1.6    | 01/10/2023 | Avaliação do [Dominio Publico](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)                                      | [Maria Alice](https://github.com/Maliz30)  | [Ana Catarina](https://github.com/an4catarina)|
+
