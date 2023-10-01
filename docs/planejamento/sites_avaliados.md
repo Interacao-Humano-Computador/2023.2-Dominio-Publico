@@ -13,7 +13,7 @@
 - Motivos de escolha: A importância do portal bem como o fato de seus problemas de usabilidade serem facilmente percepitíveis até mesmo ao usuario comum.
 - Resultados: A avaliação heurística do Portal da Legislação identificou diversos problemas principalmente no que se diz respeito á apropriação da interface pelos usuários e a conformidade com os padrões de interface dos demais sites sob o domínio gov.br.
 
-**A avaliação na íntegra pode ser encontrada [aqui](docs/assets/avaliacoes/AvalicaoLegislativo.pdf).**
+**[Avaliação Completa](docs/assets/avaliacoes/AvalicaoLegislativo.pdf).**
 
 ## Vim
 
@@ -38,7 +38,7 @@
     - ajuda aos usuários no reconhecimento, diagnostico e recuperação de erros: Severidade grande
 
 
-**A avaliação completa pode ser encontrada [aqui](docs/assets/avaliacoes/DominioPublico).**
+**[Avaliação Completa](docs/assets/avaliacoes/DominioPublico).**
 
 ## Nome do Site 
 
@@ -86,4 +86,4 @@
 | 1.2    | 29/09/2023 | Avaliação do [Analãndia](https://www.analandia.sp.gov.br/)                   | [Harryson](https://github.com/harry-cmartin)    | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.3    | 29/09/2023 | Avaliação do [Matias Olimpio](https://www.matiasolimpio.pi.gov.br/)          | [Gustavo](https://github.com/gustavofbs)        | [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo)|
 | 1.4    | 30/09/2023 | Avaliação do [Vim](https://www.vim.org)                                      | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo)|
-| 1.5    | 01/09/2023 | Avaliação do [Dominio Publico](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)                                      | [Maria Alice](https://github.com/Maliz30)  | [Ana Catarina](https://github.com/an4catarina)|
+| 1.5    | 01/10/2023 | Avaliação do [Dominio Publico](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)                                      | [Maria Alice](https://github.com/Maliz30)  | [Ana Catarina](https://github.com/an4catarina)|
