@@ -29,7 +29,7 @@
 
 - Responsável: [Maria Alice](https://github.com/Maliz30)
 - Introdução: O site [Domínio Público](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp) é um site do governo que armazena obras literárias, artistas e científicas que possuem direitos autorais cedidos ao público e estão livres para consumo sem custos. Nele podem ser encontradas imagens, vídeos, sons e textos.
-- Motivos de escolha: O site foi escolhido devido ao seu importante papel na preservação de propriedades intelectuais. Além disso, o site tem o intuito de proporcionar de forma simplificada o acesso e download de obras nacionais e de grande importância cultural, incentivando a leitura, promovendo a cultura e preservando o patrimônio nacional.
+- Motivos de escolha: O site foi escolhido devido ao seu importante papel na preservação de de obras e materiais científicos importantes para o patrimônio nacional. Além disso, o site tem o intuito de proporcionar de forma simplificada o acesso e download de obras nacionais e de grande importância cultural, incentivando a leitura e promovendo a cultura.
 - Resultados: Por meio da avaliação heurística, foi possível constatar que o site possui alguns problemas de construção. Dentre eles é possível citar:
     - visibilidade e estado do sistema: Severidade grande
     - consistência e padronização: Severidade pequena
