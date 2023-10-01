@@ -34,9 +34,12 @@
 ## NaHora
 
 - Responsável: [Pedro Henrique](https://github.com/pedro-hsf)
-- Introdução: O [NaHora](https://www.nahora.df.gov.br/) reúne em um único local, representações de órgãos públicos federais e distritais, de forma articulada, para a prestação de serviços públicos aos cidadãos. 
-- Motivos de escolha: O site foi selecionado para avaliação pois sua estética poderia ser melhor, com uma estrutura mais clara dos componentes da página e com mais opções para os usuários interagirem de forma fluída.
-- Resultados: A avaliação heurística do site NaHora encontrou problemas principalmente no quesito estética e design, pois o site possui uma sobrecarga em sua tela inicial, com notícias e diversos links que levam para páginas fora de funcionamento, o site poderia ser mais interativo para que a experiência do usuário fosse mais pontual e eficaz.
+- Introdução do site: O [NaHora](https://www.nahora.df.gov.br/) reúne em um único local, representações de órgãos públicos federais e distritais, de forma articulada, para a prestação de serviços públicos aos cidadãos. 
+- Motivos de escolha: O site foi selecionado para avaliação pois sua estética poderia ser mais bem trabalhada, com uma estrutura mais clara dos componentes da página, fazendo com que o site fosse mais interativo, com isso, a experiência do usuário poderia ser mais pontual e eficaz.
+- Resultados: A partir das análises por meio da Avaliação Heurística, tem-se:
+    - Visibilidade do estado do sistema: Severidade simples
+    - Consistência e padronização: Severidade simples
+    - Projeto estético e minimalista: Severidade média
 
 
 
@@ -97,11 +100,13 @@
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição                                                                                      | Autor(es)                                       | Revisor(es)                                                                                      |
-| ------ | ---------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 1.0    | 28/09/2023 | Estrutura da documentação                                                                      | [Victor Hugo](https://github.com/ViictorHugoo)  | [Maria Alice](https://github.com/Maliz30)                                                        |
-| 1.1    | 28/09/2023 | Avaliação do [Portal da Legislação](http://www4.planalto.gov.br/legislacao/)                   | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)                                                   |
-| 1.2    | 29/09/2023 | Avaliação do [Analãndia](https://www.analandia.sp.gov.br/)                                     | [Harryson](https://github.com/harry-cmartin)    | [Victor Hugo](https://github.com/ViictorHugoo)                                                   |
-| 1.3    | 29/09/2023 | Avaliação do [Matias Olimpio](https://www.matiasolimpio.pi.gov.br/)                            | [Gustavo](https://github.com/gustavofbs)        | [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.4    | 30/09/2023 | Avaliação do [Vim](https://www.vim.org)                                                        | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo)                                                  |
-| 1.5    | 01/10/2023 | Avaliação do [Dominio Publico](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp) | [Maria Alice](https://github.com/Maliz30)       | [Ana Catarina](https://github.com/an4catarina)                                                   |
+| Versão | Data       | Descrição                                                                    | Autor(es)                                       | Revisor(es)                                    |
+| ------ | ---------- | ---------------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 28/09/2023 | Estrutura da documentação                                                    | [Victor Hugo](https://github.com/ViictorHugoo)  | [Maria Alice](https://github.com/Maliz30)      |
+| 1.1    | 28/09/2023 | Avaliação do [Portal da Legislação](http://www4.planalto.gov.br/legislacao/) | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.2    | 29/09/2023 | Avaliação do [Analãndia](https://www.analandia.sp.gov.br/)                   | [Harryson](https://github.com/harry-cmartin)    | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.3    | 29/09/2023 | Avaliação do [Matias Olimpio](https://www.matiasolimpio.pi.gov.br/)          | [Gustavo](https://github.com/gustavofbs)        | [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo)|
+| 1.4    | 30/09/2023 | Avaliação do [Vim](https://www.vim.org)                                      | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo)|
+| 1.5    | 30/09/2023 | Avaliação do [NaHora](https://www.nahora.df.gov.br/) e do [Portal da NF-e](https://www.nfe.fazenda.gov.br/portal/principal.aspx)                                     | [Pedro Henrique](https://github.com/pedro-hsf)  | [Victor Hugo](https://github.com/ViictorHugoo)|
+| 1.6    | 01/10/2023 | Avaliação do [Dominio Publico](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)                                      | [Maria Alice](https://github.com/Maliz30)  | [Ana Catarina](https://github.com/an4catarina)|
+
