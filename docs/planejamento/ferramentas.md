@@ -1,13 +1,16 @@
 # Ferramentas
 
+
+
 ## Introdução
 
-<p style="text-align: justify;">&emsp;&emsp;No decorrer deste projeto, adotamos um conjunto estratégico de ferramentas para otimizar a organização da equipe, facilitar o gerenciamento e impulsionar a produção dos artefatos necessários. A Tabela 1 apresenta as ferramentas selecionadas:</p>
+<p>No decorrer deste projeto, adotamos um conjunto estratégico de ferramentas para otimizar a organização da equipe, facilitar o gerenciamento e impulsionar a produção dos artefatos necessários. A Tabela 1 apresenta as ferramentas selecionadas:</p>
+
+
 
 ## Ferramentas a serem utilizadas
 
 <center>
-
 
 | Ferramenta         | Descrição                                                                                                         |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------- |
@@ -24,12 +27,13 @@
 | Visual Studio Code | IDE destinado ao desenvolvimento e edição dos arquivos de documentação. <a id="anchor_11" href="#FRM11">11</a>    |
 | YouTube            | Plataforma de hospedagem de vídeos produzidos. <a id="anchor_12" href="#FRM12">12</a>                             |
 
-
 **Tabela 1** - Ferramentas utilizadas no projeto.
 
 </center>
 
-## Bibliografia
+
+
+## Referências 
 
 > <a id="FRM3" href="#anchor_1">1.</a> Figma. Disponível em: [https://www.figma.com/](). Acesso em: 27 de set. de 2023.
 >
@@ -54,16 +58,13 @@
 > <a id="FRM5" href="#anchor 11">11.</a> Visual Studio Code. Disponível em: [https://code.visualstudio.com/](). Acesso em: 27 de set. de 2023.
 >
 > <a id="FRM7" href="#anchor_12">12.</a> YouTube. Disponível em: [https://www.youtube.com/](). Acesso em: 27 de set. de 2023.
->
 
 
 
+## Histórico de versões
 
-
-## Histórico de Versões
-
-| Versão |    Data    | Descrição                              | Autor(es)                                       | Revisor(es)                                    |
-| ------ | :--------: | -------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| Versão |    Data    | Descrição                              | Autor(es)                                | Revisor(es)                                    |
+| ------ | :--------: | -------------------------------------- | ---------------------------------------- | ---------------------------------------------- |
 | 1.0    | 27/09/2023 | Criação da página de ferramentas       | [Gustavo](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.1    | 28/09/2023 | Atualização do formato das ferramentas | [Gustavo](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
 
