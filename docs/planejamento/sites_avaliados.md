@@ -13,7 +13,9 @@
 - Responsável: [Luciano Ricardo da Silva Júnior](https://github.com/l-ricardo)
 - Introdução: Foi avaliado o [Portal da Legislação](http://www4.planalto.gov.br/legislacao/) para ser avaliado, se trata de um local onde é disponibilizado para a população todas as leis, atos e decretos do país.
 - Motivos de escolha: A importância do portal bem como o fato de seus problemas de usabilidade serem facilmente percepitíveis até mesmo ao usuario comum.
-- Resultados: A avaliação heurística do Portal da Legislação identificou diversos problemas principalmente no que se diz respeito á apropriação da interface pelos usuários e a conformidade com os padrões de interface dos demais sites sob o domínio gov.br.
+- Resultados: A avaliação heurística do Portal da Legislação identificou diversos problemas principalmente no que se diz respeito á apropriação da interface pelos usuários e a conformidade com os padrões de interface dos demais sites sob o domínio gov.br. Sendo eles:
+    - Projeto estético e minimalista: Severidades pequena e catastófica
+    - Consistência e padronização: Severidades grande e catastófica
 
 **[Avaliação Completa](../assets/avaliacoes/AvalicaoLegislativo.pdf).**
 
@@ -34,7 +36,7 @@
 ## NaHora
 
 - Responsável: [Pedro Henrique](https://github.com/pedro-hsf)
-- Introdução do site: O [NaHora](https://www.nahora.df.gov.br/) reúne em um único local, representações de órgãos públicos federais e distritais, de forma articulada, para a prestação de serviços públicos aos cidadãos. 
+- Introdução: O [NaHora](https://www.nahora.df.gov.br/) reúne em um único local, representações de órgãos públicos federais e distritais, de forma articulada, para a prestação de serviços públicos aos cidadãos. 
 - Motivos de escolha: O site foi selecionado para avaliação pois sua estética poderia ser mais bem trabalhada, com uma estrutura mais clara dos componentes da página, fazendo com que o site fosse mais interativo, com isso, a experiência do usuário poderia ser mais pontual e eficaz.
 - Resultados: A partir das análises por meio da Avaliação Heurística, tem-se:
     - Visibilidade do estado do sistema: Severidade simples
@@ -49,9 +51,9 @@
 - Introdução: “Este portal tem como objetivo a divulgação de informações sobre a Nota Fiscal eletrônica, coordenada pelo ENCAT e desenvolvida em parceria com a Receita Federal do Brasil, tendo como finalidade a alteração da sistemática atual de emissão da nota fiscal em papel por nota fiscal eletrônica com validade jurídica para todos os fins.”
 - Motivos de escolha: O site foi selecionado para avaliação por conta do seu design antigo e sua usabilidade não tão intuitiva. Esses aspectos fundamentais podem impactar negativamente a experiência do usuário, tornando crucial a identificação de áreas de melhoria para garantir uma interação mais eficiente e satisfatória com a plataforma.
 - Resultados: A partir das análises por meio da Avaliação Heurística, tem-se:
-    - Visibilidade do Estado do Sistema: Severidade simples
-    - Consistência e Padronização: Severidade simples
-    - Projeto Estético e Minimalista: Severidade médio
+    - Visibilidade do estado do sistema: Severidade simples
+    - Consistência e padronização: Severidade simples
+    - Projeto estético e minimalista: Severidade médio
 
 
 
@@ -100,13 +102,12 @@
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição                                                                    | Autor(es)                                       | Revisor(es)                                    |
-| ------ | ---------- | ---------------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 28/09/2023 | Estrutura da documentação                                                    | [Victor Hugo](https://github.com/ViictorHugoo)  | [Maria Alice](https://github.com/Maliz30)      |
-| 1.1    | 28/09/2023 | Avaliação do [Portal da Legislação](http://www4.planalto.gov.br/legislacao/) | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.2    | 29/09/2023 | Avaliação do [Analãndia](https://www.analandia.sp.gov.br/)                   | [Harryson](https://github.com/harry-cmartin)    | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.3    | 29/09/2023 | Avaliação do [Matias Olimpio](https://www.matiasolimpio.pi.gov.br/)          | [Gustavo](https://github.com/gustavofbs)        | [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo)|
-| 1.4    | 30/09/2023 | Avaliação do [Vim](https://www.vim.org)                                      | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo)|
-| 1.5    | 30/09/2023 | Avaliação do [NaHora](https://www.nahora.df.gov.br/) e do [Portal da NF-e](https://www.nfe.fazenda.gov.br/portal/principal.aspx)                                     | [Pedro Henrique](https://github.com/pedro-hsf)  | [Victor Hugo](https://github.com/ViictorHugoo)|
-| 1.6    | 01/10/2023 | Avaliação do [Dominio Publico](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)                                      | [Maria Alice](https://github.com/Maliz30)  | [Ana Catarina](https://github.com/an4catarina)|
-
+| Versão | Data       | Descrição                                                                                                                        | Autor(es)                                       | Revisor(es)                                                                                      |
+| ------ | ---------- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 1.0    | 28/09/2023 | Estrutura da documentação                                                                                                        | [Victor Hugo](https://github.com/ViictorHugoo)  | [Maria Alice](https://github.com/Maliz30)                                                        |
+| 1.1    | 28/09/2023 | Avaliação do [Portal da Legislação](http://www4.planalto.gov.br/legislacao/)                                                     | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)                                                   |
+| 1.2    | 29/09/2023 | Avaliação do [Analãndia](https://www.analandia.sp.gov.br/)                                                                       | [Harryson](https://github.com/harry-cmartin)    | [Victor Hugo](https://github.com/ViictorHugoo)                                                   |
+| 1.3    | 29/09/2023 | Avaliação do [Matias Olimpio](https://www.matiasolimpio.pi.gov.br/)                                                              | [Gustavo](https://github.com/gustavofbs)        | [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.4    | 30/09/2023 | Avaliação do [Vim](https://www.vim.org)                                                                                          | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo)                                                  |
+| 1.5    | 30/09/2023 | Avaliação do [NaHora](https://www.nahora.df.gov.br/) e do [Portal da NF-e](https://www.nfe.fazenda.gov.br/portal/principal.aspx) | [Pedro Henrique](https://github.com/pedro-hsf)  | [Victor Hugo](https://github.com/ViictorHugoo)                                                   |
+| 1.6    | 01/10/2023 | Avaliação do [Dominio Publico](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)                                   | [Maria Alice](https://github.com/Maliz30)       | [Ana Catarina](https://github.com/an4catarina)                                                   |
