@@ -3,14 +3,10 @@
 ## Introdução
 
 
-<p style="text-align: justify;">&emsp;&emsp;
-Na primeira fase do projeto, os membros do Grupo 4 selecionaram sites cuja prioridade eram do governo ou às comunidades de software livre. Como parte desse processo, cada aluno fez uma breve avaliação e criou um artefato de avaliação inicial relacionado à sua escolha. Com base nessas escolhas, houve discussões para determinar qual desses sites seria mais adequado para ser trabalhado durante a disciplina.
-</p>
+<p>Na primeira fase do projeto, os membros do Grupo 4 selecionaram sites cuja prioridade eram do governo ou às comunidades de software livre. Como parte desse processo, cada aluno fez uma breve avaliação e criou um artefato de avaliação inicial relacionado à sua escolha. Com base nessas escolhas, houve discussões para determinar qual desses sites seria mais adequado para ser trabalhado durante a disciplina.</p>
 
 ## Critérios para escolha
-<p style="text-align: justify;">&emsp;&emsp;
-Ao realizar a votação, a equipe atentou-se aos seguintes critérios:
-</p>
+<p>Ao realizar a votação, a equipe atentou-se aos seguintes critérios:</p>
 
 - Site ainda não trabalhado na disciplina de Interação Humano Computador.
 - Aplicativo relacionado ao governo ou a uma comunidade de software livre.
@@ -18,14 +14,10 @@ Ao realizar a votação, a equipe atentou-se aos seguintes critérios:
 - Adequação do site aos interesses da disciplina.
 
 ## Motivação de escolha entre os sites avaliados
-<p style="text-align: justify;">&emsp;&emsp;
-Através de uma votação realizada entre a equipe, foi possível perceber que o Domínio Público era a opção mais adequada para o projeto, devido aos problemas graves que foram encontrados durante a experiência do usuário. Além disso, o Grupo 04 valoriza a sua importância para o desenvolvimento da educação e da cultura, o que influenciou positivamente a escolha.
-</p>
+<p>Através de uma votação realizada entre a equipe, foi possível perceber que o Domínio Público era a opção mais adequada para o projeto, devido aos problemas graves que foram encontrados durante a experiência do usuário. Além disso, o Grupo 04 valoriza a sua importância para o desenvolvimento da educação e da cultura, o que influenciou positivamente a escolha.</p>
 
 ## Problemas Identificados
-<p style="text-align: justify;">&emsp;&emsp;
-Adotando as Heurísticas de Nilsen (Nilsen, 1993), identificamos os principais desafios que não estão alinhados com as diretrizes propostas por Nilsen, que são os seguintes:
-</p>
+<p>Adotando as Heurísticas de Nilsen (Nilsen, 1993), identificamos os principais desafios que não estão alinhados com as diretrizes propostas por Nilsen, que são os seguintes:</p>
 
 - Visibilidade do status do sistema: Em várias ocasiões, o site não forneceu feedback visual claro sobre o que estava acontecendo ou a razão por trás de determinados resultados.
 
@@ -51,4 +43,4 @@ Adotando as Heurísticas de Nilsen (Nilsen, 1993), identificamos os principais d
 | Versão | Data       | Descrição                    | Autor(es)                            | Revisor(es)                          |
 | ------ | ---------- | ---------------------------- | ------------------------------------ | ------------------------------------ |
 | 1.0    | 01/10/2023 | Estrutura do Site escolhido  | [Maria Alice](https://github.com/Maliz30) | [Ana Catarina](https://github.com/an4catarina) |
-| 1.1    | 01/10/2023       | Descreve tópicos      | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarin
+| 1.1    | 01/10/2023       | Descreve tópicos      | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina)
