@@ -46,9 +46,9 @@ Adotando as Heurísticas de Nilsen (Nilsen, 1993), identificamos os principais d
 > Ministério da Educação. Domínio Público. Disponível em: http://www.dominiopublico.gov.br/. Acesso em: 01 de out. de 2023.
 >
 
-## Histórico de Versão
+## Histórico de versões
 
 | Versão | Data       | Descrição                    | Autor(es)                            | Revisor(es)                          |
 | ------ | ---------- | ---------------------------- | ------------------------------------ | ------------------------------------ |
 | 1.0    | 01/10/2023 | Estrutura do Site escolhido  | [Maria Alice](https://github.com/Maliz30) | [Ana Catarina](https://github.com/an4catarina) |
-| 1.1    | 01/10/2023       | Descreve tópicos      | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina) |
+| 1.1    | 01/10/2023       | Descreve tópicos      | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarin

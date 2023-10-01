@@ -1,9 +1,16 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
+
 <h1 align="center"> Dominio Publico </h1>
 <h3 align="center"> 2023.2 </h3>
 
 ## 💡 Sobre
 
-O Portal Domínio Público foi reconstruído por estudantes da disciplina Interação Humano Computador, Engenharia de Software (UnB) com o intuito de garantir uma melhor experiência ao usuário.
+<p>O Portal Domínio Público foi reconstruído por estudantes da disciplina Interação Humano Computador, Engenharia de Software (UnB) com o intuito de garantir uma melhor experiência ao usuário.</p>
 
 ## 👥 Membros da equipe
 
@@ -88,7 +95,7 @@ $ python -m mkdocs serve
 
 ## Histórico de Versões
 
-| Versão |    Data    | Descrição                              | Autor(es)                                       | Revisor(es)                                    |
-| ------ | :--------: | -------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 26/09/2023 | Criação da página                      |[Luciano Ricardo](https://github.com/l-ricardo)  |[Maria Alice](https://github.com/Maliz30)       |
-| 1.1    | 28/09/2023 |Atualização da distribuição de informação| [Gustavo França](https://github.com/gustavofbs)| [Victor Hugo](https://github.com/ViictorHugoo) |
+| Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
+| ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 26/09/2023 | Criação da página                         | [Luciano Ricardo](https://github.com/l-ricardo) | [Maria Alice](https://github.com/Maliz30)      |
+| 1.1    | 28/09/2023 | Atualização da distribuição de informação | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
