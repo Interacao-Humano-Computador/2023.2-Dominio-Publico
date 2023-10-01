@@ -30,6 +30,7 @@ Através de uma votação realizada entre a equipe, foi possível perceber que o
 Adotando as Heurísticas de Nilsen (Nilsen, 1993), identificamos os principais desafios que não estão alinhados com as diretrizes propostas por Nilsen, que são os seguintes:
 </p>
 
+
 - Visibilidade do status do sistema: Em várias ocasiões, o site não forneceu feedback visual claro sobre o que estava acontecendo ou a razão por trás de determinados resultados.
 
 - Controle e liberdade do usuário: Ao clicar para visualizar um conteúdo multimídia, o usuário é redirecionado para uma nova aba, o que impede o retorno à visualização anterior por meio dos métodos convencionais.
@@ -50,7 +51,9 @@ Adotando as Heurísticas de Nilsen (Nilsen, 1993), identificamos os principais d
 
 ## Histórico de versões
 
+
 | Versão | Data       | Descrição                   | Autor(es)                                       | Revisor(es)                                    |
 | ------ | ---------- | --------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 01/10/2023 | Estrutura do Site escolhido | [Maria Alice](https://github.com/Maliz30)       | [Ana Catarina](https://github.com/an4catarina) |
 | 1.1    | 01/10/2023 | Descreve tópicos            | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina) |
+
