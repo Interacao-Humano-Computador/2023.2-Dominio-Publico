@@ -13,24 +13,32 @@
 - Motivos de escolha: A importância do portal bem como o fato de seus problemas de usabilidade serem facilmente percepitíveis até mesmo ao usuario comum.
 - Resultados: A avaliação heurística do Portal da Legislação identificou diversos problemas principalmente no que se diz respeito á apropriação da interface pelos usuários e a conformidade com os padrões de interface dos demais sites sob o domínio gov.br.
 
-**A avaliação na íntegra pode ser encontrada [aqui](/docs/assets/AvalicaoLegislativo.pdf).**
+**A avaliação na íntegra pode ser encontrada [aqui](docs/assets/avaliacoes/AvalicaoLegislativo.pdf).**
 
-## Nome do Site 
+## Vim
 
 - Responsável: [Victor Hugo](https://github.com/ViictorHugoo) 
 - Introdução: [Vim](https://www.vim.org) é um editor de texto para sitemas UNIX.
 - Motivos de escolha: Os sistemas UNIX estão cada vez mais conquistando mais usuários, pelo fato de o Vim ser o principal editor de texto presente em tal sistema se faz necessária a avaliação de navegabilidade para novos usuário, assim como, a constatação da capacidade de aprendizado (learnability) presente no _website_.
 - Resultados:  A partir das análises por meio da Avaliação Heurística, tem-se:
-- visibilidade do estado do sistema: Severidade Simples
-- consistência e padronização: Severidade Simples
-- projeto estético e minimalista: Severidade Grave
+    - visibilidade do estado do sistema: Severidade Simples
+    - consistência e padronização: Severidade Simples
+    - projeto estético e minimalista: Severidade Grave
 
-## Nome do Site 
+## Domínio Público
 
-- responsavel 
-- introdução do site
-- motivos de escolha 
-- resultados
+- Responsável: [Maria Alice](https://github.com/Maliz30)
+- Introdução: O site [Domínio Público](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp) é um site do governo que armazena obras literárias, artistas e científicas que possuem direitos autorais cedidos ao público e estão livres para consumo sem custos. Nele podem ser encontradas imagens, vídeos, sons e textos.
+- Motivos de escolha: O site foi escolhido devido ao seu importante papel na preservação de propriedades intelectuais. Além disso, o site tem o intuito de proporcionar de forma simplificada o acesso e download de obras nacionais e de grande importância cultural, incentivando a leitura, promovendo a cultura e preservando o patrimônio nacional.
+- Resultados: Por meio da avaliação heurística, foi possível constatar que o site possui alguns problemas de construção. Dentre eles é possível citar:
+    - visibilidade e estado do sistema: Severidade grande
+    - consistência e padronização: Severidade pequena
+    - flexibilidade e eficiência de uso: Severidade grande
+    - projeto estético e minimalista: Severidade catastófica
+    - ajuda aos usuários no reconhecimento, diagnostico e recuperação de erros: Severidade grande
+
+
+**A avaliação completa pode ser encontrada [aqui](docs/assets/avaliacoes/DominioPublico).**
 
 ## Nome do Site 
 
@@ -52,10 +60,10 @@
 - Introdução do site: Site municipal da Prefeitura da cidade do Piauí, Matias Olímpio
 - Motivos de escolha: O site proposto decepciona em relação a sua função primária de fornecer informações para os seus usuários, percebendo que a maneira de como está sendo transmitida poderia ser muito mais eficaz. Momentos de pesquisa por um determinado conteúdo mostra-se prejudicial analisando o seu público.
 - Resultados: A partir das análises por meio da Avaliação Heurística, temos um destaque para: 
-   - Visibilidade do status do sistema: Severidade grave
-   - Consistência e padrões: Severidade simples
-   - Estética e design minimalista: Severidade catastrófico
-   - Ajuda e documentação: Severidade grave
+    - Visibilidade do status do sistema: Severidade grave
+    - Consistência e padrões: Severidade simples
+    - Estética e design minimalista: Severidade catastrófico
+    - Ajuda e documentação: Severidade grave
 
 ## Prefeitura de Analândia  
 
@@ -63,11 +71,11 @@
 - Introdução: Site governamental da Prefeitura da cidade do interior de SP, [Analãndia](https://www.analandia.sp.gov.br/)
 - Motivos de escolha: O site se encontra em estado precário, seu design é pouco elaborado e desatualizado, é pouco responsivo, possui muitas funcionalidades as quais não cumprem seus objetivos, há presença de muitos bugs visuais e funcionais e o site não oferece nenhum tipo de acessibilidade.  
 - Resultados: A partir das análises por meio da Avaliação Heurística foi constatado: 
-   - Status do sistema: Severidade grave
-   - Prevenção de erros: Severidade grave
-   - Consistência e padrões: Severidade grave
-   - Estética e design minimalista: Severidade simples
-   - Flexibildade e eficiência de uso: Severidade catastrófico
+    - Status do sistema: Severidade grave
+    - Prevenção de erros: Severidade grave
+    - Consistência e padrões: Severidade grave
+    - Estética e design minimalista: Severidade simples
+    - Flexibildade e eficiência de uso: Severidade catastrófico
 
 ## Histórico de Versões
 
@@ -78,3 +86,4 @@
 | 1.2    | 29/09/2023 | Avaliação do [Analãndia](https://www.analandia.sp.gov.br/)                   | [Harryson](https://github.com/harry-cmartin)    | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.3    | 29/09/2023 | Avaliação do [Matias Olimpio](https://www.matiasolimpio.pi.gov.br/)          | [Gustavo](https://github.com/gustavofbs)        | [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo)|
 | 1.4    | 30/09/2023 | Avaliação do [Vim](https://www.vim.org)                                      | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo)|
+| 1.5    | 01/09/2023 | Avaliação do [Dominio Publico](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)                                      | [Maria Alice](https://github.com/Maliz30)  | [Ana Catarina](https://github.com/an4catarina)|
