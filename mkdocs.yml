@@ -60,9 +60,10 @@ nav:
       - Cronograma Executado: planejamento/cronograma_executado.md
       - Ferramentas: planejamento/ferramentas.md
       - Metodologia: planejamento/metodologia.md
+      - Processo de Design: planejamento/processo-design.md
       - Sites avaliados: planejamento/sites_avaliados.md
       - Site escolhido: planejamento/site_escolhido.md
-      - Processo de Design: planejamento/processo-design.md
+      
 
 # Extensions
 markdown_extensions:
