@@ -16,7 +16,6 @@
 - Aplicativo relacionado ao governo ou a uma comunidade de software livre.
 - Site com fácil acesso para aqueles que vão avaliá-lo.
 - Adequação do site aos interesses da disciplina.
-- Disponibilidade de acesso ao site para a equipe de projeto ou para os estudantes envolvidos na disciplina.
 
 
 
