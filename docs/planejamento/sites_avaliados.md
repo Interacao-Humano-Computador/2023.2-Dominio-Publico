@@ -73,7 +73,7 @@
 
 
 
-## Prefeitura Matios Olímpio 
+## Prefeitura Matias Olímpio 
 
 - Responsável: [Gustavo França Boa Sorte](https://github.com/gustavofbs)
 - Introdução do site: Site municipal da Prefeitura da cidade do Piauí, [Matias Olimpio](https://www.matiasolimpio.pi.gov.br/)
