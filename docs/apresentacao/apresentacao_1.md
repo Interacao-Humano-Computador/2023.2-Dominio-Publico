@@ -1,4 +1,4 @@
-# Apresentação etapa 1 - 03/09/2023
+# Apresentação etapa 1: Planejamento do Projeto
 
 ## Introdução
 
