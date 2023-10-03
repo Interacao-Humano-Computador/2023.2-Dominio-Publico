@@ -56,8 +56,7 @@ nav:
   - Apresentações:
       - Apresentação 1: apresentacao/apresentacao_1.md
   - Planejamento do projeto:
-      - Cronograma Planejado: planejamento/cronograma_planejado.md
-      - Cronograma Executado: planejamento/cronograma_executado.md
+      - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
       - Metodologia: planejamento/metodologia.md
       - Processo de Design: planejamento/processo-design.md
