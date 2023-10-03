@@ -103,7 +103,7 @@
 
 
 
-## Referências 
+## Bibliografia 
 
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano - Computador, Editora Elsevier, Rio de Janeiro, 2010.
 >

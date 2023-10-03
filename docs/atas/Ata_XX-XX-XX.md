@@ -1,5 +1,5 @@
 # Reunião XX/XX/2023
-
+Início: ~ Fim: 
 <!-- Este é um arquivo base, para criar uma ata, basta copiá-lo e preencher os dados da reunião -->
 
 ## Participantes Convocados
