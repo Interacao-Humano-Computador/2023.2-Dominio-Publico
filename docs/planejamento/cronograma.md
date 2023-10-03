@@ -2,10 +2,29 @@
 
 ## Introdução
 
-<p>Para planejar as atividades, os recursos e os prazos do projeto o cronograma foi montado em tabelas. E estão dispostos a seguir os cronogramas de atividades planejados para cada entrega e o cronograma de execução.</p>
+<p>Para planejar as atividades, os recursos e os prazos do projeto o cronograma foi montado em tabelas. E estão dispostos a seguir os cronogramas de atividades planejados para cada entrega e o cronograma de execução. </p>
+
+## Entregas
+
+<p>O projeto será construido orientado a entregas assíduas, serão 9 entregas e a entrega final. Os prazos e os artefatos necessários para cada entrega estão explicitos na tabela 1.</p>
+
+**Tabela 1** - Entregas Interação Humano Computador 2023.2
+
+| Entregas | Artefatos | Data de entrega | Data de apresentação |
+| ------- | --------- | --------------- | -------------------- |
+| Etapa 1   | Planejamento do Projeto Equipe, Heatmap de disponibilidade, Sites avaliados, Site selecionado para o projeto, Ferramentas do projeto, Processo de Design, Cronograma de atividades| 02/10 | 03/10 |
+| Etapa 2    | Perfil do usuário, Aspectos Éticos de Pesquisas com Pessoas e Análise de tarefas | 16/10 | 17/10 |
+| Etapa 3    | Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo, e características da plataforma para o projeto. | 23/10 | 24/10 |
+| Etapa 4    | Planejamento da Avaliação do Storyboard, o Planejamento do relato dos resultados da avaliação do Storyboard, Planejamento da Avaliação do Análise de tarefas e o planejamento do relato dos resultados da avaliação do Análise de tarefas.| 30/10 | 31/10 |
+| Etapa 5    | Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do Planejamento do relato dos resultados da avaliação do Protótipo de Papel. | 08/11 | 09/11 |
+| Etapa 6.1  | Verificação dos artefatos | 15/11 | 16/11 |
+| Etapa 6.2  | Verificação dos artefatos | 29/11 | 30/11 |
+| Etapa 7    | Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade.| 22/11 | 23/11 |
+| Etapa 8    |  Relato dos resultados do Protótipo de alta fidelidade. | 27/11 | 28/11 |
+| Etapa Final| Entrega do Projeto Final da Disciplina | 06/12 | 07/11|
 
 
-
+Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf)
 ## Entrega 1
 
 <p>Na Tabela 2, tem-se o <b>cronograma planejado</b> para todas as atividades da primeira entrega.</p>
@@ -47,7 +66,7 @@
 | Implementar Git Pages     | Início: 28/09 <br>Fim: 30/09 | Victor           | Início: 01/09 <br>Fim: 01/09 | Ana Catarina |
 | Gravar apresentação       | Início: 01/10 <br>Fim: 01/10 | Gustavo          | Início: 01/10 <br>Fim: 01/10 | Victor       |
 | Edição da gravação        | Início: 01/10 <br>Fim: 02/10 | Ana Catarina     | Início: 02/10 <br>Fim: 02/10 | Victor       |
-| Correção pós apresentação | Início:03/10                 | Victor Hugo      |                              |              |
+| Correção pós apresentação | Início: 03/10 <br>Fim:       | Victor Hugo      |                              |              |
 
 
 </center>
@@ -442,3 +461,4 @@
 | 1.2    | 29/09/2023 | Reformulação do cronograma com base no executado pelo Bilheteria Digital | [Victor Hugo](https://github.com/ViictorHugoo)                                                   | [Luciano Ricardo](https://github.com/l-ricardo) |
 | 1.3    | 29/09/2023 | Alteração de datas                                                       | [Victor Hugo](https://github.com/ViictorHugoo)                                                   | [Luciano Ricardo](https://github.com/l-ricardo) |
 | 1.4    | 30/09/2023 | Alocação de responsáveis e revisores                                     | [Victor Hugo](https://github.com/ViictorHugoo)                                                   | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.5    | 30/09/2023 | Trazendo tabelas cronograma exec.                                        | [Victor Hugo](https://github.com/ViictorHugoo)                                                   | [Luciano Ricardo](https://github.com/l-ricardo) |
