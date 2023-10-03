@@ -23,8 +23,8 @@
 <center>
 
 ![Ciclo em estrela](../assets/processo-design/Ciclo_em_estrela.png)
+**Fonte:** Barbosa e Silva, 2010. <br>
 **Figura 1:** Ciclo em estrela.
-
 </center>
 
 
@@ -61,8 +61,8 @@
 <center>
 
 ![Ciclo de mayhew](../assets/processo-design/Ciclo_de_mayhew.png)
+**Fonte:** Barbosa e Silva, 2010. <br>
 **Figura 2:** Ciclo de Mayhew.
-
 </center>
 
 

@@ -1,5 +1,5 @@
 # Reunião XX/XX/2023
-
+Início: ~ Fim: 
 <!-- Este é um arquivo base, para criar uma ata, basta copiá-lo e preencher os dados da reunião -->
 
 ## Participantes Convocados
@@ -61,6 +61,6 @@ para o chat GPT formar a tabela em HTML -->
 
 ## Histórico de versões
 
-| Versão | Data  | Descrição | Autor(es) |
-| ------ | :---: | --------- | --------- |
+| Versão | Data  | Descrição | Autor(es) | Revisor(es) |
+| ------ | :---: | --------- | --------- | ----------- |
 

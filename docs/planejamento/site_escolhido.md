@@ -57,5 +57,5 @@
 | Versão | Data       | Descrição                   | Autor(es)                                       | Revisor(es)                                    |
 | ------ | ---------- | --------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 01/10/2023 | Estrutura do Site escolhido | [Maria Alice](https://github.com/Maliz30)       | [Ana Catarina](https://github.com/an4catarina) |
-| 1.1    | 01/10/2023 | Descreve tópicos            | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina) |
+| 1.1    | 01/10/2023 | Descreve tópicos            | [Gustavo](https://github.com/gustavofbs)        | [Ana Catarina](https://github.com/an4catarina) |
 

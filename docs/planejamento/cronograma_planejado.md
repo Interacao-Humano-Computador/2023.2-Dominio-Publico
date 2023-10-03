@@ -237,7 +237,7 @@
 
 
 
-## Referências 
+## Bibliografia 
 
 > Cronograma Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io.1-BilheteriaDigital/planejamento/cronograma/>>. Acesso em 29 de setembro de 2023.
 
@@ -249,6 +249,6 @@
 | ------ | :--------: | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
 | 1.0    | 27/09/2023 | Criação da página de cronograma                                          | [Luciano Ricardo](https://github.com/l-ricardo)                                                  | [Victor Hugo](https://github.com/ViictorHugoo)  |
 | 1.1    | 28/09/2023 | Remoção de descrição                                                     | [Victor Hugo](https://github.com/ViictorHugoo)                                                   | [Luciano Ricardo](https://github.com/l-ricardo) |
-| 1.2    | 29/09/2023 | Reformulação do cronograma com base no executado pelo Bilheteria Digital | [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo) | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.2    | 29/09/2023 | Reformulação do cronograma com base no executado pelo Bilheteria Digital | [Victor Hugo](https://github.com/ViictorHugoo)                                                   | [Luciano Ricardo](https://github.com/l-ricardo) |
 | 1.3    | 29/09/2023 | Alteração de datas                                                       | [Victor Hugo](https://github.com/ViictorHugoo)                                                   | [Luciano Ricardo](https://github.com/l-ricardo) |
 | 1.4    | 30/09/2023 | Alocação de responsáveis e revisores                                     | [Victor Hugo](https://github.com/ViictorHugoo)                                                   | [Luciano Ricardo](https://github.com/l-ricardo) |

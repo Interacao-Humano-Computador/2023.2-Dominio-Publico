@@ -1,10 +1,3 @@
----
-hide:
-  - navigation
-  - toc
----
-
-
 <h1 align="center"> Dominio Publico </h1>
 <h3 align="center"> 2023.2 </h3>
 
@@ -91,6 +84,7 @@ $ python -m mkdocs serve
 
 **Importante:** Nunca mexa na branch *gh-pages*
 
+<center>
 
 
 ## Histórico de Versões
@@ -98,4 +92,6 @@ $ python -m mkdocs serve
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 26/09/2023 | Criação da página                         | [Luciano Ricardo](https://github.com/l-ricardo) | [Maria Alice](https://github.com/Maliz30)      |
-| 1.1    | 28/09/2023 | Atualização da distribuição de informação | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.1    | 28/09/2023 | Atualização da distribuição de informação | [Gustavo](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
+
+</center>

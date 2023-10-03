@@ -23,8 +23,8 @@
 | Planejamento              | Início: 27/09 <br>Fim: 28/09 | Maria Alice      | Início: 27/09 <br>Fim: 27/09 | Ricardo      |
 | Processo de Design        | Início: 27/09 <br>Fim: 28/09 | Pedro e Harryson | Início: 27/09 <br>Fim: 27/09 | Gustavo      |
 | Implementar Git Pages     | Início: 28/09 <br>Fim: 30/09 | Victor           | Início: 01/09 <br>Fim: 01/09 | Ana Catarina |
-| Gravar apresentação       |                              | Gustavo          |                              | Harry        |
-| Edição da gravação        |                              | Ana Catarina     |                              | Victor       |
+| Gravar apresentação       | Início: 01/10 <br>Fim: 01/10 | Gustavo          | Início: 01/10 <br>Fim: 01/10 | Victor       |
+| Edição da gravação        | Início: 01/10 <br>Fim: 02/10 | Ana Catarina     | Início: 02/10 <br>Fim: 02/10 | Victor       |
 | Correção pós apresentação |                              | Ricardo          |                              | Pedro        |
 
 **Tabela 1** - Cronograma de Atividades da Entrega 1 - Planejamento do Projeto.
