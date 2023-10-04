@@ -5,6 +5,7 @@ Início: | Fim:
 ## Participantes Convocados
 
 <!-- Colocar um ✅ se o participante estiver presente ou um ❌ caso negativo -->
+Na Tabela 1, são apresentados os participantes da reunião juntamente com os indicadores que demonstram se estão presentes ou não, onde ✅ significa que o participante está presente e ❌ significa que o participante não compareceu à reunião.
 
 </head>
 <body>
@@ -43,6 +44,7 @@ Tabela 1: Participantes Convocados e Presença na Reunião
 
 <!-- compromissos que foram definidos para os integrantes, a data de entrega e os revisores, para facilitar o trabalho, pode pedir
 para o chat GPT formar a tabela em HTML -->
+Na reunião, foram definidos compromissos para os participantes executarem com o objetivo de dar continuidade ao projeto. Os compromissos,a pessoa responsável, a data da entrega e o revisor estão especificados na taela 2.
 
 <!DOCTYPE html>
 <html>
