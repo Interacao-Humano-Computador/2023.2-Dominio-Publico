@@ -17,7 +17,20 @@
 - Site com fácil acesso para aqueles que vão avaliá-lo.
 - Adequação do site aos interesses da disciplina.
 
+## Principais usuários do site
 
+<p>Os usuários mais comuns do Domínio Público identificados são:</p>
+
+1. Estudantes: Estudantes de todos os níveis, desde o ensino fundamental até o ensino superior, utilizam o Domínio Público para acessar materiais de estudo, livros didáticos, obras literárias e recursos educacionais gratuitos.
+2. Professores: Professores utilizam o Domínio Público para encontrar material didático, textos acadêmicos e literatura que podem ser usados em sala de aula, tornando o ensino mais acessível e enriquecedor.
+3. Pesquisadores: Pesquisadores de diversas áreas acadêmicas recorrem ao Domínio Público em busca de documentos históricos, artigos científicos e outros recursos que possam apoiar suas pesquisas.
+4. Escritores e criadores de conteúdo: Autores e criadores de conteúdo frequentemente usam obras em domínio público como inspiração ou como base para criar novas obras, remixar conteúdo ou adaptá-lo de diferentes maneiras.
+5. Amantes da cultura e literatura: Qualquer pessoa que aprecie literatura, música, arte e cultura em geral pode usar o Domínio Público para explorar e desfrutar de uma vasta gama de obras de forma gratuita e legal.
+6. Cidadãos em geral: Qualquer pessoa que tenha interesse em acessar informações históricas, documentos governamentais, obras de referência ou qualquer tipo de conteúdo cultural e educacional pode ser um usuário comum do Domínio Público.
+
+<p>
+Dessa forma, identificando os comuns usuários do sistema, definimos que temos contato aos acessantes do site, que como mostrado anteriormente pode ser desde estudantes e professores, os quais fazem parte de nosso ambiente de estudo, até qualquer cidadão brasileiro que possua desejo ou curiosidade cultural.
+</p>
 
 ## Motivação de escolha entre os sites avaliados
 
@@ -58,4 +71,6 @@
 | ------ | ---------- | --------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 01/10/2023 | Estrutura do Site escolhido | [Maria Alice](https://github.com/Maliz30)       | [Ana Catarina](https://github.com/an4catarina) |
 | 1.1    | 01/10/2023 | Descreve tópicos            | [Gustavo](https://github.com/gustavofbs)        | [Ana Catarina](https://github.com/an4catarina) |
+|1.2     | 04/10/2023 | Adiciona usuários comuns do site| [Harryson](https://github.com/harry-cmartin) |[Gustavo](https://github.com/gustavofbs)|
+
 
