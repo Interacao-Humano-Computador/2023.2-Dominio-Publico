@@ -1,10 +1,11 @@
 # Reunião XX/XX/2023
-Início: ~ Fim: 
+Início: | Fim: 
 <!-- Este é um arquivo base, para criar uma ata, basta copiá-lo e preencher os dados da reunião -->
 
 ## Participantes Convocados
 
 <!-- Colocar um ✅ se o participante estiver presente ou um ❌ caso negativo -->
+Na Tabela 1, são apresentados os participantes da reunião juntamente com os indicadores que demonstram se estão presentes ou não, onde ✅ significa que o participante está presente e ❌ significa que o participante não compareceu à reunião.
 
 </head>
 <body>
@@ -21,9 +22,9 @@ Início: ~ Fim:
   <tr><td>Luciano Ricardo Junior</td><td>221007653</td><td>✅</td></tr>
   <tr><td>Victor Hugo Guimarães</td><td>211063256</td><td>✅</td></tr>
 </table>
-
 </body>
 </html>
+Tabela 1: Participantes Convocados e Presença na Reunião
 
 ## Pautas
 
@@ -43,6 +44,7 @@ Início: ~ Fim:
 
 <!-- compromissos que foram definidos para os integrantes, a data de entrega e os revisores, para facilitar o trabalho, pode pedir
 para o chat GPT formar a tabela em HTML -->
+Na reunião, foram definidos compromissos para os participantes executarem com o objetivo de dar continuidade ao projeto. Os compromissos,a pessoa responsável, a data da entrega e o revisor estão especificados na taela 2.
 
 <!DOCTYPE html>
 <html>
@@ -56,6 +58,7 @@ para o chat GPT formar a tabela em HTML -->
 </table>
 </body>
 </html>
+Tabela 2: Compromisso dos participantes decididos da reunião
 
 ## Gravação da reunião
 
