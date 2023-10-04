@@ -1,5 +1,5 @@
 # Reunião XX/XX/2023
-Início: ~ Fim: 
+Início: | Fim: 
 <!-- Este é um arquivo base, para criar uma ata, basta copiá-lo e preencher os dados da reunião -->
 
 ## Participantes Convocados
@@ -21,9 +21,9 @@ Início: ~ Fim:
   <tr><td>Luciano Ricardo Junior</td><td>221007653</td><td>✅</td></tr>
   <tr><td>Victor Hugo Guimarães</td><td>211063256</td><td>✅</td></tr>
 </table>
-
 </body>
 </html>
+Tabela 1: Participantes Convocados e Presença na Reunião
 
 ## Pautas
 
@@ -56,6 +56,7 @@ para o chat GPT formar a tabela em HTML -->
 </table>
 </body>
 </html>
+Tabela 2: Compromisso dos participantes decididos da reunião
 
 ## Gravação da reunião
 
