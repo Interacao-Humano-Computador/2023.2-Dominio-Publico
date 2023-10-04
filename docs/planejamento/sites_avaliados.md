@@ -98,7 +98,7 @@
     - Estética e design minimalista: Severidade simples
     - Flexibildade e eficiência de uso: Severidade catastrófico
 
-
+**[Avaliação Completa](../assets/avaliacoes/AvaliaçãoAnalandia.pdf).**
 
 ## Histórico de versões
 
@@ -111,3 +111,4 @@
 | 1.4    | 30/09/2023 | Avaliação do [Vim](https://www.vim.org)                                                                                          | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo)                                                  |
 | 1.5    | 30/09/2023 | Avaliação do [NaHora](https://www.nahora.df.gov.br/) e do [Portal da NF-e](https://www.nfe.fazenda.gov.br/portal/principal.aspx) | [Pedro](https://github.com/pedro-hsf)  | [Victor Hugo](https://github.com/ViictorHugoo)                                                   |
 | 1.6    | 01/10/2023 | Avaliação do [Dominio Publico](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)                                   | [Maria Alice](https://github.com/Maliz30)       | [Ana Catarina](https://github.com/an4catarina)                                                   |
+|1.7     | 04/10/2023 | Avaliação do [Prefeitura de Analandia](https://www.analandia.sp.gov.br/) | [Harryson](https://github.com/harry-cmartin)| [Gustavo](https://github.com/gustavofbs)|
