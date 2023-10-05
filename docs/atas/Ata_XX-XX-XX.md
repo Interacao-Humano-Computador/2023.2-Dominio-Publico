@@ -7,8 +7,9 @@ Início: | Fim:
 <!-- Colocar um ✅ se o participante estiver presente ou um ❌ caso negativo -->
 Na Tabela 1, são apresentados os participantes da reunião juntamente com os indicadores que demonstram se estão presentes ou não, onde ✅ significa que o participante está presente e ❌ significa que o participante não compareceu à reunião.
 
-</head>
-<body>
+<p style="text-align: center"><font size="2">Tabela 1: Participantes Convocados e Presença na Reunião</font></p>
+
+<center>
 
 <table align="center">
   <tr>
@@ -22,9 +23,8 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
   <tr><td>Luciano Ricardo Junior</td><td>221007653</td><td>✅</td></tr>
   <tr><td>Victor Hugo Guimarães</td><td>211063256</td><td>✅</td></tr>
 </table>
-</body>
-</html>
-Tabela 1: Participantes Convocados e Presença na Reunião
+
+</center>
 
 ## Pautas
 
@@ -46,9 +46,10 @@ Tabela 1: Participantes Convocados e Presença na Reunião
 para o chat GPT formar a tabela em HTML -->
 Na reunião, foram definidos compromissos para os participantes executarem com o objetivo de dar continuidade ao projeto. Os compromissos,a pessoa responsável, a data da entrega e o revisor estão especificados na taela 2.
 
-<!DOCTYPE html>
-<html>
-<body>
+<p style="text-align: center"><font size="2">Tabela 2: Compromisso dos participantes decididos da reunião</font></p>
+
+<center>
+
 <table>
   <tr>
     <th>Compromisso</th><th>Responsável</th><th>Data de Entrega</th><th>Revisor</th>
@@ -56,9 +57,8 @@ Na reunião, foram definidos compromissos para os participantes executarem com o
     <tr><td>Criação do gitpages</td><td>Luciano Ricardo</td><td>25/10/2023</td><td>Maria Alice</td>
     </tr><tr><td>Planejamento da metodologia organizacional do grupo</td><td>Maria Alice</td><td>25/10/2023</td><td>Gustavo</td>
 </table>
-</body>
-</html>
-Tabela 2: Compromisso dos participantes decididos da reunião
+
+</center>
 
 ## Gravação da reunião
 
