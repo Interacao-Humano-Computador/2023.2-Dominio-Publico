@@ -8,7 +8,7 @@
 
 <p>O projeto será construido orientado a entregas assíduas, serão 9 entregas e a entrega final. Os prazos e os artefatos necessários para cada entrega estão explicitos na tabela 1.</p>
 
-**Tabela 1** - Entregas Interação Humano Computador 2023.2
+<font size="2"><p style="text-align: center">Tabela 1: Entregas Interação Humano Computador 2023.2</p></font>
 
 | Entregas | Artefatos | Data de entrega | Data de apresentação |
 | ------- | --------- | --------------- | -------------------- |
@@ -23,15 +23,17 @@
 | Etapa 8    |  Relato dos resultados do Protótipo de alta fidelidade. | 27/11 | 28/11 |
 | Etapa Final| Entrega do Projeto Final da Disciplina | 06/12 | 07/11|
 
+<font size="2"><p style="text-align: center">Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf)</p></font>
 
-Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf)
+
 ## Entrega 1
 
 <p>Na Tabela 2, tem-se o <b>cronograma planejado</b> para todas as atividades da primeira entrega.</p>
 
 <center>
 
-**Tabela 2** - Cronograma planejado de Atividades da Entrega 1 - Planejamento do Projeto.
+<font size="2"><p style="text-align: center">Tabela 2: Cronograma planejado de Atividades da Entrega 1 - Planejamento do Projeto.</p></font>
+
 
 | Atividade                 | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores    |
 | ------------------------- | ---------------------------- | ------------ | ---------------------------- | ------------ |
@@ -52,8 +54,8 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 <p>Na Tabela 3, tem-se o <b>cronograma executado</b> para todas as atividades da primeira entrega.</p>
 
 <center>
+<font size="2"><p style="text-align: center">Tabela 3: Cronograma executado de Atividades da Entrega 1 - Planejamento do Projeto.</p></font>
 
-**Tabela 3** - Cronograma executado de Atividades da Entrega 1 - Planejamento do Projeto.
 
 | Atividade                 | Período de desenvolvimento   | Responsáveis     | Periodo de Revisão           | Revisores    |
 | ------------------------- | ---------------------------- | ---------------- | ---------------------------- | ------------ |
@@ -79,7 +81,8 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 
 <center>
 
-**Tabela 4** - Cronograma planjeado de Atividades da Entrega 2 - Perfil do usuário.
+<font size="2"><p style="text-align: center">Tabela 4: Cronograma planjeado de Atividades da Entrega 2 - Perfil do usuário.</p></font>
+
 
 | Atividade                                     | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores    |
 | --------------------------------------------- | ---------------------------- | ------------ | ---------------------------- | ------------ |
@@ -99,8 +102,8 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 <p>Na Tabela 5, tem-se o <b>cronograma executado</b> para todas as atividades da segunda entrega.</p>
 
 <center>
+<font size="2"><p style="text-align: center">Tabela 5: Cronograma executado de Atividades da Entrega 2 - Perfil do usuário.</p></font>
 
-**Tabela 5** - Cronograma executado de Atividades da Entrega 2 - Perfil do usuário.
 
 | Atividade                                     | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores    |
 | --------------------------------------------- | ---------------------------- | ------------ | ---------------------------- | ------------ |
@@ -123,8 +126,8 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 <p>Na Tabela 6, tem-se o <b>cronograma planejado</b> para todas as atividades da terceira entrega.</p>
 
 <center>
+<font size="2"><p style="text-align: center">Tabela 6: Cronograma planejado de Atividades da Entrega 3 - Princípios gerais.</p></font>
 
-**Tabela 6** - Cronograma planejado de Atividades da Entrega 3 - Princípios gerais.
 
 | Atividade                    | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores    |
 | ---------------------------- | ---------------------------- | ------------ | ---------------------------- | ------------ |
@@ -141,8 +144,8 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 <p>Na Tabela 7, tem-se o <b>cronograma executado</b> para todas as atividades da terceira entrega.</p>
 
 <center>
+<font size="2"><p style="text-align: center">Tabela 7: Cronograma executado de Atividades da Entrega 3 - Princípios gerais.</p></font>
 
-**Tabela 7** - Cronograma executado de Atividades da Entrega 3 - Princípios gerais.
 
 | Atividade                    | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores    |
 | ---------------------------- | ---------------------------- | ------------ | ---------------------------- | ------------ |
@@ -162,7 +165,8 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 
 <center>
 
-**Tabela 8** - Cronograma planejado de Atividades da Entrega 4.
+<font size="2"><p style="text-align: center">Tabela 8: Cronograma planejado de Atividades da Entrega 4.</p></font>
+
 
 | Atividade                                                        | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores    |
 | ---------------------------------------------------------------- | ---------------------------- | ------------ | ---------------------------- | ------------ |
@@ -182,7 +186,8 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 
 <center>
 
-**Tabela 9** - Cronograma executado de Atividades da Entrega 4.
+<font size="2"><p style="text-align: center">Tabela 9: Cronograma executado de Atividades da Entrega 4.</p></font>
+
 
 | Atividade                                                        | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores    |
 | ---------------------------------------------------------------- | ---------------------------- | ------------ | ---------------------------- | ------------ |
@@ -203,7 +208,8 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 
 <center>
 
-**Tabela 10** - Cronograma planejado de Atividades da Entrega 5.
+<font size="2"><p style="text-align: center">Tabela 10: Cronograma planejado de Atividades da Entrega 5.</p></font>
+
 
 | Atividade                                                               | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores   |
 | ----------------------------------------------------------------------- | ---------------------------- | ------------ | ---------------------------- | ----------- |
@@ -222,7 +228,8 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 
 <center>
 
-**Tabela 11** - Cronograma executado de Atividades da Entrega 5.
+<font size="2"><p style="text-align: center">Tabela 11: Cronograma executado de Atividades da Entrega 5.</p></font>
+
 
 | Atividade                                                               | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores   |
 | ----------------------------------------------------------------------- | ---------------------------- | ------------ | ---------------------------- | ----------- |
@@ -245,7 +252,8 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 
 <center>
 
-**Tabela 12** - Cronograma planejado de Atividades da Entrega 6.1.
+<font size="2"><p style="text-align: center">Tabela 12: Cronograma planejado de Atividades da Entrega 6.1.</p></font>
+
 
 | Atividade                              | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores    |
 | -------------------------------------- | ---------------------------- | ------------ | ---------------------------- | ------------ |
@@ -270,7 +278,8 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 
 <center>
 
-**Tabela 13** - Cronograma executado de Atividades da Entrega 6.1.
+<font size="2"><p style="text-align: center">Tabela 13: Cronograma executado de Atividades da Entrega 6.1.</p></font>
+
 
 | Atividade                              | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores    |
 | -------------------------------------- | ---------------------------- | ------------ | ---------------------------- | ------------ |
@@ -298,7 +307,8 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 
 <center>
 
-**Tabela 14** - Cronograma planejado de Atividades da Entrega 6.2.
+<font size="2"><p style="text-align: center">Tabela 14: Cronograma planejado de Atividades da Entrega 6.2.</p></font>
+
 
 | Atividade                                     | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores |
 | --------------------------------------------- | ---------------------------- | ------------ | ---------------------------- | --------- |
@@ -313,7 +323,8 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 
 <center>
 
-**Tabela 15** - Cronograma executado de Atividades da Entrega 6.2.
+<font size="2"><p style="text-align: center">Tabela 15: Cronograma executado de Atividades da Entrega 6.2.</p></font>
+
 
 | Atividade                                     | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores |
 | --------------------------------------------- | ---------------------------- | ------------ | ---------------------------- | --------- |
@@ -332,7 +343,8 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 
 <center>
 
-**Tabela 16** - Cronograma planejado de Atividades da Entrega 7.
+<font size="2"><p style="text-align: center">Tabela 16: Cronograma planejado de Atividades da Entrega 7.</p></font>
+
 
 | Atividade                                                                          | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores    |
 | ---------------------------------------------------------------------------------- | ---------------------------- | ------------ | ---------------------------- | ------------ |
@@ -352,7 +364,8 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 
 <center>
 
-**Tabela 17** - Cronograma executado de Atividades da Entrega 7.
+<font size="2"><p style="text-align: center">Tabela 17: Cronograma executado de Atividades da Entrega 7.</p></font>
+
 
 | Atividade                                                                          | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores    |
 | ---------------------------------------------------------------------------------- | ---------------------------- | ------------ | ---------------------------- | ------------ |
@@ -375,7 +388,8 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 
 <center>
 
-**Tabela 18** - Cronograma planejado de Atividades da Entrega 8.
+<font size="2"><p style="text-align: center">Tabela 18: Cronograma planejado de Atividades da Entrega 8.
+</p></font>
 
 | Atividade                                                          | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores    |
 | ------------------------------------------------------------------ | ---------------------------- | ------------ | ---------------------------- | ------------ |
@@ -394,7 +408,8 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 
 <center>
 
-**Tabela 19** - Cronograma executado de Atividades da Entrega 8.
+<font size="2"><p style="text-align: center">Tabela 19: Cronograma executado de Atividades da Entrega 8.</p></font>
+
 
 | Atividade                                                          | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores    |
 | ------------------------------------------------------------------ | ---------------------------- | ------------ | ---------------------------- | ------------ |
@@ -415,7 +430,8 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 
 <center>
 
-**Tabela 20** - Cronograma planejado de Atividades da Entrega Final.
+<font size="2"><p style="text-align: center">Tabela 20: Cronograma planejado de Atividades da Entrega Final.</p></font>
+
 
 | Atividade                                                | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores    |
 | -------------------------------------------------------- | ---------------------------- | ------------ | ---------------------------- | ------------ |
@@ -432,7 +448,8 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 
 <center>
 
-**Tabela 21** - Cronograma executado de Atividades da Entrega Final.
+<font size="2"><p style="text-align: center">Tabela 21: Cronograma executado de Atividades da Entrega Final.</p></font>
+
 
 | Atividade                                                | Período de desenvolvimento   | Responsáveis | Periodo de Revisão           | Revisores    |
 | -------------------------------------------------------- | ---------------------------- | ------------ | ---------------------------- | ------------ |
@@ -462,3 +479,4 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 | 1.3    | 29/09/2023 | Alteração de datas                                                       | [Victor Hugo](https://github.com/ViictorHugoo)                                                   | [Luciano Ricardo](https://github.com/l-ricardo) |
 | 1.4    | 30/09/2023 | Alocação de responsáveis e revisores                                     | [Victor Hugo](https://github.com/ViictorHugoo)                                                   | [Luciano Ricardo](https://github.com/l-ricardo) |
 | 1.5    | 30/09/2023 | Trazendo tabelas cronograma exec.                                        | [Victor Hugo](https://github.com/ViictorHugoo)                                                   | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.6    | 04/10/2023 | Correção de Erros        | [Maria Alice](https://github.com/Maliz30) | [Victor Hugo](https://github.com/ViictorHugoo)|
