@@ -18,11 +18,19 @@ Esta página é destinada à apresentação da etapa 1 do projeto de Interação
 
 ## Apresentação
 
+<center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/50eZHxfH1w0?si=_S153rjyTLQSvf2z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Clique aqui para acessar a gravação](https://youtu.be/50eZHxfH1w0)
 
+</center>
+
 Na apresentação é possível a visualização de todos os artefatos da entrega, assim como, os itens de avaliação presentes no [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf) da Disciplina e explicitos na Tabela 1:
+
+<p style="text-align: center"><font size="2">Tabela 1: Lista de avaliação para entrega 1</font></p>
+
+<center>
 
 A git page possui?  | Sim/Não/Incompleto
 --------- | ------
@@ -42,10 +50,9 @@ A git page possui?  | Sim/Não/Incompleto
 14 – Os artefatos: planejamento do projeto, equipe, lista de sites avaliados, site selecionado para o projeto da disciplina, ferramentas do projeto, processo de design, cronograma das atividades? | 
 15 – A justificativa da escolha do Processo de Design? | 
 
-<p><b>Tabela 1:</b> Lista de avaliação para entrega 1</p>
+<font size="2"><p style="text-align: center">Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf)</p></font>
 
-Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf)
-
+</center>
 
 ## Bibliografia
 
@@ -60,3 +67,4 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 | ------ | :--------: | --------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 02/10/2023 | Criação e estruturação do arquivo | [Ana Catarina](https://github.com/an4catarina) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.1    | 02/10/2023 | Adição de checklist e referencias | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30)      |
+| 1.3    | 04/10/2023 | Correção de Erros        | [Maria Alice](https://github.com/Maliz30) | [Victor Hugo](https://github.com/ViictorHugoo)|
