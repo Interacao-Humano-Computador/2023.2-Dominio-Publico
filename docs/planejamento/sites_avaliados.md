@@ -10,7 +10,7 @@
 
 ## Portal da Legislação
 
-- Responsável: [Luciano Ricardo da Silva Júnior](https://github.com/l-ricardo)
+- Responsável: [Luciano Ricardo](https://github.com/l-ricardo)
 - Introdução: Foi avaliado o [Portal da Legislação](http://www4.planalto.gov.br/legislacao/) para ser avaliado, se trata de um local onde é disponibilizado para a população todas as leis, atos e decretos do país.
 - Motivos de escolha: A importância do portal bem como o fato de seus problemas de usabilidade serem facilmente percepitíveis até mesmo ao usuario comum.
 - Resultados: A avaliação heurística do Portal da Legislação identificou diversos problemas principalmente no que se diz respeito á apropriação da interface pelos usuários e a conformidade com os padrões de interface dos demais sites sob o domínio gov.br. Sendo eles:
@@ -47,7 +47,7 @@
 
 ## Portal da NF-e – Secretaria da Fazenda
 
-- Responsável: [Ana Catarina Santos](https://github.com/an4catarina)
+- Responsável: [Ana Catarina](https://github.com/an4catarina)
 - Introdução: “Este portal tem como objetivo a divulgação de informações sobre a Nota Fiscal eletrônica, coordenada pelo ENCAT e desenvolvida em parceria com a Receita Federal do Brasil, tendo como finalidade a alteração da sistemática atual de emissão da nota fiscal em papel por nota fiscal eletrônica com validade jurídica para todos os fins.”
 - Motivos de escolha: O site foi selecionado para avaliação por conta do seu design antigo e sua usabilidade não tão intuitiva. Esses aspectos fundamentais podem impactar negativamente a experiência do usuário, tornando crucial a identificação de áreas de melhoria para garantir uma interação mais eficiente e satisfatória com a plataforma.
 - Resultados: A partir das análises por meio da Avaliação Heurística, tem-se:
@@ -75,7 +75,7 @@
 
 ## Prefeitura Matias Olímpio 
 
-- Responsável: [Gustavo França Boa Sorte](https://github.com/gustavofbs)
+- Responsável: [Gustavo França](https://github.com/gustavofbs)
 - Introdução do site: Site municipal da Prefeitura da cidade do Piauí, [Matias Olimpio](https://www.matiasolimpio.pi.gov.br/)
 - Motivos de escolha: O site proposto decepciona em relação a sua função primária de fornecer informações para os seus usuários, percebendo que a maneira de como está sendo transmitida poderia ser muito mais eficaz. Momentos de pesquisa por um determinado conteúdo mostra-se prejudicial analisando o seu público.
 - Resultados: A partir das análises por meio da Avaliação Heurística, temos um destaque para: 
@@ -88,7 +88,7 @@
 
 ## Prefeitura de Analândia  
 
-- Responsável: [Harryson Campos Martins](https://github.com/harry-cmartin)
+- Responsável: [Harryson Martins](https://github.com/harry-cmartin)
 - Introdução: Site governamental da Prefeitura da cidade do interior de SP, [Analãndia](https://www.analandia.sp.gov.br/)
 - Motivos de escolha: O site se encontra em estado precário, seu design é pouco elaborado e desatualizado, é pouco responsivo, possui muitas funcionalidades as quais não cumprem seus objetivos, há presença de muitos bugs visuais e funcionais e o site não oferece nenhum tipo de acessibilidade.  
 - Resultados: A partir das análises por meio da Avaliação Heurística foi constatado: 
@@ -106,9 +106,9 @@
 | ------ | ---------- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | 1.0    | 28/09/2023 | Estrutura da documentação                                                                                                        | [Victor Hugo](https://github.com/ViictorHugoo)  | [Maria Alice](https://github.com/Maliz30)                                                        |
 | 1.1    | 28/09/2023 | Avaliação do [Portal da Legislação](http://www4.planalto.gov.br/legislacao/)                                                     | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)                                                   |
-| 1.2    | 29/09/2023 | Avaliação do [Analãndia](https://www.analandia.sp.gov.br/)                                                                       | [Harryson](https://github.com/harry-cmartin)    | [Victor Hugo](https://github.com/ViictorHugoo)                                                   |
-| 1.3    | 29/09/2023 | Avaliação do [Matias Olimpio](https://www.matiasolimpio.pi.gov.br/)                                                              | [Gustavo](https://github.com/gustavofbs)        | [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.2    | 29/09/2023 | Avaliação do [Analãndia](https://www.analandia.sp.gov.br/)                                                                       | [Harryson Martins](https://github.com/harry-cmartin)    | [Victor Hugo](https://github.com/ViictorHugoo)                                                   |
+| 1.3    | 29/09/2023 | Avaliação do [Matias Olimpio](https://www.matiasolimpio.pi.gov.br/)                                                              | [Gustavo França](https://github.com/gustavofbs)        | [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.4    | 30/09/2023 | Avaliação do [Vim](https://www.vim.org)                                                                                          | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo)                                                  |
-| 1.5    | 30/09/2023 | Avaliação do [NaHora](https://www.nahora.df.gov.br/) e do [Portal da NF-e](https://www.nfe.fazenda.gov.br/portal/principal.aspx) | [Pedro](https://github.com/pedro-hsf)  | [Victor Hugo](https://github.com/ViictorHugoo)                                                   |
+| 1.5    | 30/09/2023 | Avaliação do [NaHora](https://www.nahora.df.gov.br/) e do [Portal da NF-e](https://www.nfe.fazenda.gov.br/portal/principal.aspx) | [Pedro Henrique](https://github.com/pedro-hsf)  | [Victor Hugo](https://github.com/ViictorHugoo)                                                   |
 | 1.6    | 01/10/2023 | Avaliação do [Dominio Publico](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)                                   | [Maria Alice](https://github.com/Maliz30)       | [Ana Catarina](https://github.com/an4catarina)                                                   |
-|1.7     | 04/10/2023 | Avaliação do [Prefeitura de Analandia](https://www.analandia.sp.gov.br/) | [Harryson](https://github.com/harry-cmartin)| [Gustavo](https://github.com/gustavofbs)|
+|1.7     | 04/10/2023 | Avaliação do [Prefeitura de Analandia](https://www.analandia.sp.gov.br/) | [Harryson Martins](https://github.com/harry-cmartin)| [Gustavo França](https://github.com/gustavofbs)|

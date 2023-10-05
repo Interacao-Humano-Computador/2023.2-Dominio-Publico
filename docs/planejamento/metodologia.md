@@ -15,9 +15,11 @@
 <p>O Scrum pode ser adaptado de acordo com a necessidade da equipe, mas sempre focando na comunicação clara e transparência. No desenvolvimento deste projeto o grupo realizou algumas adaptações no Scrum, para que ele se adequasse melhor às necessidades encontradas. Desta forma, optamos por não ter Product Owner(Dono do Produto) e Scrum Master(Mestre Scrum), distribuindo as tarefas de forma horizontal e fazendo com que todos os membros sejam igualmente importantes para a realização do projeto. Nossas <b>sprints</b>(Ciclos) serão de 07 dias, realizaremos <b>dailys</b>(Reuniões diárias) assíncronas por mensagens em horários em que todos os membros estão disponíveis e as outras cerimônias como planejamento (planning), análise (review) e retrospectiva (retrospective) em reuniões conforme ilustrado na Figura 1:.</p>
 
 <center>
+<font size="2"><p style="text-align: center">Figura 1: Metodologia Scrum </p></font>
 
 ![Scrum](../assets/metodologia/scrum.png)
-**Figura 1:** Metodologia Scrum (Fonte: [GS1 Brasil](https://noticias.gs1br.org/scrum-veja-como-usar-abordagem-nos-negocios/), 2021)
+
+<font size="2"><p style="text-align: center">Fonte: [GS1 Brasil](https://noticias.gs1br.org/scrum-veja-como-usar-abordagem-nos-negocios/), 2021</p></font>
 
 </center>
 
@@ -27,10 +29,11 @@
 <p>Vale ressaltar que a escolha do dia de reunião se baseou em uma planilha de disponibilidade de horários preenchida pela equipe ao início do desenvolvimento. Na figura 2, quanto mais verde uma área, maior a disponibilidade de membros.</p>
 
 <center>
+<font size="2"><p style="text-align: center">Figura 2: Mapeamento de disponibilidade da equipe </p></font>
 
 ![Heatmap](../assets/metodologia/heatmap.png)
-**Figura 2:** Mapeamento de disponibilidade da equipe (Autores: [Maria Alice](https://github.com/Maliz30) e [Victor Hugo](https://github.com/ViictorHugoo), 2023)
 
+<font size="2"><p style="text-align: center">Autores: [Maria Alice](https://github.com/Maliz30) e [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
 </center>
 
 
@@ -63,8 +66,11 @@
 
 <center>
 
+<font size="2"><p style="text-align: center">Figura 3: Heurísticas Propostas por Nielsen</p></font>
+
 ![Heuristicas](../assets/metodologia/heuristics.png)
-**Figura 3:** Heurísticas Propostas por Nielsen (Fonte: NIELSEN, 1994, p.30)
+
+<font size="2"><p style="text-align: center">Fonte: NIELSEN, 1994, p.30</p></font>
 
 </center>
 
@@ -119,4 +125,5 @@
 | ------ | ---------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
 | 1.0    | 28/09/2023 | Estrutura inicial                                                              | [Maria Alice](https://github.com/Maliz30) e [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo)                                                  |
 | 1.1    | 29/09/2023 | Correções                                                                      | [Victor Hugo](https://github.com/ViictorHugoo)                                             | [Luciano Ricardo](https://github.com/l-ricardo)                                                  |
-| 1.2    | 30/09/2023 | Atualiza metodologias adicionando imagem do scrum e novo tópico de heurísticas | [Gustavo](https://github.com/gustavofbs)                                                   | [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.2    | 30/09/2023 | Atualiza metodologias adicionando imagem do scrum e novo tópico de heurísticas | [Gustavo França](https://github.com/gustavofbs)                                                   | [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.3    | 04/10/2023 | Correção de Erros        | [Maria Alice](https://github.com/Maliz30) | [Victor Hugo](https://github.com/ViictorHugoo)|

@@ -21,10 +21,13 @@
 <p>No modelo em questão o design tem total liberdade para escolher qual a primeira atividade a ser feita, porém sempre após terminar uma atividade o designer deve fazer uma avaliação, trazendo constantes feedbacks relacionados a última etapa realizada no ciclo, como podemos ver na Figura 1:</p>
 
 <center>
+<font size="2"><p style="text-align: center">Figura 1: Ciclo em estrela.</p></font>
 
 ![Ciclo em estrela](../assets/processo-design/Ciclo_em_estrela.png)
-**Fonte:** Barbosa e Silva, 2010. <br>
-**Figura 1:** Ciclo em estrela.
+
+<font size="2"><p style="text-align: center">Fonte: Barbosa e Silva, 2010.</p></font>
+
+
 </center>
 
 
@@ -60,9 +63,12 @@
 
 <center>
 
+<font size="2"><p style="text-align: center">Figura 2: Ciclo de Mayhew.</p></font>
+
 ![Ciclo de mayhew](../assets/processo-design/Ciclo_de_mayhew.png)
-**Fonte:** Barbosa e Silva, 2010. <br>
-**Figura 2:** Ciclo de Mayhew.
+
+<font size="2"><p style="text-align: center">Fonte: Barbosa e Silva, 2010.</p></font>
+
 </center>
 
 
@@ -85,4 +91,5 @@
 
 | Versão | Data       | Descrição            | Autor(es)                                                                            | Revisor(es)                              |
 | ------ | ---------- | -------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------- |
-| 1.0    | 28/09/2023 | Criação do Documento | [Harryson](https://github.com/harry-cmartin) e [Pedro](https://github.com/pedro-hsf) | [Gustavo](https://github.com/gustavofbs) |
+| 1.0    | 28/09/2023 | Criação do Documento | [Harryson Martins](https://github.com/harry-cmartin) e [Pedro Henrique](https://github.com/pedro-hsf) | [Gustavo França](https://github.com/gustavofbs) |
+| 1.1    | 04/10/2023 | Correção de Erros        | [Maria Alice](https://github.com/Maliz30) | [Victor Hugo](https://github.com/ViictorHugoo)|
