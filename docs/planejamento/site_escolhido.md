@@ -70,7 +70,7 @@ Dessa forma, identificando os comuns usuários do sistema, definimos que temos c
 | Versão | Data       | Descrição                   | Autor(es)                                       | Revisor(es)                                    |
 | ------ | ---------- | --------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 01/10/2023 | Estrutura do Site escolhido | [Maria Alice](https://github.com/Maliz30)       | [Ana Catarina](https://github.com/an4catarina) |
-| 1.1    | 01/10/2023 | Descreve tópicos            | [Gustavo](https://github.com/gustavofbs)        | [Ana Catarina](https://github.com/an4catarina) |
-|1.2     | 04/10/2023 | Adiciona usuários comuns do site| [Harryson](https://github.com/harry-cmartin) |[Gustavo](https://github.com/gustavofbs)|
+| 1.1    | 01/10/2023 | Descreve tópicos            | [Gustavo França](https://github.com/gustavofbs)        | [Ana Catarina](https://github.com/an4catarina) |
+|1.2     | 04/10/2023 | Adiciona usuários comuns do site| [Harryson Martins](https://github.com/harry-cmartin) |[Gustavo França](https://github.com/gustavofbs)|
 
 

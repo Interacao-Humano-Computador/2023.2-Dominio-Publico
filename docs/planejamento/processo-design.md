@@ -91,5 +91,5 @@
 
 | Versão | Data       | Descrição            | Autor(es)                                                                            | Revisor(es)                              |
 | ------ | ---------- | -------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------- |
-| 1.0    | 28/09/2023 | Criação do Documento | [Harryson](https://github.com/harry-cmartin) e [Pedro](https://github.com/pedro-hsf) | [Gustavo](https://github.com/gustavofbs) |
+| 1.0    | 28/09/2023 | Criação do Documento | [Harryson Martins](https://github.com/harry-cmartin) e [Pedro Henrique](https://github.com/pedro-hsf) | [Gustavo França](https://github.com/gustavofbs) |
 | 1.1    | 04/10/2023 | Correção de Erros        | [Maria Alice](https://github.com/Maliz30) | [Victor Hugo](https://github.com/ViictorHugoo)|

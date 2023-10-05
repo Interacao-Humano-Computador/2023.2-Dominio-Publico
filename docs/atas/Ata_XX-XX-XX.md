@@ -15,13 +15,13 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
   <tr>
     <th>Nome</th><th>Matrícula</th><th>Presente</th>
   </tr>
-  <tr><td>Ana Catarina Santos</td><td>211041099</td><td>✅</td></tr>
-  <tr><td>Gustavo</td><td>211030774</td><td>✅</td></tr>
-  <tr><td>Harryson</td><td>211039466</td><td>✅</td></tr>
-  <tr><td>Maria Alice Bernardo</td><td>211063210</td><td>✅</td></tr>
-  <tr><td>Pedro Henrique Ferreira</td><td>211063229</td><td>✅</td></tr>
-  <tr><td>Luciano Ricardo Junior</td><td>221007653</td><td>✅</td></tr>
-  <tr><td>Victor Hugo Guimarães</td><td>211063256</td><td>✅</td></tr>
+  <tr><td>Ana Catarina</td><td>211041099</td><td>✅</td></tr>
+  <tr><td>Gustavo França</td><td>211030774</td><td>✅</td></tr>
+  <tr><td>Harryson Martins</td><td>211039466</td><td>✅</td></tr>
+  <tr><td>Maria Alice</td><td>211063210</td><td>✅</td></tr>
+  <tr><td>Pedro Henrique</td><td>211063229</td><td>✅</td></tr>
+  <tr><td>Luciano Ricardo</td><td>221007653</td><td>✅</td></tr>
+  <tr><td>Victor Hugo</td><td>211063256</td><td>✅</td></tr>
 </table>
 
 </center>
