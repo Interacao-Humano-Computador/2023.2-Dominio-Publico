@@ -26,21 +26,21 @@ Na apresentação é possível a visualização de todos os artefatos da entrega
 
 A git page possui?  | Sim/Não/Incompleto
 --------- | ------
-1 - O histórico de versão padronizado? | 
-2 – O(s) autor(es) e o(s) revisor(es) para cada artefato? | 
-3 - A motivação e os critérios para a escolha do site? | 
-4 - O planejamento e avaliação dos sites selecionados? | 
-5 - Vídeo de apresentação na categoria “não listado” no youtube? | 
-6 - Referências bibliográficas e/ou bibliografia em todos os artefatos? | 
-7 - As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | 
-8 – Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”? | 
-9 - Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | 
-10 - O cronograma do planejamento do projeto apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | 
-11 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? | 
-12 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | 
-13 – A gravação da reunião do grupo. | 
-14 – Os artefatos: planejamento do projeto, equipe, lista de sites avaliados, site selecionado para o projeto da disciplina, ferramentas do projeto, processo de design, cronograma das atividades? | 
-15 – A justificativa da escolha do Processo de Design? | 
+1 - O histórico de versão padronizado? | Sim
+2 – O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim
+3 - A motivação e os critérios para a escolha do site? | Sim
+4 - O planejamento e avaliação dos sites selecionados? | Incompleto
+5 - Vídeo de apresentação na categoria “não listado” no youtube? | Sim
+6 - Referências bibliográficas e/ou bibliografia em todos os artefatos? | Sim
+7 - As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim
+8 – Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”? | Sim
+9 - Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | Sim
+10 - O cronograma do planejamento do projeto apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim
+11 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? | Sim
+12 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | Sim
+13 – A gravação da reunião do grupo. | Sim
+14 – Os artefatos: planejamento do projeto, equipe, lista de sites avaliados, site selecionado para o projeto da disciplina, ferramentas do projeto, processo de design, cronograma das atividades? | Sim
+15 – A justificativa da escolha do Processo de Design? | Sim
 
 <p><b>Tabela 1:</b> Lista de avaliação para entrega 1</p>
 
@@ -60,3 +60,4 @@ Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_res
 | ------ | :--------: | --------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 02/10/2023 | Criação e estruturação do arquivo | [Ana Catarina](https://github.com/an4catarina) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.1    | 02/10/2023 | Adição de checklist e referencias | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30)      |
+| 1.2    | 04/10/2023 | Respondendo checklist             | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30)      |
