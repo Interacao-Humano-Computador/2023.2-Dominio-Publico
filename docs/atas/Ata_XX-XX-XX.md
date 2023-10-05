@@ -7,9 +7,11 @@ Início: | Fim:
 <!-- Colocar um ✅ se o participante estiver presente ou um ❌ caso negativo -->
 Na Tabela 1, são apresentados os participantes da reunião juntamente com os indicadores que demonstram se estão presentes ou não, onde ✅ significa que o participante está presente e ❌ significa que o participante não compareceu à reunião.
 
+
 <p style="text-align: center"><font size="2">Tabela 1: Participantes Convocados e Presença na Reunião</font></p>
 
 <center>
+
 
 <table align="center">
   <tr>
@@ -24,7 +26,9 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
   <tr><td>Victor Hugo</td><td>211063256</td><td>✅</td></tr>
 </table>
 
+
 </center>
+
 
 ## Pautas
 
@@ -44,7 +48,8 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 
 <!-- compromissos que foram definidos para os integrantes, a data de entrega e os revisores, para facilitar o trabalho, pode pedir
 para o chat GPT formar a tabela em HTML -->
-Na reunião, foram definidos compromissos para os participantes executarem com o objetivo de dar continuidade ao projeto. Os compromissos,a pessoa responsável, a data da entrega e o revisor estão especificados na taela 2.
+Na reunião, foram definidos compromissos para os participantes executarem com o objetivo de dar continuidade ao projeto. Os compromissos,a pessoa responsável, a data da entrega e o revisor estão especificados na tabela 2.
+
 
 <p style="text-align: center"><font size="2">Tabela 2: Compromisso dos participantes decididos da reunião</font></p>
 
@@ -58,7 +63,9 @@ Na reunião, foram definidos compromissos para os participantes executarem com o
     </tr><tr><td>Planejamento da metodologia organizacional do grupo</td><td>Maria Alice</td><td>25/10/2023</td><td>Gustavo</td>
 </table>
 
+
 </center>
+
 
 ## Gravação da reunião
 
