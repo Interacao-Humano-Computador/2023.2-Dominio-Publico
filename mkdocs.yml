@@ -55,6 +55,7 @@ nav:
       - Ata 3: atas/Ata_28-09-2023.md
   - Apresentações:
       - Apresentação 1: apresentacao/apresentacao_1.md
+      - Apresentação 2: apresentacao/apresentacao_2.md
   - Planejamento do projeto:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
@@ -62,6 +63,12 @@ nav:
       - Processo de Design: planejamento/processo-design.md
       - Sites avaliados: planejamento/sites_avaliados.md
       - Site escolhido: planejamento/site_escolhido.md
+  - Análise de Requisitos:
+      - Aspectos Éticos: analise-requisitos/aspectos-eticos.md
+      - Perfil de Usuários: analise-requisitos/perfil-usuario.md
+      - Personas: analise-requisitos/persona.md
+      - Cenarios: analise-requisitos/cenario.md
+      - Análise de Tarefas: analise-requisitos/analise-tarefas.md
       
 
 # Extensions
