@@ -62,7 +62,11 @@ nav:
       - Processo de Design: planejamento/processo-design.md
       - Sites avaliados: planejamento/sites_avaliados.md
       - Site escolhido: planejamento/site_escolhido.md
-      
+  - Análise de Requisitos: 
+      - Aspectos éticos: analise-requisitos/aspectos-eticos.md
+      - Perfil de Usuário: analise-requisitos/perfil-usuario.md
+      - Cenários: analise-requisitos/cenarios.md
+      - Personas: analise-requisitos/personas.md
 
 # Extensions
 markdown_extensions:

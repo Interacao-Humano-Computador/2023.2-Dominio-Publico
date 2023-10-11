@@ -25,8 +25,9 @@
 | Miro               | Interação sobre o produto com os usuários. <a id="anchor_8" href="#FRM8">8</a>                                    |
 | MkDocs             | Criação de páginas de documentação. <a id="anchor_9" href="#FRM9">9</a>                                           |
 | Telegram           | Canal de comunicação principal entre a equipe. <a id="anchor_10" href="#FRM10">10</a>                             |
-| Visual Studio Code | IDE destinado ao desenvolvimento e edição dos arquivos de documentação. <a id="anchor_11" href="#FRM11">11</a>    |
-| YouTube            | Plataforma de hospedagem de vídeos produzidos. <a id="anchor_12" href="#FRM12">12</a>                             |
+| This Person Does Not Exist           | Gerador de Personas. <a id="anchor_11" href="#FRM11">11</a>                             |
+| Visual Studio Code | IDE destinado ao desenvolvimento e edição dos arquivos de documentação. <a id="anchor_12" href="#FRM12">12</a>    |
+| YouTube            | Plataforma de hospedagem de vídeos produzidos. <a id="anchor_13" href="#FRM13">13</a>                             |
 
 
 </center>
@@ -55,9 +56,11 @@
 >
 > <a id="FRM11" href="#anchor_10">10.</a> Telegram. Disponível em: [https://web.telegram.org/](). Acesso em: 27 de set. de 2023.
 >
-> <a id="FRM5" href="#anchor 11">11.</a> Visual Studio Code. Disponível em: [https://code.visualstudio.com/](). Acesso em: 27 de set. de 2023.
+> <a id="FRM11" href="#anchor_11">11.</a> This Person Does Not Exist. Disponível em: [https://this-person-does-not-exist.com/en](). Acesso em: 10 de out. de 2023.
 >
-> <a id="FRM7" href="#anchor_12">12.</a> YouTube. Disponível em: [https://www.youtube.com/](). Acesso em: 27 de set. de 2023.
+> <a id="FRM5" href="#anchor 12">12.</a> Visual Studio Code. Disponível em: [https://code.visualstudio.com/](). Acesso em: 27 de set. de 2023.
+>
+> <a id="FRM7" href="#anchor_13">13.</a> YouTube. Disponível em: [https://www.youtube.com/](). Acesso em: 27 de set. de 2023.
 
 
 
