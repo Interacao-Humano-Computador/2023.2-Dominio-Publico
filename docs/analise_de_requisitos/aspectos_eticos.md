@@ -28,4 +28,4 @@ Sempre que a pesquisa envolver seres humanos, o grupo deve utilizar ao modelo de
 
 | Versão | Data       | Descrição                   | Autor(es)                                                                                       | Revisor(es) |
 | ------ | ---------- | --------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
-| 1.0    | 01/10/2023 | Estrutura do Site escolhido | [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf) |             |
+| 1.0    | 10/10/2023 | Estrutura do Site escolhido | [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf) |             |
