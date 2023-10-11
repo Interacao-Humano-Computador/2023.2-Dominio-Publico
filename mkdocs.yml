@@ -62,6 +62,13 @@ nav:
       - Processo de Design: planejamento/processo-design.md
       - Sites avaliados: planejamento/sites_avaliados.md
       - Site escolhido: planejamento/site_escolhido.md
+  - Análise de Requisitos: 
+      - Análise de Tarefas:
+        - Análise Hierárquica de Tarefas: Analise_Reqs/analise-de-tarefas/analise_hierarquica_de_tarefas.md
+        - GOMS: Analise_Reqs/analise-de-tarefas/goms.md
+      - Perfil de Usuário: Analise-Reqs/perfil-de-usuario.md
+      - Personas: Analise-Reqs/personas.md
+      - Cenários: Analise-Reqs/cenarios.md
       
 
 # Extensions
