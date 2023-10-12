@@ -64,11 +64,11 @@ nav:
       - Site escolhido: planejamento/site_escolhido.md
   - Análise de Requisitos: 
       - Análise de Tarefas:
-        - Análise Hierárquica de Tarefas: Analise_Reqs/analise-de-tarefas/analise_hierarquica_de_tarefas.md
-        - GOMS: Analise_Reqs/analise-de-tarefas/goms.md
-      - Perfil de Usuário: Analise-Reqs/perfil-de-usuario.md
-      - Personas: Analise-Reqs/personas.md
-      - Cenários: Analise-Reqs/cenarios.md
+        - Análise Hierárquica de Tarefas: analise_de_requisitos/analise-de-tarefas/analise_hierarquica_de_tarefas.md
+        - GOMS: analise_de_requisitos/analise-de-tarefas/goms.md
+      - Perfil de Usuário: analise_de_requisitos/perfil-de-usuario.md
+      - Personas: analise_de_requisitos/personas.md
+      - Cenários: analise_de_requisitos/cenarios.md
       - Aspectos éticos: analise_de_requisitos/aspectos_eticos.md
 
       

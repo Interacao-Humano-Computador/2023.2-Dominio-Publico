@@ -7,21 +7,12 @@
 
 ## Análise Hierárquica de Tarefas
 
-  A abordagem HTA é uma técnica de análise de tarefas que divide uma tarefa complexa em etapas menores e mais gerenciáveis, organizados em uma estrutura hierárquica. O propósito principal é adquirir uma compreensão da estrutura e das relações entre as sub-tarefas, identificar as interdependências e avaliar o desempenho eficaz da tarefa.
+A abordagem HTA é uma técnica de análise de tarefas que divide uma tarefa complexa em etapas menores e mais gerenciáveis, organizados em uma estrutura hierárquica. O propósito principal é adquirir uma compreensão da estrutura e das relações entre as sub-tarefas, identificar as interdependências e avaliar o desempenho eficaz da tarefa.
 
-  Para essa abordagem, são definidos os elementos de uma HTA na Tabela 1 e Figura 1:
-
-  <font size="2"><p style="text-align: center">Figura 1: Notação Diagrama HTA </p></font>
-
-  | Elemento      | Descrição                                                                                   |
-| ------------- | --------------------------------------------------------------------------------------------- |
-| Objetivo      | Um estado desejado final, que necessita ser alcançado por meio do plano|
-| Subobjetivo   | Desmembramento do objetivo principal, a fim de detalhar etapas necessárias para atingir o fim |
-| Plano         | Conta a oredem e caminho necessario para se alcançar o objetivo maior |
-| Operação      | Uma ação a ser realizada pelo usuário, (inputs e entradas),a fim de alcançar a o objetivo, trazendo feedbacks finais |
+Para essa abordagem, são definidos os elementos de uma HTA na Figura 1:
 
 
-<font size="2"><p style="text-align: center">Figura 1: Notação Diagrama HTA </p></font>
+<font size="2"><p style="text-align: center">Figura 1: Elementos de um diagrama HTA </p></font>
 
 ![HTAElements](/docs/assets/analise_de_requisitos/HTAelements.png)
 
@@ -31,17 +22,13 @@
 
 ### Pesquisar por mídia
 
-Nessa tarefa, o usuário possui como objetivo pesquisar por uma mídia. Na Figura 2 está o seu diagrama em HTA e na tabela 1, a sua tabela estruturada.
-
-<center>
+Nessa tarefa o usuário tem por objetivo pesquisar por uma mídia. A figura 2 mostra o Diagrama HTA desenvolvido e a tabela 1 mostra as especificações do diagrama:
 
 <font size="2"><p style="text-align: center">Figura 2: Diagrama da representação HTA da tarefa "Pesquisar por mídia" </p></font>
 
 ![Pesquisar por mídia](/docs/assets/analise_de_requisitos/Pesquisarpormidia.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
-
-</center>
 
 
 <font size="2"><p style="text-align: center">Tabela 1: Tabela da representação HTA da tarefa "Pesquisar por mídia" </p></font>
@@ -59,14 +46,10 @@ Nessa tarefa, o usuário possui como objetivo pesquisar por uma mídia. Na Figur
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
 
-
-
-
 ### Fazer download da mídia
 
 Nessa tarefa o usuário tem por ebjetico fazer o dowload da mídia por ele pesquisada ou encontrada. A figura 3 mostra o Diagrama HTA desenvolvido e a tabela 2 mostra as especificações do diagrama:  
 
-<center>
 
 <font size="2"><p style="text-align: center">Figura 3: Diagrama da representação HTA da tarefa "Fazer download da mídia" </p></font>
 
@@ -74,7 +57,6 @@ Nessa tarefa o usuário tem por ebjetico fazer o dowload da mídia por ele pesqu
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
-</center>
 
 <font size="2"><p style="text-align: center">Tabela 2: Tabela da representação HTA da tarefa "Fazer download da mídia" </p></font>
 
@@ -100,7 +82,6 @@ Nessa tarefa o usuário tem por ebjetico fazer o dowload da mídia por ele pesqu
 
 Nessa tarefa o usuário tem por objetivo acessar a parte de ajuda ao usuário desenvolvida pelo site. A figura 4 apresenta seu diagrama HTA e a tabela 3 suas especificações:
 
-<center>
 
 <font size="2"><p style="text-align: center">Figura 4: Diagrama da representação HTA da tarefa "Acessar ajuda" </p></font>
 
@@ -108,7 +89,6 @@ Nessa tarefa o usuário tem por objetivo acessar a parte de ajuda ao usuário de
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
-</center>
 
 <font size="2"><p style="text-align: center">Tabela 3: Diagrama da representação HTA da tarefa "Acessar ajuda" </p></font>
 
@@ -126,15 +106,12 @@ Nessa tarefa o usuário tem por objetivo acessar a parte de ajuda ao usuário de
 
 Nessa tarefa, o objetivo do usuário é acessar a aba para autores e colaboradores disponível no site em questão. A figura 5 apresenta seu diagram HTA e a tabela 4 suas especificações:  
 
-<center>
 
 <font size="2"><p style="text-align: center">Figura 5: Diagrama da representação HTA da tarefa "Acessar aba para autores/colaboradores" </p></font>
 
 ![Autores e colab](/docs/assets/analise_de_requisitos/Acessar_aut_colab.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
-
-</center>
 
 
 
@@ -160,7 +137,7 @@ Nessa tarefa, o objetivo do usuário é acessar a aba para autores e colaborador
 
 Nessa tarefa, o usuário tem por objetivo acessar a área de estatísticas do site em estudo. A figura 6 apresenta seu diagram HTA e a tabela 5 suas especificações: 
 
-<center>
+
 
 <font size="2"><p style="text-align: center">Figura 6: Diagrama da representação HTA da tarefa "Acessar estatísticas" </p></font>
 
@@ -168,10 +145,9 @@ Nessa tarefa, o usuário tem por objetivo acessar a área de estatísticas do si
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
-</center>
 
 
-<font size="2"><p style="text-align: center">Figura 6: Diagrama da representação HTA da tarefa "Acessar estatísticas" </p></font>
+<font size="2"><p style="text-align: center">Tabela 5: Diagrama da representação HTA da tarefa "Acessar estatísticas" </p></font>
 
 | Objetivos / Operações | Relações | Problemas e Recomendações |
 |-----------------------|----------|---------------------------|
@@ -193,8 +169,6 @@ Nessa tarefa, o usuário tem por objetivo acessar a área de estatísticas do si
 
 ## Bibliografia
 
-> Banco Central do Brasil. Análise Hierárquica de Tarefas. Repositório do Grupo Banco Central da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas. Acesso em: 11 de out. 2023.
->
 > Bilheteria Digital. Análise Hierárquica de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/. Acesso em: 11 de out. 2023.
 >
 > Simples Nacional. Análise de Tarefas. Repositório do Grupo Simples Nacional da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/Analise/. Acesso em: 10 de out 2023.
