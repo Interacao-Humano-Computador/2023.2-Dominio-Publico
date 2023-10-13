@@ -5,7 +5,7 @@
  A análise de tarefas é um processo sistemático e detalhado que visa entender como uma tarefa é executada, onde utilizaremos as abordagens Hierarchical Task Analysis (HTA) e o Goals, Operators, Methods, and Selection rules (GOMS).
 
 
-## Análise Hierárquica de Tarefas
+## HTA (Análise Hierárquica de Tarefas)
 
 A abordagem HTA é uma técnica de análise de tarefas que divide uma tarefa complexa em etapas menores e mais gerenciáveis, organizados em uma estrutura hierárquica. O propósito principal é adquirir uma compreensão da estrutura e das relações entre as sub-tarefas, identificar as interdependências e avaliar o desempenho eficaz da tarefa.
 
