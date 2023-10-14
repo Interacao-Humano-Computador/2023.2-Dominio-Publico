@@ -1,22 +1,26 @@
 # Análise de Tarefas
 
+
+
 ## Introdução
 
- A análise de tarefas é um processo sistemático e detalhado que visa entender como uma tarefa é executada, onde utilizaremos as abordagens Hierarchical Task Analysis (HTA) e o Goals, Operators, Methods, and Selection rules (GOMS).
+A análise de tarefas é um processo sistemático e detalhado que visa entender como uma tarefa é executada, onde utilizaremos as abordagens Hierarchical Task Analysis (HTA) e o Goals, Operators, Methods, and Selection rules (GOMS).
+
+
 
 ## GOMS (Goals, Operators, Methods and Selection Rules)
 
- O método de análise de tarefas GOMS (Goals, Operators, Methods, and Selection rules) é uma técnica de modelagem de tarefas cognitivas. Ele é utilizado para prever a quantidade de tempo necessária para realizar uma tarefa específica, levando em consideração os objetivos do usuário, os operadores mentais e físicos envolvidos, os métodos utilizados e as regras de seleção que governam as escolhas feitas durante a execução da tarefa. O método GOMS foi desenvolvido originalmente por Card, Moran e Newell em 1983.
+O método de análise de tarefas GOMS (Goals, Operators, Methods, and Selection rules) é uma técnica de modelagem de tarefas cognitivas. Ele é utilizado para prever a quantidade de tempo necessária para realizar uma tarefa específica, levando em consideração os objetivos do usuário, os operadores mentais e físicos envolvidos, os métodos utilizados e as regras de seleção que governam as escolhas feitas durante a execução da tarefa. O método GOMS foi desenvolvido originalmente por Card, Moran e Newell em 1983.
 
 A análise de tarefas GOMS envolve os seguintes elementos apresentados na tabela 1:
 
 <font size="2"><p style="text-align: center">Tabela 1: Elementos da análise de tarefas GOMS </p></font>
 
-| Elementos              | Descrição                                                                                                        |
-|------------------------|------------------------------------------------------------------------------------------------------------------|
-| Goals (Objetivos)     | Os objetivos representam as metas que o usuário está tentando alcançar ao realizar uma determinada tarefa. Eles podem incluir ações como "abrir um arquivo", "imprimir um documento", "enviar um e-mail", etc. |
-| Operators (Operadores) | Os operadores são as ações mentais e físicas realizadas pelo usuário para atingir os objetivos. Isso inclui operadores cognitivos, como lembrar informações, e operadores físicos, como pressionar botões ou mover o mouse. |
-| Methods (Métodos)      | Os métodos referem-se à sequência de operadores que são usados para atingir um objetivo específico. Eles descrevem a estratégia ou plano que o usuário segue para realizar uma tarefa. |
+| Elementos                           | Descrição                                                                                                                                                                                                                            |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Goals (Objetivos)                   | Os objetivos representam as metas que o usuário está tentando alcançar ao realizar uma determinada tarefa. Eles podem incluir ações como "abrir um arquivo", "imprimir um documento", "enviar um e-mail", etc.                       |
+| Operators (Operadores)              | Os operadores são as ações mentais e físicas realizadas pelo usuário para atingir os objetivos. Isso inclui operadores cognitivos, como lembrar informações, e operadores físicos, como pressionar botões ou mover o mouse.          |
+| Methods (Métodos)                   | Os métodos referem-se à sequência de operadores que são usados para atingir um objetivo específico. Eles descrevem a estratégia ou plano que o usuário segue para realizar uma tarefa.                                               |
 | Selection rules (Regras de seleção) | As regras de seleção são as diretrizes que governam as decisões feitas pelo usuário durante a execução da tarefa. Elas determinam como o usuário escolhe entre diferentes métodos e operadores disponíveis para atingir um objetivo. |
 
 <font size="2"><p style="text-align: center">Fonte: BARBOSA e SILVA, 2011  <a id="anchor_1" href="#FRM1">¹</a></p></font>
@@ -31,6 +35,8 @@ Para utilizar o método GOMS, você geralmente realiza as seguintes etapas:
 
 Ao aplicar o método GOMS, é possível quantificar e prever o tempo que os usuários levarão para realizar uma tarefa específica, o que pode ser útil para projetar interfaces mais eficientes e compreender melhor o processo cognitivo dos usuários durante a interação com um sistema.
 
+
+
 ### Pesquisar por mídia
 
 Nessa tarefa, o usuário tem como objetivo pesquisar uma midia desejada .
@@ -40,6 +46,7 @@ Nessa tarefa, o usuário tem como objetivo pesquisar uma midia desejada .
 ![GOMSPesquisarporMidia](../../assets/analise_de_requisitos/GOMSPesquisarmidia.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
+
 
 
 ### Fazer download da mídia
@@ -53,6 +60,7 @@ Nessa tarefa, o usuário tem como objetivo realizar um download da mídia escolh
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
 
+
 ### Acessar ajuda
 
 Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar ajuda.
@@ -62,6 +70,7 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar ajuda.
 ![GOMSAjuda](../../assets/analise_de_requisitos/GOMSEncontrarAjuda.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
+
 
 
 ### Acessar aba para autores/colaboradores
@@ -75,35 +84,38 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para colaborar com 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
 
+
 ### Acessar estatísticas
 
 Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar estatísticas sobre o site.
 
-
 <font size="2"><p style="text-align: center">Figura 1: Descrição GOMS da tarefa "Acessar estatísticas"</p></font>
-
 
 ![GOMStatistics](../../assets/analise_de_requisitos/GOMStatistics.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
+
+
 
 ## Referências Bibliográficas
 
 > <a id="FRM3" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 >
 > Prates, R. Modelagem de tarefas. Disponível em: https://homepages.dcc.ufmg.br/~rprates/ihc/aula14_modelagem_tarefas.pdf. Acesso em: 13 de out. 2023
->
+
+
 
 ## Bibliografia
 
 > Bilheteria Digital. Análise Hierárquica de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/. Acesso em: 13 de out. 2023.
 >
 > Lichess. Análise de Tarefas. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/analise_requisitos/analise_tarefas/. Acesso em: 13 de out 2023.
->
+
+
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição            | Autor(es)                                                                            | Revisor(es)                              |
-| ------ | ---------- | -------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------- |
-| 1.0   | 11/10/2023 | Criação do documento GOMS | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo) |
-|
+| Versão | Data       | Descrição                 | Autor(es)                                                                                              | Revisor(es)                                                                                                                                     |
+| ------ | ---------- | ------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.0    | 11/10/2023 | Criação do documento GOMS | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo) |
+|        |
