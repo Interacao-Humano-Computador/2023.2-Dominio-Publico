@@ -1,15 +1,15 @@
 <h1 align="center"> Dominio Publico </h1>
 <h3 align="center"> 2023.2 </h3>
 
-## 💡 Sobre
+## Sobre
 
-<p>O Portal Domínio Público foi reconstruído por estudantes da disciplina Interação Humano Computador, Engenharia de Software (UnB) com o intuito de garantir uma melhor experiência ao usuário.</p>
+O Portal Domínio Público foi reconstruído por estudantes da disciplina Interação Humano Computador, Engenharia de Software (UnB) com o intuito de garantir uma melhor experiência ao usuário.
 
-<p> O Portal Domínio Público brasileiro é uma iniciativa do Governo Federal do Brasil que oferece acesso gratuito a uma vasta coleção de conteúdo cultural e educacional. O site é uma plataforma digital que disponibiliza obras literárias, artísticas, científicas e educacionais que já estão em domínio público, ou seja, que não estão mais sujeitas a direitos autorais e podem ser utilizadas livremente pelo público em geral.</p>
+ O Portal Domínio Público brasileiro é uma iniciativa do Governo Federal do Brasil que oferece acesso gratuito a uma vasta coleção de conteúdo cultural e educacional. O site é uma plataforma digital que disponibiliza obras literárias, artísticas, científicas e educacionais que já estão em domínio público, ou seja, que não estão mais sujeitas a direitos autorais e podem ser utilizadas livremente pelo público em geral.
 
-<p>Além de disponibilizar o acesso a obras em domínio público, o Portal Domínio Público também promove a disseminação da cultura e do conhecimento no Brasil, contribuindo para a democratização do acesso à informação. É uma ferramenta de grande importancia para o enriquecimento cultural e educacional da sociedade brasileira.</p>
+Além de disponibilizar o acesso a obras em domínio público, o Portal Domínio Público também promove a disseminação da cultura e do conhecimento no Brasil, contribuindo para a democratização do acesso à informação. É uma ferramenta de grande importancia para o enriquecimento cultural e educacional da sociedade brasileira.
 
-## 👥 Membros da equipe
+## Membros da equipe
 
 
 <center>
@@ -61,7 +61,7 @@
     
 </center>
 
-## 📒 Documentação
+## Documentação
 A documentação do projeto está disponivel nesse [link](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
 
 ## Instruções para colaboradores
@@ -96,7 +96,7 @@ $ python -m mkdocs serve
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 26/09/2023 | Criação da página                         | [Luciano Ricardo](https://github.com/l-ricardo) | [Maria Alice](https://github.com/Maliz30)      |
-| 1.1    | 28/09/2023 | Atualização da distribuição de informação | [Gustavo](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
-|1.2     | 04/10/2023 | Atualização das informações sobre o site  | [Harryson](https://github.com/harry-cmartin)|[Gustavo](https://github.com/gustavofbs) |
+| 1.1    | 28/09/2023 | Atualização da distribuição de informação | [Gustavo](https://github.com/gustavofbs)        | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.2    | 04/10/2023 | Atualização das informações sobre o site  | [Harryson](https://github.com/harry-cmartin)    | [Gustavo](https://github.com/gustavofbs)       |
 
 </center>

@@ -1,17 +1,18 @@
 # Reunião XX/XX/2023
+
 Início: | Fim: 
 <!-- Este é um arquivo base, para criar uma ata, basta copiá-lo e preencher os dados da reunião -->
+
+
 
 ## Participantes Convocados
 
 <!-- Colocar um ✅ se o participante estiver presente ou um ❌ caso negativo -->
 Na Tabela 1, são apresentados os participantes da reunião juntamente com os indicadores que demonstram se estão presentes ou não, onde ✅ significa que o participante está presente e ❌ significa que o participante não compareceu à reunião.
 
-
-<p style="text-align: center"><font size="2">Tabela 1: Participantes Convocados e Presença na Reunião</font></p>
-
 <center>
 
+<font size="2"><p style="text-align: center">Tabela 1: Participantes Convocados e Presença na Reunião</p></font>
 
 <table align="center">
   <tr>
@@ -26,8 +27,10 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
   <tr><td>Victor Hugo</td><td>211063256</td><td>✅</td></tr>
 </table>
 
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina)</p></font>
 
 </center>
+
 
 
 ## Pautas
@@ -37,6 +40,8 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 -
 -
 
+
+
 ## Decisões
 
 <!-- decisões feitas pela equipe -->
@@ -44,16 +49,17 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 -
 -
 
+
+
 ## Compromissos
 
 <!-- compromissos que foram definidos para os integrantes, a data de entrega e os revisores, para facilitar o trabalho, pode pedir
 para o chat GPT formar a tabela em HTML -->
-Na reunião, foram definidos compromissos para os participantes executarem com o objetivo de dar continuidade ao projeto. Os compromissos,a pessoa responsável, a data da entrega e o revisor estão especificados na tabela 2.
-
-
-<p style="text-align: center"><font size="2">Tabela 2: Compromisso dos participantes decididos da reunião</font></p>
+Na reunião, foram definidos compromissos para os participantes executarem com o objetivo de dar continuidade ao projeto. Os compromissos,a pessoa responsável, a data da entrega e o revisor estão especificados na Tabela 2.
 
 <center>
+
+<font size="2"><p style="text-align: center">Tabela 2: Compromisso dos participantes decididos da reunião</p></font>
 
 <table>
   <tr>
@@ -63,14 +69,19 @@ Na reunião, foram definidos compromissos para os participantes executarem com o
     </tr><tr><td>Planejamento da metodologia organizacional do grupo</td><td>Maria Alice</td><td>25/10/2023</td><td>Gustavo</td>
 </table>
 
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina)</p></font>
 
 </center>
 
 
+
 ## Gravação da reunião
+
+
+
 
 ## Histórico de versões
 
-| Versão | Data  | Descrição | Autor(es) | Revisor(es) |
-| ------ | ----- | --------- | --------- | ----------- |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | --------- | --------- | ----------- |
 
