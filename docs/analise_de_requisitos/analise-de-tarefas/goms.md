@@ -37,7 +37,7 @@ Nessa tarefa, o usuário tem como objetivo pesquisar uma midia desejada .
 
 <font size="2"><p style="text-align: center">Figura 1: Descrição GOMS da tarefa "Pesquisar por mídia"</p></font>
 
-![GOMSPesquisarporMidia](/docs/assets/analise_de_requisitos/GOMSPesquisarmidia.png)
+![GOMSPesquisarporMidia](../../assets/analise_de_requisitos/GOMSPesquisarmidia.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
@@ -48,7 +48,7 @@ Nessa tarefa, o usuário tem como objetivo realizar um download da mídia escolh
 
 <font size="2"><p style="text-align: center">Figura 1: Descrição GOMS da tarefa "Fazer download da mídia"</p></font>
 
-![GOMSFazerDownload](/docs/assets/analise_de_requisitos/GOMSFazerDownload.png)
+![GOMSFazerDownload](../../assets/analise_de_requisitos/GOMSFazerDownload.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
@@ -59,7 +59,7 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar ajuda.
 
 <font size="2"><p style="text-align: center">Figura 1: Descrição GOMS da tarefa "Acessar ajuda"</p></font>
 
-![GOMSAjuda](/docs/assets/analise_de_requisitos/GOMSEncontrarAjuda.png)
+![GOMSAjuda](../../assets/analise_de_requisitos/GOMSEncontrarAjuda.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
@@ -70,7 +70,7 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para colaborar com 
 
 <font size="2"><p style="text-align: center">Figura 1: Descrição GOMS da tarefa "Acessar aba para autores/colaboradores"</p></font>
 
-![GOMSAutCol](/docs/assets/analise_de_requisitos/GOMSAutCol.png)
+![GOMSAutCol](../../assets/analise_de_requisitos/GOMSAutCol.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
@@ -79,9 +79,11 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para colaborar com 
 
 Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar estatísticas sobre o site.
 
+
 <font size="2"><p style="text-align: center">Figura 1: Descrição GOMS da tarefa "Acessar estatísticas"</p></font>
 
-![GOMStatistics](/docs/assets/analise_de_requisitos/GOMStatistics.png)
+
+![GOMStatistics](../../assets/analise_de_requisitos/GOMStatistics.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 

@@ -14,7 +14,7 @@ Para essa abordagem, são definidos os elementos de uma HTA na Figura 1:
 
 <font size="2"><p style="text-align: center">Figura 1: Elementos de um diagrama HTA </p></font>
 
-![HTAElements](/docs/assets/analise_de_requisitos/HTAelements.png)
+![HTAElements](../../assets/analise_de_requisitos/HTAelements.png)
 
 <font size="2"><p style="text-align: center">Fonte: BARBOSA e SILVA, 2011  <a id="anchor_1" href="#FRM1">¹</a></p></font>
 
@@ -26,7 +26,7 @@ Nessa tarefa o usuário tem por objetivo pesquisar por uma mídia. A figura 2 mo
 
 <font size="2"><p style="text-align: center">Figura 2: Diagrama da representação HTA da tarefa "Pesquisar por mídia" </p></font>
 
-![Pesquisar por mídia](/docs/assets/analise_de_requisitos/HTAPesquisarMidia.png)
+![Pesquisar por mídia](../../assets/analise_de_requisitos/HTAPesquisarMidia.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
@@ -53,7 +53,7 @@ Nessa tarefa o usuário tem por ebjetico fazer o dowload da mídia por ele pesqu
 
 <font size="2"><p style="text-align: center">Figura 3: Diagrama da representação HTA da tarefa "Fazer download da mídia" </p></font>
 
-![Dowload](/docs/assets/analise_de_requisitos/HTAFazerDownload.png)
+![Dowload](../../assets/analise_de_requisitos/HTAFazerDownload.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
@@ -85,7 +85,7 @@ Nessa tarefa o usuário tem por objetivo acessar a parte de ajuda ao usuário de
 
 <font size="2"><p style="text-align: center">Figura 4: Diagrama da representação HTA da tarefa "Acessar ajuda" </p></font>
 
-![Acessa ajuda](/docs/assets/analise_de_requisitos/GOMSAcessarAjuda.png)
+![Acessa ajuda](../../assets/analise_de_requisitos/GOMSAcessarAjuda.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
@@ -109,7 +109,7 @@ Nessa tarefa, o objetivo do usuário é acessar a aba para autores e colaborador
 
 <font size="2"><p style="text-align: center">Figura 5: Diagrama da representação HTA da tarefa "Acessar aba para autores/colaboradores" </p></font>
 
-![Autores e colab](/docs/assets/analise_de_requisitos/HTAAutCol.png)
+![Autores e colab](../../assets/analise_de_requisitos/HTAAutCol.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
@@ -141,7 +141,7 @@ Nessa tarefa, o usuário tem por objetivo acessar a área de estatísticas do si
 
 <font size="2"><p style="text-align: center">Figura 6: Diagrama da representação HTA da tarefa "Acessar estatísticas" </p></font>
 
-![Estatisticas](/docs/assets/analise_de_requisitos/HTAStatistics.png)
+![Estatisticas](../../assets/analise_de_requisitos/HTAStatistics.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
