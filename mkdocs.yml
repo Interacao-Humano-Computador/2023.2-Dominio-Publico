@@ -54,19 +54,19 @@ nav:
       - Ata 2: atas/Ata_27-09-2023.md
       - Ata 3: atas/Ata_28-09-2023.md
   - Apresentações:
-      - Apresentação 1: apresentacao/apresentacao_1.md
+      - Apresentação 1: apresentacoes/apresentacao_1.md
   - Planejamento do projeto:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
       - Metodologia: planejamento/metodologia.md
-      - Processo de Design: planejamento/processo-design.md
+      - Processo de Design: planejamento/processo_design.md
       - Sites avaliados: planejamento/sites_avaliados.md
       - Site escolhido: planejamento/site_escolhido.md
   - Análise de Requisitos: 
       - Análise de Tarefas:
-        - HTA: analise_de_requisitos/analise-de-tarefas/hta.md
-        - GOMS: analise_de_requisitos/analise-de-tarefas/goms.md
-      - Perfil de Usuário: analise_de_requisitos/perfil-de-usuario.md
+        - HTA: analise_de_requisitos/analise_de_tarefas/hta.md
+        - GOMS: analise_de_requisitos/analise_de_tarefas/goms.md
+      - Perfil de Usuário: analise_de_requisitos/perfil_de_usuario.md
       - Personas: analise_de_requisitos/personas.md
       - Cenários: analise_de_requisitos/cenarios.md
       - Aspectos éticos: analise_de_requisitos/aspectos_eticos.md
