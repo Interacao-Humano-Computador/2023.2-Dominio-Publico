@@ -27,7 +27,7 @@ O Scrum pode ser adaptado de acordo com a necessidade da equipe, mas sempre foca
 - Daily: Diariamente, via telegram a partir das 18h
 - Planning, Review e Retrospective: segunda, 19h
 
-Vale ressaltar que a escolha do dia de reunião se baseou em uma planilha de disponibilidade de horários preenchida pela equipe ao início do desenvolvimento. Na figura 2, quanto mais verde uma área, maior a disponibilidade de membros.
+Vale ressaltar que a escolha do dia de reunião se baseou em uma planilha de disponibilidade de horários preenchida pela equipe ao início do desenvolvimento. Na Figura 2, quanto mais verde uma área, maior a disponibilidade de membros.
 
 <center>
 
@@ -65,7 +65,7 @@ Além disso, cada cartão possui as seguinte informações para descrever, organ
 
 O grupo adota a avaliação heurística como um método de avaliação em Interação Humano-Computador (IHC) desenvolvido com o propósito de identificar problemas de usabilidade durante o processo de design em iterações (Nielsen e Molich, 1990; Nielsen, 1993; Nielsen, 1994a). Este método orienta os avaliadores na inspeção, com o intuito de identificar problemas que possam afetar a usabilidade.
 
-A avaliação se baseia em um conjunto de diretrizes de usabilidade que descrevem características desejáveis da interação e da interface, conhecidas como heurísticas, conforme definidas por Nielsen (1993). Na figura 3, seguem as 10 regras:
+A avaliação se baseia em um conjunto de diretrizes de usabilidade que descrevem características desejáveis da interação e da interface, conhecidas como heurísticas, conforme definidas por Nielsen (1993). Na Figura 3, seguem as 10 regras:
 
 <center>
 

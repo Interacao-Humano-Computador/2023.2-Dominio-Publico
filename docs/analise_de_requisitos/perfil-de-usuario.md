@@ -1,3 +1,0 @@
-# Perfil de Usuário
-
-## Introdução
