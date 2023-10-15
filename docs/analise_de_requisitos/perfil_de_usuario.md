@@ -4,7 +4,7 @@
 
 ## Introdução
 
-Segundo Barbosa e Silva (2011) perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado.
+Segundo Barbosa e Silva (2010) perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado.
 
 
 
@@ -177,7 +177,7 @@ Com base nessas duas abordagens podemos montar o perfil do usuario descrito na T
 
 ## Referências 
 
->  BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+>  BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
 
 
