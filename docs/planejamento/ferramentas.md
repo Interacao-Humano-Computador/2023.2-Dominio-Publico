@@ -4,13 +4,15 @@
 
 ## Introdução
 
-<p>No decorrer deste projeto, adotamos um conjunto estratégico de ferramentas para otimizar a organização da equipe, facilitar o gerenciamento e impulsionar a produção dos artefatos necessários. A Tabela 1 apresenta as ferramentas selecionadas:</p>
+No decorrer deste projeto, adotamos um conjunto estratégico de ferramentas para otimizar a organização da equipe, facilitar o gerenciamento e impulsionar a produção dos artefatos necessários. A Tabela 1 apresenta as ferramentas selecionadas:
 
 
 
 ## Ferramentas a serem utilizadas
 
 <center>
+
+<font size="2"><p style="text-align: center">Tabela 1: Ferramentas utilizadas no projeto.</p></font>
 
 | Ferramenta         | Descrição                                                                                                         |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------- |
@@ -26,8 +28,6 @@
 | Telegram           | Canal de comunicação principal entre a equipe. <a id="anchor_10" href="#FRM10">10</a>                             |
 | Visual Studio Code | IDE destinado ao desenvolvimento e edição dos arquivos de documentação. <a id="anchor_11" href="#FRM11">11</a>    |
 | YouTube            | Plataforma de hospedagem de vídeos produzidos. <a id="anchor_12" href="#FRM12">12</a>                             |
-
-**Tabela 1** - Ferramentas utilizadas no projeto.
 
 </center>
 
@@ -63,8 +63,9 @@
 
 ## Histórico de versões
 
-| Versão |    Data    | Descrição                              | Autor(es)                                | Revisor(es)                                    |
-| ------ | :--------: | -------------------------------------- | ---------------------------------------- | ---------------------------------------------- |
-| 1.0    | 27/09/2023 | Criação da página de ferramentas       | [Gustavo](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.1    | 28/09/2023 | Atualização do formato das ferramentas | [Gustavo](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| Versão |    Data    | Descrição                              | Autor(es)                                       | Revisor(es)                                    |
+| ------ | :--------: | -------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 27/09/2023 | Criação da página de ferramentas       | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.1    | 28/09/2023 | Atualização do formato das ferramentas | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.2    | 04/10/2023 | Correção de Erros                      | [Maria Alice](https://github.com/Maliz30)       | [Victor Hugo](https://github.com/ViictorHugoo) |
 
