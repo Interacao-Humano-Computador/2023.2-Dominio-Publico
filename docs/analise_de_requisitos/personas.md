@@ -1,13 +1,29 @@
 # Personas
 
 ## Introdução
-    Personas são personagens fictícios criados a partir de usuários reais, são criados com o proposito de descrever um usuário típico.(Cooper et al., 2007; Pruitt e Adlin, 2006; Cooper, 1999). Para manter todos focados no mesmo alvo durante reuniões de design, são usadas representando um grupo de usuário finais. Após um processo de refinamentos sucessivos, as personas são definidas principalmente por seus objetivos. (Barbosa e Silva, 2010)
-## 
+    Personas são personagens fictícios criados a partir de usuários reais, são criados com o proposito de descrever um usuário típico.<a id="anchor_1" href="#REF1">^1^</a>. Para manter todos focados no mesmo alvo durante reuniões de design, são usadas representando um grupo de usuário finais. Após um processo de refinamentos sucessivos, as personas são definidas principalmente por seus objetivos. <a id="anchor_2" href="#REF2">^2^</a>
+
+## Metodologia 
+    A partir do [perfil de usuário](./perfil_de_usuario.md) foram elabarados os perfis de cada persona. O elenco conta com x, sendo x personas primárias, x personas secundária e x antipersonas. Quantidade estibelecida devido intervalo recomendado por Courage e Baxter<a id="anchor_2" href="#REF2">^2^</a>.
+
+## Elenco de personas
+    As tabelas de x a x representam o elenco estabelecido e as figuras de x a x explicitam as fotos correspondentes as personas.
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 01: Persona primária Fulana de Souza.</p></font>
+
+
+
+</center>
 
 
 ## Referências 
+> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. <br>
+> <a id="REF2" href="#anchor_2">2.</a> Courage, C. & Baxter, K. Understanding your users: a practical guide to user requirements, methods, tools, and techniques. San Francisco, CA: Morgan KaufmannPublishers, 2005.
 
->  BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
+
+## Bibliografia 
+> Personas, Bilheteria Digital. Disponível em: <<interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/personas/>>. Acesso em 15 de outubro de 2023.
 
 ## Histórico de Versões 
 
