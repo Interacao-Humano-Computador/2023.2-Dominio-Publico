@@ -53,14 +53,11 @@ Dessa forma, identificando os comuns usuários do sistema, definimos que temos c
 
 [Avaliação Completa](../assets/avaliacoes/DominioPublico.pdf)
 
-<!-- [Vídeo da avaliação de usabilidade](https://unbbr-my.sharepoint.com/personal/211063210_aluno_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2F211063210%5Faluno%5Funb%5Fbr%2FDocuments%2FEngenharia%20de%20Software%2F5%C2%B0%20Semestre%2FIHC%20%2D%20Intera%C3%A7%C3%A3o%20Humano%20Computador%2FListas%20de%20exerc%C3%ADcios%2FAvalia%C3%A7%C3%A3o%20Individual%2FV%C3%ADdeo%20da%20avalia%C3%A7%C3%A3o%20individual%20%2D%20Dom%C3%ADnio%20P%C3%BAblico%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&ga=1) -->
-
-
+<iframe text-align="center" width="560" height="315" src="https://youtu.be/49GJdbYHexc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Bibliografia
 
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano - Computador, Editora Elsevier, Rio de Janeiro, 2010.
->
 > Ministério da Educação. Domínio Público. Disponível em: http://www.dominiopublico.gov.br/. Acesso em: 01 de out. de 2023.
 
 
@@ -72,5 +69,6 @@ Dessa forma, identificando os comuns usuários do sistema, definimos que temos c
 | 1.0    | 01/10/2023 | Estrutura do Site escolhido | [Maria Alice](https://github.com/Maliz30)       | [Ana Catarina](https://github.com/an4catarina) |
 | 1.1    | 01/10/2023 | Descreve tópicos            | [Gustavo](https://github.com/gustavofbs)        | [Ana Catarina](https://github.com/an4catarina) |
 |1.2     | 04/10/2023 | Adiciona usuários comuns do site| [Harryson](https://github.com/harry-cmartin) |[Gustavo](https://github.com/gustavofbs)|
+|1.3     | 15/10/2023 | Correção de bug e colocação do vídeo como iframe| [Maria Alice](https://github.com/Maliz30) |[Victor Hugo](https://github.com/ViictorHugoo)|
 
 
