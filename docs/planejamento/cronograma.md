@@ -10,7 +10,7 @@ Para planejar as atividades, os recursos e os prazos do projeto o cronograma foi
 
 ## Entregas
 
-O projeto será construido orientado a entregas assíduas, serão 9 entregas e a entrega final. Os prazos e os artefatos necessários para cada entrega estão explicitos na tabela 1.
+O projeto será construido orientado a entregas assíduas, serão 9 entregas e a entrega final. Os prazos e os artefatos necessários para cada entrega estão explicitos na Tabela 1.
 
 <font size="2"><p style="text-align: center">Tabela 1: Entregas Interação Humano Computador 2023.2</p></font>
 

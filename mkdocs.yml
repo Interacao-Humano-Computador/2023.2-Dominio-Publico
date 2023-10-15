@@ -64,7 +64,7 @@ nav:
       - Site escolhido: planejamento/site_escolhido.md
   - Análise de Requisitos: 
       - Análise de Tarefas:
-        - Análise Hierárquica de Tarefas: analise_de_requisitos/analise-de-tarefas/analise_hierarquica_de_tarefas.md
+        - HTA: analise_de_requisitos/analise-de-tarefas/hta.md
         - GOMS: analise_de_requisitos/analise-de-tarefas/goms.md
       - Perfil de Usuário: analise_de_requisitos/perfil-de-usuario.md
       - Personas: analise_de_requisitos/personas.md

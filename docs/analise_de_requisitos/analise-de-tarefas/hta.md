@@ -8,7 +8,7 @@ A análise de tarefas é um processo sistemático e detalhado que visa entender 
 
 
 
-## HTA (Análise Hierárquica de Tarefas)
+## HTA (Hierarchical Task Analysis)
 
 A abordagem HTA é uma técnica de análise de tarefas que divide uma tarefa complexa em etapas menores e mais gerenciáveis, organizados em uma estrutura hierárquica. O propósito principal é adquirir uma compreensão da estrutura e das relações entre as sub-tarefas, identificar as interdependências e avaliar o desempenho eficaz da tarefa.
 
@@ -24,7 +24,7 @@ Para essa abordagem, são definidos os elementos de uma HTA na Figura 1:
 
 ### Pesquisar por mídia
 
-Nessa tarefa o usuário tem por objetivo pesquisar por uma mídia. A figura 2 mostra o Diagrama HTA desenvolvido e a tabela 1 mostra as especificações do diagrama:
+Nessa tarefa o usuário tem por objetivo pesquisar por uma mídia. A Figura 2 mostra o Diagrama HTA desenvolvido e a Tabela 1 mostra as especificações do diagrama:
 
 <font size="2"><p style="text-align: center">Figura 2: Diagrama da representação HTA da tarefa "Pesquisar por mídia" </p></font>
 
@@ -50,7 +50,7 @@ Nessa tarefa o usuário tem por objetivo pesquisar por uma mídia. A figura 2 mo
 
 ### Fazer download da mídia
 
-Nessa tarefa o usuário tem por ebjetico fazer o dowload da mídia por ele pesquisada ou encontrada. A figura 3 mostra o Diagrama HTA desenvolvido e a tabela 2 mostra as especificações do diagrama:  
+Nessa tarefa o usuário tem por ebjetico fazer o dowload da mídia por ele pesquisada ou encontrada. A Figura 3 mostra o Diagrama HTA desenvolvido e a Tabela 2 mostra as especificações do diagrama:  
 
 <font size="2"><p style="text-align: center">Figura 3: Diagrama da representação HTA da tarefa "Fazer download da mídia" </p></font>
 
@@ -80,7 +80,7 @@ Nessa tarefa o usuário tem por ebjetico fazer o dowload da mídia por ele pesqu
 
 ### Acessar ajuda
 
-Nessa tarefa o usuário tem por objetivo acessar a parte de ajuda ao usuário desenvolvida pelo site. A figura 4 apresenta seu diagrama HTA e a tabela 3 suas especificações:
+Nessa tarefa o usuário tem por objetivo acessar a parte de ajuda ao usuário desenvolvida pelo site. A Figura 4 apresenta seu diagrama HTA e a Tabela 3 suas especificações:
 
 <font size="2"><p style="text-align: center">Figura 4: Diagrama da representação HTA da tarefa "Acessar ajuda" </p></font>
 
@@ -102,7 +102,7 @@ Nessa tarefa o usuário tem por objetivo acessar a parte de ajuda ao usuário de
 
 ### Acessar aba para autores/colaboradores
 
-Nessa tarefa, o objetivo do usuário é acessar a aba para autores e colaboradores disponível no site em questão. A figura 5 apresenta seu diagram HTA e a tabela 4 suas especificações:  
+Nessa tarefa, o objetivo do usuário é acessar a aba para autores e colaboradores disponível no site em questão. A Figura 5 apresenta seu diagram HTA e a Tabela 4 suas especificações:  
 
 <font size="2"><p style="text-align: center">Figura 5: Diagrama da representação HTA da tarefa "Acessar aba para autores/colaboradores" </p></font>
 
@@ -130,7 +130,7 @@ Nessa tarefa, o objetivo do usuário é acessar a aba para autores e colaborador
 
 ### Acessar estatísticas
 
-Nessa tarefa, o usuário tem por objetivo acessar a área de estatísticas do site em estudo. A figura 6 apresenta seu diagram HTA e a tabela 5 suas especificações: 
+Nessa tarefa, o usuário tem por objetivo acessar a área de estatísticas do site em estudo. A Figura 6 apresenta seu diagram HTA e a Tabela 5 suas especificações: 
 
 <font size="2"><p style="text-align: center">Figura 6: Diagrama da representação HTA da tarefa "Acessar estatísticas" </p></font>
 

@@ -12,7 +12,7 @@ A análise de tarefas é um processo sistemático e detalhado que visa entender 
 
 O método de análise de tarefas GOMS (Goals, Operators, Methods, and Selection rules) é uma técnica de modelagem de tarefas cognitivas. Ele é utilizado para prever a quantidade de tempo necessária para realizar uma tarefa específica, levando em consideração os objetivos do usuário, os operadores mentais e físicos envolvidos, os métodos utilizados e as regras de seleção que governam as escolhas feitas durante a execução da tarefa. O método GOMS foi desenvolvido originalmente por Card, Moran e Newell em 1983.
 
-A análise de tarefas GOMS envolve os seguintes elementos apresentados na tabela 1:
+A análise de tarefas GOMS envolve os seguintes elementos apresentados na Tabela 1:
 
 <font size="2"><p style="text-align: center">Tabela 1: Elementos da análise de tarefas GOMS </p></font>
 
