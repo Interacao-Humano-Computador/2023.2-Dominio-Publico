@@ -31,7 +31,7 @@ Sempre que a pesquisa envolver seres humanos, o grupo deve utilizar ao modelo de
 
 
 
-## Referências
+## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. Aceso em: 10 de out. de 2023
 
