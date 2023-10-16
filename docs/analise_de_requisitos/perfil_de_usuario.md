@@ -165,7 +165,7 @@ Com base nessas duas abordagens podemos montar o perfil do usuario descrito na T
 | Idade                             | Jovens de 18 à 14 anos                           |
 | Genero                            | Indiferente, devido a proximidade dos resultados |
 | Grau de escolaridade              | Superior incompleto                              |
-| Nível de conhecimento tecnológico | Experiente                                       |
+| Nível de conhecimento tecnológico | Experiente (tecnófilos)                          |
 | Afinidade com leitura             | Leem com frequência mediana                      |
 | Espectativas/Objetivos            | Buscam acessar livros legiveis e gratuitos       |
 
