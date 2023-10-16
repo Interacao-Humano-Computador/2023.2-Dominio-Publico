@@ -33,11 +33,11 @@ Para utilizar o método GOMS, você geralmente realiza as seguintes etapas:
 
 Ao aplicar o método GOMS, é possível quantificar e prever o tempo que os usuários levarão para realizar uma tarefa específica, o que pode ser útil para projetar interfaces mais eficientes e compreender melhor o processo cognitivo dos usuários durante a interação com um sistema.
 
-
+As seguintes tarefas tiveram como apoio os problemas também relacionados na análise de tarefas HTA.
 
 ### Pesquisar por mídia
 
-Nessa tarefa, o usuário tem como objetivo pesquisar uma midia desejada .
+Nessa tarefa, o usuário tem como objetivo pesquisar uma midia desejada.
 
 <font size="2"><p style="text-align: center">Figura 1: Descrição GOMS da tarefa "Pesquisar por mídia"</p></font>
 
