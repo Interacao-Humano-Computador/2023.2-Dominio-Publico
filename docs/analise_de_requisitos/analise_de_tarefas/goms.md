@@ -53,7 +53,7 @@ Nessa tarefa, o usuário tem como objetivo realizar um download da mídia escolh
 
 <font size="2"><p style="text-align: center">Figura 1: Descrição GOMS da tarefa "Fazer download da mídia"</p></font>
 
-![GOMSFazerDownload](../../assets/analise_de_requisitos/GOMSFazerDownload.png)
+![GOMSFazerDownload](../../assets/analise_de_requisitos/GOMSBaixar.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
@@ -65,7 +65,7 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar ajuda.
 
 <font size="2"><p style="text-align: center">Figura 1: Descrição GOMS da tarefa "Acessar ajuda"</p></font>
 
-![GOMSAjuda](../../assets/analise_de_requisitos/GOMSEncontrarAjuda.png)
+![GOMSAjuda](../../assets/analise_de_requisitos/GOMSAcessarajudad.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
@@ -77,7 +77,7 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para colaborar com 
 
 <font size="2"><p style="text-align: center">Figura 1: Descrição GOMS da tarefa "Acessar aba para autores/colaboradores"</p></font>
 
-![GOMSAutCol](../../assets/analise_de_requisitos/GOMSAutCol.png)
+![GOMSAutCol](../../assets/analise_de_requisitos/GOMSAutoresecolab.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
@@ -89,8 +89,7 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar estatí
 
 <font size="2"><p style="text-align: center">Figura 1: Descrição GOMS da tarefa "Acessar estatísticas"</p></font>
 
-![GOMStatistics](../../assets/analise_de_requisitos/GOMStatistics.png)
-
+![GOMStatistics](../../assets/analise_de_requisitos/GOMSEstatisticas.png)
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
 
@@ -119,3 +118,4 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar estatí
 | ------ | ---------- | ------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1.0    | 11/10/2023 | Criação do documento GOMS | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.2    | 15/10/2023 | Corrige introdução e metodologia                     | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina) |
+|1.3     | 16/10/2023 | Conserto das imagens GOMS | [Harryson Martins](https://github.com/harry-cmartin) | [Pedro Henrique](https://github.com/pedro-hsf)|
