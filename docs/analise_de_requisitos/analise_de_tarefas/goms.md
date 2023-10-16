@@ -8,7 +8,7 @@ A análise de tarefas GOMS (Goals, Operators, Methods, and Selection rules), é 
 
 ## GOMS (Goals, Operators, Methods and Selection Rules)
 
-O método de análise de tarefas GOMS (Goals, Operators, Methods, and Selection rules) é uma técnica de modelagem de tarefas cognitivas. Ele é utilizado para prever a quantidade de tempo necessária para realizar uma tarefa específica, levando em consideração os objetivos do usuário, os operadores mentais e físicos envolvidos, os métodos utilizados e as regras de seleção que governam as escolhas feitas durante a execução da tarefa. O método GOMS foi desenvolvido originalmente por Card, Moran e Newell em 1983.
+O método CNM-GOMS (Goals, Operators, Methods, and Selection rules) é uma técnica de modelagem de tarefas cognitivas. Ele é utilizado para prever a quantidade de tempo necessária para realizar uma tarefa específica, levando em consideração os objetivos do usuário, os operadores mentais e físicos envolvidos, os métodos utilizados e as regras de seleção que governam as escolhas feitas durante a execução da tarefa.
 
 A análise de tarefas GOMS envolve os seguintes elementos apresentados na Tabela 1:
 
@@ -99,7 +99,7 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar estatí
 
 > <a id="FRM3" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 >
-> Prates, R. Modelagem de tarefas. Disponível em: https://homepages.dcc.ufmg.br/~rprates/ihc/aula14_modelagem_tarefas.pdf. Acesso em: 13 de out. 2023
+
 
 
 
@@ -108,6 +108,8 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar estatí
 > Bilheteria Digital. Análise Hierárquica de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/. Acesso em: 13 de out. 2023.
 >
 > Lichess. Análise de Tarefas. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/analise_requisitos/analise_tarefas/. Acesso em: 13 de out 2023.
+>
+> Prates, R. Modelagem de tarefas. Disponível em: https://homepages.dcc.ufmg.br/~rprates/ihc/aula14_modelagem_tarefas.pdf. Acesso em: 13 de out. 2023
 
 
 
