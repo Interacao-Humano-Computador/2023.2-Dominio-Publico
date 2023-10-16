@@ -1,12 +1,10 @@
 # Análise de Tarefas
 
-
-
 ## Introdução
 
-A análise de tarefas é um processo sistemático e detalhado que visa entender como uma tarefa é executada, onde utilizaremos as abordagens Hierarchical Task Analysis (HTA) e o Goals, Operators, Methods, and Selection rules (GOMS).
+A análise de tarefas GOMS (Goals, Operators, Methods, and Selection rules), é um técnica que analisa como o usuário se comporta em uma determinada tarefa, podendo ser capaz de prever um desempenho maior na usabilidade de interfaces de usuário e sistemas.
 
-
+# Metodologia
 
 ## GOMS (Goals, Operators, Methods and Selection Rules)
 
@@ -118,4 +116,4 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar estatí
 | Versão | Data       | Descrição                 | Autor(es)                                                                                              | Revisor(es)                                                                                                                                     |
 | ------ | ---------- | ------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1.0    | 11/10/2023 | Criação do documento GOMS | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo) |
-|        |
+| 1.2    | 15/10/2023 | Corrige introdução e metodologia                     | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina) |
