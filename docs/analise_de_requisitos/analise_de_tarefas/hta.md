@@ -50,7 +50,7 @@ Nessa tarefa o usuário tem por objetivo pesquisar por uma mídia. A Figura 2 mo
 
 ### Fazer download da mídia
 
-Nessa tarefa o usuário tem por ebjetico fazer o dowload da mídia por ele pesquisada ou encontrada. A Figura 3 mostra o Diagrama HTA desenvolvido e a Tabela 2 mostra as especificações do diagrama:  
+Nessa tarefa o usuário tem por ebjetico fazer o dowload da mídia por ele pesquisada ou encontrada. No planejamento do site avaliado, essa tarefa está relacionado a heurística "Controle e liberdade do usuário".  A Figura 3 mostra o Diagrama HTA desenvolvido e a Tabela 2 mostra as especificações do diagrama:  
 
 <font size="2"><p style="text-align: center">Figura 3: Diagrama da representação HTA da tarefa "Fazer download da mídia" </p></font>
 
@@ -80,7 +80,7 @@ Nessa tarefa o usuário tem por ebjetico fazer o dowload da mídia por ele pesqu
 
 ### Acessar ajuda
 
-Nessa tarefa o usuário tem por objetivo acessar a parte de ajuda ao usuário desenvolvida pelo site. A Figura 4 apresenta seu diagrama HTA e a Tabela 3 suas especificações:
+Nessa tarefa o usuário tem por objetivo acessar a parte de ajuda ao usuário desenvolvida pelo site. No planejamento do site avaliado, essa tarefa está relacionado a heurística "Visibilidade do status do sistema". A Figura 4 apresenta seu diagrama HTA e a Tabela 3 suas especificações:
 
 <font size="2"><p style="text-align: center">Figura 4: Diagrama da representação HTA da tarefa "Acessar ajuda" </p></font>
 
@@ -102,7 +102,7 @@ Nessa tarefa o usuário tem por objetivo acessar a parte de ajuda ao usuário de
 
 ### Acessar aba para autores/colaboradores
 
-Nessa tarefa, o objetivo do usuário é acessar a aba para autores e colaboradores disponível no site em questão. A Figura 5 apresenta seu diagram HTA e a Tabela 4 suas especificações:  
+Nessa tarefa, o objetivo do usuário é acessar a aba para autores e colaboradores disponível no site em questão. No planejamento do site avaliado, essa tarefa está relacionado a heurística "Controle e liberdade do usuário" e "Projeto estético e minimalista" A Figura 5 apresenta seu diagram HTA e a Tabela 4 suas especificações:  
 
 <font size="2"><p style="text-align: center">Figura 5: Diagrama da representação HTA da tarefa "Acessar aba para autores/colaboradores" </p></font>
 
@@ -130,7 +130,7 @@ Nessa tarefa, o objetivo do usuário é acessar a aba para autores e colaborador
 
 ### Acessar estatísticas
 
-Nessa tarefa, o usuário tem por objetivo acessar a área de estatísticas do site em estudo. A Figura 6 apresenta seu diagram HTA e a Tabela 5 suas especificações: 
+Nessa tarefa, o usuário tem por objetivo acessar a área de estatísticas do site em estudo. No planejamento do site avaliado, essa tarefa está relacionado a heurística "Visibilidade do status do sistema" e "Reconhecimento em vez de memorização" A Figura 6 apresenta seu diagram HTA e a Tabela 5 suas especificações: 
 
 <font size="2"><p style="text-align: center">Figura 6: Diagrama da representação HTA da tarefa "Acessar estatísticas" </p></font>
 
