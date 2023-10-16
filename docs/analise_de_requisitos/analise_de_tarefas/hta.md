@@ -36,11 +36,11 @@ Nessa tarefa o usuário tem por objetivo pesquisar por uma mídia. A Figura 2 mo
 
 | Objetivos / Operações                                 | Relações | Problemas e Recomendações                                                                           |
 | ----------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------- |
-| 0. Pesquisar uma mídia                                |          | input: mídia desejada <br> feedback: a midia desejada é buscada e mostrada <br>                     |
+| 0. Pesquisar uma mídia                                | 1 / 2    | input: mídia desejada <br> feedback: a midia desejada é buscada e mostrada <br>                     |
 | 1. Encontrar mídia na tela                            | 1 > 2    | feedback: é mostrada a mídia na tela inicial <br> plano: clicar no evento mostrado                  |
-| 2. Pesquisar nos campos de pesquisa                   | 1 > 2    | input: dados desejados para pesquisa <br>  plano: digitar a mídia e ser redirecionado a seu arquivo |
 | 1.1 Clicar na mídia desejada                          |          | feedback: é redirecionado a pagina de dowload <br> plano: clicar na midia                           |
 | 1.2 Entrar na página de encontro da mídia selecionada |          | feedback: usuário direcionado a pagina da mídia                                                     |
+| 2. Pesquisar nos campos de pesquisa                   | 1 > 2    | input: dados desejados para pesquisa <br>  plano: digitar a mídia e ser redirecionado a seu arquivo |
 | 2.1 Preencher campo de pesquisa desejado              |          | input: nome da mídia <br> plano: preencher os campos e pesquisar                                    |
 | 2.2 Gerar pesquisa                                    |          | feedback: usuário redirecionado a página da pesquisa <bt> plano: encontrar a mídia desejada         |
 
@@ -62,13 +62,13 @@ Nessa tarefa o usuário tem por ebjetico fazer o dowload da mídia por ele pesqu
 
 | Objetivos / Operações                                 | Relações | Problemas e Recomendações                                                                                     |
 | ----------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------- |
-| 0. Baixar uma mídia                                   |          | feedback: mostrado o arquivo baixado <br> plano: usuário deve ser capaz de baixar e acessar o arquivo         |
+| 0. Baixar uma mídia                                   | 1 / 2    | feedback: mostrado o arquivo baixado <br> plano: usuário deve ser capaz de baixar e acessar o arquivo         |
 | 1. Encontrar mídia na tela                            | 1 > 2    | feedback: usuário é redirecionado a página correspondente                                                     |
-| 2. Pesquisar nos campos de pesquisa                   | 1 > 2    | input: nomes das mídias desejadas <br> plano: usuário deve preencher os campos, pesquisar e ser correspondido |
 | 1.1 Clicar na mídia desejada                          |          | feedback: usuário é redirecionado a tela da mídia clicada                                                     |
 | 1.2 Entrar na página de encontro da mídia selecionada |          | feedback: é mostrado as características da mídia                                                              |
 | 1.3 Selecionar a mídia                                |          | feedback: o usuário é redirecionado a página correspondente                                                   |
 | 1.4 Clicar em baixar mídia                            |          | feedback: é mostrado o arquivo baixado <br> plano: o usuário deve ser capaz de acessar e utilizar o dowload   |
+| 2. Pesquisar nos campos de pesquisa                   | 1 > 2    | input: nomes das mídias desejadas <br> plano: usuário deve preencher os campos, pesquisar e ser correspondido |
 | 2.1 Preencher campo de pesquisa desejado              |          | plano: usuário deve preencher os campos, pesquisar e encontrar a mídia                                        |
 | 2.2 Gerar pesquisa                                    |          |                                                                                                               |
 | 2.3 Selecionar a mídia                                |          |                                                                                                               |
@@ -84,7 +84,7 @@ Nessa tarefa o usuário tem por objetivo acessar a parte de ajuda ao usuário de
 
 <font size="2"><p style="text-align: center">Figura 4: Diagrama da representação HTA da tarefa "Acessar ajuda" </p></font>
 
-![Acessa ajuda](../../assets/analise_de_requisitos/GOMSAcessarAjuda.png)
+![Acessa ajuda](../../assets/analise_de_requisitos/HTAAcessarAjuda.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
@@ -92,7 +92,7 @@ Nessa tarefa o usuário tem por objetivo acessar a parte de ajuda ao usuário de
 
 | Objetivos / Operações                   | Relações | Problemas e Recomendações                                                                                                                 |
 | --------------------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 0. Acessar página de ajuda              |          |                                                                                                                                           |
+| 0. Acessar página de ajuda              | 1 / 2    |                                                                                                                                           |
 | 1. Selecionar "ajuda" na tela principal | 1 > 2    | feedback: o usuário é redirecionado a página correspondente <br> plano: o usúario deve acessar a página e encontrar a ajuda que necessita |
 | 2. Selecionar a opção de ajuda desejada |          | feedback: é mostrado as opções relacionadas a seleção do usuário                                                                          |
 
@@ -115,12 +115,12 @@ Nessa tarefa, o objetivo do usuário é acessar a aba para autores e colaborador
 
 | Objetivos / Operações                         | Relações | Problemas e Recomendações                                                                                                                    |
 | --------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0. Acessar página para autores de obras       |          |                                                                                                                                              |
+| 0. Acessar página para autores de obras       | 1 / 2    |                                                                                                                                              |
 | 1. Acessar página através da página principal | 1 > 2    |                                                                                                                                              |
-| 2. Acessar aba "Quero colaborar"              | 1 > 2    | feedback: o usuário é redirecionadoa página correspondente <br> plano: o usuário deve ver as opções dispóniveis para autores e colaboradores |
 | 1.1 Informar CPF                              |          |                                                                                                                                              |
 | 1.2 Informar letras para segurança            |          |                                                                                                                                              |
 | 1.3 Selecionar botão enviar                   |          | feedback: o usuário deve ser redirecionado a aba dos autores                                                                                 |
+| 2. Acessar aba "Quero colaborar"              | 1 > 2    | feedback: o usuário é redirecionadoa página correspondente <br> plano: o usuário deve ver as opções dispóniveis para autores e colaboradores |
 | 2.1 Selecionar como quer colaborar            |          | feedback: é redirecionado para a página de instruções da opção selecionada                                                                   |
 | 2.2 Enviar email conforme orientado na página |          | plano: o usuário ao enviar email deve ser correspondido pelo destinatário                                                                    |
 
@@ -142,7 +142,7 @@ Nessa tarefa, o usuário tem por objetivo acessar a área de estatísticas do si
 
 | Objetivos / Operações                               | Relações | Problemas e Recomendações                                                                                                                                              |
 | --------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0. Acessar área de estatísticas                     |          |                                                                                                                                                                        |
+| 0. Acessar área de estatísticas                     | 1 / 2    |                                                                                                                                                                        |
 | 1. Acessar aba "Estatísticas" pela página principal | 1 > 2    | feedback: o usuário deve ser redirecionado a página de estatisticas <br> palno: ao acessar a página o usuário é capaz de acessar as opções de estatisticas disponíveis |
 | 1.1 Obras mais acessadas                            |          | plano: o usuário deve poder ver as obras mais acessadas                                                                                                                |
 | 1.1.1 Pesquisar obra                                |          | plano: o usuário deve poder pesquisar dentro das obras mais acessadas                                                                                                  |
