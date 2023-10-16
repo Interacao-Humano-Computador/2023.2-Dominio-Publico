@@ -7,11 +7,12 @@ Personas são personagens fictícios criados a partir de usuários reais, são c
 A partir do [perfil de usuário](./perfil_de_usuario.md) foram elabarados os perfis de cada persona. O elenco conta com x, sendo x personas primárias, x personas secundária e x antipersonas. Quantidade estibelecida devido intervalo recomendado por Courage e Baxter<a id="anchor_2" href="#REF2">²</a>.
 
 ## Elenco de personas
-As tabelas de x a x representam o elenco estabelecido e as figuras de x a x explicitam as fotos correspondentes as personas.
+As tabelas de 1 a 4 representam o elenco estabelecido e as figuras de 1 a 4 explicitam as fotos correspondentes as personas.
 
 <center>
 <font size="2"><p style="text-align: center">Tabela 01: Persona primária Fulana de Souza.</p></font>
 </center>
+
 
 
 ## Referências 
