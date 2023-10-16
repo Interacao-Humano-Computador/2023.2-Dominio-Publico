@@ -65,7 +65,7 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar ajuda.
 
 <font size="2"><p style="text-align: center">Figura 1: Descrição GOMS da tarefa "Acessar ajuda"</p></font>
 
-![GOMSAjuda](../../assets/analise_de_requisitos/GOMSAcessarajudad.png)
+![GOMSAjuda](../../assets/analise_de_requisitos/GOMSAcessarAjuda.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
