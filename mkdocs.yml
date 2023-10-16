@@ -63,13 +63,14 @@ nav:
       - Sites avaliados: planejamento/sites_avaliados.md
       - Site escolhido: planejamento/site_escolhido.md
   - Análise de Requisitos: 
-      - Análise de Tarefas:
-        - HTA: analise_de_requisitos/analise_de_tarefas/hta.md
-        - GOMS: analise_de_requisitos/analise_de_tarefas/goms.md
+      
+      - Aspectos éticos: analise_de_requisitos/aspectos_eticos.md
       - Perfil de Usuário: analise_de_requisitos/perfil_de_usuario.md
       - Personas: analise_de_requisitos/personas.md
       - Cenários: analise_de_requisitos/cenarios.md
-      - Aspectos éticos: analise_de_requisitos/aspectos_eticos.md
+      - Análise de Tarefas:
+        - HTA: analise_de_requisitos/analise_de_tarefas/hta.md
+        - GOMS: analise_de_requisitos/analise_de_tarefas/goms.md
 
       
 

@@ -1,11 +1,11 @@
 # Análise de Tarefas
 
-
-
 ## Introdução
 
-A análise de tarefas é um processo sistemático e detalhado que visa entender como uma tarefa é executada, onde utilizaremos as abordagens Hierarchical Task Analysis (HTA) e o Goals, Operators, Methods, and Selection rules (GOMS).
+ A análise de tarefas é um processo sistemático e detalhado que visa entender como uma tarefa é executada, e para esta primeira etapa uitilizaremos o HTA (Análise Hierárquica de Tarefas), no qual o seu objetivo é decompor as tarefas encontradas para captarmos o que pode ser melhorado em determinada tarefa.
 
+
+# Metodologia
 
 
 ## HTA (Hierarchical Task Analysis)
@@ -173,9 +173,7 @@ Nessa tarefa, o usuário tem por objetivo acessar a área de estatísticas do si
 
 | Versão | Data       | Descrição                                | Autor(es)                                                                                              | Revisor(es)                                    |
 | ------ | ---------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------- |
-| 1.0    | 11/10/2023 | Criação do Documento                     | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.0    | 11/10/2023 | Criação do Artefato                     | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.1    | 11/10/2023 | Adição da Analise Hierarquica de Tarefas | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Maria Alice](https://github.com/Maliz30)      |
 | 1.2    | 11/10/2023 | Adição dos diagramas HTA                 | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
-
-
-
+| 1.3    | 15/10/2023 | Corrige introdução e metodologia                     | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina) |
