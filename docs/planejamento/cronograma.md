@@ -108,15 +108,15 @@ Na Tabela 5, tem-se o <b>cronograma executado</b> para todas as atividades da se
 
 | Atividade                                     | Período de desenvolvimento | Responsáveis | Periodo de Revisão | Revisores |
 | --------------------------------------------- | -------------------------- | ------------ | ------------------ | --------- |
-| Perfil do usuário                             |                            |              |                    |           |
-| Personas                                      |                            |              |                    |           |
-| Pesquisa sobre ética                          |                            |              |                    |           |
-| Execução do documento de pesquisa sobre ética |                            |              |                    |           |
-| Análise de tarefas: HTA                       |                            |              |                    |           |
-| Implementar Git Pages                         |                            |              |                    |           |
-| Gravar apresentação                           |                            |              |                    |           |
-| Edição da gravação                            |                            |              |                    |           |
-| Correção pós apresentação                     |                            |              |                    |           |
+| Perfil do usuário                             |Inicio: 08/10 <br>Fim: 14/10|Luciano Ricardo| 15/10             |Maria Alice|
+| Personas                                      |Inicio: 08/10 <br>Fim: 14/10|Victor Hugo    | 15/10             |Harryson Martins|
+| Pesquisa sobre ética                          |Inicio: 08/10 <br>Fim: 10/10|Ana Catarina e Pedro Henrique|10/10|Victor Hugo|
+| Execução do documento de pesquisa sobre ética |Inicio: 08/10 <br>Fim: 14/10|Ana Catarina e Pedro Henrique|10/10|Luciano Ricardo |
+| Análise de tarefas: HTA                       |Inicio: 08/10 <br>Fim: 10/10|Harryson e Gustavo|14/10           |Ana Catarina    |
+| Implementar Git Pages                         |Inicio: 08/10 <br>Fim: 10/10|Todos         |10/10               |Gustavo França  |
+| Gravar apresentação                           |Inicio: 16/10 <br>Fim: 16/10|Ana Catarina  |16/10               |Pedro Henrique  |
+| Edição da gravação                            |Inicio: 16/10 <br>Fim: 16/10|Ana Catarina  |16/10               |Pedro Henrique  |
+| Correção pós apresentação                     |Inicio: 08/10 <br>Fim: 16/10|Todos         |16/10               |Harryson Martins|
 
 </center>
 
