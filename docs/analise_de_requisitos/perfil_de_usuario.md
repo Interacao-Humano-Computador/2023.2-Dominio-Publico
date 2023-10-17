@@ -42,7 +42,7 @@ Ao utilizar a ferramenta de tráfico de rede [Similarweb](https://www.similarweb
 
 ## Resultados do questionário
 
-O questionário teve um total de 7 perguntas de aspectos gerais do site e foi respondido por XX pessoas. Para as perguntas houve um enfoque no tipo de conteudo majoritario do site, que são livros de dominio publico. O questionário tambem contou com um Termo de Consentimento Livre e Esclarecido confome descrito na secçao de [aspectos éticos](aspectos_eticos.md)
+O questionário teve um total de 7 perguntas de aspectos gerais do site e foi respondido por 26 pessoas. Para as perguntas houve um enfoque no tipo de conteudo majoritario do site, que são livros de dominio publico. O questionário tambem contou com um Termo de Consentimento Livre e Esclarecido confome descrito na secçao de [aspectos éticos](aspectos_eticos.md)
 
 As perguntas e respostas do questionário serão descritas a seguir.
 
