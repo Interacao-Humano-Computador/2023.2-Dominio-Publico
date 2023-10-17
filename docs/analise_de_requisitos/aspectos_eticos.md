@@ -29,11 +29,13 @@ Sempre que a pesquisa envolver seres humanos, o grupo deve utilizar ao modelo de
 
 </center>
 
+## Referências Bibliográficas
 
+> BRASIL. Resolução nº 466, de 12 de dezembro de 2012, que trata de pesquisas em seres humanos e atualiza a resolução 196. Brasília, DF: Diário Oficial da União, 2013. Disponível em: <https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>. Acesso em:  10 de out. de 2023.
 
 ## Bibliografia
 
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. Aceso em: 10 de out. de 2023
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. Aceso em: 10 de out. de 2023.
 
 > Aspectos éticos - Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/apresentacao/apresentacao1/>>. Acesso em 10 de out. de 2023.
 
