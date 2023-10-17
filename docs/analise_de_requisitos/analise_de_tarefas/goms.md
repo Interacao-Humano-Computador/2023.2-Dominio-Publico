@@ -4,7 +4,7 @@
 
 A análise de tarefas GOMS (Goals, Operators, Methods, and Selection rules), é um técnica que analisa como o usuário se comporta em uma determinada tarefa, podendo ser capaz de prever um desempenho maior na usabilidade de interfaces de usuário e sistemas.
 
-# Metodologia
+## Metodologia
 
 ## GOMS (Goals, Operators, Methods and Selection Rules)
 
@@ -51,7 +51,7 @@ Nessa tarefa, o usuário tem como objetivo pesquisar uma midia desejada.
 
 Nessa tarefa, o usuário tem como objetivo realizar um download da mídia escolhida.
 
-<font size="2"><p style="text-align: center">Figura 1: Descrição GOMS da tarefa "Fazer download da mídia"</p></font>
+<font size="2"><p style="text-align: center">Figura 2: Descrição GOMS da tarefa "Fazer download da mídia"</p></font>
 
 ![GOMSFazerDownload](../../assets/analise_de_requisitos/GOMSBaixar.png)
 
@@ -63,9 +63,9 @@ Nessa tarefa, o usuário tem como objetivo realizar um download da mídia escolh
 
 Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar ajuda.
 
-<font size="2"><p style="text-align: center">Figura 1: Descrição GOMS da tarefa "Acessar ajuda"</p></font>
+<font size="2"><p style="text-align: center">Figura 3: Descrição GOMS da tarefa "Acessar ajuda"</p></font>
 
-![GOMSAjuda](../../assets/analise_de_requisitos/GOMSAcessarajudad.png)
+![GOMSAjuda](../../assets/analise_de_requisitos/GOMSAcessarAjuda.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
@@ -75,7 +75,7 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar ajuda.
 
 Nessa tarefa, o usuário tem como objetivo acessar um painel para colaborar com o site.
 
-<font size="2"><p style="text-align: center">Figura 1: Descrição GOMS da tarefa "Acessar aba para autores/colaboradores"</p></font>
+<font size="2"><p style="text-align: center">Figura 4: Descrição GOMS da tarefa "Acessar aba para autores/colaboradores"</p></font>
 
 ![GOMSAutCol](../../assets/analise_de_requisitos/GOMSAutoresecolab.png)
 
@@ -87,7 +87,7 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para colaborar com 
 
 Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar estatísticas sobre o site.
 
-<font size="2"><p style="text-align: center">Figura 1: Descrição GOMS da tarefa "Acessar estatísticas"</p></font>
+<font size="2"><p style="text-align: center">Figura 5: Descrição GOMS da tarefa "Acessar estatísticas"</p></font>
 
 ![GOMStatistics](../../assets/analise_de_requisitos/GOMSEstatisticas.png)
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
