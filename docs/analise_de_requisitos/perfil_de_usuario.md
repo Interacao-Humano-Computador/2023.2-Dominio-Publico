@@ -49,7 +49,7 @@ As perguntas e respostas do questionário serão descritas a seguir.
 
 #### Qual é a sua faixa etária?
 
-De acordo com o gráfico apresentado na Figura 3 a faixa etária dos usuarios do site é majoritariamente 18 à 14 anos.
+De acordo com o gráfico apresentado na Figura 3 a faixa etária dos usuarios do site é majoritariamente 18 à 24 anos.
 
 <center>
 
@@ -162,7 +162,7 @@ Com base nessas duas abordagens podemos montar o perfil do usuario descrito na T
 
 | Característica                    | Descrição                                        |
 | --------------------------------- | ------------------------------------------------ |
-| Idade                             | Jovens de 14 à 18 anos                           |
+| Idade                             | Jovens de 18 à 24 anos                           |
 | Genero                            | Indiferente, devido a proximidade dos resultados |
 | Grau de escolaridade              | Superior incompleto                              |
 | Nível de conhecimento tecnológico | Experiente (tecnófilos)                          |
