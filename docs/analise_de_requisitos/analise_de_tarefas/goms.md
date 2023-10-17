@@ -4,7 +4,7 @@
 
 A análise de tarefas GOMS (Goals, Operators, Methods, and Selection rules), é um técnica que analisa como o usuário se comporta em uma determinada tarefa, podendo ser capaz de prever um desempenho maior na usabilidade de interfaces de usuário e sistemas.
 
-# Metodologia
+## Metodologia
 
 ## GOMS (Goals, Operators, Methods and Selection Rules)
 
