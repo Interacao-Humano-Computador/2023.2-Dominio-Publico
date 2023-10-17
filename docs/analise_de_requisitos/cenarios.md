@@ -3,7 +3,7 @@
 
 
 ## Introdução
-Os cenários são basicamente histórias sobre pessoas realizando uma atividade. Como forma de elaborar cenários mais completos, utilizamos a técnica do **questionamento sistemático**. Nessa técnica, segmentamos os cenários em proposições e investigamos cada uma delas, a partir de um conjunto de perguntas, que as respostam geram mais proposições. Repetimos esse ciclo até que tudo esteja completo. As perguntas sugeridas são: Por quê? Como? O que é? X pode ser feito da forma y? X faz parte de y? Conforme podemos ver nas tabelas 1 e 2.
+Os cenários são basicamente histórias sobre pessoas realizando uma atividade. Como forma de elaborar cenários mais completos, utilizamos a técnica do **questionamento sistemático**. Nessa técnica, segmentamos os cenários em proposições e investigamos cada uma delas, a partir de um conjunto de perguntas, que as respostam geram mais proposições. Repetimos esse ciclo até que tudo esteja completo. As perguntas sugeridas são: Por quê? Como? O que é? X pode ser feito da forma y? X faz parte de y? Conforme podemos ver nas figuras 1 e 2.
 
 ### Questões exploratórias
 
@@ -18,7 +18,7 @@ Os cenários são basicamente histórias sobre pessoas realizando uma atividade.
 
 ### Questões de verificação
 
-<font size="2"><p style="text-align: center">Tabela 2: Questões de verificação </p></font>
+<font size="2"><p style="text-align: center">Figura 2: Questões de verificação </p></font>
 
 <center>
 
@@ -40,7 +40,7 @@ Carlos ficou impressionado com a vasta variedade e qualidade das obras disponív
 ### Exploração em busca de mídias para criação de arte
 Luiz, um jovem artista de 20 anos de idade, ama buscar inspirações para suas criações em obras clássicas. A todo momento ele busca nas redes sociais, novos temas e artistas para se basear em seus trabalhos. Ele logo descobre a existência do site domínio público e resolve explorá-lo em busca de novas inspirações. Primeiro ele busca por imagens diversas, selecionando apenas esse tipo de mídia e deixando os outros campo em branco. Ao realizar a busca, se depara com diversas informações irrelevantes e que prejudicam sua procura por informações úteis. Rapidamente ele clica no título de uma das imagens e sofre uma quebra de expectativas, ao ver as mesmas informações da tela anterior juntamente a um botão para baixar a imagem. Ele clica no botão, visualiza e não gosta da imagem escolhida, decidindo então ver outras. Após realizar o mesmo processo repetidas vezes e perder um longo tempo baixando cada uma delas para verificá-las, ele encontra uma imagem que lhe agrada e vai em busca de outras mídias para complementá-las. Busca por aúdios, fazendo o mesmo processo de busca e visualização anterior. Ele encontra aúdios que lhe agradam, mas durante todos os momentos de sua busca sente falta de uma breve descrição dos aúdios ali dispostos, como forma de complementar os títulos e agilizar seu processo exploratório no sistema.
  
-## Referências 
+## Bibliografia 
 
 >  BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
