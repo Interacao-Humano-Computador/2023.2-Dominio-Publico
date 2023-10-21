@@ -10,6 +10,12 @@ Para atingir os critérios de qualidade que deverão ser priorizados, utilizarem
 
 ## Eficácia
 
+A eficácia de um sistema diz respeito a quão bem esse sistema faz o que foi desenvolvido para se fazer.
+
+**No site avaliado:**<br>
+
+O site escolhido em suma faz o que foi desenvolvido pra fazer, ele traz um meio de pesquisa e dowload de obras públicas brasileiras
+
 ## Eficiência
 
 A eficiência de um sistema interativo diz respeito ao tempo necessário para a realização de uma atividade. O tempo estabelecido é definido em como o usuário realiza um atividade com o apoio computacional <a id="anchor_1" href="#FRM1">¹</a>.
