@@ -65,7 +65,6 @@ nav:
       - Sites avaliados: planejamento/sites_avaliados.md
       - Site escolhido: planejamento/site_escolhido.md
   - Análise de Requisitos: 
-      
       - Aspectos éticos: analise_de_requisitos/aspectos_eticos.md
       - Perfil de Usuário: analise_de_requisitos/perfil_de_usuario.md
       - Personas: analise_de_requisitos/personas.md
@@ -73,6 +72,10 @@ nav:
       - Análise de Tarefas:
         - HTA: analise_de_requisitos/analise_de_tarefas/hta.md
         - GOMS: analise_de_requisitos/analise_de_tarefas/goms.md
+      - Características da Plataforma: analise_de_requisitos/caracteristicas.md
+      - Principios Gerais de Projeto: analise_de_requisitos/principios_gerais.md
+      - Metas de Usabilidade: analise_de_requisitos/metas_de_usabilidade.md
+      - Guia de Estilos: analise_de_requisitos/guia_de_estilos.md
 
       
 
