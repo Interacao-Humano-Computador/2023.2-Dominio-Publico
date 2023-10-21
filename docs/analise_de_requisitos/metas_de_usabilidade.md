@@ -88,8 +88,14 @@ Icones iguais dificultam a memoria do usuario de saber onde estão os objetos de
 
 ## Conclusão
 
+Conforme mencionado anteriormente, as metas prioritárias identificadas são a Eficiência, a Segurança, a Aprendizagem e a Memorização. Dado que essas metas possuem pontos a serem corrigidos, faz-se necessário uma abordagem cuidadosa e dedicada, a fim de serem reestruturadas e aprimoradas ao longo de nossa análise minuciosa.
 
 
+## Bibliografia
+
+> Bilheteria Digital. Metas de usabilidade. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/. Acesso em: 11 de out. 2023.
+
+PERILLO, Matheus; SANTANA, Natan Tavares. Metas de usabilidade. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/analise_de_requisitos/metas_usabilidade/>. Acesso em: 20 de outubro 2023.
 
 ## Referências Bibliográficas
 
