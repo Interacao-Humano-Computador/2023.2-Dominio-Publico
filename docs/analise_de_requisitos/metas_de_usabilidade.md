@@ -12,9 +12,9 @@ Para atingir os critérios de qualidade que deverão ser priorizados, utilizarem
 
 A eficácia de um sistema diz respeito a quão bem esse sistema faz o que foi desenvolvido para se fazer.
 
-**No site avaliado:**<br>
+**No site avaliado:**
 
-O site escolhido em suma faz o que foi desenvolvido pra fazer, ele traz um meio de pesquisa e dowload de obras públicas brasileiras
+O site escolhido realiza aquilo que foi planejado, possuindo um meio de pesquisa e dowload de obras públicas brasileiras.
 
 ## Eficiência
 
@@ -22,14 +22,40 @@ A eficiência de um sistema interativo diz respeito ao tempo necessário para a 
 
 **No site avaliado:**
 
+O site em quetão não é eficiente ja que os passos para se realizar uma tarefa são muito longos e desnecessarios, varias etapas poderiam ser resumidas a poucas ações, por exemplo na Figura 1 no campo de pesquisa, há necessidade de se preencher variados campos de texto para realizar a busca, ao invés de se ter um unico campo ao qual englobaria e filtraria todos os tipos de pesquisa pelas midias.
+
+<font size="2"><p style="text-align: center">Figura 1: Meta de usabilidade Eficiência </p></font>
+
+
+![Fig 1](/docs/assets/analise_de_requisitos/usabilidade/Eficiencia.png)
+
+<font size="2"><p style="text-align: center">Fonte: Domíno Público</p></font>
+
 ## Segurança 
+
 A segurança no uso diz respeito ao grau de proteção de um sistema contra condições desfavoráveis ou até mesmo perigosas para os usuários. Para isso, existem duas formas para alcançarmos a segurança no uso: buscando evitar problemas e auxiliando o usuário a se recuperar de uma situação problemática que tenha acontecido <a id="anchor_1" href="#FRM1">¹</a>.
 
 **No site avaliado:**
 
+O site não oferece elementos claros para que o usuário saia de uma situção de erro possivelmente ocorrida, causando uma perda de controle de suas ações como pode ser visto na figura 2 a seguir:
+
+<font size="2"><p style="text-align: center">Figura 2: Meta de usabilidade segurança" </p></font>
+
+![Fig 2](/docs/assets/analise_de_requisitos/usabilidade/Segurança.png)
+
+<font size="2"><p style="text-align: center">Fonte: Domíno Público</p></font>
+
+
 ## Utilidade
 
+A utilidade de um sistema diz respeito a um conjunto apropriado de funções, isso é, se o sistema oferece a quantidade necessária de ferramentas para que o usuário realize uma atividade eficientemente.
+
+**No site avaliado:**
+
+O site oferece as ferramentas necessárias ao usuário para alcançar o seu objetivo final.
+
 ## Facilidade de Aprendizado
+
 A facilidade de aprendizado diz respeito ao tempo e esforços necessários para que o usuário aprenda a utilizar o sistema com um determinado nível de competência e desempenho. Isso se justifica quando novas tecnologias da informação e comunicação são utilizadas no cotidiano dos usuários, facilitando o processo de aprendizado durante uma realização de atividade  <a id="anchor_1" href="#FRM1">¹</a>. 
 
 **No site avaliado:**
