@@ -48,7 +48,7 @@ A segurança no uso diz respeito ao grau de proteção de um sistema contra cond
 
 O site não oferece elementos claros para que o usuário saia de uma situção de erro possivelmente ocorrida, causando uma perda de controle de suas ações como pode ser visto na figura 2 a seguir:
 
-<font size="2"><p style="text-align: center">Figura 2: Meta de usabilidade segurança" </p></font>
+<font size="2"><p style="text-align: center">Figura 2: Meta de usabilidade segurança </p></font>
 
 ![Fig 2](../assets/analise_de_requisitos/usabilidade/Segurança.png)
 
@@ -74,7 +74,7 @@ A facilidade de aprendizado diz respeito ao tempo e esforços necessários para 
 
 Algumas funcionalidades presentes no site são muito escondidas ou mascaradas pelas imagens, os elementos não muito intuitivos ou chamativos não facilitam com que o usuário ache o que procura, como pode ser visto na figura 3:
 
-<font size="2"><p style="text-align: center">Figura 3: Meta de usabilidade facilidade de aprendizagem" </p></font>
+<font size="2"><p style="text-align: center">Figura 3: Meta de usabilidade facilidade de aprendizagem </p></font>
 
 ![Fig 3](../assets/analise_de_requisitos/usabilidade/Aprendizagemm.jpeg)
 
@@ -90,7 +90,7 @@ A facilidade de recordação diz respeito ao esforço cognitivo do usuário nece
 
 Icones iguais dificultam a memoria do usuario de saber onde estão os objetos desejados como pode ser visto na figura 4:
 
-<font size="2"><p style="text-align: center">Figura 4: Meta de usabilidade memorização" </p></font>
+<font size="2"><p style="text-align: center">Figura 4: Meta de usabilidade memorização </p></font>
 
 ![Fig 3](../assets/analise_de_requisitos/usabilidade/Memorização.jpeg)
 
@@ -106,7 +106,7 @@ Conforme mencionado anteriormente, as metas prioritárias identificadas são a E
 
 ## Bibliografia
 
-> Bilheteria Digital. Metas de usabilidade. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/. Acesso em: 11 de out. 2023.
+> Bilheteria Digital. Metas de usabilidade. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/metas-usabilidade/. Acesso em: 11 de out. 2023.
 
 > PERILLO, Matheus; SANTANA, Natan Tavares. Metas de usabilidade. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/analise_de_requisitos/metas_usabilidade/>. Acesso em: 20 de outubro 2023.
 

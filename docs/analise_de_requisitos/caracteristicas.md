@@ -63,8 +63,7 @@ Utilizando o atalho "Ctrl + U" na tela inicial do site do Domínio Público, foi
 
 
 ## Referências Bibliográficas
-
-> <a id="FRM3" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 
 
