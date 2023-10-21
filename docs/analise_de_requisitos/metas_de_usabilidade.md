@@ -34,7 +34,7 @@ O site em quetão não é eficiente ja que os passos para se realizar uma tarefa
 
 <font size="2"><p style="text-align: center">Figura 1: Meta de usabilidade Eficiência </p></font>
 
-![Fig 1](/docs/assets/analise_de_requisitos/usabilidade/Eficiencia.png)
+![Fig 1](../assets/analise_de_requisitos/usabilidade/Eficiencia.png)
 
 <font size="2"><p style="text-align: center">Fonte: Domíno Público</p></font>
 
@@ -50,7 +50,7 @@ O site não oferece elementos claros para que o usuário saia de uma situção d
 
 <font size="2"><p style="text-align: center">Figura 2: Meta de usabilidade segurança" </p></font>
 
-![Fig 2](/docs/assets/analise_de_requisitos/usabilidade/Segurança.png)
+![Fig 2](../assets/analise_de_requisitos/usabilidade/Segurança.png)
 
 <font size="2"><p style="text-align: center">Fonte: Domíno Público</p></font>
 
@@ -76,7 +76,7 @@ Algumas funcionalidades presentes no site são muito escondidas ou mascaradas pe
 
 <font size="2"><p style="text-align: center">Figura 3: Meta de usabilidade facilidade de aprendizagem" </p></font>
 
-![Fig 3](/docs/assets/analise_de_requisitos/usabilidade/Aprendizagemm.jpeg)
+![Fig 3](../assets/analise_de_requisitos/usabilidade/Aprendizagemm.jpeg)
 
 <font size="2"><p style="text-align: center">Fonte: Domíno Público</p></font>
 
@@ -92,7 +92,7 @@ Icones iguais dificultam a memoria do usuario de saber onde estão os objetos de
 
 <font size="2"><p style="text-align: center">Figura 4: Meta de usabilidade memorização" </p></font>
 
-![Fig 3](/docs/assets/analise_de_requisitos/usabilidade/Memorização.jpeg)
+![Fig 3](../assets/analise_de_requisitos/usabilidade/Memorização.jpeg)
 
 <font size="2"><p style="text-align: center">Fonte: Domíno Público</p></font>
 
