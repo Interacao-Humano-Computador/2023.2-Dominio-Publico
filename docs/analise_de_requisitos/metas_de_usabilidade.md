@@ -58,7 +58,17 @@ O site oferece as ferramentas necessárias ao usuário para alcançar o seu obje
 
 A facilidade de aprendizado diz respeito ao tempo e esforços necessários para que o usuário aprenda a utilizar o sistema com um determinado nível de competência e desempenho. Isso se justifica quando novas tecnologias da informação e comunicação são utilizadas no cotidiano dos usuários, facilitando o processo de aprendizado durante uma realização de atividade  <a id="anchor_1" href="#FRM1">¹</a>. 
 
+
+
 **No site avaliado:**
+
+Algumas funcionalidades presentes no site são muito escondidas ou mascaradas pelas imagens, os elementos não muito intuitivos ou chamativos não facilitam com que o usuário ache o que procura, como pode ser visto na figura 3:
+
+<font size="2"><p style="text-align: center">Figura 3: Meta de usabilidade facilidade de aprendizagem" </p></font>
+
+![Fig 3](/docs/assets/analise_de_requisitos/usabilidade/Aprendizagemm.jpeg)
+
+<font size="2"><p style="text-align: center">Fonte: Domíno Público</p></font>
 
 ## Facilidade de Recordação
 
@@ -67,8 +77,17 @@ lembrar como interagir com a interface do sistema interativo, conforme uma vez a
 
 **No site avaliado:**
 
+Icones iguais dificultam a memoria do usuario de saber onde estão os objetos desejados como pode ser visto na figura 4:
+
+<font size="2"><p style="text-align: center">Figura 4: Meta de usabilidade memorização" </p></font>
+
+![Fig 3](/docs/assets/analise_de_requisitos/usabilidade/Memorização.jpeg)
+
+<font size="2"><p style="text-align: center">Fonte: Domíno Público</p></font>
+
 
 ## Conclusão
+
 
 
 
