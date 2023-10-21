@@ -57,15 +57,15 @@ nav:
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao_1.md
       - Apresentação 2: apresentacoes/apresentacao_2.md
-  - Planejamento do projeto:
+  - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
       - Metodologia: planejamento/metodologia.md
       - Processo de Design: planejamento/processo_design.md
-      - Sites avaliados: planejamento/sites_avaliados.md
-      - Site escolhido: planejamento/site_escolhido.md
+      - Sites Avaliados: planejamento/sites_avaliados.md
+      - Site Escolhido: planejamento/site_escolhido.md
   - Análise de Requisitos: 
-      - Aspectos éticos: analise_de_requisitos/aspectos_eticos.md
+      - Aspectos Éticos: analise_de_requisitos/aspectos_eticos.md
       - Perfil de Usuário: analise_de_requisitos/perfil_de_usuario.md
       - Personas: analise_de_requisitos/personas.md
       - Cenários: analise_de_requisitos/cenarios.md

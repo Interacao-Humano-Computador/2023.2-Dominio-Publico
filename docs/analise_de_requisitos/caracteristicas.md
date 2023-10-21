@@ -4,7 +4,7 @@
 
 ## Introdução
 
-O objetivo desse artefato é proporcionar uma visão abrangente das características da plataforma, permitindo uma compreensão sólida de seu funcionamento e capacidades, o que é essencial para o desenvolvimento eficaz de sistemas de IHC no âmbito do Ciclo de Mathew.
+O objetivo desse artefato é proporcionar uma visão abrangente das características da plataforma, permitindo uma compreensão sólida de seu funcionamento e capacidades, o que é essencial para o desenvolvimento eficaz de sistemas de IHC no âmbito do Ciclo de Mayhew.
 
 
 
