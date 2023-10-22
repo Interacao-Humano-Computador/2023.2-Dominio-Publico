@@ -37,7 +37,6 @@ Manter esse guia atualizado é essencial e deve ser feito sempre que a equipe de
 ##### Descrição do ambiente de trabalho do usuário
 
 O Domíminio Público é mais comumente acessada por meio de computadores (notebooks ou desktops). Por isso é necessário que a interface seja desenvolvida considerando as especificidades dos dispositivos, como tamanho de tela, resolução, etc., ao projetar a interface, de forma a garantir uma experiência de usuário satisfatória e eficiente para aqueles que acessem a plataforma de tal dispositivo. Isso engloba a adaptação do design para diferentes tipo e tamanhos de telas (responsividade), definição apropriada de elementos visuais e a implementação de funcionalidades fáceis de usar e de fácil aprendizado e acesso. Os elementos da interface podem ser encontrados na figura 1.
-<!--A plataforma Bilheteria Digital é predominantemente acessada por usuários por meio de computadores, sejam eles desktops ou notebooks. Portanto, é fundamental considerar as especificidades desses dispositivos ao projetar e desenvolver a interface do sistema, garantindo que ela ofereça uma experiência de usuário satisfatória e eficaz para aqueles que acessam a plataforma por meio desses meios. Isso envolve a adaptação da interface para diferentes tamanhos de tela, a escolha de elementos visuais apropriados e a implementação de funcionalidades intuitivas e de fácil acesso para os usuários. Por fim, os elementos de interface estão explicitados na figura 1.-->
 
 ## Elementos de interface
 
@@ -59,16 +58,26 @@ O Domíminio Público é mais comumente acessada por meio de computadores (noteb
 ## Elementos de interação
 
 ##### Estilos de interação
+
+Os usuário conseguem interagir com o site através na pesquisa por midia, no download de midia, ao acessar ajuda, ao acessar a aba para colaboradores, ao acessar estatísticas, ao avaliar midia e ao tirar dúvidas. Os quais são feitos através de botões, hiperlinks e campos preenchimento (*inputs*).
+
 ##### Seleção de um estilo
+
+O estilo do Dominio Público possui uma interface simples e orientada aos objetivos de achar midia e download, por isso suas páginas não se diferem muito umas das outras,possuindo botões e caminhos semelhantes.
+
 ##### Aceleradores 
-<!-- teclas de atalho -->
-
-
+Não há teclas de atalho no site do Domínio Público.
 
 ## Elementos de ação
 
 ##### Preenchimento de campos
+
+
+
 ##### Seleção
+
+
+
 ##### Ativação
 
 
@@ -87,4 +96,5 @@ O Domíminio Público é mais comumente acessada por meio de computadores (noteb
 | Versão | Data     | Descrição                     | Autor(es)                                       | Revisor(es)                               |
 | ------ | -------- | ----------------------------- | ----------------------------------------------- | ----------------------------------------- |
 | 1.0    | 21/10/23 | Introdução do Guia de Estilos | [Luciano Ricardo](https://github.com/l-ricardo) | [Maria Alice](https://github.com/Maliz30) |
+| 1.1    | 21/10/23 | Resultados e Elementos iniciados | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30) |
 
