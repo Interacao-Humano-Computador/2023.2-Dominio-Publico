@@ -1,16 +1,16 @@
 # Guia de Estilos
 
-
-
 ## Introdução
+
+Um guia de estilo é um registro de decisões de design tomada, de forma que não se percam e sejam efetivamente incluidas no produto final. É uma ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento.<a id="anchor_3" href="#l1">³</a>
 
 ##### Objetivo do guia de estilo
 
-Esse guia de estilos visa manter a consistência e a clareza no design do projeto, garantindo que as decisões de design sejam documentadas, compartilhadas e implementadas eficazmente.
+Esse guia de estilos visa manter a consistência e a clareza no design do projeto, garantindo que as decisões de design sejam documentadas, compartilhadas e implementadas de forma eficaz.
 
 ##### Organização e conteúdo do guia de estilo
 
-A organização do guia de estilo seguirá a proposta por Marcus<a id="anchor_1" href="#l1">¹</a>  e Mayhew<a id="anchor_2" href="#l1">²</a>  e encontrada em Barbosa<a id="anchor_3" href="#l1">³</a>. Sendo ela:
+A organização do guia de estilo seguirá de forma proposta por Marcus<a id="anchor_1" href="#l1">¹</a>  e Mayhew<a id="anchor_2" href="#l1">²</a>  e encontrada em Barbosa<a id="anchor_3" href="#l1">³</a>. Sendo ela:
 
 - Introdução
 - Resultados de análise
@@ -24,7 +24,7 @@ Este guia de estilo foi elaborado pelo e para os estudantes da disciplina de Int
 
 ##### Como utilizar o guia 
 
-Este guia deve ser utilizado como uma referência para tomar decisões de design durante todo o ciclo de vida do projeto de Interação Humano Computador, incluindo tanto a fase de produção quanto a fase de manutenção. Além disso, também é utilizado na implementação de fases intermediárias, como a prototipação.
+Este guia deve ser utilizado como uma referência para tomar decisões de design durante todo o ciclo de vida do projeto de Interação Humano Computador, incluindo a fase de produção e a fase de manutenção. Além disso, também é utilizado na implementação de fases intermediárias, como a prototipação.
 
 ##### Como manter o guia
 
@@ -54,7 +54,7 @@ Manter esse guia atualizado é essencial e deve ser feito sempre que a equipe de
 ##### Estilos de interação
 ##### Seleção de um estilo
 ##### Aceleradores 
-(teclas de atalho)
+<!-- teclas de atalho -->
 
 
 
