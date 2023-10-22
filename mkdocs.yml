@@ -73,6 +73,7 @@ nav:
       - Análise de Tarefas:
         - HTA: analise_de_requisitos/analise_de_tarefas/hta.md
         - GOMS: analise_de_requisitos/analise_de_tarefas/goms.md
+      - Princípios Gerais: analise_de_requisitos/principios_gerais.md
 
       
 
