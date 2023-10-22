@@ -47,6 +47,6 @@ Luiz, um jovem artista de 20 anos de idade, ama buscar inspirações para suas c
 
 ## Histórico de versões
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 15/10/2023 | Criação dos cenários |[Maria Alice](https://github.com/Maliz30) | [Ana Catarina](https://github.com/an4catarina) |
+| Versão | Data       | Descrição            | Autor(es)                                 | Revisor(es)                                    |
+| ------ | ---------- | -------------------- | ----------------------------------------- | ---------------------------------------------- |
+| 1.0    | 15/10/2023 | Criação dos cenários | [Maria Alice](https://github.com/Maliz30) | [Ana Catarina](https://github.com/an4catarina) |

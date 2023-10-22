@@ -57,25 +57,25 @@ nav:
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao_1.md
       - Apresentação 2: apresentacoes/apresentacao_2.md
-  - Planejamento do projeto:
+  - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
       - Metodologia: planejamento/metodologia.md
       - Processo de Design: planejamento/processo_design.md
-      - Sites avaliados: planejamento/sites_avaliados.md
-      - Site escolhido: planejamento/site_escolhido.md
+      - Sites Avaliados: planejamento/sites_avaliados.md
+      - Site Escolhido: planejamento/site_escolhido.md
   - Análise de Requisitos: 
-      
-      - Aspectos éticos: analise_de_requisitos/aspectos_eticos.md
+      - Aspectos Éticos: analise_de_requisitos/aspectos_eticos.md
       - Perfil de Usuário: analise_de_requisitos/perfil_de_usuario.md
       - Personas: analise_de_requisitos/personas.md
       - Cenários: analise_de_requisitos/cenarios.md
       - Análise de Tarefas:
         - HTA: analise_de_requisitos/analise_de_tarefas/hta.md
         - GOMS: analise_de_requisitos/analise_de_tarefas/goms.md
-      - Princípios Gerais: analise_de_requisitos/principios_gerais.md
-
-      
+      - Características da Plataforma: analise_de_requisitos/caracteristicas.md
+      - Principios Gerais de Projeto: analise_de_requisitos/principios_gerais.md
+      - Metas de Usabilidade: analise_de_requisitos/metas_de_usabilidade.md
+      - Guia de Estilos: analise_de_requisitos/guia_de_estilos.md  
 
 # Extensions
 markdown_extensions:

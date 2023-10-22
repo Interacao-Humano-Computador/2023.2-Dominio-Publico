@@ -183,8 +183,8 @@ Com base nessas duas abordagens podemos montar o perfil do usuario descrito na T
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição           | Autor(es)                                       | Revisor(es)                                    |
-| ------ | ---------- | ------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 15/10/2023 | Criação do artefato | [Luciano Ricardo](https://github.com/l-ricardo) | [Maria Alice](https://github.com/Maliz30)      |
-| 1.1    | 16/10/2023 | Adição dos graficos | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.1    | 17/10/2023 | Conserto de erro de digitação | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| Versão | Data       | Descrição                     | Autor(es)                                       | Revisor(es)                                    |
+| ------ | ---------- | ----------------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 15/10/2023 | Criação do artefato           | [Luciano Ricardo](https://github.com/l-ricardo) | [Maria Alice](https://github.com/Maliz30)      |
+| 1.1    | 16/10/2023 | Adição dos graficos           | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.2    | 17/10/2023 | Conserto de erro de digitação | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
