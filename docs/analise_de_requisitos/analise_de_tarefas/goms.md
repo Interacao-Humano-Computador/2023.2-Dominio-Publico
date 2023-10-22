@@ -35,6 +35,8 @@ Ao aplicar o método GOMS, é possível quantificar e prever o tempo que os usu�
 
 As seguintes tarefas tiveram como apoio os problemas também relacionados na análise de tarefas HTA.
 
+As figuras de 1 a 6 explicitam os modelos GOMS detalhados de suas respectivas tarefas.
+
 ### Pesquisar por mídia
 
 Nessa tarefa, o usuário tem como objetivo pesquisar uma midia desejada.
@@ -93,6 +95,15 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar estatí
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
 
+### Avaliar Midia
+
+Nessa tarefa, o usuário tem como objetivo avaliar a midia escolhida. 
+
+<font size="2"><p style="text-align: center">Figura 6: Descrição GOMS da tarefa "Avaliar midia"</p></font>
+
+![GOMSAvaliarMidia](../../assets/analise_de_requisitos/goms-avaliar-midia.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
 
 ## Referências Bibliográficas
 
@@ -119,3 +130,4 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar estatí
 | 1.0    | 11/10/2023 | Criação do documento GOMS | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.2    | 15/10/2023 | Corrige introdução e metodologia                     | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina) |
 |1.3     | 16/10/2023 | Conserto das imagens GOMS | [Harryson Martins](https://github.com/harry-cmartin) | [Pedro Henrique](https://github.com/pedro-hsf)|
+|1.3     | 16/10/2023 | Adição de Avaliar midia   | [Victor Hugo](https://github.com/ViictorHugoo)       | [Maria Alice](https://github.com/Maliz-30)|
