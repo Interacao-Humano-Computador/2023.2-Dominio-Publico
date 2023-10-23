@@ -64,8 +64,7 @@ Não há teclas de atalho no site do Domínio Público.
 ## Elementos de ação
 
 ##### Preenchimento de campos
-Os campos de preenchimendo disponíveis exigem que o usuário insira as informações de forma manual e não ofere
-
+Os campos de preenchimento disponíveis requerem que o usuário insira manualmente as informações de acordo com seus objetivos, porém não fornecem qualquer modelo ou exemplo sobre como preenchê-los corretamente. Estes campos podem incluir barras de pesquisa, caixas de auxílio para preenchimento, caixas de e-mail para envio de mensagens, entre outros elementos que demandam inserção de texto.
 
 ##### Seleção
 No site há vários elementos de seleção, como: tipo de mídia, categoria e idioma.
