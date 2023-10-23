@@ -113,10 +113,10 @@ Na Tabela 5, tem-se o <b>cronograma executado</b> para todas as atividades da se
 | Pesquisa sobre ética                          |Inicio: 08/10 <br>Fim: 10/10|Ana Catarina e Pedro Henrique|10/10|Victor Hugo|
 | Execução do documento de pesquisa sobre ética |Inicio: 08/10 <br>Fim: 14/10|Ana Catarina e Pedro Henrique|10/10|Luciano Ricardo |
 | Análise de tarefas: HTA                       |Inicio: 08/10 <br>Fim: 10/10|Harryson e Gustavo|14/10           |Ana Catarina    |
-| Implementar Git Pages                         |Inicio: 08/10 <br>Fim: 10/10|Todos         |10/10               |Gustavo França  |
+| Implementar Git Pages                         |Inicio: 08/10 <br>Fim: 10/10|Luciano Ricardo         |10/10               |Gustavo França  |
 | Gravar apresentação                           |Inicio: 16/10 <br>Fim: 16/10|Ana Catarina  |16/10               |Pedro Henrique  |
 | Edição da gravação                            |Inicio: 16/10 <br>Fim: 16/10|Ana Catarina  |16/10               |Pedro Henrique  |
-| Correção pós apresentação                     |Inicio: 08/10 <br>Fim: 16/10|Todos         |16/10               |Harryson Martins|
+| Correção pós apresentação                     |Inicio: 08/10 <br>Fim: 16/10|Maria Alice        |16/10               |Harryson Martins|
 
 </center>
 
@@ -151,11 +151,10 @@ Na Tabela 7, tem-se o <b>cronograma executado</b> para todas as atividades da te
 | Atividade                    | Período de desenvolvimento | Responsáveis | Periodo de Revisão | Revisores |
 | ---------------------------- | -------------------------- | ------------ | ------------------ | --------- |
 | Princípios gerais do projeto |                            |              |                    |           |
-| Metas de usabilidade         |                            |              |                    |           |
-| Guia de estilo               |                            |              |                    |           |
-| Implementar Git Pages        |                            |              |                    |           |
-| Gravar apresentação          |                            |              |                    |           |
-| Edição da gravação           |                            |              |                    |           |
+| Metas de usabilidade         |Inicio: 19/10 <br>Fim: 21/10|Harryson e Gustavo|23/10           |Victor|
+| Guia de estilo               |Inicio: 22/10 <br>Fim: 23/10| Maria Alice e Victor Hugo|Inicio: 23/10 <br>Fim: 23/10 | Luciano Ricardo|
+| Gravar apresentação          | Inicio: 23/10 <br>Fim: 23/10 | Maria Alice  | Inicio: 23/10 <br>Fim: 23/10                    |           |
+| Edição da gravação           | Inicio: 23/10 <br>Fim: 23/10 |              | Inicio: 23/10 <br>Fim: 23/10                   |           |
 | Correção pós apresentação    |                            |              |                    |           |
 
 </center>
@@ -176,7 +175,6 @@ Na Tabela 8, tem-se o <b>cronograma planejado</b> para todas as atividades da qu
 | Planejamento do relato dos resultados da avaliação do Storyboard | Inicio: 25/10 <br>Fim: 28/10 | Gustavo França   | Inicio: 28/10 <br>Fim: 28/10 | Harryson Martins |
 | Planejamento da Avaliação da Análise de tarefas                  | Inicio: 25/10 <br>Fim: 28/10 | Maria Alice      | Inicio: 28/10 <br>Fim: 28/10 | Luciano Ricardo  |
 | Planejamento do relato da avaliação da análise de tarefas        | Inicio: 28/10 <br>Fim: 29/10 | Pedro Henrique   | Inicio: 29/10 <br>Fim: 29/10 | Ana Catarina     |
-| Implementar Git Pages                                            | Inicio: 29/10 <br>Fim: 30/10 | Luciano Ricardo  | Inicio: 30/10 <br>Fim: 30/10 | Victor           |
 | Gravar apresentação                                              | Inicio: 30/10 <br>Fim: 30/10 | Gustavo França   | Inicio: 30/10 <br>Fim: 30/10 | Harryson Martins |
 | Edição da gravação                                               | Inicio: 30/10 <br>Fim: 30/10 | Ana Catarina     | Inicio: 30/10 <br>Fim: 30/10 | Pedro Henrique   |
 | Correção pós apresentação                                        | Inicio: 31/10 <br>Fim: 31/10 | Harryson Martins | Inicio: 31/10 <br>Fim: 31/10 | Gustavo França   |
@@ -195,7 +193,6 @@ Na Tabela 9, tem-se o <b>cronograma executado</b> para todas as atividades da qu
 | Planejamento do relato dos resultados da avaliação do Storyboard |                            |              |                    |           |
 | Planejamento da Avaliação da Análise de tarefas                  |                            |              |                    |           |
 | Planejamento do relato da avaliação da análise de tarefas        |                            |              |                    |           |
-| Implementar Git Pages                                            |                            |              |                    |           |
 | Gravar apresentação                                              |                            |              |                    |           |
 | Edição da gravação                                               |                            |              |                    |           |
 | Correção pós apresentação                                        |                            |              |                    |           |
@@ -218,7 +215,6 @@ Na Tabela 10, tem-se o <b>cronograma planejado</b> para todas as atividades da q
 | Relato dos resultados da Análise de tarefas                             | Inicio: 01/11 <br>Fim: 04/11 | Harryson Martins | Inicio: 04/11 <br>Fim: 04/11 | Gutavo           |
 | Planejamento do relato de resultados da avaliação do protótipo de papel | Inicio: 03/11 <br>Fim: 06/11 | Gustavo França   | Inicio: 06/11 <br>Fim: 06/11 | Harryson Martins |
 | Planejamento da avaliação do protótipo de papel                         | Inicio: 06/11 <br>Fim: 07/11 | Luciano Ricardo  | Inicio: 07/11 <br>Fim: 07/11 | Victor           |
-| Implementar Git Pages                                                   | Inicio: 07/11 <br>Fim: 07/11 | Maria Alice      | Inicio: 07/11 <br>Fim: 07/11 | Luciano Ricardo  |
 | Gravar apresentação                                                     | Inicio: 07/11 <br>Fim: 07/11 | Victor           | Inicio: 07/11 <br>Fim: 07/11 | Maria Alice      |
 | Edição da gravação                                                      | Inicio: 08/11 <br>Fim: 08/11 | Ana Catarina     | Inicio: 08/11 <br>Fim: 08/11 | Pedro Henrique   |
 | Correção pós apresentação                                               | Inicio: 09/11 <br>Fim: 09/11 | Luciano Ricardo  | Inicio: 09/11 <br>Fim: 09/11 | Victor           |
@@ -237,7 +233,6 @@ Na Tabela 11, tem-se o <b>cronograma executado</b> para todas as atividades da q
 | Relato dos resultados da Análise de tarefas                             |                            |              |                    |           |
 | Planejamento do relato de resultados da avaliação do protótipo de papel |                            |              |                    |           |
 | Planejamento da avaliação do protótipo de papel                         |                            |              |                    |           |
-| Implementar Git Pages                                                   |                            |              |                    |           |
 | Gravar apresentação                                                     |                            |              |                    |           |
 | Edição da gravação                                                      |                            |              |                    |           |
 | Correção pós apresentação                                               |                            |              |                    |           |
@@ -266,7 +261,6 @@ Na Tabela 12, tem-se o <b>cronograma planejado</b> para todas as atividades da e
 | Ajustes artefatos etapa 3              | Inicio: 11/11 <br>Fim: 12/11 | Luciano Ricardo  | Inicio: 12/11 <br>Fim: 12/11 | Victor           |
 | Ajustes artefatos etapa 4              | Inicio: 12/11 <br>Fim: 14/11 | Harryson Martins | Inicio: 14/11 <br>Fim: 14/11 | Gustavo França   |
 | Ajustes artefatos etapa 5              | Inicio: 12/11 <br>Fim: 14/11 | Pedro Henrique   | Inicio: 14/11 <br>Fim: 14/11 | Ana Catarina     |
-| Implementar Git Pages                  | Inicio: 14/11 <br>Fim: 14/11 | Victor           | Inicio: 14/11 <br>Fim: 14/11 | Maria Alice      |
 | Gravar apresentação                    | Inicio: 14/11 <br>Fim: 14/11 | Pedro Henrique   | Inicio: 14/11 <br>Fim: 14/11 | Ana Catarina     |
 | Edição da gravação                     | Inicio: 15/11 <br>Fim: 15/11 | Ana Catarina     | Inicio: 15/11 <br>Fim: 15/11 | Pedro Henrique   |
 | Correção pós apresentação              | Inicio: 16/11 <br>Fim: 16/11 | Gustavo França   | Inicio: 16/11 <br>Fim: 16/11 | Harryson Martins |
@@ -292,7 +286,6 @@ Na Tabela 13, tem-se o <b>cronograma executado</b> para todas as atividades da e
 | Ajustes artefatos etapa 3              |                            |              |                    |           |
 | Ajustes artefatos etapa 4              |                            |              |                    |           |
 | Ajustes artefatos etapa 5              |                            |              |                    |           |
-| Implementar Git Pages                  |                            |              |                    |           |
 | Gravar apresentação                    |                            |              |                    |           |
 | Edição da gravação                     |                            |              |                    |           |
 | Correção pós apresentação              |                            |              |                    |           |
@@ -347,7 +340,6 @@ Tabela 16, tem-se o <b>cronograma planejado</b> para todas as atividades da sét
 | Relato dos resultados do Protótipo de Papel                                        | Inicio: 21/11 <br>Fim: 21/11 | Maria Alice      | Inicio: 21/11 <br>Fim: 21/11 | Luciano Ricardo  |
 | Planejamento da avaliação do protótipo de alta fidelidade                          | Inicio: 21/11 <br>Fim: 21/11 | Harryson Martins | Inicio: 21/11 <br>Fim: 21/11 | Gustavo França   |
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Inicio: 21/11 <br>Fim: 22/11 | Gustavo França   | Inicio: 22/11 <br>Fim: 22/11 | Harryson Martins |
-| Implementar Git Pages                                                              | Inicio: 22/11 <br>Fim: 22/11 | Pedro Henrique   | Inicio: 22/11 <br>Fim: 22/11 | Ana Catarina     |
 | Gravar apresentação                                                                | Inicio: 22/11 <br>Fim: 22/11 | Gustavo França   | Inicio: 22/11 <br>Fim: 22/11 | Harryson Martins |
 | Edição da gravação                                                                 | Inicio: 22/11 <br>Fim: 22/11 | Ana Catarina     | Inicio: 22/11 <br>Fim: 22/11 | Pedro Henrique   |
 | Correção pós apresentação                                                          | Inicio: 23/11 <br>Fim: 23/11 | Harryson Martins | Inicio: 23/11 <br>Fim: 23/11 | Gustavo França   |
@@ -366,7 +358,6 @@ Tabela 17, tem-se o <b>cronograma executado</b> para todas as atividades da sét
 | Relato dos resultados do Protótipo de Papel                                        |                            |              |                    |           |
 | Planejamento da avaliação do protótipo de alta fidelidade                          |                            |              |                    |           |
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |                            |              |                    |           |
-| Implementar Git Pages                                                              |                            |              |                    |           |
 | Gravar apresentação                                                                |                            |              |                    |           |
 | Edição da gravação                                                                 |                            |              |                    |           |
 | Correção pós apresentação                                                          |                            |              |                    |           |
@@ -388,7 +379,6 @@ Na Tabela 18, tem-se o <b>cronograma planejado</b> para todas as atividades da e
 | Relato dos resultados da avaliação do protótipo de alta fidelidade | Inicio: 24/11 <br>Fim: 25/11 | Luciano Ricardo  | Inicio: 25/11 <br>Fim: 25/11 | Victor           |
 | Planejamento de verificação dos artefatos da entrega 7             | Inicio: 24/11 <br>Fim: 25/11 | Gustavo França   | Inicio: 25/11 <br>Fim: 25/11 | Harryson Martins |
 | Relato da verificação da Etapa 7 e ajustes nos artefatos           | Inicio: 24/11 <br>Fim: 25/11 | Pedro Henrique   | Inicio: 25/11 <br>Fim: 25/11 | Ana Catarina     |
-| Implementar Git Pages                                              | Inicio: 26/11 <br>Fim: 26/11 | Maria Alice      | Inicio: 26/11 <br>Fim: 26/11 | Luciano Ricardo  |
 | Gravar apresentação                                                | Inicio: 26/11 <br>Fim: 26/11 | Harryson Martins | Inicio: 26/11 <br>Fim: 26/11 | Gustavo França   |
 | Edição da gravação                                                 | Inicio: 27/11 <br>Fim: 27/11 | Ana Catarina     | Inicio: 27/11 <br>Fim: 27/11 | Pedro Henrique   |
 | Correção pós apresentação                                          | Inicio: 28/11 <br>Fim: 28/11 | Pedro Henrique   | Inicio: 28/11 <br>Fim: 28/11 | Ana Catarina     |
@@ -406,7 +396,6 @@ Na Tabela 19, tem-se o <b>cronograma executado</b> para todas as atividades da e
 | Relato dos resultados da avaliação do protótipo de alta fidelidade |                            |              |                    |           |
 | Planejamento de verificação dos artefatos da entrega 7             |                            |              |                    |           |
 | Relato da verificação da Etapa 7 e ajustes nos artefatos           |                            |              |                    |           |
-| Implementar Git Pages                                              |                            |              |                    |           |
 | Gravar apresentação                                                |                            |              |                    |           |
 | Edição da gravação                                                 |                            |              |                    |           |
 | Correção pós apresentação                                          |                            |              |                    |           |
@@ -468,3 +457,4 @@ Na Tabela 21, tem-se o <b>cronograma executado</b> para todas as atividades da e
 | 1.4    | 30/09/2023 | Alocação de responsáveis e revisores                                     | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
 | 1.5    | 30/09/2023 | Trazendo tabelas cronograma exec.                                        | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
 | 1.6    | 04/10/2023 | Correção de Erros                                                        | [Maria Alice](https://github.com/Maliz30)       | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.7    | 23/10/2023 | Correção de Erros                                                        | [Maria Alice](https://github.com/Maliz30) e [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |

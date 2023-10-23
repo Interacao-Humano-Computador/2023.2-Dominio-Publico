@@ -100,7 +100,7 @@ Nessa tarefa o usuário tem por objetivo acessar a parte de ajuda ao usuário de
 
 
 
-### Acessar aba para autores/colaboradores
+### Se tornar um colaborador
 
 Nessa tarefa, o objetivo do usuário é acessar a aba para autores e colaboradores disponível no site em questão. No planejamento do site avaliado, essa tarefa está relacionado a heurística "Controle e liberdade do usuário" e "Projeto estético e minimalista" A Figura 5 apresenta seu diagram HTA e a Tabela 4 suas especificações:  
 
@@ -108,23 +108,26 @@ Nessa tarefa, o objetivo do usuário é acessar a aba para autores e colaborador
 
 ![Autores e colab](../../assets/analise_de_requisitos/HTAAutCol.png)
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30), 2023</p></font>
 
 
 <font size="2"><p style="text-align: center">Tabela 4: Tabela da representação HTA da tarefa "Acessar aba para autores/colaboradores" </p></font>
 
-| Objetivos / Operações                         | Relações | Problemas e Recomendações                                                                                                                    |
-| --------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0. Acessar página para autores de obras       | 1 / 2    |                                                                                                                                              |
-| 1. Acessar página através da página principal | 1 > 2    |                                                                                                                                              |
-| 1.1 Informar CPF                              |          |                                                                                                                                              |
-| 1.2 Informar letras para segurança            |          |                                                                                                                                              |
-| 1.3 Selecionar botão enviar                   |          | feedback: o usuário deve ser redirecionado a aba dos autores                                                                                 |
-| 2. Acessar aba "Quero colaborar"              | 1 > 2    | feedback: o usuário é redirecionadoa página correspondente <br> plano: o usuário deve ver as opções dispóniveis para autores e colaboradores |
-| 2.1 Selecionar como quer colaborar            |          | feedback: é redirecionado para a página de instruções da opção selecionada                                                                   |
-| 2.2 Enviar email conforme orientado na página |          | plano: o usuário ao enviar email deve ser correspondido pelo destinatário                                                                    |
+| Objetivos / Operações | Relações | Problemas e Recomendações|
+| --------------------- | :------: | ------------------------ |
+| 0. Se tornar colaborador | 1 > 2 | _problema:_ As instruções para se tornar um colaborador e associar obras cadastradas ao seu perfil ficam em áreas totalmente diferentes do site, o que dificulta para o usuário associar as duas ações <br> _recomendação:_ colocar os botões para estas ações em locais próximos ou que indiquem que uma ação deve ser realizada antes da outra <br> _plano:_ o usuário deve enviar a solicitação para se tornar um colaborador, clicando em "Quero Colaborar" *e depois* Associar obras ao seu perfil|
+| 1. Clicar em "Quero Colaborar" | 1 > 2 | _plano:_ o usuário deve escolher para qual tipo de colaborador ele deseja se inscrever *e depois* enviar dados  |
+| 1.1. Escolher tipo de colaborador | |  |
+| 1.2. Enviar dados | 1 > 2 | _plano:_ o usuário deve verificar se já possui todos os documentos necessários e no formato solicitado *e depois* enviar os documentos para o email |
+| 1.2.1. Verificar se já possui todos os documentos necessários e no formato solicitado | ||
+| 1.2.2. Enviar documentos para o email | | _problema:_ Os dados devem ser enviados em um site externo, o que pode fazer com que o usuário envie os documentos para o remetente errado ou percam o interesse em fazer essa solicitação. <br> _recomendação:_ incluir um formulário para que essas solicitações sejam realizadas diretamente no site |
+| 2. Associar obras ao seu perfil | 1 > 2 | __plano:__ o usuário deve primeiro clicar em "Você é autor de obras no portal domínio público" *e depois* informar dados |
+| 2.1. Clicar em "Você é autor de obras no portal domínio público" | ||
+| 2.2. Informar dados | 1 > 2 | __plano:__ informar seu CPF e palavra de segurança *e depois* exibir mensagem de confirmação |
+| 2.2.1. Informar CPF e palavra de segurança |||
+|2.2.2. Exibir mensagem de confirmação |||
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30), 2023</p></font>
 
 
 
@@ -224,6 +227,7 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para enviar uma men
 | 1.0    | 11/10/2023 | Criação do Artefato                      | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.1    | 11/10/2023 | Adição da Analise Hierarquica de Tarefas | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Maria Alice](https://github.com/Maliz30)      |
 | 1.2    | 11/10/2023 | Adição dos diagramas HTA                 | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.3    | 15/10/2023 | Corrige introdução e metodologia         | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina) |
-| 1.4    | 22/10/2023 | Adição de Avaliar Midia         | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz-30) |
-| 1.5    | 23/10/2023 | Adição de Contatar Administradores         | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.3    | 15/10/2023 | Corrige introdução e metodologia         | [Gustavo França](https://github.com/gustavofbs)                                   | [Ana Catarina](https://github.com/an4catarina) |
+| 1.4    | 22/10/2023 | Adição de Avaliar Midia                  | [Victor Hugo](https://github.com/ViictorHugoo)                                      | [Maria Alice](https://github.com/Maliz-30) |
+| 1.5    | 23/10/2023 | Adição de Contatar Administradores       | [Gustavo França](https://github.com/gustavofbs)                                     | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.6    | 23/10/2023 | Correção na HTA da ação "Se tornar colaborador" | [Maria Alice](https://github.com/Maliz30)                                       | [Gustavo França](https://github.com/gustavofbs) |
