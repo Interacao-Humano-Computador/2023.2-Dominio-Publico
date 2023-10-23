@@ -151,7 +151,7 @@ Na Tabela 7, tem-se o <b>cronograma executado</b> para todas as atividades da te
 | Atividade                    | Período de desenvolvimento | Responsáveis | Periodo de Revisão | Revisores |
 | ---------------------------- | -------------------------- | ------------ | ------------------ | --------- |
 | Princípios gerais do projeto |                            |              |                    |           |
-| Metas de usabilidade         |                            |              |                    |           |
+| Metas de usabilidade         |Inicio: 19/10 <br>Fim: 21/10|Harryson e Gustavo|23/10           |Victor|
 | Guia de estilo               |Inicio: 22/10 <br>Fim: 23/10| Maria Alice e Victor Hugo|Inicio: 23/10 <br>Fim: 23/10 | Luciano Ricardo|
 | Gravar apresentação          | Inicio: 23/10 <br>Fim: 23/10 | Maria Alice  | Inicio: 23/10 <br>Fim: 23/10                    |           |
 | Edição da gravação           | Inicio: 23/10 <br>Fim: 23/10 |              | Inicio: 23/10 <br>Fim: 23/10                   |           |
