@@ -1,4 +1,4 @@
-# Guia de Estilos
+# Guia de Estilo
 
 ## Introdução
 
