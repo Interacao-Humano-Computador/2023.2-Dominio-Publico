@@ -42,14 +42,14 @@ Ao utilizar a ferramenta de tráfico de rede [Similarweb](https://www.similarweb
 
 ## Resultados do questionário
 
-O questionário teve um total de 7 perguntas de aspectos gerais do site e foi respondido por XX pessoas. Para as perguntas houve um enfoque no tipo de conteudo majoritario do site, que são livros de dominio publico. O questionário tambem contou com um Termo de Consentimento Livre e Esclarecido confome descrito na secçao de [aspectos éticos](aspectos_eticos.md)
+O questionário teve um total de 7 perguntas de aspectos gerais do site e foi respondido por 26 pessoas. Para as perguntas houve um enfoque no tipo de conteudo majoritario do site, que são livros de dominio publico. O questionário tambem contou com um Termo de Consentimento Livre e Esclarecido confome descrito na secçao de [aspectos éticos](aspectos_eticos.md)
 
 As perguntas e respostas do questionário serão descritas a seguir.
 
 
 #### Qual é a sua faixa etária?
 
-De acordo com o gráfico apresentado na Figura 3 a faixa etária dos usuarios do site é majoritariamente .....
+De acordo com o gráfico apresentado na Figura 3 a faixa etária dos usuarios do site é majoritariamente 18 à 24 anos.
 
 <center>
 
@@ -64,7 +64,7 @@ De acordo com o gráfico apresentado na Figura 3 a faixa etária dos usuarios do
 
 #### Qual o seu gênero?
 
-De acordo com o gráfico apresentado na Figura 4 o gênero dos usuarios do site é majoritariamente ...........
+De acordo com o gráfico apresentado na Figura 4 o gênero dos usuarios do site é majoritariamente masculino.
 
 <center>
 
@@ -79,7 +79,7 @@ De acordo com o gráfico apresentado na Figura 4 o gênero dos usuarios do site 
 
 #### Qual o seu grau de escolariedade?
 
-De acordo com o gráfico apresentado na Figura 5 o grau de escolariedade dos usuarios do site é majoritariamente ...........
+De acordo com o gráfico apresentado na Figura 5 o grau de escolariedade dos usuarios do site é majoritariamente de pessoas com o ensino superior incompleto.
 
 <center>
 
@@ -94,7 +94,7 @@ De acordo com o gráfico apresentado na Figura 5 o grau de escolariedade dos usu
 
 #### Qual o seu nível de afinidade com dispositivos eletrônicos?
 
-De acordo com o gráfico apresentado na Figura 6 o nível de afinidade com dispositivos eletrônicos dos usuarios do site é majoritariamente ...........
+De acordo com o gráfico apresentado na Figura 6 o nível de afinidade com dispositivos eletrônicos dos usuarios do site é majoritariamente alta.
 
 <center>
 
@@ -109,7 +109,7 @@ De acordo com o gráfico apresentado na Figura 6 o nível de afinidade com dispo
 
 #### Quantos livros você lê por ano?
 
-De acordo com o gráfico apresentado na Figura 7 os usuarios do site é leem com ...........
+De acordo com o gráfico apresentado na Figura 7 os usuarios do site é leem de 3 à 5 livros por ano.
 
 <center>
 
@@ -124,7 +124,7 @@ De acordo com o gráfico apresentado na Figura 7 os usuarios do site é leem com
 
 #### Já teve dificuldades para encontrar um livro online?
 
-De acordo com o gráfico apresentado na Figura 8 XX% dos usuarios do site já teve dificuldades para encontrar um livro online.
+De acordo com o gráfico apresentado na Figura 8, 80.8% dos usuarios já tiveram dificuldades para encontrar um livro online.
 
 <center>
 
@@ -138,7 +138,7 @@ De acordo com o gráfico apresentado na Figura 8 XX% dos usuarios do site já te
 
 #### Ao encontrar um livro online o que você espera?
 
-De acordo com o gráfico apresentado na Figura 9 os usuarios esperam que um livro online seja ................
+De acordo com o gráfico apresentado na Figura 9 os usuarios esperam que um livro online esteja completo, seja gratuito e esteja em boas condições (bem adaptado e bem digitalizado).
 
 <center>
 
@@ -160,14 +160,14 @@ Com base nessas duas abordagens podemos montar o perfil do usuario descrito na T
 
 <font size="2"><p style="text-align: center">Tabela 1: Perfil do usuario </p></font>
 
-| Característica                    | Descrição |
-| --------------------------------- | --------- |
-| Idade                             |           |
-| Genero                            |           |
-| Grau de escolaridade              |           |
-| Nível de conhecimento tecnológico |           |
-| Afinidade com leitura             |           |
-| Espectativas/Objetivos            |           |
+| Característica                    | Descrição                                        |
+| --------------------------------- | ------------------------------------------------ |
+| Idade                             | Jovens de 18 à 24 anos                           |
+| Genero                            | Indiferente, devido a proximidade dos resultados |
+| Grau de escolaridade              | Superior incompleto                              |
+| Nível de conhecimento tecnológico | Experiente (tecnófilos)                          |
+| Afinidade com leitura             | Leem com frequência mediana                      |
+| Espectativas/Objetivos            | Buscam acessar livros legiveis e gratuitos       |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo), 2023</p></font>
 
@@ -183,6 +183,8 @@ Com base nessas duas abordagens podemos montar o perfil do usuario descrito na T
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição           | Autor(es)                                       | Revisor(es)                               |
-| ------ | ---------- | ------------------- | ----------------------------------------------- | ----------------------------------------- |
-| 1.0    | 15/10/2023 | Criação do artefato | [Luciano Ricardo](https://github.com/l-ricardo) | [Maria Alice](https://github.com/Maliz30) |
+| Versão | Data       | Descrição                     | Autor(es)                                       | Revisor(es)                                    |
+| ------ | ---------- | ----------------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 15/10/2023 | Criação do artefato           | [Luciano Ricardo](https://github.com/l-ricardo) | [Maria Alice](https://github.com/Maliz30)      |
+| 1.1    | 16/10/2023 | Adição dos graficos           | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.2    | 17/10/2023 | Conserto de erro de digitação | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
