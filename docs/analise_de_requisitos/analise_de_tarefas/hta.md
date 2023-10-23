@@ -177,6 +177,30 @@ Nesta tarefa, o objetivo do usuário é avaliar as midias que já foram consumid
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
 
+### Contatar administrador sobre dúvidas
+
+Nessa tarefa, o usuário tem como objetivo acessar um painel para solicitar uma resposta a um administrador do site referente a uma dúvida que não tenha resposta no próprio site.
+
+<font size="2"><p style="text-align: center">Figura 8: Descrição GOMS da tarefa "Contatar administrador sobre dúvidas"</p></font>
+
+![GOMSContatoAdmin](../../assets/analise_de_requisitos/HTAContatoAdmin.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
+
+<font size="2"><p style="text-align: center">Tabela 7: Tabela da representação HTA da tarefa "Avaliar Mídia"</p></font>
+
+| Objetivos / Operações                               | Relações | Problemas e Recomendações                                                                                                                                              |
+| --------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tirar dúvida com os administradores                     | | |
+| 1 Encontrar "Fale conosco"         |   1 > 2   | feedback: o usuário deve ser redirecionado a página "Fale conosco" <br> plano: ao acessar a página o usuário é capaz de enviar a sua dúvida  |
+| 1.1 Preencher campos de contato     | |  |
+| 1.2 Informar a dúvida em um campo específico     ||
+| 1.2.1  Clicar em "Enviar"             |  1 / 2    | plano: o usuário deve poder enviar a sua dúvida  |
+| 1.2.2 Clicar em "Limpar"    | | plano: o usuário deve poder limpar o campo sobre a sua dúvida |
+
+
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
+
 ## Referências Bibliográficas
 
 > <a id="FRM3" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
