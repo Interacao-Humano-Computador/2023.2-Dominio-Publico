@@ -143,7 +143,7 @@ Nessa tarefa, o usuário tem por objetivo acessar a área de estatísticas do si
 | Objetivos / Operações                               | Relações | Problemas e Recomendações                                                                                                                                              |
 | --------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0. Acessar área de estatísticas                     | 1 / 2    |                                                                                                                                                                        |
-| 1. Acessar aba "Estatísticas" pela página principal | 1 > 2    | feedback: o usuário deve ser redirecionado a página de estatisticas <br> palno: ao acessar a página o usuário é capaz de acessar as opções de estatisticas disponíveis |
+| 1. Acessar aba "Estatísticas" pela página principal | 1 > 2    | feedback: o usuário deve ser redirecionado a página de estatisticas <br> plano: ao acessar a página o usuário é capaz de acessar as opções de estatisticas disponíveis |
 | 1.1 Obras mais acessadas                            |          | plano: o usuário deve poder ver as obras mais acessadas                                                                                                                |
 | 1.1.1 Pesquisar obra                                |          | plano: o usuário deve poder pesquisar dentro das obras mais acessadas                                                                                                  |
 | 1.2 Acessos por tipos de mídia                      |          | plano: o usuário deve ser capaz de ver os acessos de terceiros a outros tipod de mídia                                                                                 |
@@ -153,7 +153,29 @@ Nessa tarefa, o usuário tem por objetivo acessar a área de estatísticas do si
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
+### Avaliar mídias
 
+Nesta tarefa, o objetivo do usuário é avaliar as midias que já foram consumidas, baixadas ou lidas. No planejamento do site avaliado, essa tarefa está relacionado a heurística " ajuda e documentação" A Figura 7 apresenta seu diagram HTA e a Tabela 6 suas especificações: 
+
+<font size="2"><p style="text-align: center">Figura 7: Diagrama da representação HTA da tarefa "Avaliar Mídia" </p></font>
+
+![Avaliação](../../assets/analise_de_requisitos/hta-avaliar-midia.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
+
+<font size="2"><p style="text-align: center">Tabela 6: Tabela da representação HTA da tarefa "Avaliar Mídia"</p></font>
+
+| Objetivos / Operações                               | Relações | Problemas e Recomendações                                                                                                                                              |
+| --------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Avaliar Mídia                      | 1 > 2| Input: Nota entre 1 a 5 e comentário sobre a midia <br> feedback: novo comentário aparece com a nota e o comentário inseridos <br> plano: achar a midia **e depois** deixar a avaliação|
+| 1. Pesquisar por uma mídia         |      ||
+| 1.1 Enviar confirmação de pesquisa |      ||
+| 2.  Selecionar a midia             |      ||
+| 2.1 Econtrar campo de avaliação    | 1 + 2| plano: definiar a nota da midia e o comentário sobre **e** escolher uma nota de 1 a 5|
+| 2.1.1 definir comentário e nota    |      ||
+| 2.1.2 postar avaliação             |      ||
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
 
 ## Referências Bibliográficas
 
@@ -163,9 +185,10 @@ Nessa tarefa, o usuário tem por objetivo acessar a área de estatísticas do si
 
 ## Bibliografia
 
-> Bilheteria Digital. Análise Hierárquica de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/. Acesso em: 11 de out. 2023.
+> Bilheteria Digital. Análise Hierárquica de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/>>. Acesso em: 11 de out. 2023.
 >
-> Simples Nacional. Análise de Tarefas. Repositório do Grupo Simples Nacional da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/Analise/. Acesso em: 10 de out 2023.
+> Simples Nacional. Análise de Tarefas. Repositório do Grupo Simples Nacional da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/Analise/>>. Acesso em: 10 de out 2023.
+
 
 
 
@@ -173,7 +196,8 @@ Nessa tarefa, o usuário tem por objetivo acessar a área de estatísticas do si
 
 | Versão | Data       | Descrição                                | Autor(es)                                                                                              | Revisor(es)                                    |
 | ------ | ---------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------- |
-| 1.0    | 11/10/2023 | Criação do Artefato                     | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.0    | 11/10/2023 | Criação do Artefato                      | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.1    | 11/10/2023 | Adição da Analise Hierarquica de Tarefas | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Maria Alice](https://github.com/Maliz30)      |
 | 1.2    | 11/10/2023 | Adição dos diagramas HTA                 | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.3    | 15/10/2023 | Corrige introdução e metodologia         | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina) |
+| 1.4    | 22/10/2023 | Adição de Avaliar Midia         | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz-30) |

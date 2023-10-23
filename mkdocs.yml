@@ -75,9 +75,7 @@ nav:
       - Características da Plataforma: analise_de_requisitos/caracteristicas.md
       - Principios Gerais de Projeto: analise_de_requisitos/principios_gerais.md
       - Metas de Usabilidade: analise_de_requisitos/metas_de_usabilidade.md
-      - Guia de Estilos: analise_de_requisitos/guia_de_estilos.md
-
-      
+      - Guia de Estilos: analise_de_requisitos/guia_de_estilos.md  
 
 # Extensions
 markdown_extensions:
