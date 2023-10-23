@@ -141,3 +141,4 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para solicitar uma 
 | 1.2    | 15/10/2023 | Corrige introdução e metodologia                     | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina) |
 |1.3     | 16/10/2023 | Conserto das imagens GOMS | [Harryson Martins](https://github.com/harry-cmartin) | [Pedro Henrique](https://github.com/pedro-hsf)|
 |1.3     | 16/10/2023 | Adição de Avaliar midia   | [Victor Hugo](https://github.com/ViictorHugoo)       | [Maria Alice](https://github.com/Maliz-30)|
+| 1.5    | 23/10/2023 | Adição de Contatar Administradores         | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |

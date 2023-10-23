@@ -177,11 +177,11 @@ Nesta tarefa, o objetivo do usuário é avaliar as midias que já foram consumid
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
 
-### Contatar administrador sobre dúvidas
+### Contatar administradores
 
-Nessa tarefa, o usuário tem como objetivo acessar um painel para solicitar uma resposta a um administrador do site referente a uma dúvida que não tenha resposta no próprio site.
+Nessa tarefa, o usuário tem como objetivo acessar um painel para enviar uma mensagem aos administradores do site.
 
-<font size="2"><p style="text-align: center">Figura 8: Descrição GOMS da tarefa "Contatar administrador sobre dúvidas"</p></font>
+<font size="2"><p style="text-align: center">Figura 8: Descrição GOMS da tarefa "Contatar administrador"</p></font>
 
 ![GOMSContatoAdmin](../../assets/analise_de_requisitos/HTAContatoAdmin.png)
 
@@ -191,12 +191,13 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para solicitar uma 
 
 | Objetivos / Operações                               | Relações | Problemas e Recomendações                                                                                                                                              |
 | --------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Tirar dúvida com os administradores                     | | |
-| 1 Encontrar "Fale conosco"         |   1 > 2   | feedback: o usuário deve ser redirecionado a página "Fale conosco" <br> plano: ao acessar a página o usuário é capaz de enviar a sua dúvida  |
-| 1.1 Preencher campos de contato     | |  |
-| 1.2 Informar a dúvida em um campo específico     ||
-| 1.2.1  Clicar em "Enviar"             |  1 / 2    | plano: o usuário deve poder enviar a sua dúvida  |
-| 1.2.2 Clicar em "Limpar"    | | plano: o usuário deve poder limpar o campo sobre a sua dúvida |
+| Contatar administradores                     | 1 > 2 |  plano: encontrar um meio de contato, inserir informações relevantes e enviar a sua mensagem |
+| 1. Acessar "Fale conosco" pela página principal         |  | feedback: o usuário deve ser redirecionado a página "Fale conosco" <br> plano: ao acessar a página o usuário é capaz de enviar a sua mensagem  |
+| 2. Preencher os campos existentes     | 1 > 2 | plano: inserir o nome, email e depois a mensagem |
+| 2.1. Informar "Nome"     ||
+| 2.2. Informar "Email"             |  |  |
+| 2.3. Escrever mensagem em "Comentários"     | |  |
+| 3. Clicar em "Enviar"    | | feedback: aparecer uma mensagem de que o envio foi bem sucedido |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
@@ -225,3 +226,4 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para solicitar uma 
 | 1.2    | 11/10/2023 | Adição dos diagramas HTA                 | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.3    | 15/10/2023 | Corrige introdução e metodologia         | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina) |
 | 1.4    | 22/10/2023 | Adição de Avaliar Midia         | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz-30) |
+| 1.5    | 23/10/2023 | Adição de Contatar Administradores         | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
