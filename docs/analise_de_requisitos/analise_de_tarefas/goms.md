@@ -105,6 +105,16 @@ Nessa tarefa, o usuário tem como objetivo avaliar a midia escolhida.
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
 
+### Contatar administrador sobre dúvidas
+
+Nessa tarefa, o usuário tem como objetivo acessar um painel para solicitar uma resposta a um administrador do site referente a uma dúvida que não tenha resposta no próprio site.
+
+<font size="2"><p style="text-align: center">Figura 7: Descrição GOMS da tarefa "Contatar administrador sobre dúvidas"</p></font>
+
+![GOMSContatoAdmin](../../assets/analise_de_requisitos/GOMSContatoAdmin.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
+
 ## Referências Bibliográficas
 
 > <a id="FRM3" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -131,3 +141,4 @@ Nessa tarefa, o usuário tem como objetivo avaliar a midia escolhida.
 | 1.2    | 15/10/2023 | Corrige introdução e metodologia                     | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina) |
 |1.3     | 16/10/2023 | Conserto das imagens GOMS | [Harryson Martins](https://github.com/harry-cmartin) | [Pedro Henrique](https://github.com/pedro-hsf)|
 |1.3     | 16/10/2023 | Adição de Avaliar midia   | [Victor Hugo](https://github.com/ViictorHugoo)       | [Maria Alice](https://github.com/Maliz-30)|
+| 1.5    | 23/10/2023 | Adição de Contatar Administradores         | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
