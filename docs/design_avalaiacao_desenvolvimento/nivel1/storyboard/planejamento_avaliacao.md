@@ -15,7 +15,7 @@ Na realização do seguinte planejamento será utilizado o framework DECIDE conf
 
 ![DECIDE](../assets/Planejamento_aval_storyboard/DECIDE.jpeg)
 
-<font size="2"><p style="text-align: center">Fonte: Barbosa e Silva, 2010.</p></font>
+<font size="2"><p style="text-align: center">Fonte: Barbosa e Silva, 2011 <a id="anchor_1" href="#FRM1">¹</a>.</p></font>
 
 </center>
 
@@ -33,7 +33,7 @@ Dessa forma garantindo que sejam eficientes e coesos.
 
 ## E - Exploração de perguntas
 
-Com base nos objetivos evidenciados anteriormente, foram selecionadas algumas perguntas, relacionado aos aspectos definidos relacionado com cada objetivo, a fim de guiar o processo de avaliação, operacionalizar a investigação e os julgamentos de valor a serem feitos, com base no Capítulo 9 de Barbosa e Silva(2010, p.293):
+Com base nos objetivos evidenciados anteriormente, foram selecionadas algumas perguntas, relacionado aos aspectos definidos relacionado com cada objetivo, a fim de guiar o processo de avaliação, operacionalizar a investigação e os julgamentos de valor a serem feitos, com base no Capítulo 9 de Barbosa e Silva (2010, p.293) <a id="anchor_1" href="#FRM1">¹</a>:
 
 ### O que Avaliar ?
 
@@ -89,7 +89,7 @@ O cronograma das entrevistas com os usuários estão documentadas na tabela 1 co
 |  [Pedro Henrique](https://github.com/pedro-hsf)        |  |  |  |  | Plataforma ... |
 |  [Victor Hugo](https://github.com/ViictorHugoo)        |  |  |  |  | Plataforma ... |
 
-<font size="2"><p style="text-align: center">Fonte: Domíno Público</p></font>
+<font size="2"><p style="text-align: center">Fonte: Domíno Público <a id="FRM4" href="#anchor_2">²</a></p></font>
 
 
 ### Execução
@@ -126,9 +126,7 @@ Na parte inicial do encontro será disponibilizado termo de consentimento para a
 
 Ao realizar avaliações com usuários, é importante seguir as diretrizes éticas para garantir respeito aos envolvidos, evitando qualquer dano durante e após a divulgação dos resultados. A condução de metodologias com terceiros requer a consciência dos participantes sobre os princípios éticos e a assinatura de um termo de consentimento. 
 
-Esses princípios baseiam-se nos conceitos delineados pelo Conselho Nacional de Saúde, como autonomia, beneficência, não maleficência, justiça e equidade, conforme especificados na seção de <a href= "docs/analise_de_requisitos/aspectos_eticos/aspectos_eticos.md"> Aspectos Éticos </a>
-
-Segue abaixo na Figura 2 o termo de consentimento a ser utilizado pelo Grupo 04:
+Segue abaixo na Figura 2 o termo de consentimento em  <a href= "docs/analise_de_requisitos/aspectos_eticos/aspectos_eticos.md"> Aspectos Éticos </a> a ser utilizado pelo Grupo 04:
 
 <center>
 
@@ -158,7 +156,16 @@ A realização desse teste será feito pelos integrantes [Ana Catarina](https://
 
 ## Bibliografia
 
+> Bilheteria Digital. Metas de usabilidade. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/metas-usabilidade/. Acesso em: 28 de out. 2023.
+>
+
+
 ## Referências Bibliográficas
+
+> <a id="FRM3" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+>
+> <a id="FRM4" href="#anchor_2">2.</a> Domínio Público. Pesquisa de obras. Disponível em: <http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp\>. Acesso em: 28/10/2023.
+
 
 ## Histórico de Versões
 
