@@ -13,7 +13,7 @@ Na realização do seguinte planejamento será utilizado o framework DECIDE conf
 
 <font size="2"><p style="text-align: center">Figura 1: Framework DECIDE.</p></font>
 
-![DECIDE](/docs/assets/Planejamento_aval_storyboard/DECIDE.jpeg)
+![DECIDE](../assets/Planejamento_aval_storyboard/DECIDE.jpeg)
 
 <font size="2"><p style="text-align: center">Fonte: Barbosa e Silva, 2010.</p></font>
 
@@ -124,7 +124,21 @@ Na parte inicial do encontro será disponibilizado termo de consentimento para a
 
 ## D - Aspectos Éticos
 
-Ao realizar avaliações com usuários, é importante seguir as diretrizes éticas para garantir respeito aos envolvidos, evitando qualquer dano durante e após a divulgação dos resultados. A condução de metodologias com terceiros requer a consciência dos participantes sobre os princípios éticos e a assinatura de um termo de consentimento. Esses princípios baseiam-se nos conceitos delineados pelo Conselho Nacional de Saúde, como autonomia, beneficência, não maleficência, justiça e equidade, conforme especificados na seção de <a href= "docs/analise_de_requisitos/aspectos_eticos/aspectos_eticos.md"> Aspectos Éticos </a>
+Ao realizar avaliações com usuários, é importante seguir as diretrizes éticas para garantir respeito aos envolvidos, evitando qualquer dano durante e após a divulgação dos resultados. A condução de metodologias com terceiros requer a consciência dos participantes sobre os princípios éticos e a assinatura de um termo de consentimento. 
+
+Esses princípios baseiam-se nos conceitos delineados pelo Conselho Nacional de Saúde, como autonomia, beneficência, não maleficência, justiça e equidade, conforme especificados na seção de <a href= "docs/analise_de_requisitos/aspectos_eticos/aspectos_eticos.md"> Aspectos Éticos </a>
+
+Segue abaixo na Figura 2 o termo de consentimento a ser utilizado pelo Grupo 04:
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 2: Termo de Consentimento</p></font>
+
+![Figura 1: Termo de consentimento.](../assets/aspectos-eticos/TermoDeConsentimento.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf) </p></font>
+
+</center>
 
 ## E - Avaliação, Interpretação e Apresentação dos Dados
 
@@ -135,6 +149,10 @@ Além disso, se identificados problemas, elencados pelos usuários, tais fenôme
 Por fim, as informações adquiridas serão validadas novamente, e assim poderão ser desenvolvidas e implementadas, visando a melhoras das vicissitudes encontradas.
 
 ## Planejamento do Teste Piloto
+
+Para começo, o teste piloto tem como enfase fazer uma avaliação das fases do planejamento propostas, assim produzindo dados para verificação da qualidade e eficiencia da mesma. Assim o teste será feito com dois integrantes da própria equipe, visando atingir esse objetivo. O entrevistador e o entrevistado devem agir como numa entrevista verídica, a fim de trazer o máximo de fidelidade e resultados mais próximos ao real.
+
+A realização desse teste será feito pelos integrantes [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf).
 
 ## Resultado do Teste Piloto
 
