@@ -13,7 +13,7 @@ Na realização do seguinte planejamento será utilizado o framework DECIDE conf
 
 <font size="2"><p style="text-align: center">Figura 1: Framework DECIDE.</p></font>
 
-![DECIDE](../assets/Planejamento_aval_storyboard/DECIDE.jpeg)
+![DECIDE](../../../assets/Planejamento_aval_storyboard/DECIDE.jpeg)
 
 <font size="2"><p style="text-align: center">Fonte: Barbosa e Silva, 2011 <a id="anchor_1" href="#FRM1">¹</a>.</p></font>
 
@@ -132,7 +132,7 @@ Segue abaixo na Figura 2 o termo de consentimento em  <a href= "docs/analise_de_
 
 <font size="2"><p style="text-align: center">Figura 2: Termo de Consentimento</p></font>
 
-![Figura 1: Termo de consentimento.](../assets/aspectos-eticos/TermoDeConsentimento.png)
+![Figura 1: Termo de consentimento.](../../../assets/aspectos-eticos/TermoDeConsentimento.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf) </p></font>
 
