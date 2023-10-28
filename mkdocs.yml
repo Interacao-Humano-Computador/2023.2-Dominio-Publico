@@ -76,7 +76,18 @@ nav:
       - Características da Plataforma: analise_de_requisitos/caracteristicas.md
       - Principios Gerais de Projeto: analise_de_requisitos/principios_gerais.md
       - Metas de Usabilidade: analise_de_requisitos/metas_de_usabilidade.md
-      - Guia de Estilo: analise_de_requisitos/guia_de_estilo.md  
+      - Guia de Estilo: analise_de_requisitos/guia_de_estilo.md
+  - Design, Avaliação e Desenvolvimento:
+      - Nivel 1:
+        - Análise de Tarefas: 
+          - Planejamento da Avaliação: design_avalaiacao_desenvolvimento\nivel1\analise_de_tarefas\planejamento_avaliacao.md
+          - Planejamento do Relato dos Resultados: design_avalaiacao_desenvolvimento\nivel1\analise_de_tarefas\planejamento_relato.md
+          - Relato dos resultados: design_avalaiacao_desenvolvimento\nivel1\analise_de_tarefas\realto_resultados.md
+        - Storyboard:
+          - Planejamento da Avaliação: design_avalaiacao_desenvolvimento\nivel1\storyboard\planejamento_avaliacao.md
+          - Planejamento do Relato dos Resultados: design_avalaiacao_desenvolvimento\nivel1\storyboard\planejamento_relato.md
+          - Relato dos resultados: design_avalaiacao_desenvolvimento\nivel1\storyboard\realto_resultados.md
+          - Storyboards: design_avalaiacao_desenvolvimento\nivel1\storyboard\storyboards.md
 
 # Extensions
 markdown_extensions:
