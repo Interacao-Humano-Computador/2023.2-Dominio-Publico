@@ -7,6 +7,18 @@ A fim de definir o planejamento da avaliação dos storyboards, serão definidos
  
 ## Metodologia
 
+Na realização do seguinte planejamento será utilizado o framework DECIDE conforme orientado, onde cada letra é uma etapa a ser seguida.Como pode ser visto na figura 1:
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 1: Framework DECIDE.</p></font>
+
+![DECIDE](/docs/assets/Planejamento_aval_storyboard/DECIDE.jpeg)
+
+<font size="2"><p style="text-align: center">Fonte: Barbosa e Silva, 2010.</p></font>
+
+</center>
+
 ## D
 ## E
 ## C
