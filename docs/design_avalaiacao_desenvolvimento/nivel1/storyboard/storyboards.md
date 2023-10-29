@@ -5,7 +5,7 @@
 A figura 1 representa o storyboard relacionado a tarefa de Pesquisar por Mídia.
 <center>
 
-<font size="2"><p style="text-align: center">Figura 1: StoryBoard pesquisar por mídia.</p></font>
+<font size="2"><p style="text-align: center">Figura 1: Storyboard pesquisar por mídia.</p></font>
 
 ![Pesquisar](../../../assets/storyboards/PESQUISAR.jpeg)
 
@@ -17,10 +17,10 @@ A figura 1 representa o storyboard relacionado a tarefa de Pesquisar por Mídia.
 
 ## Tarefa 2: Contatar administradores
 
-A figura 2 representa o storyboard relacionado a tarefa de Pesquisar por Mídia.
+A figura 2 representa o storyboard relacionado a tarefa de Contatar Administradores.
 <center>
 
-<font size="2"><p style="text-align: center">Figura 1: StoryBoard contatar administradores.</p></font>
+<font size="2"><p style="text-align: center">Figura 1: Storyboard contatar administradores.</p></font>
 
 ![Pesquisar](../../../assets/storyboards/ADMIN.jpeg)
 
