@@ -192,7 +192,7 @@ Na Tabela 9, tem-se o <b>cronograma executado</b> para todas as atividades da qu
 | Planejamento da avaliação do Storyboard                          |                            |              |                    |           |
 | Planejamento do relato dos resultados da avaliação do Storyboard |                            |              |                    |           |
 | Planejamento da Avaliação da Análise de tarefas                  |                            |              |                    |           |
-| Planejamento do relato da avaliação da análise de tarefas        |                            |              |                    |           |
+| Planejamento do relato da avaliação da análise de tarefas        |Inicio: 29/10 <br>Fim: 29/10| Victor Hugo  |                    |           |
 | Gravar apresentação                                              |                            |              |                    |           |
 | Edição da gravação                                               |                            |              |                    |           |
 | Correção pós apresentação                                        |                            |              |                    |           |
