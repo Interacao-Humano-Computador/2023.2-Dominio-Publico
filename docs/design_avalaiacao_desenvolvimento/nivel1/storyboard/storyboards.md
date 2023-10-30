@@ -17,7 +17,7 @@ Para a realização dos storyboards, segue na Tabela 1 quais foram realizadas:
 |    [Ana Catarina](https://github.com/an4catarina)    |        Acessar as Estátisticas          |
 |   [Gustavo França](https://github.com/gustavofbs)    |       Contatar Admin          |
 | [Harryson Martins](https://github.com/harry-cmartin) |       Pesquisar por mídia          |
-|      [Luciano Ricardo](https://github.com/Maliz30)       |          Cadidatura para Colaborador       |
+|      [Luciano Ricardo](https://github.com/l-ricardo)       |          Pedir Ajuda       |
 |      [Maria Alice](https://github.com/Maliz30)       |          Cadidatura para Colaborador       |
 |    [Pedro Henrique](https://github.com/pedro-hsf)    |           Download de Mídia      |
 |    [Victor Hugo](https://github.com/ViictorHugoo)    |       Avaliar mídia          |
@@ -65,14 +65,14 @@ A figura 1 representa o storyboard relacionado a tarefa de Pesquisar por Mídia.
 
 </center>
 
-## Tarefa 4: Baixando o Leitor de PDF 
+## Tarefa 4: Pedir Ajuda 
 
-A figura 4 representa o storyboard relacionado a Baixando o Leitor de PDF.
+A figura 4 representa o storyboard relacionado a Pedir Ajuda.
 <center>
 
-<font size="2"><p style="text-align: center">Figura 4: Storyboard Baixando o Leitor de PDF.</p></font>
+<font size="2"><p style="text-align: center">Figura 4: Storyboard Pedir Ajuda.</p></font>
 
-![Baixar leitor PDF](../../../assets/storyboards/luciano.jpg)
+![Pedir Ajuda](../../../assets/storyboards/luciano.jpg)
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) (2023)<a id="anchor_2" href="#FRM2"></a>.</p></font>
 
