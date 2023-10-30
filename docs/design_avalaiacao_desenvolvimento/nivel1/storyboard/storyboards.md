@@ -14,18 +14,29 @@ Para a realização dos storyboards, segue na Tabela 1 quais foram realizadas:
 
 |                  Integrante                   | Storyboard | 
 | :--------------------------------------------------: | :-------------: | 
-|    [Ana Catarina](https://github.com/an4catarina)    |                 |
+|    [Ana Catarina](https://github.com/an4catarina)    |        Acessar as Estátisticas          |
 |   [Gustavo França](https://github.com/gustavofbs)    |       Contatar Admin          |
 | [Harryson Martins](https://github.com/harry-cmartin) |       Pesquisar por mídia          |
-|      [Maria Alice](https://github.com/Maliz30)       |                 |
-|    [Pedro Henrique](https://github.com/pedro-hsf)    |                 |
+|      [Maria Alice](https://github.com/Maliz30)       |          Cadidatura para Colaborador       |
+|    [Pedro Henrique](https://github.com/pedro-hsf)    |           Download de Mídia      |
 |    [Victor Hugo](https://github.com/ViictorHugoo)    |       Avaliar mídia          |
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs).</p></font>
 
 </center>
 
-## Tarefa 1: 
+## Tarefa 1: Acessar as Estátisticas 
+
+A figura 1 representa o storyboard relacionado a Acessar as Estátisticas.
+<center>
+
+<font size="2"><p style="text-align: center">Figura 1: Storyboard Acessar as Estátisticas .</p></font>
+
+![Avaliar Midia](../../../assets/storyboards/catarina.jpg)
+
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina) (2023)<a id="anchor_2" href="#FRM2"></a>.</p></font>
+
+</center>
 
 ## Tarefa 2: Contatar administradores
 
@@ -52,22 +63,49 @@ A figura 1 representa o storyboard relacionado a tarefa de Pesquisar por Mídia.
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) (2023)<a id="anchor_1" href="#FRM1"></a>.</p></font>
 
 </center>
-## Tarefa 4:
-## Tarefa 5:
-## Tarefa 6: Avaliar mídia
 
-A figura 6 representa o storyboard relacionado a tarefa de Avaliar Midia.
+## Tarefa 4:
+
+## Tarefa 5: Cadidatura para Colaborador
+
+A figura 5 representa o storyboard relacionado a Cadidatura para Colaborador.
 <center>
 
-<font size="2"><p style="text-align: center">Figura 6: Storyboard avaliar mídia.</p></font>
+<font size="2"><p style="text-align: center">Figura 5: Storyboard Cadidatura para Colaborador.</p></font>
+
+![Avaliar Midia](../../../assets/storyboards/alice.jpg)
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/maliz30) (2023)<a id="anchor_2" href="#FRM2"></a>.</p></font>
+
+</center>
+
+
+
+## Tarefa 6: Download de mídia
+
+A figura 6 representa o storyboard relacionado ao Download de Midia.
+<center>
+
+<font size="2"><p style="text-align: center">Figura 6: Storyboard Download Mídia.</p></font>
+
+![Avaliar Midia](../../../assets/storyboards/pedro.jpg)
+
+<font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf) (2023)<a id="anchor_2" href="#FRM2"></a>.</p></font>
+
+</center>
+
+## Tarefa 7: Avaliar mídia
+
+A figura 7 representa o storyboard relacionado a tarefa de Avaliar Midia.
+<center>
+
+<font size="2"><p style="text-align: center">Figura 7: Storyboard avaliar mídia.</p></font>
 
 ![Avaliar Midia](../../../assets/storyboards/avaliar_midia.jpg)
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) (2023)<a id="anchor_2" href="#FRM2"></a>.</p></font>
 
 </center>
-
-## Tarefa 7:
 
 ## Referências Bibliográficas
 
@@ -81,3 +119,4 @@ A figura 6 representa o storyboard relacionado a tarefa de Avaliar Midia.
 |1.0|28/10/2023 | Tarefa pesquisar | [Harryson Martins](https://github.com/harry-cmartin)| [Gustavo França](https://github.com/gustavofbs) |
 |1.1| 28/10/2023| Tarefa contatar administradores |[Gustavo França](https://github.com/gustavofbs) |[Harryson Martins](https://github.com/harry-cmartin)|
 |1.2| 28/10/2023| Tarefa avaliar midia|[Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo) |
+|1.3| 30/10/2023| Tarefa Download de mídia, Acessar as Estátisticas, Cadidatura para Colaborador |[Pedro Henrique](https://github.com/pedro-hsf) | [Victor Hugo](https://github.com/ViictorHugoo)  |
