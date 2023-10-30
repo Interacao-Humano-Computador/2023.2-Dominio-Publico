@@ -80,14 +80,14 @@ O cronograma das entrevistas com os usuários estão documentadas na tabela 1 co
 
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma da entrevista </p></font>
 
-| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Ana Catarina](https://github.com/an4catarina)        |  |  |  |  | Plataforma ... |
-|  [Gustavo França](https://github.com/gustavofbs)       |  |  |  |  | Plataforma ... |
-|  [Harryson Martins](https://github.com/harry-cmartin)  |  |  |  |  | Plataforma ... |
-|  [Maria Alice](https://github.com/Maliz30)             |  |  |  |  | Plataforma ... |
-|  [Pedro Henrique](https://github.com/pedro-hsf)        |  |  |  |  | Plataforma ... |
-|  [Victor Hugo](https://github.com/ViictorHugoo)        |  |  |  |  | Plataforma ... |
+|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data  |     Local      |
+| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :---: | :------------: |
+|    [Ana Catarina](https://github.com/an4catarina)    |                 |                   |                |       | Plataforma ... |
+|   [Gustavo França](https://github.com/gustavofbs)    |                 |                   |                |       | Plataforma ... |
+| [Harryson Martins](https://github.com/harry-cmartin) |                 |                   |                |       | Plataforma ... |
+|      [Maria Alice](https://github.com/Maliz30)       |                 |                   |                |       | Plataforma ... |
+|    [Pedro Henrique](https://github.com/pedro-hsf)    |                 |                   |                |       | Plataforma ... |
+|    [Victor Hugo](https://github.com/ViictorHugoo)    |                 |                   |                |       | Plataforma ... |
 
 <font size="2"><p style="text-align: center">Fonte: Domíno Público <a id="FRM4" href="#anchor_2">²</a></p></font>
 
@@ -109,13 +109,13 @@ Na parte inicial do encontro será disponibilizado termo de consentimento para a
 
 <font size="2"><p style="text-align: center">Tabela 2: Perguntas propostas</p></font>
 
-|Pergunta  | Resposta |
-| :--------: | :-------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade? | ( )SIM<br>( )NÃO |
-| Você acha que as ações do storyboard levam para o objetivo final? | ( )SIM<br>( )NÃO |
+|                                                   Pergunta                                                    | Resposta         |
+| :-----------------------------------------------------------------------------------------------------------: | :--------------- |
+|                      Os atores envolvidos no storyboard são condizentes com a realidade?                      | ( )SIM<br>( )NÃO |
+|                       Você acha que as ações do storyboard levam para o objetivo final?                       | ( )SIM<br>( )NÃO |
 | O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? | ( )SIM<br>( )NÃO |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ? | ( )SIM<br>( )NÃO |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?| ( )SIM<br>( )NÃO |
+|             Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?              | ( )SIM<br>( )NÃO |
+|                   As ações presentes no storyboard seguem uma ordem identificável e fluida?                   | ( )SIM<br>( )NÃO |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs).</p></font>
@@ -169,8 +169,8 @@ A realização desse teste será feito pelos integrantes [Ana Catarina](https://
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                       | Autor(es)                                                                                              | Revisor(es)                                                                                                                                     |
-| ------ | ---------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.0    | 28/10/2023 | Criação do Documento        | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo) |
+| Versão | Data       | Descrição                               | Autor(es)                                                                                              | Revisor(es)                                                                                                                                     |
+| ------ | ---------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.0    | 28/10/2023 | Criação do Documento                    | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.1    | 28/10/2023 | Construção do documento de Planejamento | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Maria Alice](https://github.com/Maliz30)                                                                                                       |
-|1.2     |28/10/2023 | Adicão Planejamento Teste piloto |[Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.2    | 28/10/2023 | Adicão Planejamento Teste piloto        | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo) |

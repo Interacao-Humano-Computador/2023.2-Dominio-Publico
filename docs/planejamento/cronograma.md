@@ -106,17 +106,17 @@ Na Tabela 5, tem-se o <b>cronograma executado</b> para todas as atividades da se
 
 <font size="2"><p style="text-align: center">Tabela 5: Cronograma executado de Atividades da Entrega 2 - Perfil do usuário.</p></font>
 
-| Atividade                                     | Período de desenvolvimento | Responsáveis | Periodo de Revisão | Revisores |
-| --------------------------------------------- | -------------------------- | ------------ | ------------------ | --------- |
-| Perfil do usuário                             |Inicio: 08/10 <br>Fim: 14/10|Luciano Ricardo| 15/10             |Maria Alice|
-| Personas                                      |Inicio: 08/10 <br>Fim: 14/10|Victor Hugo    | 15/10             |Harryson Martins|
-| Pesquisa sobre ética                          |Inicio: 08/10 <br>Fim: 10/10|Ana Catarina e Pedro Henrique|10/10|Victor Hugo|
-| Execução do documento de pesquisa sobre ética |Inicio: 08/10 <br>Fim: 14/10|Ana Catarina e Pedro Henrique|10/10|Luciano Ricardo |
-| Análise de tarefas: HTA                       |Inicio: 08/10 <br>Fim: 10/10|Harryson e Gustavo|14/10           |Ana Catarina    |
-| Implementar Git Pages                         |Inicio: 08/10 <br>Fim: 10/10|Luciano Ricardo         |10/10               |Gustavo França  |
-| Gravar apresentação                           |Inicio: 16/10 <br>Fim: 16/10|Ana Catarina  |16/10               |Pedro Henrique  |
-| Edição da gravação                            |Inicio: 16/10 <br>Fim: 16/10|Ana Catarina  |16/10               |Pedro Henrique  |
-| Correção pós apresentação                     |Inicio: 08/10 <br>Fim: 16/10|Maria Alice        |16/10               |Harryson Martins|
+| Atividade                                     | Período de desenvolvimento   | Responsáveis                  | Periodo de Revisão | Revisores        |
+| --------------------------------------------- | ---------------------------- | ----------------------------- | ------------------ | ---------------- |
+| Perfil do usuário                             | Inicio: 08/10 <br>Fim: 14/10 | Luciano Ricardo               | 15/10              | Maria Alice      |
+| Personas                                      | Inicio: 08/10 <br>Fim: 14/10 | Victor Hugo                   | 15/10              | Harryson Martins |
+| Pesquisa sobre ética                          | Inicio: 08/10 <br>Fim: 10/10 | Ana Catarina e Pedro Henrique | 10/10              | Victor Hugo      |
+| Execução do documento de pesquisa sobre ética | Inicio: 08/10 <br>Fim: 14/10 | Ana Catarina e Pedro Henrique | 10/10              | Luciano Ricardo  |
+| Análise de tarefas: HTA                       | Inicio: 08/10 <br>Fim: 10/10 | Harryson e Gustavo            | 14/10              | Ana Catarina     |
+| Implementar Git Pages                         | Inicio: 08/10 <br>Fim: 10/10 | Luciano Ricardo               | 10/10              | Gustavo França   |
+| Gravar apresentação                           | Inicio: 16/10 <br>Fim: 16/10 | Ana Catarina                  | 16/10              | Pedro Henrique   |
+| Edição da gravação                            | Inicio: 16/10 <br>Fim: 16/10 | Ana Catarina                  | 16/10              | Pedro Henrique   |
+| Correção pós apresentação                     | Inicio: 08/10 <br>Fim: 16/10 | Maria Alice                   | 16/10              | Harryson Martins |
 
 </center>
 
@@ -148,14 +148,14 @@ Na Tabela 7, tem-se o <b>cronograma executado</b> para todas as atividades da te
 
 <font size="2"><p style="text-align: center">Tabela 7: Cronograma executado de Atividades da Entrega 3 - Princípios gerais.</p></font>
 
-| Atividade                    | Período de desenvolvimento | Responsáveis | Periodo de Revisão | Revisores |
-| ---------------------------- | -------------------------- | ------------ | ------------------ | --------- |
-| Princípios gerais do projeto |                            |              |                    |           |
-| Metas de usabilidade         |Inicio: 19/10 <br>Fim: 21/10|Harryson e Gustavo|23/10           |Victor|
-| Guia de estilo               |Inicio: 22/10 <br>Fim: 23/10| Maria Alice e Victor Hugo|Inicio: 23/10 <br>Fim: 23/10 | Luciano Ricardo|
-| Gravar apresentação          | Inicio: 23/10 <br>Fim: 23/10 | Maria Alice  | Inicio: 23/10 <br>Fim: 23/10                    |           |
-| Edição da gravação           | Inicio: 23/10 <br>Fim: 23/10 |              | Inicio: 23/10 <br>Fim: 23/10                   |           |
-| Correção pós apresentação    |                            |              |                    |           |
+| Atividade                    | Período de desenvolvimento   | Responsáveis              | Periodo de Revisão           | Revisores       |
+| ---------------------------- | ---------------------------- | ------------------------- | ---------------------------- | --------------- |
+| Princípios gerais do projeto |                              |                           |                              |                 |
+| Metas de usabilidade         | Inicio: 19/10 <br>Fim: 21/10 | Harryson e Gustavo        | 23/10                        | Victor          |
+| Guia de estilo               | Inicio: 22/10 <br>Fim: 23/10 | Maria Alice e Victor Hugo | Inicio: 23/10 <br>Fim: 23/10 | Luciano Ricardo |
+| Gravar apresentação          | Inicio: 23/10 <br>Fim: 23/10 | Maria Alice               | Inicio: 23/10 <br>Fim: 23/10 |                 |
+| Edição da gravação           | Inicio: 23/10 <br>Fim: 23/10 |                           | Inicio: 23/10 <br>Fim: 23/10 |                 |
+| Correção pós apresentação    |                              |                           |                              |                 |
 
 </center>
 
@@ -187,15 +187,15 @@ Na Tabela 9, tem-se o <b>cronograma executado</b> para todas as atividades da qu
 
 <font size="2"><p style="text-align: center">Tabela 9: Cronograma executado de Atividades da Entrega 4.</p></font>
 
-| Atividade                                                        | Período de desenvolvimento | Responsáveis | Periodo de Revisão | Revisores |
-| ---------------------------------------------------------------- | -------------------------- | ------------ | ------------------ | --------- |
-| Planejamento da avaliação do Storyboard                          |                            |              |                    |           |
-| Planejamento do relato dos resultados da avaliação do Storyboard |                            |              |                    |           |
-| Planejamento da Avaliação da Análise de tarefas                  |                            |              |                    |           |
-| Planejamento do relato da avaliação da análise de tarefas        |Inicio: 29/10 <br>Fim: 29/10| Victor Hugo  |Inicio: 29/10 <br>Fim: 29/10|Luciano Ricardo|
-| Gravar apresentação                                              |                            |              |                    |           |
-| Edição da gravação                                               |                            |              |                    |           |
-| Correção pós apresentação                                        |                            |              |                    |           |
+| Atividade                                                        | Período de desenvolvimento   | Responsáveis    | Periodo de Revisão           | Revisores       |
+| ---------------------------------------------------------------- | ---------------------------- | --------------- | ---------------------------- | --------------- |
+| Planejamento da avaliação do Storyboard                          |                              |                 |                              |                 |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Inicio: 29/10 <br>Fim: 29/10 | Luciano Ricardo |                              |                 |
+| Planejamento da Avaliação da Análise de tarefas                  |                              |                 |                              |                 |
+| Planejamento do relato da avaliação da análise de tarefas        | Inicio: 29/10 <br>Fim: 29/10 | Victor Hugo     | Inicio: 29/10 <br>Fim: 29/10 | Luciano Ricardo |
+| Gravar apresentação                                              |                              |                 |                              |                 |
+| Edição da gravação                                               |                              |                 |                              |                 |
+| Correção pós apresentação                                        |                              |                 |                              |                 |
 
 </center>
 
@@ -448,13 +448,13 @@ Na Tabela 21, tem-se o <b>cronograma executado</b> para todas as atividades da e
 
 ## Histórico de versões
 
-| Versão |    Data    | Descrição                                                                | Autor(es)                                       | Revisor(es)                                     |
-| ------ | :--------: | ------------------------------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------- |
-| 1.0    | 27/09/2023 | Criação da página de cronograma                                          | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
-| 1.1    | 28/09/2023 | Remoção de descrição                                                     | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
-| 1.2    | 29/09/2023 | Reformulação do cronograma com base no executado pelo Bilheteria Digital | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
-| 1.3    | 29/09/2023 | Alteração de datas                                                       | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
-| 1.4    | 30/09/2023 | Alocação de responsáveis e revisores                                     | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
-| 1.5    | 30/09/2023 | Trazendo tabelas cronograma exec.                                        | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
-| 1.6    | 04/10/2023 | Correção de Erros                                                        | [Maria Alice](https://github.com/Maliz30)       | [Victor Hugo](https://github.com/ViictorHugoo)  |
-| 1.7    | 23/10/2023 | Correção de Erros                                                        | [Maria Alice](https://github.com/Maliz30) e [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
+| Versão |    Data    | Descrição                                                                | Autor(es)                                                                                  | Revisor(es)                                     |
+| ------ | :--------: | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| 1.0    | 27/09/2023 | Criação da página de cronograma                                          | [Luciano Ricardo](https://github.com/l-ricardo)                                            | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.1    | 28/09/2023 | Remoção de descrição                                                     | [Victor Hugo](https://github.com/ViictorHugoo)                                             | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.2    | 29/09/2023 | Reformulação do cronograma com base no executado pelo Bilheteria Digital | [Victor Hugo](https://github.com/ViictorHugoo)                                             | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.3    | 29/09/2023 | Alteração de datas                                                       | [Victor Hugo](https://github.com/ViictorHugoo)                                             | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.4    | 30/09/2023 | Alocação de responsáveis e revisores                                     | [Victor Hugo](https://github.com/ViictorHugoo)                                             | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.5    | 30/09/2023 | Trazendo tabelas cronograma exec.                                        | [Victor Hugo](https://github.com/ViictorHugoo)                                             | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.6    | 04/10/2023 | Correção de Erros                                                        | [Maria Alice](https://github.com/Maliz30)                                                  | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.7    | 23/10/2023 | Correção de Erros                                                        | [Maria Alice](https://github.com/Maliz30) e [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo) |
