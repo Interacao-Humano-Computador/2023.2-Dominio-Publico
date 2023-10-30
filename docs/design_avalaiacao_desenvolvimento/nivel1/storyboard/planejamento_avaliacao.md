@@ -83,8 +83,8 @@ O cronograma das entrevistas com os usuários estão documentadas na tabela 1 co
 |                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data  |     Local      |
 | :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :---: | :------------: |
 |    [Ana Catarina](https://github.com/an4catarina)    |                 |                   |                |       | Plataforma ... |
-|   [Gustavo França](https://github.com/gustavofbs)    |        Douglas         |         19:00          |        19:10        |       | Plataforma Microsoft Teams |
-| [Harryson Martins](https://github.com/harry-cmartin) |                 |                   |                |       | Plataforma ... |
+|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:00       |      19:10     | 31/10/2023   | Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) |     Leandro     |       22:30       |      22:40     | 31/10/2023   | Plataforma Microsoft Teams |
 |      [Maria Alice](https://github.com/Maliz30)       |                 |                   |                |       | Plataforma ... |
 |    [Pedro Henrique](https://github.com/pedro-hsf)    |                 |                   |                |       | Plataforma ... |
 |    [Victor Hugo](https://github.com/ViictorHugoo)    |                 |                   |                |       | Plataforma ... |
