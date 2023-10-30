@@ -87,7 +87,7 @@ O cronograma das entrevistas com os usuários estão documentadas na tabela 1 co
 | [Harryson Martins](https://github.com/harry-cmartin) |     Leandro     |       22:30       |      22:40     | 31/10/2023   | Plataforma Microsoft Teams |
 |      [Maria Alice](https://github.com/Maliz30)       |     ---         |       ---         |      ---       | ---   | Plataforma --- |
 |    [Pedro Henrique](https://github.com/pedro-hsf)    |     ---         |       ---         |      ---       | ---   | Plataforma --- |
-|    [Victor Hugo](https://github.com/ViictorHugoo)    |     ---         |       ---         |      ---       | ---   | Plataforma --- |
+|    [Victor Hugo](https://github.com/ViictorHugoo)    | Douglas Alves   |       18:00       |      18:10     | 31/10/2023   | Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs).</p></font>
 
