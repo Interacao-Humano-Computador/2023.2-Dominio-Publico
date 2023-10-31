@@ -66,7 +66,7 @@ As perguntas a serem feitas serão relizados pelos entrevistadores, no caso cada
 
 ### Custos
 
-Como definido anteriormente a entrevista seá realizada por meio de ferramentas online, o que não acarretará grandes custos as partes, podendo ser utilizado qualquer dispositivo com acesso a internet. Vale salientar que o único aspecto que será necessario disponibilizar será o tempo de ambas as partes e o acord através do
+Como definido anteriormente a entrevista será realizada por meio de ferramentas online, o que não acarretará grandes custos as partes, podendo ser utilizado qualquer dispositivo com acesso a internet. Vale salientar que o único aspecto que será necessario disponibilizar será o tempo de ambas as partes e o acordo através do
 <a href="docs/analise_de_requisitos/aspectos_eticos.md" > Termo de Consentimento </a> .
 
 ### Prazos

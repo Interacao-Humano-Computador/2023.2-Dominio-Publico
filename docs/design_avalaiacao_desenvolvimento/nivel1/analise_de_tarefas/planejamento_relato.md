@@ -34,7 +34,7 @@ A metodologia a ser aplicada será de observação de entrevista com os usuário
 | ---------------- | ------------ | ----------------- | -------------- | ---- | ------------------- |
 | Ana Catarina     |              |                   |                |      | Plataforma <br> --- |
 | Gustavo França   |              |                   |                |      | Plataforma <br> --- |
-| Harryson Martins |              |                   |                |      | Plataforma <br> --- |
+| Harryson Martins |Luma Maia     |22:30              |22:40           |01/10 | Plataforma Microsoft Teams|
 | Luciano Ricardo  |              |                   |                |      | Plataforma <br> --- |
 | Maria Alice      |              |                   |                |      | Plataforma <br> --- |
 | Pedro Henrique   |              |                   |                |      | Plataforma <br> --- |
