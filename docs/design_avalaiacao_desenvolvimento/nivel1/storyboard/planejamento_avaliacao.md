@@ -145,18 +145,24 @@ Por fim, as informações adquiridas serão validadas novamente, e assim poderã
 De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamento com o objetivo de validar e conferir se o mesmo produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve fazer o teste piloto como se estivesse fazendo uma simulação real. A tabela 3 contém as informações do teste piloto.
 
 <font size="2"><p style="text-align: center">Tabela 3: Planejamento do teste piloto </p></font>
+
 | Ordem | Data       | Horário de início e fim | Local                               | Entrevistadores | Entrevistado |
 | ----- | ---------- | ----------------------- | ----------------------------------- | --------------- | ------------ |
 | 1     | 20/10/2023 | 21:00 - 21:07           | Plataforma Microsoft Teams (Online) | Pedro Henrique  | Victor hugo  |
+
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina).</p></font>
 
 No vídeo 1, pode-se conferir a gravação do teste piloto realizado.
+
+<center>
 
 <font size="2"><p style="text-align: center">Vídeo 1: Teste piloto </p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wyGxz_NfgXA?si=VAYE61b305sAOBpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina), [Victor Hugo](https://github.com/ViictorHugoo), [Pedro Henrique](https://github.com/pedro-hsf).</p></font>
+
+</center>
 
 ## Bibliografia
 
