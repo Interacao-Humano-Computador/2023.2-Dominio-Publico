@@ -77,15 +77,15 @@ O cronograma das entrevistas com os usuários estão documentadas na tabela 1 co
 
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma da entrevista </p></font>
 
-|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |           Local            |
-| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :------------------------: |
-|    [Ana Catarina](https://github.com/an4catarina)    |       ---       |        ---        |      ---       |    ---     |       Plataforma ---       |
-|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:00       |     19:10      | 31/10/2023 | Plataforma Microsoft Teams |
-| [Harryson Martins](https://github.com/harry-cmartin) |     Leandro     |       22:30       |     22:40      | 31/10/2023 | Plataforma Microsoft Teams |
-|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:30       |     22:40      | 03/11/2023 | Plataforma Microsoft Teams |
-|      [Maria Alice](https://github.com/Maliz30)       |       ---       |        ---        |      ---       |    ---     |       Plataforma ---       |
-|    [Pedro Henrique](https://github.com/pedro-hsf)    |       ---       |        ---        |      ---       |    ---     |       Plataforma ---       |
-|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       18:00       |     18:10      | 31/10/2023 | Plataforma Microsoft Teams |
+|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data  |           Local            |
+| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :---: | :------------------------: |
+|    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       19:10       |     19:20      | 01/11 | Plataforma Microsoft Teams |
+|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:00       |     19:10      | 31/10 | Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) |     Leandro     |       22:30       |     22:40      | 31/10 | Plataforma Microsoft Teams |
+|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:30       |     22:40      | 03/11 | Plataforma Microsoft Teams |
+|      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       13:50       |     14:00      | 03/11 | Plataforma Microsoft Teams |
+|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       18:50       |     19:00      | 01/11 | Plataforma Microsoft Teams |
+|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       18:00       |     18:10      | 31/10 | Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs).</p></font>
 
@@ -145,9 +145,9 @@ Por fim, as informações adquiridas serão validadas novamente, e assim poderã
 De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamento com o objetivo de validar e conferir se o mesmo produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve fazer o teste piloto como se estivesse fazendo uma simulação real. A tabela 3 contém as informações do teste piloto.
 
 <font size="2"><p style="text-align: center">Tabela 3: Planejamento do teste piloto </p></font>
-| Ordem | Data | Horário de início e fim | Local | Entrevistadores | Entrevistado |
+| Ordem | Data       | Horário de início e fim | Local                               | Entrevistadores | Entrevistado |
 | ----- | ---------- | ----------------------- | ----------------------------------- | --------------- | ------------ |
-| 1 | 20/10/2023 | 21:00 - 21:07 | Plataforma Microsoft Teams (Online) | Pedro Henrique | Victor hugo |
+| 1     | 20/10/2023 | 21:00 - 21:07           | Plataforma Microsoft Teams (Online) | Pedro Henrique  | Victor hugo  |
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina).</p></font>
 
 No vídeo 1, pode-se conferir a gravação do teste piloto realizado.
@@ -180,5 +180,5 @@ No vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 | 1.2    | 28/10/2023 | Adicão Planejamento Teste piloto        | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.3    | 28/10/2023 | Correção de fontes                      | [Gustavo França](https://github.com/gustavofbs)                                                        | [Pedro Henrique](https://github.com/pedro-hsf)                                                                                                  |
 | 1.4    | 30/10/2023 | Atualizando o termo de consentimento    | [Ana Catarina](https://github.com/an4catarina)                                                         | [Maria Alice](https://github.com/Maliz30)                                                                                                       |
-| 1.5    | 28/10/2023 | Correção de fontes      |[Gustavo França](https://github.com/gustavofbs) | [Pedro Henrique](https://github.com/pedro-hsf) |
+| 1.5    | 28/10/2023 | Correção de fontes                      | [Gustavo França](https://github.com/gustavofbs)                                                        | [Pedro Henrique](https://github.com/pedro-hsf)                                                                                                  |
 | 1.6    | 30/10/2023 | Adição do teste piloto                  | [Pedro Henrique](https://github.com/pedro-hsf)                                                         | [Maria Alice](https://github.com/Maliz30)                                                                                                       |
