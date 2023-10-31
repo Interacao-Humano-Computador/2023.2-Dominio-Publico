@@ -80,15 +80,15 @@ O cronograma das entrevistas com os usuários estão documentadas na tabela 1 co
 
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma da entrevista </p></font>
 
-|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim |      Data    |     Local      |
-| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :----------: | :------------: |
-|    [Ana Catarina](https://github.com/an4catarina)    |     ---         |       ---         |      ---       | ---          | Plataforma --- |
-|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:00       |      19:10     | 31/10/2023   | Plataforma Microsoft Teams |
-| [Harryson Martins](https://github.com/harry-cmartin) |     Leandro     |       22:30       |      22:40     | 31/10/2023   | Plataforma Microsoft Teams |
-| [Luciano Ricardo](https://github.com/l-ricardo)      |     Pedro       |       22:30       |      22:40     | 03/11/2023   | Plataforma Microsoft Teams |
-|      [Maria Alice](https://github.com/Maliz30)       |     ---         |       ---         |      ---       | ---          | Plataforma --- |
-|    [Pedro Henrique](https://github.com/pedro-hsf)    |     ---         |       ---         |      ---       | ---          | Plataforma --- |
-|    [Victor Hugo](https://github.com/ViictorHugoo)    | Douglas Alves   |       18:00       |      18:10     | 31/10/2023   | Plataforma Microsoft Teams |
+|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |           Local            |
+| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :------------------------: |
+|    [Ana Catarina](https://github.com/an4catarina)    |       ---       |        ---        |      ---       |    ---     |       Plataforma ---       |
+|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:00       |     19:10      | 31/10/2023 | Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) |     Leandro     |       22:30       |     22:40      | 31/10/2023 | Plataforma Microsoft Teams |
+|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:30       |     22:40      | 03/11/2023 | Plataforma Microsoft Teams |
+|      [Maria Alice](https://github.com/Maliz30)       |       ---       |        ---        |      ---       |    ---     |       Plataforma ---       |
+|    [Pedro Henrique](https://github.com/pedro-hsf)    |       ---       |        ---        |      ---       |    ---     |       Plataforma ---       |
+|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       18:00       |     18:10      | 31/10/2023 | Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs).</p></font>
 
@@ -174,4 +174,4 @@ A realização desse teste será feito pelos integrantes [Ana Catarina](https://
 | 1.0    | 28/10/2023 | Criação do Documento                    | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.1    | 28/10/2023 | Construção do documento de Planejamento | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Maria Alice](https://github.com/Maliz30)                                                                                                       |
 | 1.2    | 28/10/2023 | Adicão Planejamento Teste piloto        | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.3    | 28/10/2023 | Correção de fontes      |[Gustavo França](https://github.com/gustavofbs) | [Pedro Henrique](https://github.com/pedro-hsf) |
+| 1.3    | 28/10/2023 | Correção de fontes                      | [Gustavo França](https://github.com/gustavofbs)                                                        | [Pedro Henrique](https://github.com/pedro-hsf)                                                                                                  |

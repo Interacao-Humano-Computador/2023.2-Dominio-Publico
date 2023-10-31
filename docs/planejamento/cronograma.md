@@ -187,15 +187,15 @@ Na Tabela 9, tem-se o <b>cronograma executado</b> para todas as atividades da qu
 
 <font size="2"><p style="text-align: center">Tabela 9: Cronograma executado de Atividades da Entrega 4.</p></font>
 
-| Atividade                                                        | Período de desenvolvimento   | Responsáveis    | Periodo de Revisão           | Revisores       |
-| ---------------------------------------------------------------- | ---------------------------- | --------------- | ---------------------------- | --------------- |
-| Planejamento da avaliação do Storyboard                          | Inicio:28/10 <br>Fim: 29/10  |Ana Catarina, Gustavo e Harryson|Inicio:29/10 <br>Fim: 29/10|Victor Hugo|
-| Planejamento do relato dos resultados da avaliação do Storyboard | Inicio: 29/10 <br>Fim: 29/10 | Luciano Ricardo |                              |                 |
-| Planejamento da Avaliação da Análise de tarefas                  |                              |                 |                              |                 |
-| Planejamento do relato da avaliação da análise de tarefas        | Inicio: 29/10 <br>Fim: 29/10 | Victor Hugo     | Inicio: 29/10 <br>Fim: 29/10 | Luciano Ricardo |
-| Gravar apresentação                                              |                              |                 |                              |                 |
-| Edição da gravação                                               |                              |                 |                              |                 |
-| Correção pós apresentação                                        |                              |                 |                              |                 |
+| Atividade                                                        | Período de desenvolvimento   | Responsáveis                     | Periodo de Revisão           | Revisores       |
+| ---------------------------------------------------------------- | ---------------------------- | -------------------------------- | ---------------------------- | --------------- |
+| Planejamento da avaliação do Storyboard                          | Inicio:28/10 <br>Fim: 29/10  | Ana Catarina, Gustavo e Harryson | Inicio:29/10 <br>Fim: 29/10  | Victor Hugo     |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Inicio: 29/10 <br>Fim: 29/10 | Luciano Ricardo                  | Inicio:29/10 <br>Fim: 30/10  | Victor Hugo     |
+| Planejamento da Avaliação da Análise de tarefas                  |                              |                                  |                              |                 |
+| Planejamento do relato da avaliação da análise de tarefas        | Inicio: 29/10 <br>Fim: 29/10 | Victor Hugo                      | Inicio: 29/10 <br>Fim: 29/10 | Luciano Ricardo |
+| Gravar apresentação                                              |                              |                                  |                              |                 |
+| Edição da gravação                                               |                              |                                  |                              |                 |
+| Correção pós apresentação                                        |                              |                                  |                              |                 |
 
 </center>
 

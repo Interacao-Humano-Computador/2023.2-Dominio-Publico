@@ -30,15 +30,15 @@ A metodologia a ser aplicada será de observação de entrevista com os usuário
 
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma planejado</p></font>
 
-| Entrevistador    | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma    |
-| ---------------- | ------------ | ----------------- | -------------- | ---- | ------------------- |
-| Ana Catarina     |              |                   |                |      | Plataforma <br> --- |
-| Gustavo França   |   Douglas           |       19:20            |       19:30         |   01/10   | Plataforma Microsoft Teams |
-| Harryson Martins |Luma Maia     |22:30              |22:40           |01/10 | Plataforma Microsoft Teams|
-| [Luciano Ricardo](https://github.com/l-ricardo)      |     Pedro       |       22:40       |      22:50     | 03/11/2023   | Plataforma Microsoft Teams |
-| Maria Alice      |              |                   |                |      | Plataforma <br> --- |
-| Pedro Henrique   |              |                   |                |              | Plataforma <br> --- |
-| Victor Hugo      |Douglas Alves |       17:50       |      18:00     | 31/10/2023   | Plataforma Microsoft Teams |
+|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |           Local            |
+| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :------------------------: |
+|    [Ana Catarina](https://github.com/an4catarina)    |       ---       |        ---        |      ---       |    ---     |       Plataforma ---       |
+|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:20       |     19:30      |   01/10    | Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) |    Luma Maia    |       22:30       |     22:40      |   01/10    | Plataforma Microsoft Teams |
+|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:40       |     22:50      | 03/11/2023 | Plataforma Microsoft Teams |
+|      [Maria Alice](https://github.com/Maliz30)       |       ---       |        ---        |      ---       |    ---     |       Plataforma ---       |
+|    [Pedro Henrique](https://github.com/pedro-hsf)    |       ---       |        ---        |      ---       |    ---     |       Plataforma ---       |
+|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       17:50       |     18:00      | 31/10/2023 | Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/Viictorhugoo)</p></font>
 

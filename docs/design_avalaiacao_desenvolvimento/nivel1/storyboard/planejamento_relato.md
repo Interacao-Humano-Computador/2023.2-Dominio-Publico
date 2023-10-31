@@ -41,15 +41,15 @@ Além disso os entrevistadores deverão seguir o cronograma planejado explicitad
 
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma planejado</p></font>
 
-| Entrevistador    | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma    |
-| ---------------- | ------------ | ----------------- | -------------- | ---- | ------------------- |
-| Ana Catarina     |              |                   |                |      | Plataforma <br> --- |
-| Gustavo França   |    Douglas          |       19:00            |       19:10         |      | Plataforma Microsoft Teams |
-| Harryson Martins |              |                   |                |      | Plataforma <br> --- |
-| Luciano Ricardo  |              |                   |                |      | Plataforma <br> --- |
-| Maria Alice      |              |                   |                |      | Plataforma <br> --- |
-| Pedro Henrique   |              |                   |                |      | Plataforma <br> --- |
-| Victor Hugo      |              |                   |                |      | Plataforma <br> --- |
+|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |           Local            |
+| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :------------------------: |
+|    [Ana Catarina](https://github.com/an4catarina)    |       ---       |        ---        |      ---       |    ---     |       Plataforma ---       |
+|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:00       |     19:10      | 31/10/2023 | Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) |     Leandro     |       22:30       |     22:40      | 31/10/2023 | Plataforma Microsoft Teams |
+|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:30       |     22:40      | 03/11/2023 | Plataforma Microsoft Teams |
+|      [Maria Alice](https://github.com/Maliz30)       |       ---       |        ---        |      ---       |    ---     |       Plataforma ---       |
+|    [Pedro Henrique](https://github.com/pedro-hsf)    |       ---       |        ---        |      ---       |    ---     |       Plataforma ---       |
+|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       18:00       |     18:10      | 31/10/2023 | Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
