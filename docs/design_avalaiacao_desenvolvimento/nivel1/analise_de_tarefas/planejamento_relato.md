@@ -33,7 +33,7 @@ A metodologia a ser aplicada será de observação de entrevista com os usuário
 | Entrevistador    | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma    |
 | ---------------- | ------------ | ----------------- | -------------- | ---- | ------------------- |
 | Ana Catarina     |              |                   |                |      | Plataforma <br> --- |
-| Gustavo França   |              |                   |                |      | Plataforma <br> --- |
+| Gustavo França   |   Douglas           |       19:20            |       19:30         |   01/10   | Plataforma Microsoft Teams |
 | Harryson Martins |Luma Maia     |22:30              |22:40           |01/10 | Plataforma Microsoft Teams|
 | Luciano Ricardo  |              |                   |                |      | Plataforma <br> --- |
 | Maria Alice      |              |                   |                |      | Plataforma <br> --- |

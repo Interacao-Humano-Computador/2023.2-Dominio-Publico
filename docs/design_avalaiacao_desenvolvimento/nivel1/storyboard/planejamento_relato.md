@@ -44,7 +44,7 @@ Além disso os entrevistadores deverão seguir o cronograma planejado explicitad
 | Entrevistador    | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma    |
 | ---------------- | ------------ | ----------------- | -------------- | ---- | ------------------- |
 | Ana Catarina     |              |                   |                |      | Plataforma <br> --- |
-| Gustavo França   |              |                   |                |      | Plataforma <br> --- |
+| Gustavo França   |    Douglas          |       19:00            |       19:10         |      | Plataforma Microsoft Teams |
 | Harryson Martins |              |                   |                |      | Plataforma <br> --- |
 | Luciano Ricardo  |              |                   |                |      | Plataforma <br> --- |
 | Maria Alice      |              |                   |                |      | Plataforma <br> --- |
