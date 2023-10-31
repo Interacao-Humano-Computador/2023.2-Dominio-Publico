@@ -37,8 +37,8 @@ A metodologia a ser aplicada será de observação de entrevista com os usuário
 | Harryson Martins |Luma Maia     |22:30              |22:40           |01/10 | Plataforma Microsoft Teams|
 | [Luciano Ricardo](https://github.com/l-ricardo)      |     Pedro       |       22:40       |      22:50     | 03/11/2023   | Plataforma Microsoft Teams |
 | Maria Alice      |              |                   |                |      | Plataforma <br> --- |
-| Pedro Henrique   |              |                   |                |      | Plataforma <br> --- |
-| Victor Hugo      |              |                   |                |      | Plataforma <br> --- |
+| Pedro Henrique   |              |                   |                |              | Plataforma <br> --- |
+| Victor Hugo      |Douglas Alves |       17:50       |      18:00     | 31/10/2023   | Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/Viictorhugoo)</p></font>
 
