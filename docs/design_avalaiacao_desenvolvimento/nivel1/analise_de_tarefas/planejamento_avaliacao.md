@@ -170,14 +170,13 @@ De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamen
 
 No vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 
-<font size="2"><p style="text-align: center">Vídeo 1: Teste piloto </p></font>
-
-<font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina), [Victor Hugo](https://github.com/ViictorHugoo), [Pedro Henrique](https://github.com/pedro-hsf).</p></font>
-
 <center>
 
+<font size="2"><p style="text-align: center">Vídeo 1: Teste piloto </p></font>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2cvAxqO8TLM?si=apTDctLLIPrb2ksl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-YouTube
+
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina), [Victor Hugo](https://github.com/ViictorHugoo), [Pedro Henrique](https://github.com/pedro-hsf).</p></font>
 
 </center>
 
