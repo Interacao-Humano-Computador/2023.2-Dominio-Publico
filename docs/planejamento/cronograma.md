@@ -177,7 +177,7 @@ Na Tabela 9, tem-se o <b>cronograma executado</b> para todas as atividades da qu
 | Atividade                                                        | Período de desenvolvimento   | Responsáveis                               | Periodo de Revisão           | Revisores       |
 | ---------------------------------------------------------------- | ---------------------------- | ------------------------------------------ | ---------------------------- | --------------- |
 | Planejamento da avaliação do Storyboard                          | Inicio:28/10 <br>Fim: 29/10  | Pedro Henrique, Gustavo e Harryson         | Inicio:29/10 <br>Fim: 29/10  | Victor Hugo     |
-| Planejamento do relato dos resultados da avaliação do Storyboard | Inicio: 29/10 <br>Fim: 29/10 | Luciano Ricardo                            |                              |                 |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Inicio: 29/10 <br>Fim: 29/10 | Luciano Ricardo                            | Inicio:29/10 <br>Fim: 30/10  | Victor Hugo     |
 | Planejamento da Avaliação da Análise de tarefas                  | Inicio: 29/10 <br>Fim: 30/10 | Ana Catarina, Maria Alice e Pedro Henrique | Inicio: 30/10 <br>Fim: 30/10 | Pedro Henrique  |
 | Planejamento do relato da avaliação da análise de tarefas        | Inicio: 29/10 <br>Fim: 29/10 | Victor Hugo                                | Inicio: 29/10 <br>Fim: 29/10 | Luciano Ricardo |
 | Gravar apresentação                                              | Inicio: 30/10 <br>Fim: 30/10 | Ana Catarina                               | Inicio: 30/10 <br>Fim: 30/10 | Victor Hugo     |

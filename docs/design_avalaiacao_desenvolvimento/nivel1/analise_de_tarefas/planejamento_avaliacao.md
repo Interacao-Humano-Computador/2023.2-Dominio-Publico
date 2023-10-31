@@ -49,29 +49,29 @@ A Tabela 1 apresenta o roteiro de perguntas, que tem como base a "Tabela 11.1: E
 
 <font size="2"><p style="text-align: center">Tabela 1: Roteiro de Perguntas.</p></font>
 
-| Número | Pergunta | Possível resposta |
-|:------:|:---------|:------------------|
-| 1 | Qual o seu nome? | Resposta discursiva |
-| 2 | Quantos anos você tem? | Resposta discursiva |
-| 3 | Qual seu nível de escolaridade? | Resposta discursiva |
-| 4 | Qual a sua ocupação? | Resposta discursiva | 
-| 5 | Qual seu grau de experiência com tecnologias?| - Iniciante <br> - Intermediário <br> - Avançado <br> - Especialista|
-| 6 | Você já utilizou o Domínio Público? | - sim <br> - não |
-| 7 | Quais atividades você tem/teria interesse em utilizar no domínio público? | Resposta discursiva |
-| 8 | Como você costuma acessar livros e mídias sem domínio/gratuitos? | Resposta discursiva |
-| 9 | Com que frequência você lê livros? | - Todos os dias <br> - Quase todos os dias <br> - Algumas vezes por semana <br> - Uma vez por semana <br> - Uma vez por mês <br> - Uma vez por ano <br> - Menos de uma vez por ano |
-| 10 | Quais tipos de conteúdo você mais consome online? | - Livros <br> - Artigos <br> - Vídeos <br> - Áudios <br> - Outros (especifique)|
-| 11 | Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público? | - Pesquisa acadêmica <br> - Lazer e entretenimento <br> - Estudo autodidata <br> - Outro (especifique) |
-| 12 | A pesquisa de mídias é fácil de usar? Por que? | Resposta discursiva |
-| 13 | Quais são as suas sugestões para melhorar a pesquisa de mídias? | Resposta discursiva |
-| 14 | O sistema de retirar dúvidas é fácil e claro? Por que? | Resposta discursiva |
-| 15 | O processo de inscrição como colaborador é claro e fácil? Por que? | Resposta discursiva |
-| 16 | A documentação de ajuda é clara e abrangente? Por que?  | Resposta discursiva |
-| 17 | O processo de download é fácil e rápido? | Resposta discursiva |
-| 18 | As estatísticas do site são claras, completas e úteis? Por que? | Resposta discursiva |
-| 19 | Qual é o seu nível de satisfação com o domínio público? | - Alto. Gosto de como está e não desejo que sejam feitas alterações; <br> - Médio. Gosto do formato do site, mas gostaria que fossem feitas algumas alterações; <br> - Baixo. Não gosto do formato do site e gostaria que fossem feitas muitas alterações.  |
-| 20 | Você tem alguma outra fonte legal para acessar conteúdo gratuito ou de domínio público? | Resposta discursiva |
-| 21 | Você tem alguma outra sugestão ou melhoria para o site do Domínio Público? | Resposta discursiva |
+| Número | Pergunta                                                                                | Possível resposta                                                                                                                                                                                                                                          |
+| :----: | :-------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1    | Qual o seu nome?                                                                        | Resposta discursiva                                                                                                                                                                                                                                        |
+|   2    | Quantos anos você tem?                                                                  | Resposta discursiva                                                                                                                                                                                                                                        |
+|   3    | Qual seu nível de escolaridade?                                                         | Resposta discursiva                                                                                                                                                                                                                                        |
+|   4    | Qual a sua ocupação?                                                                    | Resposta discursiva                                                                                                                                                                                                                                        |
+|   5    | Qual seu grau de experiência com tecnologias?                                           | - Iniciante <br> - Intermediário <br> - Avançado <br> - Especialista                                                                                                                                                                                       |
+|   6    | Você já utilizou o Domínio Público?                                                     | - sim <br> - não                                                                                                                                                                                                                                           |
+|   7    | Quais atividades você tem/teria interesse em utilizar no domínio público?               | Resposta discursiva                                                                                                                                                                                                                                        |
+|   8    | Como você costuma acessar livros e mídias sem domínio/gratuitos?                        | Resposta discursiva                                                                                                                                                                                                                                        |
+|   9    | Com que frequência você lê livros?                                                      | - Todos os dias <br> - Quase todos os dias <br> - Algumas vezes por semana <br> - Uma vez por semana <br> - Uma vez por mês <br> - Uma vez por ano <br> - Menos de uma vez por ano                                                                         |
+|   10   | Quais tipos de conteúdo você mais consome online?                                       | - Livros <br> - Artigos <br> - Vídeos <br> - Áudios <br> - Outros (especifique)                                                                                                                                                                            |
+|   11   | Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?           | - Pesquisa acadêmica <br> - Lazer e entretenimento <br> - Estudo autodidata <br> - Outro (especifique)                                                                                                                                                     |
+|   12   | A pesquisa de mídias é fácil de usar? Por que?                                          | Resposta discursiva                                                                                                                                                                                                                                        |
+|   13   | Quais são as suas sugestões para melhorar a pesquisa de mídias?                         | Resposta discursiva                                                                                                                                                                                                                                        |
+|   14   | O sistema de retirar dúvidas é fácil e claro? Por que?                                  | Resposta discursiva                                                                                                                                                                                                                                        |
+|   15   | O processo de inscrição como colaborador é claro e fácil? Por que?                      | Resposta discursiva                                                                                                                                                                                                                                        |
+|   16   | A documentação de ajuda é clara e abrangente? Por que?                                  | Resposta discursiva                                                                                                                                                                                                                                        |
+|   17   | O processo de download é fácil e rápido?                                                | Resposta discursiva                                                                                                                                                                                                                                        |
+|   18   | As estatísticas do site são claras, completas e úteis? Por que?                         | Resposta discursiva                                                                                                                                                                                                                                        |
+|   19   | Qual é o seu nível de satisfação com o domínio público?                                 | - Alto. Gosto de como está e não desejo que sejam feitas alterações; <br> - Médio. Gosto do formato do site, mas gostaria que fossem feitas algumas alterações; <br> - Baixo. Não gosto do formato do site e gostaria que fossem feitas muitas alterações. |
+|   20   | Você tem alguma outra fonte legal para acessar conteúdo gratuito ou de domínio público? | Resposta discursiva                                                                                                                                                                                                                                        |
+|   21   | Você tem alguma outra sugestão ou melhoria para o site do Domínio Público?              | Resposta discursiva                                                                                                                                                                                                                                        |
  
 <font size="2"><p style="text-align: center">Fonte: Barbosa e Silva, 2011 <a id="anchor_1" href="#FRM1">¹</a>.</p></font>
 
@@ -112,14 +112,15 @@ O cronograma das entrevistas com os usuários estão documentadas na tabela 1 co
 
 <font size="2"><p style="text-align: center">Tabela 2: Cronograma da entrevista </p></font>
 
-|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data |     Local      |
-| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :--: | :------------: |
-|    [Ana Catarina](https://github.com/an4catarina)    |                 |                   |                |      | Plataforma ... |
-|   [Gustavo França](https://github.com/gustavofbs)    |                 |                   |                |      | Plataforma ... |
-| [Harryson Martins](https://github.com/harry-cmartin) |                 |                   |                |      | Plataforma ... |
-|      [Maria Alice](https://github.com/Maliz30)       |                 |                   |                |      | Plataforma ... |
-|    [Pedro Henrique](https://github.com/pedro-hsf)    |                 |                   |                |      | Plataforma ... |
-|    [Victor Hugo](https://github.com/ViictorHugoo)    |                 |                   |                |      | Plataforma ... |
+|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data  |           Local            |
+| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :---: | :------------------------: |
+|    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       19:20       |     19:30      | 01/11 | Plataforma Microsoft Teams |
+|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:20       |     19:30      | 01/11 | Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) |    Luma Maia    |       22:30       |     22:40      | 01/11 | Plataforma Microsoft Teams |
+|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:40       |     22:50      | 03/11 | Plataforma Microsoft Teams |
+|      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       14:00       |     14:10      | 03/11 | Plataforma Microsoft Teams |
+|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       19:00       |     19:10      | 01/11 | Plataforma Microsoft Teams |
+|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       17:50       |     18:00      | 31/10 | Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina).</p></font>
 
@@ -159,9 +160,9 @@ De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamen
 
 <font size="2"><p style="text-align: center">Tabela 3: Planejamento do teste piloto </p></font>
 
-| Ordem | Data | Horário de início e fim | Local | Entrevistadores | Entrevistado |
+| Ordem | Data       | Horário de início e fim | Local                               | Entrevistadores | Entrevistado |
 | ----- | ---------- | ----------------------- | ----------------------------------- | --------------- | ------------ |
-| 1 | 30/10/2023 | 21:10 - 21:20 | Plataforma Microsoft Teams (Online) | Pedro Henrique | Victor hugo |
+| 1     | 30/10/2023 | 21:10 - 21:20           | Plataforma Microsoft Teams (Online) | Pedro Henrique  | Victor hugo  |
 
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina).</p></font>
 
@@ -169,14 +170,13 @@ De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamen
 
 No vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 
-<font size="2"><p style="text-align: center">Vídeo 1: Teste piloto </p></font>
-
-<font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina), [Victor Hugo](https://github.com/ViictorHugoo), [Pedro Henrique](https://github.com/pedro-hsf).</p></font>
-
 <center>
 
+<font size="2"><p style="text-align: center">Vídeo 1: Teste piloto </p></font>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2cvAxqO8TLM?si=apTDctLLIPrb2ksl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-YouTube
+
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina), [Victor Hugo](https://github.com/ViictorHugoo), [Pedro Henrique](https://github.com/pedro-hsf).</p></font>
 
 </center>
 
@@ -193,8 +193,8 @@ GABRIEL, Lucas; SOUZA, Nicolas. Planejamento da avaliação da Análise de taref
 
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| ------ | ---- | --------- | --------- | ----------- |
-| 1.0 | 30/10/2023 | Criação do Documento | [Maria Alice](https://github.com/Maliz30) | [Ana Catarina](https://github.com/an4catarina) |
-| 1.1 | 30/10/2023 | Detalhamento do framework DECIDE | [Ana Catarina](https://github.com/an4catarina) e [Maria Alice](https://github.com/Maliz30) | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.2 | 30/10/2023 | Criação do teste piloto | [Pedro Henrique](https://github.com/pedro-hsf) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| Versão | Data       | Descrição                        | Autor(es)                                                                                  | Revisor(es)                                    |
+| ------ | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
+| 1.0    | 30/10/2023 | Criação do Documento             | [Maria Alice](https://github.com/Maliz30)                                                  | [Ana Catarina](https://github.com/an4catarina) |
+| 1.1    | 30/10/2023 | Detalhamento do framework DECIDE | [Ana Catarina](https://github.com/an4catarina) e [Maria Alice](https://github.com/Maliz30) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.2    | 30/10/2023 | Criação do teste piloto          | [Pedro Henrique](https://github.com/pedro-hsf)                                             | [Victor Hugo](https://github.com/ViictorHugoo) |
