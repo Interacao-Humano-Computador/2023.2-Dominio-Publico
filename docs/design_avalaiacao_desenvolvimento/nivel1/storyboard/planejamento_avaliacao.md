@@ -77,22 +77,21 @@ O cronograma das entrevistas com os usuários estão documentadas na tabela 1 co
 
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma da entrevista </p></font>
 
-|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data |     Local      |
-| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :--: | :------------: |
-|    [Ana Catarina](https://github.com/an4catarina)    |                 |                   |                |      | Plataforma ... |
-|   [Gustavo França](https://github.com/gustavofbs)    |                 |                   |                |      | Plataforma ... |
-| [Harryson Martins](https://github.com/harry-cmartin) |                 |                   |                |      | Plataforma ... |
-|      [Maria Alice](https://github.com/Maliz30)       |                 |                   |                |      | Plataforma ... |
-|    [Pedro Henrique](https://github.com/pedro-hsf)    |                 |                   |                |      | Plataforma ... |
-|    [Victor Hugo](https://github.com/ViictorHugoo)    |                 |                   |                |      | Plataforma ... |
+|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data  |     Local      |
+| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :---: | :------------: |
+|    [Ana Catarina](https://github.com/an4catarina)    |                 |                   |                |       | Plataforma ... |
+|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:00       |      19:10     | 31/10/2023   | Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) |    Luma Maia    |       22:30       |      22:40     | 31/10/2023   | Plataforma Microsoft Teams |
+|      [Maria Alice](https://github.com/Maliz30)       |                 |                   |                |       | Plataforma ... |
+|    [Pedro Henrique](https://github.com/pedro-hsf)    |                 |                   |                |       | Plataforma ... |
+|    [Victor Hugo](https://github.com/ViictorHugoo)    |                 |                   |                |       | Plataforma ... |
 
-<font size="2"><p style="text-align: center">Fonte: Domíno Público <a id="FRM4" href="#anchor_2">²</a></p></font>
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs).</p></font>
 
 ### Execução
 
 A priori, as entrevistas devem ser realizadas utilizando as seguintes ferramentas já abordadas:
 
-- Ferramentas de comunicação: <a href= "/home/harryson/Documentos/2023.2-Dominio-Publico/docs/planejamento/ferramentas.md"> Teams </a>
 - <a href= "docs/design_avalaiacao_desenvolvimento/storyboard/storyboards.md"> Storyboards </a>
 - Questionários propostos (Tabela 2)
 - Teste Piloto
@@ -167,6 +166,9 @@ No vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 > <a id="FRM3" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 > <a id="FRM4" href="#anchor_2">2.</a> Domínio Público. Pesquisa de obras. Disponível em: <http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp\>. Acesso em: 28/10/2023.
+>
+
+
 
 ## Histórico de Versões
 
@@ -176,4 +178,6 @@ No vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 | 1.1    | 28/10/2023 | Construção do documento de Planejamento | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Maria Alice](https://github.com/Maliz30)                                                                                                       |
 | 1.2    | 28/10/2023 | Adicão Planejamento Teste piloto        | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.3    | 30/10/2023 | Atualizando o termo de consentimento    | [Ana Catarina](https://github.com/an4catarina)                                                         | [Maria Alice](https://github.com/Maliz30)                                                                                                       |
-| 1.3    | 30/10/2023 | Adição do teste piloto                  | [Pedro Henrique](https://github.com/pedro-hsf)                                                         | [Maria Alice](https://github.com/Maliz30)                                                                                                       |
+| 1.4    | 28/10/2023 | Correção de fontes      |[Gustavo França](https://github.com/gustavofbs) | [Pedro Henrique](https://github.com/pedro-hsf) |
+| 1.5    | 30/10/2023 | Adição do teste piloto                  | [Pedro Henrique](https://github.com/pedro-hsf)                                                         | [Maria Alice](https://github.com/Maliz30)                                                                                                       |
+
