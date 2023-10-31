@@ -91,11 +91,11 @@ Para avaliar o domínio público, usaremos uma combinação de métodos de inves
 
 ### Recrutamento
 
-O recrutamendo dos usuários entrevistados serão definidos a partir do Perfil de usuários ja evidenciado anteriormente pelas Personas. O local definido para entrevista será estritamente online, por beneficiar tempo, custo e facilidade de ambas as partes envolvidas. O número de participantes da pesquisa será equivalente ao número de de integrantes, ou seja, 7 usuários a serem entrevistados.
+O recrutamendo dos usuários entrevistados serão definidos a partir do Perfil de usuários. O local definido para entrevista será estritamente online, por beneficiar tempo, custo e facilidade de ambas as partes envolvidas. O número de participantes da pesquisa será equivalente ao número de de integrantes, ou seja, 7 usuários a serem entrevistados.
 
 ### Preparação
 
-As perguntas a serem feitas serão relizados pelos entrevistadores, no caso cada integrante da equipe realizará perguntas sobre sua respectiva tarefa. A entrevista será guiada pelas ações realizadas no respectivo storyboard. A entrevista será individual, ou seja, somente o entrevistador e seu usuário selecionado, a fim de facilitar a interação e observação das ações do entrevistado.
+As perguntas a serem feitas serão relizados pelos entrevistadores, no caso cada integrante da equipe realizará perguntas sobre sua respectiva tarefa. A entrevista será guiada pelas ações realizadas na respectiva análise de tarefas. A entrevista será individual, ou seja, somente o entrevistador e seu usuário selecionado, a fim de facilitar a interação e observação das ações do entrevistado.
 
 ### Custos
 
