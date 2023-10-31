@@ -81,7 +81,7 @@ O cronograma das entrevistas com os usuários estão documentadas na tabela 1 co
 | :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :---: | :------------------------: |
 |    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       19:10       |     19:20      | 01/11 | Plataforma Microsoft Teams |
 |   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:00       |     19:10      | 31/10 | Plataforma Microsoft Teams |
-| [Harryson Martins](https://github.com/harry-cmartin) |     Leandro     |       22:30       |     22:40      | 31/10 | Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) |     Luma Maia     |       22:30       |     22:40      | 31/10 | Plataforma Microsoft Teams |
 |   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:30       |     22:40      | 03/11 | Plataforma Microsoft Teams |
 |      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       13:50       |     14:00      | 03/11 | Plataforma Microsoft Teams |
 |    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       18:50       |     19:00      | 01/11 | Plataforma Microsoft Teams |
