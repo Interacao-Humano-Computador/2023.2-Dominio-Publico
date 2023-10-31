@@ -62,4 +62,4 @@ A git page possui?  | Sim/Não/Incompleto
 
 | Versão |    Data    | Descrição                         | Autor(es)                                      | Revisor(es)                                    |
 | ------ | :--------: | --------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 30/10/2023 | Criação e estruturação do arquivo | [Victor Hugo](https://github.com/ViictorHugoo) | [Ana Catarina](https://github.com/an4catarina) |
+| 1.0    | 30/10/2023 | Criação e estruturação do arquivo | [Victor Hugo](https://github.com/ViictorHugoo) e [Ana Catarina](https://github.com/an4catarina| [Pedro Henrique](https://github.com/pedro-hsf) |
