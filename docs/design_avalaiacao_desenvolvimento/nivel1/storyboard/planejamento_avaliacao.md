@@ -142,11 +142,21 @@ Por fim, as informações adquiridas serão validadas novamente, e assim poderã
 
 ## Planejamento do Teste Piloto
 
-Para começo, o teste piloto tem como enfase fazer uma avaliação das fases do planejamento propostas, assim produzindo dados para verificação da qualidade e eficiencia da mesma. Assim o teste será feito com dois integrantes da própria equipe, visando atingir esse objetivo. O entrevistador e o entrevistado devem agir como numa entrevista verídica, a fim de trazer o máximo de fidelidade e resultados mais próximos ao real.
+De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamento com o objetivo de validar e conferir se o mesmo produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve fazer o teste piloto como se estivesse fazendo uma simulação real. A tabela 3 contém as informações do teste piloto.
 
-A realização desse teste será feito pelos integrantes [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf).
+<font size="2"><p style="text-align: center">Tabela 3: Planejamento do teste piloto </p></font>
+| Ordem | Data | Horário de início e fim | Local | Entrevistadores | Entrevistado |
+| ----- | ---------- | ----------------------- | ----------------------------------- | --------------- | ------------ |
+| 1 | 20/10/2023 | 21:00 - 21:07 | Plataforma Microsoft Teams (Online) | Pedro Henrique | Victor hugo |
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina).</p></font>
 
-## Resultado do Teste Piloto
+No vídeo 1, pode-se conferir a gravação do teste piloto realizado.
+
+<font size="2"><p style="text-align: center">Vídeo 1: Teste piloto </p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wyGxz_NfgXA?si=VAYE61b305sAOBpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina), [Victor Hugo](https://github.com/ViictorHugoo), [Pedro Henrique](https://github.com/pedro-hsf).</p></font>
 
 ## Bibliografia
 
@@ -155,7 +165,7 @@ A realização desse teste será feito pelos integrantes [Ana Catarina](https://
 ## Referências Bibliográficas
 
 > <a id="FRM3" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
->
+
 > <a id="FRM4" href="#anchor_2">2.</a> Domínio Público. Pesquisa de obras. Disponível em: <http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp\>. Acesso em: 28/10/2023.
 
 ## Histórico de Versões
@@ -166,3 +176,4 @@ A realização desse teste será feito pelos integrantes [Ana Catarina](https://
 | 1.1    | 28/10/2023 | Construção do documento de Planejamento | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Maria Alice](https://github.com/Maliz30)                                                                                                       |
 | 1.2    | 28/10/2023 | Adicão Planejamento Teste piloto        | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.3    | 30/10/2023 | Atualizando o termo de consentimento    | [Ana Catarina](https://github.com/an4catarina)                                                         | [Maria Alice](https://github.com/Maliz30)                                                                                                       |
+| 1.3    | 30/10/2023 | Adição do teste piloto                  | [Pedro Henrique](https://github.com/pedro-hsf)                                                         | [Maria Alice](https://github.com/Maliz30)                                                                                                       |
