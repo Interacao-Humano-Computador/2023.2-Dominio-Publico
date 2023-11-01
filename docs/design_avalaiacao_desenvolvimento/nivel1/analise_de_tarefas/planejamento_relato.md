@@ -13,7 +13,8 @@ O relato dos resultados será construido com base no documento [Planejamento da 
 3. Seleção dos participantes; 
 4. Listagem de problemas; 
 5. Sugestões de melhoria; 
-6. Planejamento de reprojeto. 
+6. Sumário de resultados;
+7. Planejamento de reprojeto. 
 
 ## Tópicos
 
@@ -75,3 +76,4 @@ Os problemas encontrados, sugestões de melhorias e quaisquer outros pontos enco
 | Versão | Data       | Descrição            | Autor(es)                                      | Revisor(es)                                     |
 | ------ | ---------- | -------------------- | ---------------------------------------------- | ----------------------------------------------- |
 | 1.0    | 29/10/2021 | Criação do documento | [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.1    | 01/11/2021 | Correções cronograma | [Victor Hugo](https://github.com/ViictorHugoo) | [Ana Catarina](https://github.com/an4catarina)  |

@@ -198,3 +198,4 @@ GABRIEL, Lucas; SOUZA, Nicolas. Planejamento da avaliação da Análise de taref
 | 1.0    | 30/10/2023 | Criação do Documento             | [Maria Alice](https://github.com/Maliz30)                                                  | [Ana Catarina](https://github.com/an4catarina) |
 | 1.1    | 30/10/2023 | Detalhamento do framework DECIDE | [Ana Catarina](https://github.com/an4catarina) e [Maria Alice](https://github.com/Maliz30) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.2    | 30/10/2023 | Criação do teste piloto          | [Pedro Henrique](https://github.com/pedro-hsf)                                             | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.3    | 01/11/2021 | Correções cronograma | [Victor Hugo](https://github.com/ViictorHugoo) | [Ana Catarina](https://github.com/an4catarina)  |
