@@ -24,7 +24,7 @@ Neste tópico, o relator deverá descrever o motivo da avaliação que estará s
 
 ##### Método de avaliação
 
-A metodologia a ser aplicada será de observação de entrevista com os usuários, onde o entrevistador irá observar o usuário realizando as tarefas e irá anotar os problemas encontrados. Após a realização das tarefas, o entrevistador irá questionar o usuário sobre a experiência dele com o sistema, a fim de tomar notas da experencia de forma mais detalhada. A Tabela 1 explicita o cronograma planejado para as entrevistas.
+A metodologia a ser aplicada será de observação de entrevista com os usuários, onde o entrevistador irá observar o usuário realizando as tarefas e irá anotar os problemas encontrados. Após a realização das tarefas, o entrevistador irá questionar o usuário sobre a experiência dele com o sistema, a fim de tomar notas da experencia de forma mais detalhada. Serão recrutados 1 usuário para cada 1 integrante do grupo, totalizando 7 usuários. A Tabela 1 explicita o cronograma planejado para as entrevistas.
 
 <center>
 

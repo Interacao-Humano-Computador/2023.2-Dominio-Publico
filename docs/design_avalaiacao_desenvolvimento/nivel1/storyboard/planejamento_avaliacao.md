@@ -55,7 +55,7 @@ O método foi escolhido por trazer mais exatidão das informações adquiridas, 
 
 ### Recrutamento
 
-O recrutamendo dos usuários entrevistados serão definidos a partir do <a href= "docs/analise_de_requisitos/perfil_de_usuario.md"> Perfil de usuários </a> ja evidenciado. O local definido para entrevista será estritamente online, por beneficiar tempo, custo e facilidade de ambas as partes envolvidas.
+O recrutamendo dos usuários entrevistados serão definidos a partir do Perfil de usuários. O local definido para entrevista será online ou presencial, de forma a acordar com o usuário. O número de participantes da pesquisa será equivalente ao número de de integrantes, ou seja, 7 usuários a serem entrevistados.
 
 ### Preparação
 

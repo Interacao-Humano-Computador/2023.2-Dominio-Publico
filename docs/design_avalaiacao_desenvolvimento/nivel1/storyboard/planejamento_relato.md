@@ -33,7 +33,7 @@ Neste tópico, o relator deverá descrever o motivo da avaliação que estará s
 
 ##### Método de avaliação
 
-A metodologia a ser aplicada será para todos as avaliações será observação e entrevista com os usuários. 
+A metodologia a ser aplicada será para todos as avaliações será observação e entrevista com os usuários. Serão recrutados 1 usuário para cada 1 integrante do grupo, totalizando 7 usuários.
 
 Além disso os entrevistadores deverão seguir o cronograma planejado explicitado na Tabela 1.
 
