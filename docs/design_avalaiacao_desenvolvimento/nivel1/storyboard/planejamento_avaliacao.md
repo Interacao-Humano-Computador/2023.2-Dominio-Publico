@@ -106,11 +106,22 @@ Na parte inicial do encontro será disponibilizado termo de consentimento para a
 
 |                                                   Pergunta                                                    | Resposta         |
 | :-----------------------------------------------------------------------------------------------------------: | :--------------- |
-|                      Os atores envolvidos no storyboard são condizentes com a realidade?                      | ( )SIM<br>( )NÃO |
-|                       Você acha que as ações do storyboard levam para o objetivo final?                       | ( )SIM<br>( )NÃO |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? | ( )SIM<br>( )NÃO |
-|             Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?              | ( )SIM<br>( )NÃO |
-|                   As ações presentes no storyboard seguem uma ordem identificável e fluida?                   | ( )SIM<br>( )NÃO |
+| Qual o seu nome?                                                                                              | Resposta discursiva                                                                                                                                                                
+| Quantos anos você tem?                                                                                        | Resposta discursiva                                                                                                                                                                
+| Qual seu nível de escolaridade?                                                                               | Resposta discursiva                                                                                                                                                                
+| Qual a sua ocupação?                                                                                          | Resposta discursiva                                                                                                                                                                
+| Qual seu grau de experiência com tecnologias?                                                                 | - Iniciante <br> - Intermediário <br> - Avançado <br> - Especialista                                                                                                               
+| Você já utilizou o Domínio Público?                                                                           | - sim <br> - não                                                                                                                                                                   
+| Quais atividades você tem/teria interesse em utilizar no domínio público?                                     | Resposta discursiva                                                                                                                                                                
+| Como você costuma acessar livros e mídias sem domínio/gratuitos?                                              | Resposta discursiva                                                                                                                                                                
+| Com que frequência você lê livros?                                                                            | - Todos os dias <br> - Quase todos os dias <br> - Algumas vezes por semana <br> - Uma vez por semana <br> - Uma vez por mês <br> - Uma vez por ano <br> - Menos de uma vez por ano 
+| Quais tipos de conteúdo você mais consome online?                                                             | - Livros <br> - Artigos <br> - Vídeos <br> - Áudios <br> - Outros (especifique)                                                                                                    
+| Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?                                 | - Pesquisa acadêmica <br> - Lazer e entretenimento <br> - Estudo autodidata <br> - Outro (especifique)
+| Os atores envolvidos no storyboard são condizentes com a realidade?                                           | ( )SIM<br>( )NÃO 
+| Você acha que as ações do storyboard levam para o objetivo final?                                             | ( )SIM<br>( )NÃO 
+| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? | ( )SIM<br>( )NÃO 
+| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          | ( )SIM<br>( )NÃO 
+| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     | ( )SIM<br>( )NÃO 
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs).</p></font>
 
