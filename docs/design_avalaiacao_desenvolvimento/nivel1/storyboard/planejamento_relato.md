@@ -41,15 +41,15 @@ Além disso os entrevistadores deverão seguir o cronograma planejado explicitad
 
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma planejado</p></font>
 
-|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Data Executada |           Local           |
-| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :------------: |:------------------------: |
-|    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       19:10       |     19:20      |      01/11     |                |Plataforma Microsoft Teams |
-|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:00       |     19:10      |      31/10     |                |Plataforma Microsoft Teams |
-| [Harryson Martins](https://github.com/harry-cmartin) |     Luma Maia   |       22:30       |     22:40      |      31/10     |                |Plataforma Microsoft Teams |
-|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:30       |     22:40      |      03/11     |                |Plataforma Microsoft Teams |
-|      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       13:50       |     14:00      |      03/11     |                |Plataforma Microsoft Teams |
-|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       18:50       |     19:00      |      01/11     |                |Plataforma Microsoft Teams |
-|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       18:00       |     18:10      |      31/10     |                |Plataforma Microsoft Teams |
+|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Data Executada |           Tarefa            |           Local           |
+| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :------------: | :-------------------------: |:------------------------: |
+|    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       19:10       |     19:20      |      01/11     |                | Acessar as Estátisticas     |Plataforma Microsoft Teams |
+|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:00       |     19:10      |      31/10     |                | Contatar Admin              |Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) |     Luma Maia   |       22:30       |     22:40      |      31/10     |                | Pesquisar por mídia         |Plataforma Microsoft Teams |
+|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:30       |     22:40      |      03/11     |                | Pedir Ajuda                 |Plataforma Microsoft Teams |
+|      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       13:50       |     14:00      |      03/11     |                | Cadidatura para Colaborador |Plataforma Microsoft Teams |
+|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       18:50       |     19:00      |      01/11     |                | Download de Mídia           |Plataforma Microsoft Teams |
+|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       18:00       |     18:10      |      31/10     |                | Avaliar Midia               |Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
