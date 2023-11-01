@@ -58,6 +58,7 @@ nav:
       - Apresentação 1: apresentacoes/apresentacao_1.md
       - Apresentação 2: apresentacoes/apresentacao_2.md
       - Apresentação 3: apresentacoes/apresentacao_3.md
+      - Apresentação 4: apresentacoes/apresentacao_4.md
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
@@ -88,6 +89,11 @@ nav:
           - Planejamento do Relato dos Resultados: design_avalaiacao_desenvolvimento/nivel1/storyboard/planejamento_relato.md
           - Relato dos resultados: design_avalaiacao_desenvolvimento/nivel1/storyboard/relato_resultados.md
           - Storyboards: design_avalaiacao_desenvolvimento/nivel1/storyboard/storyboards.md
+      - Nivel 2:
+        - Protótipo de Papel: 
+          - Planejamento da Avaliação: design_avalaiacao_desenvolvimento/nivel2/prototipo_de_papel/planejamento_avaliacao.md
+          - Planejamento do Relato dos Resultados: design_avalaiacao_desenvolvimento/nivel2/prototipo_de_papel/planejamento_relato.md
+          - Relato dos resultados: design_avalaiacao_desenvolvimento/nivel2/prototipo_de_papel/relato_resultados.md
 
 # Extensions
 markdown_extensions:
