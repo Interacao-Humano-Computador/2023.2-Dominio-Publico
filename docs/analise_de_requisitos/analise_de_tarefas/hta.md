@@ -1,12 +1,14 @@
 # Análise de Tarefas
 
+
+
 ## Introdução
 
- A análise de tarefas é um processo sistemático e detalhado que visa entender como uma tarefa é executada, e para esta primeira etapa uitilizaremos o HTA (Análise Hierárquica de Tarefas), no qual o seu objetivo é decompor as tarefas encontradas para captarmos o que pode ser melhorado em determinada tarefa.
+A análise de tarefas é um processo sistemático e detalhado que visa entender como uma tarefa é executada, e para esta primeira etapa uitilizaremos o HTA (Análise Hierárquica de Tarefas), no qual o seu objetivo é decompor as tarefas encontradas para captarmos o que pode ser melhorado em determinada tarefa.
+
 
 
 ## Metodologia
-
 
 ## HTA (Hierarchical Task Analysis)
 
@@ -113,19 +115,19 @@ Nessa tarefa, o objetivo do usuário é acessar a aba para autores e colaborador
 
 <font size="2"><p style="text-align: center">Tabela 4: Tabela da representação HTA da tarefa "Acessar aba para autores/colaboradores" </p></font>
 
-| Objetivos / Operações | Relações | Problemas e Recomendações|
-| --------------------- | :------: | ------------------------ |
-| 0. Se tornar colaborador | 1 > 2 | _problema:_ As instruções para se tornar um colaborador e associar obras cadastradas ao seu perfil ficam em áreas totalmente diferentes do site, o que dificulta para o usuário associar as duas ações <br> _recomendação:_ colocar os botões para estas ações em locais próximos ou que indiquem que uma ação deve ser realizada antes da outra <br> _plano:_ o usuário deve enviar a solicitação para se tornar um colaborador, clicando em "Quero Colaborar" *e depois* Associar obras ao seu perfil|
-| 1. Clicar em "Quero Colaborar" | 1 > 2 | _plano:_ o usuário deve escolher para qual tipo de colaborador ele deseja se inscrever *e depois* enviar dados  |
-| 1.1. Escolher tipo de colaborador | |  |
-| 1.2. Enviar dados | 1 > 2 | _plano:_ o usuário deve verificar se já possui todos os documentos necessários e no formato solicitado *e depois* enviar os documentos para o email |
-| 1.2.1. Verificar se já possui todos os documentos necessários e no formato solicitado | ||
-| 1.2.2. Enviar documentos para o email | | _problema:_ Os dados devem ser enviados em um site externo, o que pode fazer com que o usuário envie os documentos para o remetente errado ou percam o interesse em fazer essa solicitação. <br> _recomendação:_ incluir um formulário para que essas solicitações sejam realizadas diretamente no site |
-| 2. Associar obras ao seu perfil | 1 > 2 | __plano:__ o usuário deve primeiro clicar em "Você é autor de obras no portal domínio público" *e depois* informar dados |
-| 2.1. Clicar em "Você é autor de obras no portal domínio público" | ||
-| 2.2. Informar dados | 1 > 2 | __plano:__ informar seu CPF e palavra de segurança *e depois* exibir mensagem de confirmação |
-| 2.2.1. Informar CPF e palavra de segurança |||
-|2.2.2. Exibir mensagem de confirmação |||
+| Objetivos / Operações                                                                 | Relações | Problemas e Recomendações                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------- | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0. Se tornar colaborador                                                              |  1 > 2   | _problema:_ As instruções para se tornar um colaborador e associar obras cadastradas ao seu perfil ficam em áreas totalmente diferentes do site, o que dificulta para o usuário associar as duas ações <br> _recomendação:_ colocar os botões para estas ações em locais próximos ou que indiquem que uma ação deve ser realizada antes da outra <br> _plano:_ o usuário deve enviar a solicitação para se tornar um colaborador, clicando em "Quero Colaborar" *e depois* Associar obras ao seu perfil |
+| 1. Clicar em "Quero Colaborar"                                                        |  1 > 2   | _plano:_ o usuário deve escolher para qual tipo de colaborador ele deseja se inscrever *e depois* enviar dados                                                                                                                                                                                                                                                                                                                                                                                          |
+| 1.1. Escolher tipo de colaborador                                                     |          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 1.2. Enviar dados                                                                     |  1 > 2   | _plano:_ o usuário deve verificar se já possui todos os documentos necessários e no formato solicitado *e depois* enviar os documentos para o email                                                                                                                                                                                                                                                                                                                                                     |
+| 1.2.1. Verificar se já possui todos os documentos necessários e no formato solicitado |          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 1.2.2. Enviar documentos para o email                                                 |          | _problema:_ Os dados devem ser enviados em um site externo, o que pode fazer com que o usuário envie os documentos para o remetente errado ou percam o interesse em fazer essa solicitação. <br> _recomendação:_ incluir um formulário para que essas solicitações sejam realizadas diretamente no site                                                                                                                                                                                                 |
+| 2. Associar obras ao seu perfil                                                       |  1 > 2   | __plano:__ o usuário deve primeiro clicar em "Você é autor de obras no portal domínio público" *e depois* informar dados                                                                                                                                                                                                                                                                                                                                                                                |
+| 2.1. Clicar em "Você é autor de obras no portal domínio público"                      |          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 2.2. Informar dados                                                                   |  1 > 2   | __plano:__ informar seu CPF e palavra de segurança *e depois* exibir mensagem de confirmação                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 2.2.1. Informar CPF e palavra de segurança                                            |          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 2.2.2. Exibir mensagem de confirmação                                                 |          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30), 2023</p></font>
 
@@ -156,6 +158,8 @@ Nessa tarefa, o usuário tem por objetivo acessar a área de estatísticas do si
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
+
+
 ### Avaliar mídias
 
 Nesta tarefa, o objetivo do usuário é avaliar as midias que já foram consumidas, baixadas ou lidas. No planejamento do site avaliado, essa tarefa está relacionado a heurística " ajuda e documentação" A Figura 7 apresenta seu diagram HTA e a Tabela 6 suas especificações: 
@@ -168,17 +172,19 @@ Nesta tarefa, o objetivo do usuário é avaliar as midias que já foram consumid
 
 <font size="2"><p style="text-align: center">Tabela 6: Tabela da representação HTA da tarefa "Avaliar Mídia"</p></font>
 
-| Objetivos / Operações                               | Relações | Problemas e Recomendações                                                                                                                                              |
-| --------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Avaliar Mídia                      | 1 > 2| Input: Nota entre 1 a 5 e comentário sobre a midia <br> feedback: novo comentário aparece com a nota e o comentário inseridos <br> plano: achar a midia **e depois** deixar a avaliação|
-| 1. Pesquisar por uma mídia         |      ||
-| 1.1 Enviar confirmação de pesquisa |      ||
-| 2.  Selecionar a midia             |      ||
-| 2.1 Econtrar campo de avaliação    | 1 + 2| plano: definiar a nota da midia e o comentário sobre **e** escolher uma nota de 1 a 5|
-| 2.1.1 definir comentário e nota    |      ||
-| 2.1.2 postar avaliação             |      ||
+| Objetivos / Operações              | Relações | Problemas e Recomendações                                                                                                                                                               |
+| ---------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Avaliar Mídia                      | 1 > 2    | Input: Nota entre 1 a 5 e comentário sobre a midia <br> feedback: novo comentário aparece com a nota e o comentário inseridos <br> plano: achar a midia **e depois** deixar a avaliação |
+| 1. Pesquisar por uma mídia         |          |                                                                                                                                                                                         |
+| 1.1 Enviar confirmação de pesquisa |          |                                                                                                                                                                                         |
+| 2.  Selecionar a midia             |          |                                                                                                                                                                                         |
+| 2.1 Econtrar campo de avaliação    | 1 + 2    | plano: definiar a nota da midia e o comentário sobre **e** escolher uma nota de 1 a 5                                                                                                   |
+| 2.1.1 definir comentário e nota    |          |                                                                                                                                                                                         |
+| 2.1.2 postar avaliação             |          |                                                                                                                                                                                         |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
+
+
 
 ### Contatar administradores
 
@@ -192,18 +198,19 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para enviar uma men
 
 <font size="2"><p style="text-align: center">Tabela 7: Tabela da representação HTA da tarefa "Avaliar Mídia"</p></font>
 
-| Objetivos / Operações                               | Relações | Problemas e Recomendações                                                                                                                                              |
-| --------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Contatar administradores                     | 1 > 2 |  plano: encontrar um meio de contato, inserir informações relevantes e enviar a sua mensagem |
-| 1. Acessar "Fale conosco" pela página principal         |  | feedback: o usuário deve ser redirecionado a página "Fale conosco" <br> plano: ao acessar a página o usuário é capaz de enviar a sua mensagem  |
-| 2. Preencher os campos existentes     | 1 > 2 | plano: inserir o nome, email e depois a mensagem |
-| 2.1. Informar "Nome"     ||
-| 2.2. Informar "Email"             |  |  |
-| 2.3. Escrever mensagem em "Comentários"     | |  |
-| 3. Clicar em "Enviar"    | | feedback: aparecer uma mensagem de que o envio foi bem sucedido |
-
+| Objetivos / Operações                           | Relações | Problemas e Recomendações                                                                                                                     |
+| ----------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Contatar administradores                        | 1 > 2    | plano: encontrar um meio de contato, inserir informações relevantes e enviar a sua mensagem                                                   |
+| 1. Acessar "Fale conosco" pela página principal |          | feedback: o usuário deve ser redirecionado a página "Fale conosco" <br> plano: ao acessar a página o usuário é capaz de enviar a sua mensagem |
+| 2. Preencher os campos existentes               | 1 > 2    | plano: inserir o nome, email e depois a mensagem                                                                                              |
+| 2.1. Informar "Nome"                            |          |
+| 2.2. Informar "Email"                           |          |                                                                                                                                               |
+| 2.3. Escrever mensagem em "Comentários"         |          |                                                                                                                                               |
+| 3. Clicar em "Enviar"                           |          | feedback: aparecer uma mensagem de que o envio foi bem sucedido                                                                               |
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
+
+
 
 ## Referências Bibliográficas
 
@@ -219,15 +226,14 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para enviar uma men
 
 
 
-
 ## Histórico de versões
 
-| Versão | Data       | Descrição                                | Autor(es)                                                                                              | Revisor(es)                                    |
-| ------ | ---------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------- |
-| 1.0    | 11/10/2023 | Criação do Artefato                      | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.1    | 11/10/2023 | Adição da Analise Hierarquica de Tarefas | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Maria Alice](https://github.com/Maliz30)      |
-| 1.2    | 11/10/2023 | Adição dos diagramas HTA                 | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.3    | 15/10/2023 | Corrige introdução e metodologia         | [Gustavo França](https://github.com/gustavofbs)                                   | [Ana Catarina](https://github.com/an4catarina) |
-| 1.4    | 22/10/2023 | Adição de Avaliar Midia                  | [Victor Hugo](https://github.com/ViictorHugoo)                                      | [Maria Alice](https://github.com/Maliz-30) |
-| 1.5    | 23/10/2023 | Adição de Contatar Administradores       | [Gustavo França](https://github.com/gustavofbs)                                     | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.6    | 23/10/2023 | Correção na HTA da ação "Se tornar colaborador" | [Maria Alice](https://github.com/Maliz30)                                       | [Gustavo França](https://github.com/gustavofbs) |
+| Versão | Data       | Descrição                                       | Autor(es)                                                                                              | Revisor(es)                                     |
+| ------ | ---------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| 1.0    | 11/10/2023 | Criação do Artefato                             | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.1    | 11/10/2023 | Adição da Analise Hierarquica de Tarefas        | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Maria Alice](https://github.com/Maliz30)       |
+| 1.2    | 11/10/2023 | Adição dos diagramas HTA                        | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.3    | 15/10/2023 | Corrige introdução e metodologia                | [Gustavo França](https://github.com/gustavofbs)                                                        | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.4    | 22/10/2023 | Adição de Avaliar Midia                         | [Victor Hugo](https://github.com/ViictorHugoo)                                                         | [Maria Alice](https://github.com/Maliz-30)      |
+| 1.5    | 23/10/2023 | Adição de Contatar Administradores              | [Gustavo França](https://github.com/gustavofbs)                                                        | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.6    | 23/10/2023 | Correção na HTA da ação "Se tornar colaborador" | [Maria Alice](https://github.com/Maliz30)                                                              | [Gustavo França](https://github.com/gustavofbs) |

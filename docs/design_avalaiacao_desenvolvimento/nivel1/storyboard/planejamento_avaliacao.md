@@ -1,8 +1,12 @@
 # Planejamento da Avaliação do Storyboard
 
+
+
 ## Introdução
 
 A fim de definir o planejamento da avaliação dos storyboards, serão definidos metas e critérios que definirão a qualidade do storyboard escolhido. Tal avaliação permitirá evoluir sua premissa evidenciada e conectar-se coerentemente a tarefa a qual ele esta linkado e forneça uma melhor visão geral para o projeto.
+
+
 
 ## Metodologia
 
@@ -18,6 +22,8 @@ Na realização do seguinte planejamento será utilizado o framework DECIDE conf
 
 </center>
 
+
+
 ## D - Objetivos da avaliação
 
 Os objetivos definidos para essa avaliação são avaliar os seguintos pontos nos artefatos <a href= "docs/design_avalaiacao_desenvolvimento/storyboard/storyboards.md"> storyboards </a> produzidos:
@@ -28,6 +34,8 @@ Os objetivos definidos para essa avaliação são avaliar os seguintos pontos no
 - Avaliar necessidade de alterações nos artefatos.
 
 Dessa forma garantindo que sejam eficientes e coesos.
+
+
 
 ## E - Exploração de perguntas
 
@@ -45,11 +53,15 @@ Com base nos objetivos evidenciados anteriormente, foram selecionadas algumas pe
 - Os storyboards possuem relação com a realidade observada ?
 - Os storyboards devem ser alterados para encaixar nos padrões definidos pelo usuário ?
 
+
+
 ## C - Métodos de Avaliação
 
 O método de avaliação definido foi o de investigação, com uso de questiónario em uma entrevista aplicada. A opinião do usuário sobre o storyboard e o contexto de sua experiência pessoal será analisada a partir de tais perguntas.
 
 O método foi escolhido por trazer mais exatidão das informações adquiridas, por ter o contato direto com o usuário, além disso a facilidade do contato direto permite uma avaliação mais consisa e flexível a revisões e sugestões.
+
+
 
 ## I - Aspectos Práticos da Avaliação
 
@@ -81,7 +93,7 @@ O cronograma das entrevistas com os usuários estão documentadas na tabela 1 co
 | :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :---: | :------------------------: |
 |    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       19:10       |     19:20      | 01/11 | Plataforma Microsoft Teams |
 |   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:00       |     19:10      | 31/10 | Plataforma Microsoft Teams |
-| [Harryson Martins](https://github.com/harry-cmartin) |     Luma Maia     |       22:30       |     22:40      | 31/10 | Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) |    Luma Maia    |       22:30       |     22:40      | 31/10 | Plataforma Microsoft Teams |
 |   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:30       |     22:40      | 03/11 | Plataforma Microsoft Teams |
 |      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       13:50       |     14:00      | 03/11 | Plataforma Microsoft Teams |
 |    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       18:50       |     19:00      | 01/11 | Plataforma Microsoft Teams |
@@ -116,6 +128,8 @@ Na parte inicial do encontro será disponibilizado termo de consentimento para a
 
 </center>
 
+
+
 ## D - Aspectos Éticos
 
 Ao realizar avaliações com usuários, é importante seguir as diretrizes éticas para garantir respeito aos envolvidos, evitando qualquer dano durante e após a divulgação dos resultados. A condução de metodologias com terceiros requer a consciência dos participantes sobre os princípios éticos e a assinatura de um termo de consentimento.
@@ -132,6 +146,8 @@ Segue abaixo na Figura 2 o termo de consentimento em <a href= "docs/analise_de_r
 
 </center>
 
+
+
 ## E - Avaliação, Interpretação e Apresentação dos Dados
 
 Com a conclusão das entrevistas e dados coletados, será feita uma analise minuciosa dos documentos adquiridos, julgando se tais dados são coerentes com as perspectivas identificadas até agora.
@@ -139,6 +155,8 @@ Com a conclusão das entrevistas e dados coletados, será feita uma analise minu
 Além disso, se identificados problemas, elencados pelos usuários, tais fenômenos serão descritos e classificados, a fim de buscar sua melhora, também olhando pelas possíveis sugestões dos entrevistados.
 
 Por fim, as informações adquiridas serão validadas novamente, e assim poderão ser desenvolvidas e implementadas, visando a melhoras das vicissitudes encontradas.
+
+
 
 ## Planejamento do Teste Piloto
 
@@ -164,16 +182,19 @@ No vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 
 </center>
 
+
+
 ## Bibliografia
 
 > Bilheteria Digital. Metas de usabilidade. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/metas-usabilidade/. Acesso em: 28 de out. 2023.
+
+
 
 ## Referências Bibliográficas
 
 > <a id="FRM3" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 > <a id="FRM4" href="#anchor_2">2.</a> Domínio Público. Pesquisa de obras. Disponível em: <http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp\>. Acesso em: 28/10/2023.
->
 
 
 

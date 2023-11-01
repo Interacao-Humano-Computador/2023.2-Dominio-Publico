@@ -1,8 +1,12 @@
 # Planejamento da Avaliação da Análise de Tarefas
 
+
+
 ## Introdução
 
 Para realizar uma entrega de qualidade, é necessário avaliar se o produto resultante atende aos critérios de qualidade desejados, desta forma conseguimos corrigir os problemas antes que eles cheguem ao consumidor. Avaliar a qualidade de uso de um sistema apresenta diversas vantagens, dentre elas a correção rápida de problemas, a equipe de desenvolvimento pode se concentrar em solucionar problemas reais, redução no tempo de mercado e a identificação e correção de problemas mais robustos de IHC. Entretanto, estaremos avaliando um site que já está no ar, como forma de propor soluções aos problemas existentes. Serão analisados critérios de qualidade na perspectiva do usuário, avaliando usabilidade, experiência do usuário, acessibilidade e comunicabilidade. 
+
+
 
 ## Metodologia
 
@@ -20,17 +24,21 @@ Para a realização do planejamento da avaliação, utilizaremos o framework DEC
 
 Diante disso, a seguir encontra-se o detalhamento do planejamento utilizando o Framework em questão:
 
+
+
 ## D - Objetivos da avaliação
 
 O objetivo geral desta avaliação é identificar problemas de usabilidade no site domínio público e identificar as formas de interação do usuário com os artefados do site presente na <a href= "../../../analise_de_requisitos/analise_de_tarefas/hta.md">análise de tarefas</a>, além de possíveis desafios encontrados. Serão considerados, também, os seguintes aspectos na avaliação:
-
 
 - Abrangência do conteúdo (se o conteúdo é fácil de encontrar e se é organizado de forma lógica);
 - Atualização do conteúdo (se o conteúdo está atualizado e se é fácil de encontrar as informações mais recentes);
 
 Desta forma, avaliaremos se o site é útil, coeso e permite que seus usuários concluam seus objetivos.
 
+
+
 ## E - Exploração de perguntas
+
 A partir do objetivo anterior podemos aumentar seu nível de detalhamento definindo perguntas verificáveis a serem respondidas na avaliação. Além de auxiliar na investigação e avaliação do site, as pesguntas tem como finalidade guiar e operacionalizar todo o processo de avaliação.
 
 ### O que iremos avaliar ?
@@ -77,6 +85,8 @@ A Tabela 1 apresenta o roteiro de perguntas, que tem como base a "Tabela 11.1: E
 
 </center>
  
+
+
 ## C - Métodos de Avaliação
 
 A escolha dos métodos de avaliação de IHC é uma decisão importante que deve ser tomada de acordo com os objetivos da avaliação, o tempo e recursos disponíveis, e o nível de experiência dos usuários.
@@ -86,6 +96,8 @@ Para avaliar o domínio público, usaremos uma combinação de métodos de inves
 - Quais são as necessidades dos usuários em relação ao domínio público?
 - Como os usuários estão usando o domínio público?
 - Quais são os pontos positivos e negativos do domínio público?
+
+
 
 ## I - Aspectos Práticos da Avaliação
 
@@ -124,6 +136,8 @@ O cronograma das entrevistas com os usuários estão documentadas na tabela 1 co
 
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina).</p></font>
 
+
+
 ## D - Lidando com as Questões Éticas
 
 Ao realizar avaliações com usuários, é importante seguir as diretrizes éticas para garantir respeito aos envolvidos, evitando qualquer dano durante e após a divulgação dos resultados. A condução de metodologias com terceiros requer a consciência dos participantes sobre os princípios éticos e a assinatura de um termo de consentimento.
@@ -140,6 +154,8 @@ Segue abaixo na Figura 2 o termo de consentimento em <a href= "docs/analise_de_r
 
 </center>
 
+
+
 ## E - Avaliação, Interpretação e Apresentação dos Dados
 
 No ciclo de avaliação e interpretação dos dados, cada informação é documentada e analisada considerando o contexto em que foi gerada. Esse processo visa determinar a confiabilidade dos dados e sua capacidade de representar a população de usuários do site.
@@ -151,6 +167,8 @@ Com as entrevistas concluídas e os dados coletados em mãos, realiza-se uma an�
 Além disso, se identificados problemas, elencados pelos usuários, tais fenômenos serão descritos e classificados, a fim de buscar sua melhora, também olhando pelas possíveis sugestões dos entrevistados.
 
 Por fim, as informações adquiridas serão validadas novamente, e assim poderão ser desenvolvidas e implementadas, visando a melhoras das vicissitudes encontradas.
+
+
 
 ## Planejamento do Teste Piloto
 
@@ -180,16 +198,24 @@ No vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 
 </center>
 
-## Bibliografia
-RIBEIRO, Clara; SANTANA, Natan Tavares. Planejamento da avaliação da Análise de tarefas. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/design%2C_avalia%C3%A7%C3%A3o%2C_desenvolvimento/n%C3%ADvel%201/an%C3%A1lise_de_tarefas/planejamento_tarefas/>. Acesso em: 30 de outubro de 2023.
 
-GABRIEL, Lucas; SOUZA, Nicolas. Planejamento da avaliação da Análise de tarefas. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao/>. Acesso em: 30 de outubro de 2023.
+
+## Bibliografia
+
+> RIBEIRO, Clara; SANTANA, Natan Tavares. Planejamento da avaliação da Análise de tarefas. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/design%2C_avalia%C3%A7%C3%A3o%2C_desenvolvimento/n%C3%ADvel%201/an%C3%A1lise_de_tarefas/planejamento_tarefas/>. Acesso em: 30 de outubro de 2023.
+
+> GABRIEL, Lucas; SOUZA, Nicolas. Planejamento da avaliação da Análise de tarefas. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao/>. Acesso em: 30 de outubro de 2023.
 
 
 > Bilheteria Digital. Metas de usabilidade. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/metas-usabilidade/. Acesso em: 28 de out. 2023.
 
+
+
 ## Referências Bibliográficas
+
 <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011
+
+
 
 ## Histórico de Versões
 
