@@ -30,15 +30,15 @@ A metodologia a ser aplicada será de observação de entrevista com os usuário
 
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma planejado</p></font>
 
-|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data  |           Local            |
-| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :---: | :------------------------: |
-|    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       19:20       |     19:30      | 01/11 | Plataforma Microsoft Teams |
-|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:20       |     19:30      | 01/11 | Plataforma Microsoft Teams |
-| [Harryson Martins](https://github.com/harry-cmartin) |    Luma Maia    |       22:30       |     22:40      | 01/11 | Plataforma Microsoft Teams |
-|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:40       |     22:50      | 03/11 | Plataforma Microsoft Teams |
-|      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       14:00       |     14:10      | 03/11 | Plataforma Microsoft Teams |
-|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       19:00       |     19:10      | 01/11 | Plataforma Microsoft Teams |
-|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       17:50       |     18:00      | 31/10 | Plataforma Microsoft Teams |
+|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Data Executada |           Local           |
+| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :------------: |:------------------------: |
+|    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       18:10       |     18:20      |      01/11     |                |Plataforma Microsoft Teams |
+|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       18:00       |     18:10      |      31/10     |                |Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) |     Luma Maia   |       21:30       |     21:40      |      31/10     |                |Plataforma Microsoft Teams |
+|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       21:30       |     21:40      |      03/11     |                |Plataforma Microsoft Teams |
+|      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       12:50       |     13:00      |      03/11     |                |Plataforma Microsoft Teams |
+|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       17:50       |     18:00      |      01/11     |                |Plataforma Microsoft Teams |
+|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       17:00       |     17:10      |      31/10     |                |Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/Viictorhugoo)</p></font>
 
