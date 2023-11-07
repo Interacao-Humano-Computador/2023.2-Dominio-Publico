@@ -103,7 +103,7 @@ Para avaliar o domínio público, usaremos uma combinação de métodos de inves
 
 ### Recrutamento
 
-O recrutamendo dos usuários entrevistados serão definidos a partir do Perfil de usuários. O local definido para entrevista será estritamente online, por beneficiar tempo, custo e facilidade de ambas as partes envolvidas. O número de participantes da pesquisa será equivalente ao número de de integrantes, ou seja, 7 usuários a serem entrevistados.
+O recrutamendo dos usuários entrevistados serão definidos a partir do Perfil de usuários. O local definido para entrevista será online ou presencial, de forma a acordar com o usuário. O número de participantes da pesquisa será equivalente ao número de de integrantes, ou seja, 7 usuários a serem entrevistados.
 
 ### Preparação
 
@@ -124,15 +124,15 @@ O cronograma das entrevistas com os usuários estão documentadas na tabela 1 co
 
 <font size="2"><p style="text-align: center">Tabela 2: Cronograma da entrevista </p></font>
 
-|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data  |           Local            |
-| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :---: | :------------------------: |
-|    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       19:20       |     19:30      | 01/11 | Plataforma Microsoft Teams |
-|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:20       |     19:30      | 01/11 | Plataforma Microsoft Teams |
-| [Harryson Martins](https://github.com/harry-cmartin) |    Luma Maia    |       22:30       |     22:40      | 01/11 | Plataforma Microsoft Teams |
-|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:40       |     22:50      | 03/11 | Plataforma Microsoft Teams |
-|      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       14:00       |     14:10      | 03/11 | Plataforma Microsoft Teams |
-|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       19:00       |     19:10      | 01/11 | Plataforma Microsoft Teams |
-|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       17:50       |     18:00      | 31/10 | Plataforma Microsoft Teams |
+|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Data Executada |           Tarefa            |           Local           |
+| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :------------: | :-------------------------: |:------------------------: |
+|    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       19:10       |     19:20      |      01/11     |                | Acessar as Estátisticas     |Plataforma Microsoft Teams |
+|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:00       |     19:10      |      31/10     |                | Contatar Admin              |Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) |     Luma Maia   |       22:30       |     22:40      |      31/10     |                | Pesquisar por mídia         |Plataforma Microsoft Teams |
+|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:30       |     22:40      |      03/11     |                | Pedir Ajuda                 |Plataforma Microsoft Teams |
+|      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       13:50       |     14:00      |      03/11     |                | Cadidatura para Colaborador |Plataforma Microsoft Teams |
+|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       18:50       |     19:00      |      01/11     |                | Download de Mídia           |Plataforma Microsoft Teams |
+|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       18:00       |     18:10      |      31/10     |                | Avaliar Midia               |Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina).</p></font>
 
@@ -224,3 +224,4 @@ No vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 | 1.0    | 30/10/2023 | Criação do Documento             | [Maria Alice](https://github.com/Maliz30)                                                  | [Ana Catarina](https://github.com/an4catarina) |
 | 1.1    | 30/10/2023 | Detalhamento do framework DECIDE | [Ana Catarina](https://github.com/an4catarina) e [Maria Alice](https://github.com/Maliz30) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.2    | 30/10/2023 | Criação do teste piloto          | [Pedro Henrique](https://github.com/pedro-hsf)                                             | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.3    | 01/11/2021 | Correções cronograma | [Victor Hugo](https://github.com/ViictorHugoo) | [Ana Catarina](https://github.com/an4catarina)  |

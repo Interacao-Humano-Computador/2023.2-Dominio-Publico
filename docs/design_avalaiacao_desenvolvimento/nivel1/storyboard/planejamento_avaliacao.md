@@ -67,7 +67,7 @@ O método foi escolhido por trazer mais exatidão das informações adquiridas, 
 
 ### Recrutamento
 
-O recrutamendo dos usuários entrevistados serão definidos a partir do <a href= "docs/analise_de_requisitos/perfil_de_usuario.md"> Perfil de usuários </a> ja evidenciado. O local definido para entrevista será estritamente online, por beneficiar tempo, custo e facilidade de ambas as partes envolvidas.
+O recrutamendo dos usuários entrevistados serão definidos a partir do Perfil de usuários. O local definido para entrevista será online ou presencial, de forma a acordar com o usuário. O número de participantes da pesquisa será equivalente ao número de de integrantes, ou seja, 7 usuários a serem entrevistados.
 
 ### Preparação
 
@@ -89,15 +89,15 @@ O cronograma das entrevistas com os usuários estão documentadas na tabela 1 co
 
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma da entrevista </p></font>
 
-|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data  |           Local            |
-| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :---: | :------------------------: |
-|    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       19:10       |     19:20      | 01/11 | Plataforma Microsoft Teams |
-|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:00       |     19:10      | 31/10 | Plataforma Microsoft Teams |
-| [Harryson Martins](https://github.com/harry-cmartin) |    Luma Maia    |       22:30       |     22:40      | 31/10 | Plataforma Microsoft Teams |
-|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:30       |     22:40      | 03/11 | Plataforma Microsoft Teams |
-|      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       13:50       |     14:00      | 03/11 | Plataforma Microsoft Teams |
-|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       18:50       |     19:00      | 01/11 | Plataforma Microsoft Teams |
-|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       18:00       |     18:10      | 31/10 | Plataforma Microsoft Teams |
+|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Data Executada |           Tarefa            |           Local           |
+| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :------------: | :-------------------------: |:------------------------: |
+|    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       19:10       |     19:20      |      01/11     |                | Acessar as Estátisticas     |Plataforma Microsoft Teams |
+|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:00       |     19:10      |      31/10     |                | Contatar Admin              |Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) |     Luma Maia   |       22:30       |     22:40      |      31/10     |                | Pesquisar por mídia         |Plataforma Microsoft Teams |
+|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:30       |     22:40      |      03/11     |                | Pedir Ajuda                 |Plataforma Microsoft Teams |
+|      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       13:50       |     14:00      |      03/11     |                | Cadidatura para Colaborador |Plataforma Microsoft Teams |
+|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       18:50       |     19:00      |      01/11     |                | Download de Mídia           |Plataforma Microsoft Teams |
+|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       18:00       |     18:10      |      31/10     |                | Avaliar Midia               |Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs).</p></font>
 
@@ -118,11 +118,22 @@ Na parte inicial do encontro será disponibilizado termo de consentimento para a
 
 |                                                   Pergunta                                                    | Resposta         |
 | :-----------------------------------------------------------------------------------------------------------: | :--------------- |
-|                      Os atores envolvidos no storyboard são condizentes com a realidade?                      | ( )SIM<br>( )NÃO |
-|                       Você acha que as ações do storyboard levam para o objetivo final?                       | ( )SIM<br>( )NÃO |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? | ( )SIM<br>( )NÃO |
-|             Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?              | ( )SIM<br>( )NÃO |
-|                   As ações presentes no storyboard seguem uma ordem identificável e fluida?                   | ( )SIM<br>( )NÃO |
+| Qual o seu nome?                                                                                              | Resposta discursiva                                                                                                                                                                
+| Quantos anos você tem?                                                                                        | Resposta discursiva                                                                                                                                                                
+| Qual seu nível de escolaridade?                                                                               | Resposta discursiva                                                                                                                                                                
+| Qual a sua ocupação?                                                                                          | Resposta discursiva                                                                                                                                                                
+| Qual seu grau de experiência com tecnologias?                                                                 | - Iniciante <br> - Intermediário <br> - Avançado <br> - Especialista                                                                                                               
+| Você já utilizou o Domínio Público?                                                                           | - sim <br> - não                                                                                                                                                                   
+| Quais atividades você tem/teria interesse em utilizar no domínio público?                                     | Resposta discursiva                                                                                                                                                                
+| Como você costuma acessar livros e mídias sem domínio/gratuitos?                                              | Resposta discursiva                                                                                                                                                                
+| Com que frequência você lê livros?                                                                            | - Todos os dias <br> - Quase todos os dias <br> - Algumas vezes por semana <br> - Uma vez por semana <br> - Uma vez por mês <br> - Uma vez por ano <br> - Menos de uma vez por ano 
+| Quais tipos de conteúdo você mais consome online?                                                             | - Livros <br> - Artigos <br> - Vídeos <br> - Áudios <br> - Outros (especifique)                                                                                                    
+| Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?                                 | - Pesquisa acadêmica <br> - Lazer e entretenimento <br> - Estudo autodidata <br> - Outro (especifique)
+| Os atores envolvidos no storyboard são condizentes com a realidade?                                           | ( )SIM<br>( )NÃO 
+| Você acha que as ações do storyboard levam para o objetivo final?                                             | ( )SIM<br>( )NÃO 
+| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? | ( )SIM<br>( )NÃO 
+| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          | ( )SIM<br>( )NÃO 
+| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     | ( )SIM<br>( )NÃO 
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs).</p></font>
 
@@ -209,3 +220,5 @@ No vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 | 1.4    | 30/10/2023 | Atualizando o termo de consentimento    | [Ana Catarina](https://github.com/an4catarina)                                                         | [Maria Alice](https://github.com/Maliz30)                                                                                                       |
 | 1.5    | 28/10/2023 | Correção de fontes                      | [Gustavo França](https://github.com/gustavofbs)                                                        | [Pedro Henrique](https://github.com/pedro-hsf)                                                                                                  |
 | 1.6    | 30/10/2023 | Adição do teste piloto                  | [Pedro Henrique](https://github.com/pedro-hsf)                                                         | [Maria Alice](https://github.com/Maliz30)                                                                                                       |
+| 1.7    | 01/11/2021 | Correções cronograma | [Victor Hugo](https://github.com/ViictorHugoo) | [Ana Catarina](https://github.com/an4catarina)  |
+

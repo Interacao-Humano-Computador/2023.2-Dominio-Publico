@@ -17,7 +17,8 @@ O relato dos resultados será construido com base no documento [Planejamento da 
 3. Seleção dos participantes; 
 4. Listagem de problemas; 
 5. Sugestões de melhoria; 
-6. Planejamento de reprojeto. 
+6. Sumário de resultados;
+7. Planejamento de reprojeto. 
 
 
 
@@ -32,21 +33,21 @@ Neste tópico, o relator deverá descrever o motivo da avaliação que estará s
 
 ##### Método de avaliação
 
-A metodologia a ser aplicada será de observação de entrevista com os usuários, onde o entrevistador irá observar o usuário realizando as tarefas e irá anotar os problemas encontrados. Após a realização das tarefas, o entrevistador irá questionar o usuário sobre a experiência dele com o sistema, a fim de tomar notas da experencia de forma mais detalhada. A Tabela 1 explicita o cronograma planejado para as entrevistas.
+A metodologia a ser aplicada será de observação de entrevista com os usuários, onde o entrevistador irá observar o usuário realizando as tarefas e irá anotar os problemas encontrados. Após a realização das tarefas, o entrevistador irá questionar o usuário sobre a experiência dele com o sistema, a fim de tomar notas da experencia de forma mais detalhada. Serão recrutados 1 usuário para cada 1 integrante do grupo, totalizando 7 usuários. A Tabela 1 explicita o cronograma planejado para as entrevistas.
 
 <center>
 
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma planejado</p></font>
 
-|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data  |           Local            |
-| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :---: | :------------------------: |
-|    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       19:20       |     19:30      | 01/11 | Plataforma Microsoft Teams |
-|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:20       |     19:30      | 01/11 | Plataforma Microsoft Teams |
-| [Harryson Martins](https://github.com/harry-cmartin) |    Luma Maia    |       22:30       |     22:40      | 01/11 | Plataforma Microsoft Teams |
-|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:40       |     22:50      | 03/11 | Plataforma Microsoft Teams |
-|      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       14:00       |     14:10      | 03/11 | Plataforma Microsoft Teams |
-|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       19:00       |     19:10      | 01/11 | Plataforma Microsoft Teams |
-|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       17:50       |     18:00      | 31/10 | Plataforma Microsoft Teams |
+|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada |           Tarefa            |           Local           |
+| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------:  | :-------------------------: |:------------------------: |
+|    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       19:10       |     19:20      |      01/11                | Acessar as Estátisticas     |Plataforma Microsoft Teams |
+|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:00       |     19:10      |      31/10               | Contatar Admin              |Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) |     Luma Maia   |       22:30       |     22:40      |      31/10                | Pesquisar por mídia         |Plataforma Microsoft Teams |
+|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:30       |     22:40      |      03/11                | Pedir Ajuda                 |Plataforma Microsoft Teams |
+|      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       13:50       |     14:00      |      03/11                 | Cadidatura para Colaborador |Plataforma Microsoft Teams |
+|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       18:50       |     19:00      |      01/11               | Download de Mídia           |Plataforma Microsoft Teams |
+|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       18:00       |     18:10      |      31/10                | Avaliar Midia               |Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/Viictorhugoo)</p></font>
 
@@ -148,3 +149,4 @@ Os problemas encontrados, sugestões de melhorias e quaisquer outros pontos enco
 | ------ | ---------- | ----------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | 1.0    | 29/10/2021 | Criação do documento                | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
 | 1.1    | 01/11/2021 | Adicionando o registro da avaliação | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.2    | 01/11/2021 | Correções cronograma                | [Victor Hugo](https://github.com/ViictorHugoo)  | [Ana Catarina](https://github.com/an4catarina)  |
