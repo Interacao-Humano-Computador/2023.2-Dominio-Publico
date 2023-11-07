@@ -1,16 +1,15 @@
-# Planejamento do Relato dos Resultados do Storyboard
-
+# Planejamento do Relato dos Resultados do Protótipo de Papel
 
 
 ## Introdução
 
-O documento em questão tem como referência o [Planejamento da Avaliação do Storyboard](./planejamento_avaliacao.md) e tem como principal objetivo estabelecer a estrutura e a disposição dos dados coletados durante a avaliação dos storyboards. O resultado desse planejamento será detalhado no relatório de resultados, onde serão destacados aspectos passíveis de aprimoramento no sistema e sugestões de redesign identificadas pelo grupo.
+O documento em questão tem como referência o [Planejamento da Avaliação do Protótipo de Papel](./planejamento_avaliacao.md) e tem como principal objetivo estabelecer a estrutura e a disposição dos dados coletados durante a avaliação dos do protótipo de papel. O resultado desse planejamento será detalhado no relatório de resultados, onde serão destacados aspectos passíveis de aprimoramento no sistema e sugestões de redesign identificadas pelo grupo.
 
 
 
 ## Metodologia
 
-O relato dos resultados será construido com base no documento [Planejamento da Avaliação do Storyboard](./planejamento_avaliacao.md) e nos elementos de avaliação citados por Barbosa [1], que são:
+O relato dos resultados será construido com base no documento [Planejamento da Avaliação do Protótipo de Papel](./planejamento_avaliacao.md) e nos elementos de avaliação citados por Barbosa [1], que são:
 
 1. Objetivo e âmbito da avaliação; 
 2. Método de avaliação; 
@@ -44,13 +43,13 @@ Além disso os entrevistadores deverão seguir o cronograma planejado explicitad
 
 |                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada |           Tarefa            |           Local            |
 | :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :-------------------------: | :------------------------: |
-|    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       19:10       |     19:20      |     01/11      |   Acessar as Estátisticas   | Plataforma Microsoft Teams |
-|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:00       |     19:10      |     31/10      |       Contatar Admin        | Plataforma Microsoft Teams |
-| [Harryson Martins](https://github.com/harry-cmartin) |    Luma Maia    |       22:30       |     22:40      |     31/10      |     Pesquisar por mídia     | Plataforma Microsoft Teams |
-|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:30       |     22:40      |     03/11      |         Pedir Ajuda         | Plataforma Microsoft Teams |
-|      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       13:50       |     14:00      |     03/11      | Cadidatura para Colaborador | Plataforma Microsoft Teams |
-|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       18:50       |     19:00      |     01/11      |      Download de Mídia      | Plataforma Microsoft Teams |
-|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       18:00       |     18:10      |     31/10      |        Avaliar Midia        | Plataforma Microsoft Teams |
+|    [Ana Catarina](https://github.com/an4catarina)    |       ---       |        ---        |      ---       |      ---       |   Acessar as Estátisticas   | Plataforma Microsoft Teams |
+|   [Gustavo França](https://github.com/gustavofbs)    |      ----       |        ---        |      ---       |      ---       |       Contatar Admin        | Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) |       ---       |        ---        |      ---       |      ---       |     Pesquisar por mídia     | Plataforma Microsoft Teams |
+|   [Luciano Ricardo](https://github.com/l-ricardo)    |       ---       |        ---        |      ---       |      ---       |         Pedir Ajuda         | Plataforma Microsoft Teams |
+|      [Maria Alice](https://github.com/Maliz30)       |       ---       |        ---        |      ---       |      ---       | Cadidatura para Colaborador | Plataforma Microsoft Teams |
+|    [Pedro Henrique](https://github.com/pedro-hsf)    |       ---       |        ---        |      ---       |      ---       |      Download de Mídia      | Plataforma Microsoft Teams |
+|    [Victor Hugo](https://github.com/ViictorHugoo)    |       ---       |        ---        |      ---       |      ---       |        Avaliar Midia        | Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
@@ -96,13 +95,11 @@ Nesse topico, o entrevistador deve incluir a gravação da avaliação bem como 
 <font size="2"><p style="text-align: center">Tabela 3: Sumario de perguntas</p></font>
 
 
-| Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |          |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |          |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |          |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |          |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |          |
+| Pergunta | Resposta |
+| -------- | :------- |
+| ----     |          |
+| ----     |          |
+| ----     |          |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
@@ -139,7 +136,7 @@ Os problemas encontrados, sugestões de melhorias e quaisquer outros pontos enco
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor(es)                                       | Revisor(es)                                    |
-| ------ | ---------- | -------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 29/10/2021 | Criação do documento | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.1    | 01/11/2021 | Correções cronograma | [Victor Hugo](https://github.com/ViictorHugoo)  | [Ana Catarina](https://github.com/an4catarina) |
+| Versão | Data       | Descrição              | Autor(es)                                       | Revisor(es)                                    |
+| ------ | ---------- | ---------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 01/11/2021 | Criação do documento   | [Victor Hugo](https://github.com/ViictorHugoo)  | [Ana Catarina](https://github.com/an4catarina) |
+| 1.1    | 07/11/2021 | Planejamento do relato | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |

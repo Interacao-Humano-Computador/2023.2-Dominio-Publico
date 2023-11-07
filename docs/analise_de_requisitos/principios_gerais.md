@@ -1,8 +1,12 @@
 # Princípios Gerais
 
+
+
 ## Introdução
 
 Para que um modelo conceitual possa efetivamente atender às necessidades específicas de um usuário, possibilitando uma aprendizagem rápida e clara, é imprescindível que sua estrutura seja construída de acordo com uma série de princípios e diretrizes gerais. Esses princípios, que servem como alicerce do projeto, desempenham um papel crucial, fazendo com que tenha uma relação satisfatória e saudável entre os usuários e o produto final.
+
+
 
 ## Metodologia
 
@@ -17,7 +21,9 @@ Um dos princípios essenciais em Interação Humano-Computador trata-se da capac
 Quando se adiciona um tipo de mídia e, em seguida, realiza uma pesquisa, são exibidas várias informações, como títulos, autores, fontes, formatos, tamanhos de arquivos e os acessos. Em teoria, seria possível ordenar todos esses elementos conforme necessário. No entanto, em alguns casos, como nos títulos e autores, a funcionalidade de ordenação não está operando conforme o esperado. Além disso, o modo de ordenar não é muito intuitivo, devido ao tamanho reduzido e à falta de eficácia das setas de referência para essa ordenação, fazendo com que o usuário clique no nome para que essa ordenação ocorra tornando a experiência menos eficiente do que o desejado conforme a Figura 1.
 
 <font size="2"><p style="text-align: center">Figura 1: Ordenação incorreta dos Itens</p></font>
+
 ![Figura 1: Ordenação incorreta dos Itens](../assets/analise_de_requisitos/principios_gerais/ordenacao_errada.gif)
+
 <font size="2"><p style="text-align: center">Fonte: [Domínio Público](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)</p></font>
 
 ### Simplicidade nas estruturas das tarefas.
@@ -34,7 +40,9 @@ A simplicidade na estrutura das tarefas garante simplificação das atividades, 
 O modo de busca do site é bastante intuitivo como é mostrado na Figura 2, embora possa ser considerado um pouco ultrapassado do ponto de vista estético. No entanto, ele desempenha sua função adequadamente. Para aprimorar a experiência do usuário, seria benéfico adicionar suportes adicionais que permitam aos usuários aprender e executar a tarefa de forma ainda mais eficaz. Por exemplo, dar mais destaque ao método de pesquisa na página inicial poderia melhorar a usabilidade e tornar a funcionalidade de busca mais proeminente, sem comprometer sua eficiência atual.
 
 <font size="2"><p style="text-align: center">Figura 2: Simplicidade nas estruturas das tarefas.</p></font>
+
 ![Figura 2: Simplicidade nas estruturas das tarefas.](../assets/analise_de_requisitos/principios_gerais/simplicidade_nas_tarefas.png)
+
 <font size="2"><p style="text-align: center">Fonte: [Domínio Público](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)</p></font>
 
 ### Equilíbrio entre controle e liberdade do usuário.
@@ -54,7 +62,9 @@ Manter a interface alinhada com o modelo conceitual facilita a sua utilização 
 Ao acessar a página, conforme é possível avaliar na Figura 3, o usuário se depara com uma resolução diferente daquela que é mais comumente utilizada hoje em dia, que é de 800x600. Isso resulta em uma falta de adaptação aos sistemas e equipamentos modernos. Como exemplo disso, a aba de busca já ocupa a tela inteira, levando a uma despadronização, visto que cada elemento do site apresenta uma resolução distinta. Isso pode afetar negativamente a experiência do usuário, tornando a navegação menos consistente e eficaz.
 
 <font size="2"><p style="text-align: center">Figura 3: Consistência e Padronização</p></font>
+
 ![Figura 3: Consistência e Padronização](../assets/analise_de_requisitos/principios_gerais/consistencia_e_padronizacao.png)
+
 <font size="2"><p style="text-align: center">Fonte: [Domínio Público](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)</p></font>
 
 ### Promoção da eficiência do usuário.
@@ -74,7 +84,9 @@ Antecipar as necessidades do usuário envolve projetar um sistemas que têm a ca
 Como podemos observar na Figura 4, o sistema dispõe de opções "default", onde o usuário pode selecionar opções nos quais o sistema pré dispõe como o tipo de mídia, categoria, idioma e opções destaque nas quais o usuário pode se interessar em acessar.
 
 <font size="2"><p style="text-align: center">Figura 4: Antecipação das necessidades do usuário</p></font>
+
 ![Figura 4: Antecipação das necessidades do usuário](../assets/analise_de_requisitos/principios_gerais/consistencia_e_padronizacao.png)
+
 <font size="2"><p style="text-align: center">Fonte: [Domínio Público](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)</p></font>
 
 ### Visibilidade e reconhecimento.
@@ -86,7 +98,9 @@ Antes de realizar uma ação, o sistema deve indicar claramente o que pode ser f
 O sistema demonstra eficiência ao fornecer feedback claro e imediato durante as operações. Esses procedimentos estão ilustrados na figura 5.
 
 <font size="2"><p style="text-align: center">Figura 5: Visibilidade e Reconhecimento</p></font>
+
 ![Figura 5: Visibilidade e Reconhecimento](../assets/analise_de_requisitos/principios_gerais/visibilidade_e_reconhecimento.gif)
+
 <font size="2"><p style="text-align: center">Fonte: [Domínio Público](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)</p></font>
 
 ### Conteúdo relevante e expressão adequada.
@@ -106,14 +120,20 @@ O sitema deve antecipar e prever os erros dos usuários e facilitar sua recupera
 Conforme ilustrado na Figura 6, ao acessarmos a página 'Fale Conosco', o sistema nos oferece a possibilidade de inserir o Nome, E-mail do usuário e uma mensagem. No entanto, ao preencher o campo de e-mail com informações incorretas e clicar no botão 'Enviar', o sistema aceita as entradas sem realizar uma validação dos dados.
 
 <font size="2"><p style="text-align: center">Figura 6: Tratamento de erros incorreto</p></font>
+
 ![Figura 6: Tratamento de erros incorreto](../assets/analise_de_requisitos/principios_gerais/tratamento_erros.gif)
+
 <font size="2"><p style="text-align: center">Fonte: [Domínio Público](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)</p></font>
+
+
 
 ## Referências
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 >
 > <a id="REF2" href="#anchor_2">2.</a> Norman, D.A. & Draper, S.W. User Centered System Design. Hillsdale, NJ: Lawrence Erlbaum, 1986.
+
+
 
 ## Bibliografia
 

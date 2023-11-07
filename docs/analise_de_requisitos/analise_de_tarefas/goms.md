@@ -1,8 +1,12 @@
 # Análise de Tarefas
 
+
+
 ## Introdução
 
 A análise de tarefas GOMS (Goals, Operators, Methods, and Selection rules), é um técnica que analisa como o usuário se comporta em uma determinada tarefa, podendo ser capaz de prever um desempenho maior na usabilidade de interfaces de usuário e sistemas.
+
+
 
 ## Metodologia
 
@@ -23,7 +27,6 @@ A análise de tarefas GOMS envolve os seguintes elementos apresentados na Tabela
 
 <font size="2"><p style="text-align: center">Fonte: BARBOSA e SILVA, 2011  <a id="anchor_1" href="#FRM1">¹</a></p></font>
 
-
 Para utilizar o método GOMS, você geralmente realiza as seguintes etapas:
 
 1. Identifique e defina claramente os objetivos da tarefa que deseja analisar.
@@ -36,6 +39,8 @@ Ao aplicar o método GOMS, é possível quantificar e prever o tempo que os usu�
 As seguintes tarefas tiveram como apoio os problemas também relacionados na análise de tarefas HTA.
 
 As figuras de 1 a 6 explicitam os modelos GOMS detalhados de suas respectivas tarefas.
+
+
 
 ### Pesquisar por mídia
 
@@ -73,7 +78,7 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar ajuda.
 
 
 
-### Acessar aba para autores/colaboradores
+### Se tornar um colaborador
 
 Nessa tarefa, o usuário tem como objetivo acessar um painel para colaborar com o site.
 
@@ -95,6 +100,7 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar estatí
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
 
+
 ### Avaliar Midia
 
 Nessa tarefa, o usuário tem como objetivo avaliar a midia escolhida. 
@@ -105,7 +111,9 @@ Nessa tarefa, o usuário tem como objetivo avaliar a midia escolhida.
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
 
-### Contatar administrador sobre dúvidas
+
+
+### Contatar administradores
 
 Nessa tarefa, o usuário tem como objetivo acessar um painel para solicitar uma resposta a um administrador do site referente a uma dúvida que não tenha resposta no próprio site.
 
@@ -115,11 +123,11 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para solicitar uma 
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
+
+
 ## Referências Bibliográficas
 
 > <a id="FRM3" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
->
-
 
 
 
@@ -135,10 +143,10 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para solicitar uma 
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição                 | Autor(es)                                                                                              | Revisor(es)                                                                                                                                     |
-| ------ | ---------- | ------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.0    | 11/10/2023 | Criação do documento GOMS | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.2    | 15/10/2023 | Corrige introdução e metodologia                     | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina) |
-|1.3     | 16/10/2023 | Conserto das imagens GOMS | [Harryson Martins](https://github.com/harry-cmartin) | [Pedro Henrique](https://github.com/pedro-hsf)|
-|1.3     | 16/10/2023 | Adição de Avaliar midia   | [Victor Hugo](https://github.com/ViictorHugoo)       | [Maria Alice](https://github.com/Maliz-30)|
-| 1.5    | 23/10/2023 | Adição de Contatar Administradores         | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| Versão | Data       | Descrição                          | Autor(es)                                                                                              | Revisor(es)                                                                                                                                     |
+| ------ | ---------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.0    | 11/10/2023 | Criação do documento GOMS          | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.1    | 15/10/2023 | Corrige introdução e metodologia   | [Gustavo França](https://github.com/gustavofbs)                                                        | [Ana Catarina](https://github.com/an4catarina)                                                                                                  |
+| 1.2    | 16/10/2023 | Conserto das imagens GOMS          | [Harryson Martins](https://github.com/harry-cmartin)                                                   | [Pedro Henrique](https://github.com/pedro-hsf)                                                                                                  |
+| 1.3    | 16/10/2023 | Adição de Avaliar midia            | [Victor Hugo](https://github.com/ViictorHugoo)                                                         | [Maria Alice](https://github.com/Maliz-30)                                                                                                      |
+| 1.4    | 23/10/2023 | Adição de Contatar Administradores | [Gustavo França](https://github.com/gustavofbs)                                                        | [Victor Hugo](https://github.com/ViictorHugoo)                                                                                                  |

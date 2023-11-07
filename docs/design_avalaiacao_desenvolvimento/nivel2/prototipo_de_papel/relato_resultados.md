@@ -1,4 +1,4 @@
-# Relato dos Resultados do Storyboard
+# Relato dos Resultados do Protótipo de Papel
 
 
 ## Introdução
@@ -9,7 +9,7 @@
 
 ##### Objetivo e âmbito da avaliação
 
-A finalidade da avaliação foi verificar a concordância entre a Storyboard de "Pesquisar por mídia" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
+A finalidade da avaliação foi verificar a concordância entre a Protoripo de Papel de "Pesquisar por mídia" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
 
 ##### Método de avaliação
 
@@ -50,13 +50,13 @@ No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Tabela 2: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |          |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |          |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |          |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |          |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |          |
+| Pergunta | Resposta |
+| -------- | :------- |
+|          |          |
+|          |          |
+|          |          |
+|          |          |
+|          |          |
 
 <font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
 
@@ -74,7 +74,7 @@ No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avali
 
 ##### Objetivo e âmbito da avaliação
 
-A finalidade da avaliação foi verificar a concordância entre a Storyboard de "Fazer download da mídia" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
+A finalidade da avaliação foi verificar a concordância entre a Protoripo de Papel de "Fazer download da mídia" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
 
 ##### Método de avaliação
 
@@ -115,13 +115,13 @@ No Video 2 e Tabela 4 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Tabela 4: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |          |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |          |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |          |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |          |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |          |
+| Pergunta | Resposta |
+| -------- | :------- |
+|          |          |
+|          |          |
+|          |          |
+|          |          |
+|          |          |
 
 <font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
 
@@ -138,7 +138,7 @@ No Video 2 e Tabela 4 é possível verificar os registros feitos durante a avali
 
 ##### Objetivo e âmbito da avaliação
 
-A finalidade da avaliação foi verificar a concordância entre a Storyboard de "Acessar ajuda" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
+A finalidade da avaliação foi verificar a concordância entre a Protoripo de Papel de "Acessar ajuda" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
 
 ##### Método de avaliação
 
@@ -179,13 +179,13 @@ No Video 3 e Tabela 6 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Tabela 6: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |          |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |          |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |          |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |          |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |          |
+| Pergunta | Resposta |
+| -------- | :------- |
+|          |          |
+|          |          |
+|          |          |
+|          |          |
+|          |          |
 
 <font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
 
@@ -204,7 +204,7 @@ No Video 3 e Tabela 6 é possível verificar os registros feitos durante a avali
 
 ##### Objetivo e âmbito da avaliação
 
-A finalidade da avaliação foi verificar a concordância entre a Storyboard de "Se tornar um colaborador" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
+A finalidade da avaliação foi verificar a concordância entre a Protoripo de Papel de "Se tornar um colaborador" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
 
 ##### Método de avaliação
 
@@ -245,13 +245,13 @@ No Video 4 e Tabela 8 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Tabela 8: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |          |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |          |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |          |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |          |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |          |
+| Pergunta | Resposta |
+| -------- | :------- |
+|          |          |
+|          |          |
+|          |          |
+|          |          |
+|          |          |
 
 <font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
 
@@ -270,7 +270,7 @@ No Video 4 e Tabela 8 é possível verificar os registros feitos durante a avali
 
 ##### Objetivo e âmbito da avaliação
 
-A finalidade da avaliação foi verificar a concordância entre a Storyboard de "Acessar estatísticas" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
+A finalidade da avaliação foi verificar a concordância entre a Protoripo de Papel de "Acessar estatísticas" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
 
 ##### Método de avaliação
 
@@ -311,13 +311,13 @@ No Video 5 e Tabela 10 é possível verificar os registros feitos durante a aval
 
 <font size="2"><p style="text-align: center">Tabela 10: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |          |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |          |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |          |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |          |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |          |
+| Pergunta | Resposta |
+| -------- | :------- |
+|          |          |
+|          |          |
+|          |          |
+|          |          |
+|          |          |
 
 <font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
 
@@ -336,7 +336,7 @@ No Video 5 e Tabela 10 é possível verificar os registros feitos durante a aval
 
 ##### Objetivo e âmbito da avaliação
 
-A finalidade da avaliação foi verificar a concordância entre a Storyboard de "Avaliar Midia" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
+A finalidade da avaliação foi verificar a concordância entre a Protoripo de Papel de "Avaliar Midia" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
 
 ##### Método de avaliação
 
@@ -377,13 +377,13 @@ No Video 6 e Tabela 12 é possível verificar os registros feitos durante a aval
 
 <font size="2"><p style="text-align: center">Tabela 12: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |          |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |          |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |          |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |          |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |          |
+| Pergunta | Resposta |
+| -------- | :------- |
+|          |          |
+|          |          |
+|          |          |
+|          |          |
+|          |          |
 
 <font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
 
@@ -399,11 +399,11 @@ No Video 6 e Tabela 12 é possível verificar os registros feitos durante a aval
 
 ### Objetivo e âmbito da avaliação
 
-A avaliação tem como objetivo principal avaliar se o [Storyboard de Avaliar Midia]() está em concordancia com as ações tomadas durante o uso real da interface.
+A avaliação tem como objetivo principal avaliar se o [Protoripo de Papel de Avaliar Midia]() está em concordancia com as ações tomadas durante o uso real da interface.
 
 ### Método de avaliação
 
-Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação do Storyboard](). Além disso foi utilizado um questionário de X questões para guiar a entrevista. A tabela X e Y representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
+Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação do Protoripo de Papel](). Além disso foi utilizado um questionário de X questões para guiar a entrevista. A tabela X e Y representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
 
 ### Seleção dos participantes
 
@@ -474,7 +474,7 @@ Caso não consiga assistir o video, [Clique aqui]()
 
 ##### Objetivo e âmbito da avaliação
 
-A finalidade da avaliação foi verificar a concordância entre a Storyboard de "Contatar administradores" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
+A finalidade da avaliação foi verificar a concordância entre a Protoripo de Papel de "Contatar administradores" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
 
 ##### Método de avaliação
 
@@ -515,13 +515,13 @@ No Video 7 e Tabela 14 é possível verificar os registros feitos durante a aval
 
 <font size="2"><p style="text-align: center">Tabela 14: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |          |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |          |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |          |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |          |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |          |
+| Pergunta | Resposta |
+| -------- | :------- |
+|          |          |
+|          |          |
+|          |          |
+|          |          |
+|          |          |
 
 <font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
 
@@ -547,7 +547,6 @@ No Video 7 e Tabela 14 é possível verificar os registros feitos durante a aval
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                         | Autor(es)                                       | Revisor(es)                                     |
-| ------ | ---------- | --------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| 1.0    | 01/11/2021 | Criação do documento              | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
-| 1.1    | 01/11/2021 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
+| Versão | Data       | Descrição            | Autor(es)                                       | Revisor(es)                                    |
+| ------ | ---------- | -------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 07/11/2021 | Criação do documento | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |

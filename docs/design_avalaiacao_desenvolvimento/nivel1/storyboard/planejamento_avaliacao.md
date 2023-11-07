@@ -1,8 +1,12 @@
 # Planejamento da Avaliação do Storyboard
 
+
+
 ## Introdução
 
 A fim de definir o planejamento da avaliação dos storyboards, serão definidos metas e critérios que definirão a qualidade do storyboard escolhido. Tal avaliação permitirá evoluir sua premissa evidenciada e conectar-se coerentemente a tarefa a qual ele esta linkado e forneça uma melhor visão geral para o projeto.
+
+
 
 ## Metodologia
 
@@ -18,6 +22,8 @@ Na realização do seguinte planejamento será utilizado o framework DECIDE conf
 
 </center>
 
+
+
 ## D - Objetivos da avaliação
 
 Os objetivos definidos para essa avaliação são avaliar os seguintos pontos nos artefatos <a href= "docs/design_avalaiacao_desenvolvimento/storyboard/storyboards.md"> storyboards </a> produzidos:
@@ -28,6 +34,8 @@ Os objetivos definidos para essa avaliação são avaliar os seguintos pontos no
 - Avaliar necessidade de alterações nos artefatos.
 
 Dessa forma garantindo que sejam eficientes e coesos.
+
+
 
 ## E - Exploração de perguntas
 
@@ -45,17 +53,21 @@ Com base nos objetivos evidenciados anteriormente, foram selecionadas algumas pe
 - Os storyboards possuem relação com a realidade observada ?
 - Os storyboards devem ser alterados para encaixar nos padrões definidos pelo usuário ?
 
+
+
 ## C - Métodos de Avaliação
 
 O método de avaliação definido foi o de investigação, com uso de questiónario em uma entrevista aplicada. A opinião do usuário sobre o storyboard e o contexto de sua experiência pessoal será analisada a partir de tais perguntas.
 
 O método foi escolhido por trazer mais exatidão das informações adquiridas, por ter o contato direto com o usuário, além disso a facilidade do contato direto permite uma avaliação mais consisa e flexível a revisões e sugestões.
 
+
+
 ## I - Aspectos Práticos da Avaliação
 
 ### Recrutamento
 
-O recrutamendo dos usuários entrevistados serão definidos a partir do <a href= "docs/analise_de_requisitos/perfil_de_usuario.md"> Perfil de usuários </a> ja evidenciado. O local definido para entrevista será estritamente online, por beneficiar tempo, custo e facilidade de ambas as partes envolvidas.
+O recrutamendo dos usuários entrevistados serão definidos a partir do Perfil de usuários. O local definido para entrevista será online ou presencial, de forma a acordar com o usuário. O número de participantes da pesquisa será equivalente ao número de de integrantes, ou seja, 7 usuários a serem entrevistados.
 
 ### Preparação
 
@@ -77,15 +89,15 @@ O cronograma das entrevistas com os usuários estão documentadas na tabela 1 co
 
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma da entrevista </p></font>
 
-|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data  |           Local            |
-| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :---: | :------------------------: |
-|    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       19:10       |     19:20      | 01/11 | Plataforma Microsoft Teams |
-|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:00       |     19:10      | 31/10 | Plataforma Microsoft Teams |
-| [Harryson Martins](https://github.com/harry-cmartin) |     Luma Maia     |       22:30       |     22:40      | 31/10 | Plataforma Microsoft Teams |
-|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:30       |     22:40      | 03/11 | Plataforma Microsoft Teams |
-|      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       13:50       |     14:00      | 03/11 | Plataforma Microsoft Teams |
-|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       18:50       |     19:00      | 01/11 | Plataforma Microsoft Teams |
-|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       18:00       |     18:10      | 31/10 | Plataforma Microsoft Teams |
+|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Data Executada |           Tarefa            |           Local            |
+| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :------------: | :-------------------------: | :------------------------: |
+|    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       19:10       |     19:20      |     01/11      |                |   Acessar as Estátisticas   | Plataforma Microsoft Teams |
+|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:00       |     19:10      |     31/10      |                |       Contatar Admin        | Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) |    Luma Maia    |       22:30       |     22:40      |     31/10      |                |     Pesquisar por mídia     | Plataforma Microsoft Teams |
+|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:30       |     22:40      |     03/11      |                |         Pedir Ajuda         | Plataforma Microsoft Teams |
+|      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       13:50       |     14:00      |     03/11      |                | Cadidatura para Colaborador | Plataforma Microsoft Teams |
+|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       18:50       |     19:00      |     01/11      |                |      Download de Mídia      | Plataforma Microsoft Teams |
+|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       18:00       |     18:10      |     31/10      |                |        Avaliar Midia        | Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs).</p></font>
 
@@ -104,17 +116,30 @@ Na parte inicial do encontro será disponibilizado termo de consentimento para a
 
 <font size="2"><p style="text-align: center">Tabela 2: Perguntas propostas</p></font>
 
-|                                                   Pergunta                                                    | Resposta         |
-| :-----------------------------------------------------------------------------------------------------------: | :--------------- |
-|                      Os atores envolvidos no storyboard são condizentes com a realidade?                      | ( )SIM<br>( )NÃO |
-|                       Você acha que as ações do storyboard levam para o objetivo final?                       | ( )SIM<br>( )NÃO |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? | ( )SIM<br>( )NÃO |
-|             Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?              | ( )SIM<br>( )NÃO |
-|                   As ações presentes no storyboard seguem uma ordem identificável e fluida?                   | ( )SIM<br>( )NÃO |
+|                                                   Pergunta                                                    | Resposta                                                                                                                                                                           |
+| :-----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                               Qual o seu nome?                                                | Resposta discursiva                                                                                                                                                                |
+|                                            Quantos anos você tem?                                             | Resposta discursiva                                                                                                                                                                |
+|                                        Qual seu nível de escolaridade?                                        | Resposta discursiva                                                                                                                                                                |
+|                                             Qual a sua ocupação?                                              | Resposta discursiva                                                                                                                                                                |
+|                                 Qual seu grau de experiência com tecnologias?                                 | - Iniciante <br> - Intermediário <br> - Avançado <br> - Especialista                                                                                                               |
+|                                      Você já utilizou o Domínio Público?                                      | - sim <br> - não                                                                                                                                                                   |
+|                   Quais atividades você tem/teria interesse em utilizar no domínio público?                   | Resposta discursiva                                                                                                                                                                |
+|                       Como você costuma acessar livros e mídias sem domínio/gratuitos?                        | Resposta discursiva                                                                                                                                                                |
+|                                      Com que frequência você lê livros?                                       | - Todos os dias <br> - Quase todos os dias <br> - Algumas vezes por semana <br> - Uma vez por semana <br> - Uma vez por mês <br> - Uma vez por ano <br> - Menos de uma vez por ano |
+|                               Quais tipos de conteúdo você mais consome online?                               | - Livros <br> - Artigos <br> - Vídeos <br> - Áudios <br> - Outros (especifique)                                                                                                    |
+|                 Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?                 | - Pesquisa acadêmica <br> - Lazer e entretenimento <br> - Estudo autodidata <br> - Outro (especifique)                                                                             |
+|                      Os atores envolvidos no storyboard são condizentes com a realidade?                      | ( )SIM<br>( )NÃO                                                                                                                                                                   |
+|                       Você acha que as ações do storyboard levam para o objetivo final?                       | ( )SIM<br>( )NÃO                                                                                                                                                                   |
+| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? | ( )SIM<br>( )NÃO                                                                                                                                                                   |
+|             Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?              | ( )SIM<br>( )NÃO                                                                                                                                                                   |
+|                   As ações presentes no storyboard seguem uma ordem identificável e fluida?                   | ( )SIM<br>( )NÃO                                                                                                                                                                   |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs).</p></font>
 
 </center>
+
+
 
 ## D - Aspectos Éticos
 
@@ -132,6 +157,8 @@ Segue abaixo na Figura 2 o termo de consentimento em <a href= "docs/analise_de_r
 
 </center>
 
+
+
 ## E - Avaliação, Interpretação e Apresentação dos Dados
 
 Com a conclusão das entrevistas e dados coletados, será feita uma analise minuciosa dos documentos adquiridos, julgando se tais dados são coerentes com as perspectivas identificadas até agora.
@@ -139,6 +166,8 @@ Com a conclusão das entrevistas e dados coletados, será feita uma analise minu
 Além disso, se identificados problemas, elencados pelos usuários, tais fenômenos serão descritos e classificados, a fim de buscar sua melhora, também olhando pelas possíveis sugestões dos entrevistados.
 
 Por fim, as informações adquiridas serão validadas novamente, e assim poderão ser desenvolvidas e implementadas, visando a melhoras das vicissitudes encontradas.
+
+
 
 ## Planejamento do Teste Piloto
 
@@ -164,16 +193,19 @@ No vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 
 </center>
 
+
+
 ## Bibliografia
 
 > Bilheteria Digital. Metas de usabilidade. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/metas-usabilidade/. Acesso em: 28 de out. 2023.
+
+
 
 ## Referências Bibliográficas
 
 > <a id="FRM3" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 > <a id="FRM4" href="#anchor_2">2.</a> Domínio Público. Pesquisa de obras. Disponível em: <http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp\>. Acesso em: 28/10/2023.
->
 
 
 
@@ -188,3 +220,5 @@ No vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 | 1.4    | 30/10/2023 | Atualizando o termo de consentimento    | [Ana Catarina](https://github.com/an4catarina)                                                         | [Maria Alice](https://github.com/Maliz30)                                                                                                       |
 | 1.5    | 28/10/2023 | Correção de fontes                      | [Gustavo França](https://github.com/gustavofbs)                                                        | [Pedro Henrique](https://github.com/pedro-hsf)                                                                                                  |
 | 1.6    | 30/10/2023 | Adição do teste piloto                  | [Pedro Henrique](https://github.com/pedro-hsf)                                                         | [Maria Alice](https://github.com/Maliz30)                                                                                                       |
+| 1.7    | 01/11/2021 | Correções cronograma                    | [Victor Hugo](https://github.com/ViictorHugoo)                                                         | [Ana Catarina](https://github.com/an4catarina)                                                                                                  |
+

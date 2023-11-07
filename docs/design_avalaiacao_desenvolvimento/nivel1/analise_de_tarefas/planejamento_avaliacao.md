@@ -1,8 +1,12 @@
 # Planejamento da Avaliação da Análise de Tarefas
 
+
+
 ## Introdução
 
 Para realizar uma entrega de qualidade, é necessário avaliar se o produto resultante atende aos critérios de qualidade desejados, desta forma conseguimos corrigir os problemas antes que eles cheguem ao consumidor. Avaliar a qualidade de uso de um sistema apresenta diversas vantagens, dentre elas a correção rápida de problemas, a equipe de desenvolvimento pode se concentrar em solucionar problemas reais, redução no tempo de mercado e a identificação e correção de problemas mais robustos de IHC. Entretanto, estaremos avaliando um site que já está no ar, como forma de propor soluções aos problemas existentes. Serão analisados critérios de qualidade na perspectiva do usuário, avaliando usabilidade, experiência do usuário, acessibilidade e comunicabilidade. 
+
+
 
 ## Metodologia
 
@@ -20,17 +24,21 @@ Para a realização do planejamento da avaliação, utilizaremos o framework DEC
 
 Diante disso, a seguir encontra-se o detalhamento do planejamento utilizando o Framework em questão:
 
+
+
 ## D - Objetivos da avaliação
 
 O objetivo geral desta avaliação é identificar problemas de usabilidade no site domínio público e identificar as formas de interação do usuário com os artefados do site presente na <a href= "../../../analise_de_requisitos/analise_de_tarefas/hta.md">análise de tarefas</a>, além de possíveis desafios encontrados. Serão considerados, também, os seguintes aspectos na avaliação:
-
 
 - Abrangência do conteúdo (se o conteúdo é fácil de encontrar e se é organizado de forma lógica);
 - Atualização do conteúdo (se o conteúdo está atualizado e se é fácil de encontrar as informações mais recentes);
 
 Desta forma, avaliaremos se o site é útil, coeso e permite que seus usuários concluam seus objetivos.
 
+
+
 ## E - Exploração de perguntas
+
 A partir do objetivo anterior podemos aumentar seu nível de detalhamento definindo perguntas verificáveis a serem respondidas na avaliação. Além de auxiliar na investigação e avaliação do site, as pesguntas tem como finalidade guiar e operacionalizar todo o processo de avaliação.
 
 ### O que iremos avaliar ?
@@ -77,6 +85,8 @@ A Tabela 1 apresenta o roteiro de perguntas, que tem como base a "Tabela 11.1: E
 
 </center>
  
+
+
 ## C - Métodos de Avaliação
 
 A escolha dos métodos de avaliação de IHC é uma decisão importante que deve ser tomada de acordo com os objetivos da avaliação, o tempo e recursos disponíveis, e o nível de experiência dos usuários.
@@ -87,11 +97,13 @@ Para avaliar o domínio público, usaremos uma combinação de métodos de inves
 - Como os usuários estão usando o domínio público?
 - Quais são os pontos positivos e negativos do domínio público?
 
+
+
 ## I - Aspectos Práticos da Avaliação
 
 ### Recrutamento
 
-O recrutamendo dos usuários entrevistados serão definidos a partir do Perfil de usuários. O local definido para entrevista será estritamente online, por beneficiar tempo, custo e facilidade de ambas as partes envolvidas. O número de participantes da pesquisa será equivalente ao número de de integrantes, ou seja, 7 usuários a serem entrevistados.
+O recrutamendo dos usuários entrevistados serão definidos a partir do Perfil de usuários. O local definido para entrevista será online ou presencial, de forma a acordar com o usuário. O número de participantes da pesquisa será equivalente ao número de de integrantes, ou seja, 7 usuários a serem entrevistados.
 
 ### Preparação
 
@@ -112,17 +124,19 @@ O cronograma das entrevistas com os usuários estão documentadas na tabela 1 co
 
 <font size="2"><p style="text-align: center">Tabela 2: Cronograma da entrevista </p></font>
 
-|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data  |           Local            |
-| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :---: | :------------------------: |
-|    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       19:20       |     19:30      | 01/11 | Plataforma Microsoft Teams |
-|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:20       |     19:30      | 01/11 | Plataforma Microsoft Teams |
-| [Harryson Martins](https://github.com/harry-cmartin) |    Luma Maia    |       22:30       |     22:40      | 01/11 | Plataforma Microsoft Teams |
-|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:40       |     22:50      | 03/11 | Plataforma Microsoft Teams |
-|      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       14:00       |     14:10      | 03/11 | Plataforma Microsoft Teams |
-|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       19:00       |     19:10      | 01/11 | Plataforma Microsoft Teams |
-|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       17:50       |     18:00      | 31/10 | Plataforma Microsoft Teams |
+|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Data Executada |           Tarefa            |           Local            |
+| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :------------: | :-------------------------: | :------------------------: |
+|    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       19:10       |     19:20      |     01/11      |                |   Acessar as Estátisticas   | Plataforma Microsoft Teams |
+|   [Gustavo França](https://github.com/gustavofbs)    |     Douglas     |       19:00       |     19:10      |     31/10      |                |       Contatar Admin        | Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) |    Luma Maia    |       22:30       |     22:40      |     31/10      |                |     Pesquisar por mídia     | Plataforma Microsoft Teams |
+|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:30       |     22:40      |     03/11      |                |         Pedir Ajuda         | Plataforma Microsoft Teams |
+|      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       13:50       |     14:00      |     03/11      |                | Cadidatura para Colaborador | Plataforma Microsoft Teams |
+|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       18:50       |     19:00      |     01/11      |                |      Download de Mídia      | Plataforma Microsoft Teams |
+|    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       18:00       |     18:10      |     31/10      |                |        Avaliar Midia        | Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina).</p></font>
+
+
 
 ## D - Lidando com as Questões Éticas
 
@@ -140,6 +154,8 @@ Segue abaixo na Figura 2 o termo de consentimento em <a href= "docs/analise_de_r
 
 </center>
 
+
+
 ## E - Avaliação, Interpretação e Apresentação dos Dados
 
 No ciclo de avaliação e interpretação dos dados, cada informação é documentada e analisada considerando o contexto em que foi gerada. Esse processo visa determinar a confiabilidade dos dados e sua capacidade de representar a população de usuários do site.
@@ -151,6 +167,8 @@ Com as entrevistas concluídas e os dados coletados em mãos, realiza-se uma an�
 Além disso, se identificados problemas, elencados pelos usuários, tais fenômenos serão descritos e classificados, a fim de buscar sua melhora, também olhando pelas possíveis sugestões dos entrevistados.
 
 Por fim, as informações adquiridas serão validadas novamente, e assim poderão ser desenvolvidas e implementadas, visando a melhoras das vicissitudes encontradas.
+
+
 
 ## Planejamento do Teste Piloto
 
@@ -180,16 +198,24 @@ No vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 
 </center>
 
-## Bibliografia
-RIBEIRO, Clara; SANTANA, Natan Tavares. Planejamento da avaliação da Análise de tarefas. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/design%2C_avalia%C3%A7%C3%A3o%2C_desenvolvimento/n%C3%ADvel%201/an%C3%A1lise_de_tarefas/planejamento_tarefas/>. Acesso em: 30 de outubro de 2023.
 
-GABRIEL, Lucas; SOUZA, Nicolas. Planejamento da avaliação da Análise de tarefas. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao/>. Acesso em: 30 de outubro de 2023.
+
+## Bibliografia
+
+> RIBEIRO, Clara; SANTANA, Natan Tavares. Planejamento da avaliação da Análise de tarefas. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/design%2C_avalia%C3%A7%C3%A3o%2C_desenvolvimento/n%C3%ADvel%201/an%C3%A1lise_de_tarefas/planejamento_tarefas/>. Acesso em: 30 de outubro de 2023.
+
+> GABRIEL, Lucas; SOUZA, Nicolas. Planejamento da avaliação da Análise de tarefas. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao/>. Acesso em: 30 de outubro de 2023.
 
 
 > Bilheteria Digital. Metas de usabilidade. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/metas-usabilidade/. Acesso em: 28 de out. 2023.
 
+
+
 ## Referências Bibliográficas
+
 <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011
+
+
 
 ## Histórico de Versões
 
@@ -198,3 +224,4 @@ GABRIEL, Lucas; SOUZA, Nicolas. Planejamento da avaliação da Análise de taref
 | 1.0    | 30/10/2023 | Criação do Documento             | [Maria Alice](https://github.com/Maliz30)                                                  | [Ana Catarina](https://github.com/an4catarina) |
 | 1.1    | 30/10/2023 | Detalhamento do framework DECIDE | [Ana Catarina](https://github.com/an4catarina) e [Maria Alice](https://github.com/Maliz30) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.2    | 30/10/2023 | Criação do teste piloto          | [Pedro Henrique](https://github.com/pedro-hsf)                                             | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.3    | 01/11/2021 | Correções cronograma             | [Victor Hugo](https://github.com/ViictorHugoo)                                             | [Ana Catarina](https://github.com/an4catarina) |
