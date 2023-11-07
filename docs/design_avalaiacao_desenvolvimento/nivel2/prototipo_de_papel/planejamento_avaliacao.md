@@ -68,6 +68,6 @@ Diante disso, a seguir encontra-se o detalhamento do planejamento utilizando o F
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                        | Autor(es)                                                                                  | Revisor(es)                                    |
-| ------ | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
-| 1.0    | 01/11/2023 | Criação do Documento             | [Victor Hugo](https://github.com/ViictorHugoo)                                              | [Ana Catarina](https://github.com/an4catarina) |
+| Versão | Data       | Descrição            | Autor(es)                                      | Revisor(es)                                    |
+| ------ | ---------- | -------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 01/11/2023 | Criação do Documento | [Victor Hugo](https://github.com/ViictorHugoo) | [Ana Catarina](https://github.com/an4catarina) |

@@ -395,7 +395,7 @@ No Video 6 e Tabela 12 é possível verificar os registros feitos durante a aval
 ##### Planejamento de reprojeto
 
 
-## Entrevista - Avaliar Mídia           
+## Entrevista - Avaliar Mídia
 
 ### Objetivo e âmbito da avaliação
 
@@ -547,7 +547,7 @@ No Video 7 e Tabela 14 é possível verificar os registros feitos durante a aval
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor(es)                                       | Revisor(es)                                    |
-| ------ | ---------- | -------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 01/11/2021 | Criação do documento | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.1    | 01/11/2021 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo)  |
+| Versão | Data       | Descrição                         | Autor(es)                                       | Revisor(es)                                     |
+| ------ | ---------- | --------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 01/11/2021 | Criação do documento              | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.1    | 01/11/2021 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
