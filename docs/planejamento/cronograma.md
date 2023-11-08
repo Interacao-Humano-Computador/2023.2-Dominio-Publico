@@ -182,7 +182,7 @@ Na Tabela 9, tem-se o <b>cronograma executado</b> para todas as atividades da qu
 | Planejamento do relato da avaliação da análise de tarefas        | Inicio: 29/10 <br>Fim: 29/10 | Victor Hugo                                | Inicio: 29/10 <br>Fim: 29/10 | Luciano Ricardo |
 | Gravar apresentação                                              | Inicio: 30/10 <br>Fim: 30/10 | Ana Catarina                               | Inicio: 30/10 <br>Fim: 30/10 | Victor Hugo     |
 | Edição da gravação                                               | Inicio: 30/10 <br>Fim: 30/10 | Ana Catarina                               | Inicio: 30/10 <br>Fim: 30/10 | Victor Hugo     |
-| Correção pós apresentação                                        |                              |                                            |                              |                 |
+| Correção pós apresentação                                        | Inicio: 01/11 <br>Fim: 01/11 | Victor Hugo                                | Inicio: 01/11 <br>Fim: 01/11 | Ana Catarina    |
 
 </center>
 
@@ -214,10 +214,10 @@ Na Tabela 11, tem-se o <b>cronograma executado</b> para todas as atividades da q
 
 | Atividade                                                               | Período de desenvolvimento | Responsáveis | Periodo de Revisão | Revisores |
 | ----------------------------------------------------------------------- | -------------------------- | ------------ | ------------------ | --------- |
-| Relato dos resultados do Storyboard                                     |                            |              |                    |           |
-| Relato dos resultados da Análise de tarefas                             |                            |              |                    |           |
-| Planejamento do relato de resultados da avaliação do protótipo de papel |                            |              |                    |           |
-| Planejamento da avaliação do protótipo de papel                         |                            |              |                    |           |
+| Relato dos resultados do Storyboard                                     | Inicio: 01/11 <br>Fim:     |              | Inicio: 01/11 <br>Fim: |           |
+| Relato dos resultados da Análise de tarefas                             | Inicio: 01/11 <br>Fim:     |              | Inicio: 01/11 <br>Fim: |           |
+| Planejamento do relato de resultados da avaliação do protótipo de papel | Inicio: 01/11 <br>Fim:     |              | Inicio: 01/11 <br>Fim: |           |
+| Planejamento da avaliação do protótipo de papel                         | Inicio: 01/11 <br>Fim:     |              | Inicio: 01/11 <br>Fim: |           |
 | Gravar apresentação                                                     |                            |              |                    |           |
 | Edição da gravação                                                      |                            |              |                    |           |
 | Correção pós apresentação                                               |                            |              |                    |           |
