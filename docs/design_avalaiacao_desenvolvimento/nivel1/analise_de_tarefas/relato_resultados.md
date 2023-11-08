@@ -73,6 +73,7 @@ Durante a avaliação, a participante achou bem confuso o estilo de pesquisa ofe
 
 ##### Sugestões de melhoria
 
+Foi sugerido pela entrevistada, mudar o estilo de pesquisa do site, optando por um só campo, o qual ao digitar a palavra chave, faria uma pesquisa ampla relacionada. 
 
 ##### Planejamento de reprojeto
 
