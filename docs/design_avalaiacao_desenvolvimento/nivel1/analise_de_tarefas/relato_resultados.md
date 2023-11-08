@@ -69,6 +69,7 @@ No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avali
 
 ##### Listagem de problemas encontrados
 
+Durante a avaliação, a participante achou bem confuso o estilo de pesquisa oferecido pelo site, com vários campos, além disso não conseguiu identificar que havia uma outra forma de encontrar a mídia desejada, somente clicando na tela, pela não diferenciação dos itens clicáveis na tela.
 
 ##### Sugestões de melhoria
 
