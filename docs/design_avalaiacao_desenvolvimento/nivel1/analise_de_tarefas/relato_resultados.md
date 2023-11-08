@@ -95,13 +95,16 @@ A Tabela 3 exibe as datas da realização da avaliação.
 
 | Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
 | ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
-| ----          | ----         | ----              | ----           | ---- | ----             |
+| Pedro Henrique         | Nicolas Bomfim        | 17:40             | 17:50        | 07/11| Pessoalmente            |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf)</p></font>
 
 </center>
 
 ##### Seleção dos participantes
+
+A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido,
+sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico.
 
 
 ##### Registro da avaliação
@@ -112,9 +115,9 @@ No Video 2 e Tabela 4 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Video 2: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kf4C16ZLEu8?si=ZY9asuIFPfSdCX4X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf)</p></font>
 
 </center>
 
@@ -124,37 +127,28 @@ No Video 2 e Tabela 4 é possível verificar os registros feitos durante a avali
 
 | Pergunta                                                                                | Resposta |
 | :-------------------------------------------------------------------------------------- | :------- |
-| Qual o seu nome?                                                                        |          |
-| Quantos anos você tem?                                                                  |          |
-| Qual seu nível de escolaridade?                                                         |          |
-| Qual a sua ocupação?                                                                    |          |
-| Qual seu grau de experiência com tecnologias?                                           |          |
-| Você já utilizou o Domínio Público?                                                     |          |
-| Quais atividades você tem/teria interesse em utilizar no domínio público?               |          |
-| Como você costuma acessar livros e mídias sem domínio/gratuitos?                        |          |
-| Com que frequência você lê livros?                                                      |          |
-| Quais tipos de conteúdo você mais consome online?                                       |          |
-| Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?           |          |
-| A pesquisa de mídias é fácil de usar? Por que?                                          |          |
-| Quais são as suas sugestões para melhorar a pesquisa de mídias?                         |          |
-| O sistema de retirar dúvidas é fácil e claro? Por que?                                  |          |
-| O processo de inscrição como colaborador é claro e fácil? Por que?                      |          |
-| A documentação de ajuda é clara e abrangente? Por que?                                  |          |
-| O processo de download é fácil e rápido?                                                |          |
-| As estatísticas do site são claras, completas e úteis? Por que?                         |          |
-| Qual é o seu nível de satisfação com o domínio público?                                 |          |
-| Você tem alguma outra fonte legal para acessar conteúdo gratuito ou de domínio público? |          |
-| Você tem alguma outra sugestão ou melhoria para o site do Domínio Público?              |          |
+| Qual o seu nome?                                                                        |   Nicolas Bomfim       |
+| Quantos anos você tem?                                                                  |     20 anos     |
+| Qual seu nível de escolaridade?                                                         |    Graduando      |
+| Qual a sua ocupação?                                                                    |   Estudante       |
+| Qual seu grau de experiência com tecnologias?                                           |    Intermediário      |
+| Você já utilizou o Domínio Público?                                                     |   Sim       |
+| O processo de download é fácil e rápido?                                                |     Achou bem rápido, fácil e intuitivo     |
+| Quais são as suas sugestões para melhorar a parte de Download ?                         | Achou bem completo a parte de download e não mudaria nada nesse quesito       |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf)</p></font>
 
 </center>
 
 
 ##### Listagem de problemas encontrados
+
+Nesta seção, não foram identificados problemas significativos, e o participante considerou a experiência de navegação no site envolvendo Downloads como rápida e intuitiva.
+
+
 ##### Sugestões de melhoria
 
-
+O participante expressou conforto na seção de Downloads e afirmou que não seriam necessárias mudanças significativas nessa área.
 
 
 ### Tarefa: Acessar ajuda
