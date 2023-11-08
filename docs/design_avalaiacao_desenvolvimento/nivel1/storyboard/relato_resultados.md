@@ -362,7 +362,7 @@ Durante a entrevista foi usado o método investigativo conforme descrito no [Pla
 
 ##### Seleção dos participantes
 
-Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o entrevistador. O usuário entrevistado selecionado possui entre 18 e 24 anos; é experiente com tecnologia (tecnófilo); e lê com frequencia media, conforme estabelecido no [Perfil de Usuário]().
+Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o entrevistador. O usuário entrevistado selecionado possui entre 18 e 24 anos; é experiente com tecnologia (tecnófilo); e lê com frequencia media, conforme estabelecido no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md).
 
 ##### Registro da avaliação
 
@@ -384,11 +384,11 @@ No Video x e Tabela Y é possível verificar os registros feitos durante a avali
 
 | Pergunta                                                                                                      | Resposta  |
 | ------------------------------------------------------------------------------------------------------------- | :-------: |
-| Qual o seu nome?                                                                                              |           |
-| Quantos anos você tem?                                                                                        |           |
-| Qual seu nível de escolaridade?                                                                               |           |
-| Qual a sua ocupação?                                                                                          |           |
-| Qual seu grau de experiência com tecnologias?                                                                 |           |
+| Qual o seu nome?                                                                                              | Ana Beatriz |
+| Quantos anos você tem?                                                                                        | 18 anos |
+| Qual seu nível de escolaridade?                                                                               | Superior incompleto |
+| Qual a sua ocupação?                                                                                          | Estudante |
+| Qual seu grau de experiência com tecnologias?                                                                 | Intermediário |
 | Você já utilizou o Domínio Público?                                                                           |           |
 | Quais atividades você tem/teria interesse em utilizar no domínio público?                                     |           |
 | Como você costuma acessar livros e mídias sem domínio/gratuitos?                                              |           |
@@ -514,7 +514,9 @@ A partir das sugestões coletadas, sera realizada uma reoganização e reconstru
 
 
 
+#### Tarefa: Avaliar mídia
 
+A avaliação de mídia não é uma função fornecida pelo sistema, por isso no reprojeto será feita a criação dessa tarefa de forma a atender as necessidades dos usuários.
 
 ## Referências Bibliográficas
 

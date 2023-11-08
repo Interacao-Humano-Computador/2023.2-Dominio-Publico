@@ -469,6 +469,51 @@ No Video X e Tabela Y é possível verificar os registros feitos durante a avali
 
 </center>
 
+Para que a avaliação pudesse ser conduzida, foi necessário criar cenários em que a tarefa de Avaliar Mídia estivesse presente no sistema. Para isso foram construidas etapas suficientes para que a tarefa fosse executada. As figuras de 1 a 4 representam as etapas criadas.
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 1: Etapa 1 de Avaliar Mídia</p></font>
+
+![Etapa 1](<../../../assets/etapas_avaliar_midia/etapa 1.png>)
+
+<font size="2"><p style="text-align: center">[Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+
+</center>
+
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 2: Etapa 2 de Avaliar Mídia</p></font>
+
+![Etapa 2](<../../../assets/etapas_avaliar_midia/etapa 2.png>)
+
+<font size="2"><p style="text-align: center">[Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+
+</center>
+
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 3: Etapa 3 de Avaliar Mídia</p></font>
+
+![Etapa 3](<../../../assets/etapas_avaliar_midia/etapa 3.png>)
+
+<font size="2"><p style="text-align: center">[Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+
+</center>
+
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 4: Etapa 4 de Avaliar Mídia</p></font>
+
+![Etapa 4](<../../../assets/etapas_avaliar_midia/etapa 4.png>)
+
+<font size="2"><p style="text-align: center">[Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+
+</center>
+
 
 ##### Listagem de problemas encontrados
 
@@ -592,6 +637,9 @@ No Video 7 e Tabela 14 é possível verificar os registros feitos durante a aval
 
 Com as sugestões fornecidas pela entrevistada, é plausível que haja uma reconfiguração do estilo de pesquisa do site, a partir de pesquisas por nossa equipe será feito um planejamento da barra de pesquisa, da forma que se encaixe melhor no site e satisfaça as queixas encontradas, para que assim possa trazer mais conforto ao usuário.
 
+#### Tarefa: Avaliar mídia
+
+A avaliação de mídia não é uma função fornecida pelo sistema, por isso no reprojeto será feita a criação dessa tarefa de forma a atender as necessidades dos usuários.
 
 ## Referências Bibliográficas
 
