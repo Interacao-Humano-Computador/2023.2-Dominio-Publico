@@ -71,6 +71,7 @@ A partir das respostas da participante foi possível identificar que as ações 
 
 ##### Sugestões de melhoria
 
+A partir das falas da entrevistada, uma sugestão de melhoria seria melhorar a fluidez das ações no storyboard, dando uma continuidade maior as mesmas, além disso seria importante melhorar a clareza e identificação das ações do Storyboard.
 
 ##### Planejamento de reprojeto
 
