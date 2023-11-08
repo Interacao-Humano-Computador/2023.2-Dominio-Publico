@@ -366,11 +366,11 @@ Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o
 
 ##### Registro da avaliação
 
-No Video 6 e Tabela 12 é possível verificar os registros feitos durante a avaliação.
+No Video x e Tabela Y é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 6: Gravação da avaliação</p></font>
+<font size="2"><p style="text-align: center">Video x: Gravação da avaliação</p></font>
 
 <iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -380,15 +380,27 @@ No Video 6 e Tabela 12 é possível verificar os registros feitos durante a aval
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 12: Sumario de perguntas</p></font>
+<font size="2"><p style="text-align: center">Tabela y: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |          |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |          |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |          |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |          |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |          |
+| Pergunta                                                                                                      | Resposta  |
+| ------------------------------------------------------------------------------------------------------------- | :-------: |
+| Qual o seu nome?                                                                                              |           |
+| Quantos anos você tem?                                                                                        |           |
+| Qual seu nível de escolaridade?                                                                               |           |
+| Qual a sua ocupação?                                                                                          |           |
+| Qual seu grau de experiência com tecnologias?                                                                 |           |
+| Você já utilizou o Domínio Público?                                                                           |           |
+| Quais atividades você tem/teria interesse em utilizar no domínio público?                                     |           |
+| Como você costuma acessar livros e mídias sem domínio/gratuitos?                                              |           |
+| Com que frequência você lê livros?                                                                            |           |
+| Quais tipos de conteúdo você mais consome online?                                                             |           |
+| Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?                                 |           |
+| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |           |
+| Você acha que as ações do storyboard levam para o objetivo final?                                             |           |
+| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |           |
+| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |           |
+| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |           |
+
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 

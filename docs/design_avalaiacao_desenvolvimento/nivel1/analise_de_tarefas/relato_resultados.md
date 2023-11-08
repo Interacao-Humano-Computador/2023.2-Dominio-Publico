@@ -461,11 +461,6 @@ No Video X e Tabela Y é possível verificar os registros feitos durante a avali
 | Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?           |          |
 | A pesquisa de mídias é fácil de usar? Por que?                                          |          |
 | Quais são as suas sugestões para melhorar a pesquisa de mídias?                         |          |
-| O sistema de retirar dúvidas é fácil e claro? Por que?                                  |          |
-| O processo de inscrição como colaborador é claro e fácil? Por que?                      |          |
-| A documentação de ajuda é clara e abrangente? Por que?                                  |          |
-| O processo de download é fácil e rápido?                                                |          |
-| As estatísticas do site são claras, completas e úteis? Por que?                         |          |
 | Qual é o seu nível de satisfação com o domínio público?                                 |          |
 | Você tem alguma outra fonte legal para acessar conteúdo gratuito ou de domínio público? |          |
 | Você tem alguma outra sugestão ou melhoria para o site do Domínio Público?              |          |
