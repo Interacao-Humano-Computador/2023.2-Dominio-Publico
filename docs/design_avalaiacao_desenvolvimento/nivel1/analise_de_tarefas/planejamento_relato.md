@@ -17,7 +17,7 @@ O relato dos resultados será construido com base no documento [Planejamento da 
 3. Seleção dos participantes; 
 4. Listagem de problemas; 
 5. Sugestões de melhoria; 
-6. Sumário de resultados;
+6. Registro da avaliação;
 7. Planejamento de reprojeto. 
 
 
