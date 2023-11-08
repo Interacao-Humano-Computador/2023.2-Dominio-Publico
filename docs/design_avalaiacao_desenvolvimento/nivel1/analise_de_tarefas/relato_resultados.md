@@ -30,7 +30,7 @@ A Tabela 1 exibe as datas da realização da avaliação.
 
 ##### Seleção dos participantes
 
-    A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido,
+A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido,
 sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico.
 
 ##### Registro da avaliação
@@ -41,9 +41,9 @@ No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Video 1: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=GwaKiWOrnFA" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GwaKiWOrnFA?si=sare1xg5w3z3jNEc" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
+<font size="2"><p style="text-align: center">Fonte:[Harryson Martins](https://github.com/harry-cmartin)</p></font>
 
 </center>
 
