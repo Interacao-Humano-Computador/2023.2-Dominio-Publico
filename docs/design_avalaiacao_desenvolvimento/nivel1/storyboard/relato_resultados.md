@@ -67,6 +67,7 @@ No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avali
 
 ##### Listagem de problemas encontrados
 
+A partir das respostas da participante foi possível identificar que as ações do Storyboard avaliado, possam não estar em uma ordem identificável, por não seguir as ações realizadas pela partcipante ao realizar a tarefa no site, e não fluida, pela ação mostrada ser intermitente e não contínua.
 
 ##### Sugestões de melhoria
 
