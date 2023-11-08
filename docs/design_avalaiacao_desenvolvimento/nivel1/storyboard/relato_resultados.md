@@ -21,9 +21,9 @@ A Tabela 1 exibe as datas da realização da avaliação.
 
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
-| :-------------: | :------------: | :-----------------: | :--------------: | :----: | :----------------: |
-| Harryson          | Luma de Paula         | 20:00              | 20:40           | 05/11 | Microsoft Teams             |
+| Entrevistador | Entrevistado  | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
+| :-----------: | :-----------: | :---------------: | :------------: | :---: | :--------------: |
+|   Harryson    | Luma de Paula |       20:00       |     20:40      | 05/11 | Microsoft Teams  |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 
@@ -53,12 +53,12 @@ No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avali
 <font size="2"><p style="text-align: center">Tabela 2: Sumario de perguntas</p></font>
 
 | Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :-------: |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |    Sim      |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |     Sim     |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |    Não      |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |   Sim       |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |    Não      |
+| ------------------------------------------------------------------------------------------------------------- | :------: |
+| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |   Sim    |
+| Você acha que as ações do storyboard levam para o objetivo final?                                             |   Sim    |
+| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |   Não    |
+| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |   Sim    |
+| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |   Não    |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 
@@ -159,9 +159,9 @@ A Tabela 5 exibe as datas da realização da avaliação.
 
 <font size="2"><p style="text-align: center">Tabela 5: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
-| ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
-| ----          | ----         | ----              | ----           | ---- | ----             |
+| Entrevistador   | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma     |
+| --------------- | ------------ | ----------------- | -------------- | ----- | -------------------- |
+| Luciano Ricardo | Pedro Victor | 17:50             | 17:57          | 08/11 | Casa do Entrevistado |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
@@ -169,7 +169,8 @@ A Tabela 5 exibe as datas da realização da avaliação.
 
 ##### Seleção dos participantes
 
-A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico
+A seleção do participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que o entrevistado tem idade entre 18-35 anos é do sexo masculino e possui ensino superior incompleto.
+
 
 ##### Registro da avaliação
 
@@ -179,7 +180,7 @@ No Video 3 e Tabela 6 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Video 3: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JPVhzqFGwEE?si=DZVevHy79ykVTEj8" title="Storyboard Acessar Ajuda" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
@@ -191,21 +192,24 @@ No Video 3 e Tabela 6 é possível verificar os registros feitos durante a avali
 
 | Pergunta                                                                                                      | Resposta |
 | ------------------------------------------------------------------------------------------------------------- | :------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |          |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |          |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |          |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |          |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |          |
+| Os atores envolvidos no storyboard são condizentes com a realidade?                                           | Sim      |
+| Você acha que as ações do storyboard levam para o objetivo final?                                             | Sim      |
+| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? | Não      |
+| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          | Sim      |
+| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     | Sim      |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 
 
 ##### Listagem de problemas encontrados
+
+O entrevistado não declarou nenhum problema no storyboard, porém foi possível identificar uma certa dificuldade em ler alguns balões de dialogo.
+
 ##### Sugestões de melhoria
 
-
+O entrevistado não deu nenhuma sugestão de melhoria no storyboard, porém com base nos problemas observados algo que deve ser feito é reescrever os textos do storyboard de maneira mais legivel.
 
 
 
@@ -500,13 +504,17 @@ No Video 7 e Tabela 14 é possível verificar os registros feitos durante a aval
 ##### Listagem de problemas encontrados
 ##### Sugestões de melhoria
 
+
+
 ### Planejamento de reprojeto
 
-#### Tarefa: Pesquisar por mídia
+##### Tarefa: Pesquisar por mídia
+
 A partir das sugestões coletadas, sera realizada uma reoganização e reconstrução do storyboard em questão, para que as melhorias aclamadas possam ser resolvidas, além disso a clareza do artefato também será melhorada.
 
+##### Tarefa: Acessar ajuda
 
-
+A partir dos problemas observados será realizada a reescrita de alguns trechos do storyboard de modo á deixar os dialogos mais legiveis.
 
 
 
@@ -524,4 +532,5 @@ A partir das sugestões coletadas, sera realizada uma reoganização e reconstru
 | ------ | ---------- | --------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | 1.0    | 01/11/2021 | Criação do documento              | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
 | 1.1    | 01/11/2021 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
-| 1.2   | 08/11/2021 | Relato Download de Mídia | [Pedro Henrique](https://github.com/pedro-hsf)  | [Ana Catatrina](https://github.com/an4catarina) |
+| 1.2    | 08/11/2021 | Relato Acessar Ajuda              | [Luciano Ricardo](https://github.com/l-ricardo) | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.3    | 08/11/2021 | Relato Download de Mídia          | [Pedro Henrique](https://github.com/pedro-hsf)  | [Ana Catatrina](https://github.com/an4catarina) |
