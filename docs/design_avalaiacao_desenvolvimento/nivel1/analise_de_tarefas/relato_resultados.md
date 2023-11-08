@@ -607,3 +607,4 @@ Com as sugestões fornecidas pela entrevistada, é plausível que haja uma recon
 | ------ | ---------- | -------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 01/11/2021 | Criação do documento | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.1    | 01/11/2021 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo)  |
+| 1.2    | 08/11/2021 | Relato Download de Mídia | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina)  |
