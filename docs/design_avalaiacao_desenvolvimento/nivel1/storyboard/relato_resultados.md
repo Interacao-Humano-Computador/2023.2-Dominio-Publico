@@ -75,7 +75,7 @@ A partir das falas da entrevistada, uma sugestão de melhoria seria melhorar a f
 
 ##### Planejamento de reprojeto
 
-
+A partir das sugestões coletadas, sera realizada uma reoganização e reconstrução do storyboard em questão, para que as melhorias aclamadas possam ser resolvidas, além disso a clareza do artefato também será melhorada.
 
 
 ### Tarefa: Fazer download da mídia
