@@ -77,7 +77,7 @@ Foi sugerido pela entrevistada, mudar o estilo de pesquisa do site, optando por 
 
 ##### Planejamento de reprojeto
 
-
+Com as sugestões fornecidas pela entrevistada, é plausível que haja uma reconfiguração do estilo de pesquisa do site, a partir de pesquisas por nossa equipe será feito um planejamento da barra de pesquisa, da forma que se encaixe melhor no site e satisfaça as queixas encontradas, para que assim possa trazer mais conforto ao usuário.
 
 
 
