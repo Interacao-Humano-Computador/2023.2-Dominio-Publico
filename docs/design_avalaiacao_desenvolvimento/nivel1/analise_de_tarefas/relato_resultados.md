@@ -20,9 +20,9 @@ A Tabela 1 exibe as datas da realização da avaliação.
 
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
-| :-------------: | :------------: | :-----------------: | :--------------: | :----: | :----------------: |
-| Harryson          | Luma de Paula         | 20:00              | 20:40           | 05/11 | Microsoft Teams             |
+| Entrevistador | Entrevistado  | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
+| :-----------: | :-----------: | :---------------: | :------------: | :---: | :--------------: |
+|   Harryson    | Luma de Paula |       20:00       |     20:40      | 05/11 | Microsoft Teams  |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 
@@ -51,16 +51,16 @@ No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Tabela 2: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                | Resposta |
-| :-------------------------------------------------------------------------------------- | :-------: |
-| Qual o seu nome?                                                                        | Luam Maia|
-| Quantos anos você tem?                                                                  |     21  |
-| Qual seu nível de escolaridade?                                                         |  Ensino Superior Incompleto        |
-| Qual a sua ocupação?                                                                    |   Estudante       |
-| Qual seu grau de experiência com tecnologias?                                           |     Intermediário     |
-| Você já utilizou o Domínio Público?                                                     |    Não      |
-| A pesquisa de mídias é fácil de usar? Por que?                                          |     Grau mediano de dificulade, já que é bem confuso o estilo de pesquisa que eles oferecem, com varios campos para ser preenchido.     |
-| Quais são as suas sugestões para melhorar a pesquisa de mídias?                         |  Tornar o pesquisar, somente um campo de texto, o qual ao digitar uma palavra chave, haveria uma pesquisa relacionada, semelhante ao google.        |
+| Pergunta                                                        | Resposta                                                                                                                                    |
+| :-------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
+| Qual o seu nome?                                                | Luam Maia                                                                                                                                   |
+| Quantos anos você tem?                                          | 21                                                                                                                                          |
+| Qual seu nível de escolaridade?                                 | Ensino Superior Incompleto                                                                                                                  |
+| Qual a sua ocupação?                                            | Estudante                                                                                                                                   |
+| Qual seu grau de experiência com tecnologias?                   | Intermediário                                                                                                                               |
+| Você já utilizou o Domínio Público?                             | Não                                                                                                                                         |
+| A pesquisa de mídias é fácil de usar? Por que?                  | Grau mediano de dificulade, já que é bem confuso o estilo de pesquisa que eles oferecem, com varios campos para ser preenchido.             |
+| Quais são as suas sugestões para melhorar a pesquisa de mídias? | Tornar o pesquisar, somente um campo de texto, o qual ao digitar uma palavra chave, haveria uma pesquisa relacionada, semelhante ao google. |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 
@@ -93,9 +93,9 @@ A Tabela 3 exibe as datas da realização da avaliação.
 
 <font size="2"><p style="text-align: center">Tabela 3: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
-| ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
-| ----          | ----         | ----              | ----           | ---- | ----             |
+| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
+| :-----------: | :----------: | :---------------: | :------------: | :---: | :--------------: |
+|     ----      |     ----     |       ----        |      ----      | ----  |       ----       |
 
 <font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
 
@@ -161,7 +161,7 @@ No Video 2 e Tabela 4 é possível verificar os registros feitos durante a avali
 
 ##### Objetivo e âmbito da avaliação
 
-A finalidade da avaliação foi verificar a concordância entre a HTA de "Acessar ajuda" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
+A finalidade da avaliação foi identificar problemas de usabilidade no site domínio público e identificar as formas de interação do usuário com os artefados do site.
 
 ##### Método de avaliação
 
@@ -173,9 +173,9 @@ A Tabela 5 exibe as datas da realização da avaliação.
 
 <font size="2"><p style="text-align: center">Tabela 5: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
-| ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
-| ----          | ----         | ----              | ----           | ---- | ----             |
+| Entrevistador   | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma     |
+| --------------- | ------------ | ----------------- | -------------- | ----- | -------------------- |
+| Luciano Ricardo | Pedro Victor | 17:42             | 17:49          | 08/11 | Casa do Entrevistado |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
@@ -192,7 +192,7 @@ No Video 3 e Tabela 6 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Video 3: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mOvQH7f7cAo?si=Nl4KdtuOJet3KcWa" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
@@ -202,39 +202,44 @@ No Video 3 e Tabela 6 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Tabela 6: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                | Resposta |
-| :-------------------------------------------------------------------------------------- | :------- |
-| Qual o seu nome?                                                                        |          |
-| Quantos anos você tem?                                                                  |          |
-| Qual seu nível de escolaridade?                                                         |          |
-| Qual a sua ocupação?                                                                    |          |
-| Qual seu grau de experiência com tecnologias?                                           |          |
-| Você já utilizou o Domínio Público?                                                     |          |
-| Quais atividades você tem/teria interesse em utilizar no domínio público?               |          |
-| Como você costuma acessar livros e mídias sem domínio/gratuitos?                        |          |
-| Com que frequência você lê livros?                                                      |          |
-| Quais tipos de conteúdo você mais consome online?                                       |          |
-| Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?           |          |
-| A pesquisa de mídias é fácil de usar? Por que?                                          |          |
-| Quais são as suas sugestões para melhorar a pesquisa de mídias?                         |          |
-| O sistema de retirar dúvidas é fácil e claro? Por que?                                  |          |
-| O processo de inscrição como colaborador é claro e fácil? Por que?                      |          |
-| A documentação de ajuda é clara e abrangente? Por que?                                  |          |
-| O processo de download é fácil e rápido?                                                |          |
-| As estatísticas do site são claras, completas e úteis? Por que?                         |          |
-| Qual é o seu nível de satisfação com o domínio público?                                 |          |
-| Você tem alguma outra fonte legal para acessar conteúdo gratuito ou de domínio público? |          |
-| Você tem alguma outra sugestão ou melhoria para o site do Domínio Público?              |          |
+| Pergunta                                                                                | Resposta                                                                                                               |
+| :-------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------- |
+| Qual o seu nome?                                                                        | Pedro Victor Salesmo Martins                                                                                           |
+| Quantos anos você tem?                                                                  | 20                                                                                                                     |
+| Qual seu nível de escolaridade?                                                         | Ensino Medio Completo                                                                                                  |
+| Qual a sua ocupação?                                                                    | Estudante                                                                                                              |
+| Qual seu grau de experiência com tecnologias?                                           | Avançado                                                                                                               |
+| Você já utilizou o Domínio Público?                                                     | Sim                                                                                                                    |
+| Quais atividades você tem/teria interesse em utilizar no domínio público?               | Pesquisar livros de leitura obrigatória no Ensino Medio                                                                |
+| Como você costuma acessar livros e mídias sem domínio/gratuitos?                        | Jogo o nome no Google e vou olhando nos sites                                                                          |
+| Com que frequência você lê livros?                                                      | Umas duas vezes por trimestre                                                                                          |
+| Quais tipos de conteúdo você mais consome online?                                       | Videos                                                                                                                 |
+| Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?           | Pesquisa academica                                                                                                     |
+| A pesquisa de mídias é fácil de usar? Por que?                                          | Não, porque não é intuitiva                                                                                            |
+| Quais são as suas sugestões para melhorar a pesquisa de mídias?                         | Melhorar a busca no banco de dados de modo que apenas com o nome da midia ele indentifique se é um texto ou uma imagem |
+| O sistema de retirar dúvidas é fácil e claro? Por que?                                  | Nunca usei e nem sabia que existia                                                                                     |
+| O processo de inscrição como colaborador é claro e fácil? Por que?                      | Nunca usei                                                                                                             |
+| A documentação de ajuda é clara e abrangente? Por que?                                  | Nunca usei                                                                                                             |
+| O processo de download é fácil e rápido?                                                | Sim, quando você acha                                                                                                  |
+| As estatísticas do site são claras, completas e úteis? Por que?                         | Nunca usei                                                                                                             |
+| O processo de contatar os administradores é fácil e rápido?                             | Nunca contatei                                                                                                         |
+| Quais são as suas sugestões para melhorar esse contato com os administradores?          | Nunca contatei então não tenho                                                                                         |
+| Qual é o seu nível de satisfação com o domínio público?                                 | Baixo                                                                                                                  |
+| Você tem alguma outra fonte legal para acessar conteúdo gratuito ou de domínio público? | O BCE da UnB                                                                                                           |
+| Você tem alguma outra sugestão ou melhoria para o site do Domínio Público?              | Modernizar a interface e melhorar o sistema de busca dele                                                              |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 
 
 ##### Listagem de problemas encontrados
+
+Os principais problemas identificados pelo esntrevistado se relacionaram com a pesquisa de midias, esses dados serão utilizados na respectiva tarefa. No que se diz respeito a tarefa de acessar ajuda o entrevistado nunca utilizou a funcionalidade por não saber que existia e por nunca ter sido necessário.
+
 ##### Sugestões de melhoria
 
-
+Em relação a tarefa de acessar ajuda nenhuma sugestão foi dada.
 
 
 
@@ -255,9 +260,9 @@ A Tabela 7 exibe as datas da realização da avaliação.
 
 <font size="2"><p style="text-align: center">Tabela 7: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
-| ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
-| ----          | ----         | ----              | ----           | ---- | ----             |
+| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
+| :-----------: | :----------: | :---------------: | :------------: | :---: | :--------------: |
+|     ----      |     ----     |       ----        |      ----      | ----  |       ----       |
 
 <font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
 
@@ -337,9 +342,9 @@ A Tabela 9 exibe as datas da realização da avaliação.
 
 <font size="2"><p style="text-align: center">Tabela 9: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
-| ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
-| ----          | ----         | ----              | ----           | ---- | ----             |
+| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
+| :-----------: | :----------: | :---------------: | :------------: | :---: | :--------------: |
+|     ----      |     ----     |       ----        |      ----      | ----  |       ----       |
 
 <font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
 
@@ -416,8 +421,8 @@ Durante a entrevista foi usado o método investigativo conforme descrito no [Pla
 <font size="2"><p style="text-align: center">Tabela X: Cronograma executado</p></font>
 
 | Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
-| ------------- | ------------ | ----------------- | -------------- | ----- | ---------------- |
-| Victor Hugo   |              | ----              | ----           | 08/11 | Microsoft Teams  |
+| :-----------: | :----------: | :---------------: | :------------: | :---: | :--------------: |
+|  Victor Hugo  |              |       ----        |      ----      | 08/11 | Microsoft Teams  |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
@@ -529,9 +534,9 @@ A Tabela 13 exibe as datas da realização da avaliação.
 
 <font size="2"><p style="text-align: center">Tabela 13: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
-| ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
-| ----          | ----         | ----              | ----           | ---- | ----             |
+| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
+| :-----------: | :----------: | :---------------: | :------------: | :---: | :--------------: |
+|     ----      |     ----     |       ----        |      ----      | ----  |       ----       |
 
 <font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
 
@@ -609,7 +614,8 @@ Com as sugestões fornecidas pela entrevistada, é plausível que haja uma recon
 ## Histórico de Versões
 
 
-| Versão | Data       | Descrição            | Autor(es)                                       | Revisor(es)                                    |
-| ------ | ---------- | -------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 01/11/2021 | Criação do documento | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.1    | 01/11/2021 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo)  |
+| Versão | Data       | Descrição                         | Autor(es)                                       | Revisor(es)                                     |
+| ------ | ---------- | --------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 01/11/2021 | Criação do documento              | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.1    | 01/11/2021 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.2    | 08/11/2021 | Relato Acessar Ajuda              | [Luciano Ricardo](https://github.com/l-ricardo) | [Ana Catarina](https://github.com/an4catarina)  |
