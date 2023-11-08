@@ -22,15 +22,17 @@ A Tabela 1 exibe as datas da realização da avaliação.
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma executado</p></font>
 
 | Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
-| ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
-| ----          | ----         | ----              | ----           | ---- | ----             |
+| :-------------: | :------------: | :-----------------: | :--------------: | :----: | :----------------: |
+| Harryson          | Luma de Paula         | 20:00              | 20:40           | 05/11 | Microsoft Teams             |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 
 </center>
 
 ##### Seleção dos participantes
 
+A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido,
+sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico.
 
 ##### Registro da avaliação
 
@@ -40,9 +42,9 @@ No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Video 1: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kjA_6odMfgE?si=H8gqASQD40NcSJ6d" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
+<font size="2"><p style="text-align: center">Fonte:[Harryson Martins](https://github.com/harry-cmartin)</p></font>
 
 </center>
 
@@ -51,23 +53,29 @@ No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avali
 <font size="2"><p style="text-align: center">Tabela 2: Sumario de perguntas</p></font>
 
 | Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |          |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |          |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |          |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |          |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |          |
+| ------------------------------------------------------------------------------------------------------------- | :-------: |
+| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |    Sim      |
+| Você acha que as ações do storyboard levam para o objetivo final?                                             |     Sim     |
+| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |    Não      |
+| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |   Sim       |
+| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |    Não      |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 
 </center>
 
 
 ##### Listagem de problemas encontrados
+
+A partir das respostas da participante foi possível identificar que as ações do Storyboard avaliado, possam não estar em uma ordem identificável, por não seguir as ações realizadas pela partcipante ao realizar a tarefa no site, e não fluida, pela ação mostrada ser intermitente e não contínua.
+
 ##### Sugestões de melhoria
+
+A partir das falas da entrevistada, uma sugestão de melhoria seria melhorar a fluidez das ações no storyboard, dando uma continuidade maior as mesmas, além disso seria importante melhorar a clareza e identificação das ações do Storyboard.
+
 ##### Planejamento de reprojeto
 
-
+A partir das sugestões coletadas, sera realizada uma reoganização e reconstrução do storyboard em questão, para que as melhorias aclamadas possam ser resolvidas, além disso a clareza do artefato também será melhorada.
 
 
 ### Tarefa: Fazer download da mídia
