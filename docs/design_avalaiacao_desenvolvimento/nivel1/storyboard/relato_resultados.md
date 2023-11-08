@@ -22,15 +22,17 @@ A Tabela 1 exibe as datas da realização da avaliação.
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma executado</p></font>
 
 | Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
-| ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
-| ----          | ----         | ----              | ----           | ---- | ----             |
+| :-------------: | :------------: | :-----------------: | :--------------: | :----: | :----------------: |
+| Harryson          | Luma de Paula         | 20:00              | 20:40           | 05/11 | Microsoft Teams             |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 
 </center>
 
 ##### Seleção dos participantes
 
+A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido,
+sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico.
 
 ##### Registro da avaliação
 
@@ -40,9 +42,9 @@ No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Video 1: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=kjA_6odMfgE" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 
 </center>
 
@@ -51,20 +53,24 @@ No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avali
 <font size="2"><p style="text-align: center">Tabela 2: Sumario de perguntas</p></font>
 
 | Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |          |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |          |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |          |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |          |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |          |
+| ------------------------------------------------------------------------------------------------------------- | :-------: |
+| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |    Sim      |
+| Você acha que as ações do storyboard levam para o objetivo final?                                             |     Sim     |
+| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |    Não      |
+| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |   Sim       |
+| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |    Não      |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 
 </center>
 
 
 ##### Listagem de problemas encontrados
+
+
 ##### Sugestões de melhoria
+
+
 ##### Planejamento de reprojeto
 
 

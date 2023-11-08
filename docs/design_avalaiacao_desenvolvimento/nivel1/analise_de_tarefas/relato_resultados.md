@@ -31,7 +31,7 @@ A Tabela 1 exibe as datas da realização da avaliação.
 ##### Seleção dos participantes
 
     A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido,
-sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento teclógico.
+sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico.
 
 ##### Registro da avaliação
 
