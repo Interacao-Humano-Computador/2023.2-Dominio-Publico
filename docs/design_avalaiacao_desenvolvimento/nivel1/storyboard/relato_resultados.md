@@ -351,7 +351,7 @@ Durante a entrevista foi usado o método investigativo conforme descrito no [Pla
 
 | Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
 | ------------- | ------------ | ----------------- | -------------- | ----- | ---------------- |
-| Victor Hugo   | Ana Beatriz  | ----              | ----           | 08/11 | Presencialmente  |
+| Victor Hugo   | Ana Beatriz  | 19:05             | 19:30          | 08/11 | Presencialmente  |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
@@ -359,7 +359,7 @@ Durante a entrevista foi usado o método investigativo conforme descrito no [Pla
 
 ##### Seleção dos participantes
 
-Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o entrevistador. O usuário entrevistado selecionado possui entre 18 e 24 anos; é experiente com tecnologia (tecnófilo); e lê com frequencia media, conforme estabelecido no [Perfil de Usuário]().
+Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o entrevistador. O usuário entrevistado selecionado possui entre 18 e 24 anos; é experiente com tecnologia (tecnófilo); e lê com frequencia media, conforme estabelecido no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md).
 
 ##### Registro da avaliação
 
@@ -369,7 +369,7 @@ No Video 6 e Tabela 12 é possível verificar os registros feitos durante a aval
 
 <font size="2"><p style="text-align: center">Video 6: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iupHgLzajfs?si=5pbZ9tpAMtt_yk4a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
@@ -379,13 +379,24 @@ No Video 6 e Tabela 12 é possível verificar os registros feitos durante a aval
 
 <font size="2"><p style="text-align: center">Tabela 12: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |          |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |          |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |          |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |          |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |          |
+| Pergunta                                                                                                      | Resposta  |
+| ------------------------------------------------------------------------------------------------------------- | :-------: |
+| Qual o seu nome?                                                                                              | Ana Beatriz |
+| Quantos anos você tem?                                                                                        | 18 anos |
+| Qual seu nível de escolaridade?                                                                               | Superior incompleto |
+| Qual a sua ocupação?                                                                                          | Estudante |
+| Qual seu grau de experiência com tecnologias?                                                                 | Intermediário |
+| Você já utilizou o Domínio Público?                                                                           | Não |
+| Quais atividades você tem/teria interesse em utilizar no domínio público?                                     | Acessar livros |
+| Como você costuma acessar livros e mídias sem domínio/gratuitos?                                              | Pela Internet |
+| Com que frequência você lê livros?                                                                            | Uma vez por semana |
+| Quais tipos de conteúdo você mais consome online?                                                             | Livro |
+| Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?                                 | Lazer e entreterimento |
+| Os atores envolvidos no storyboard são condizentes com a realidade?                                           | Sim |
+| Você acha que as ações do storyboard levam para o objetivo final?                                             | Sim |
+| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? | Não |
+| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          | Sim |
+| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     | Sim |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
@@ -393,39 +404,12 @@ No Video 6 e Tabela 12 é possível verificar os registros feitos durante a aval
 
 ##### Listagem de problemas encontrados
 
-<!-- Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram problemas-->
-
-Na tabela X é possível encontar os problemas relatados, assim como sua causa, o resultado esperado e o resultado obitido.
-
-<center>
-
-<font size="2"><p style="text-align: center">Tabela X: Problemas relatados</p></font>
-
-| Problema | Causa | Resultado Esperado | Resultado Encontrado |
-| -------- | ----- | ------------------ | -------------------- |
-|          |       |                    |                      |
-
-<font size="2"><p style="text-align: center">Fonte: [Victor Hugo]().</p></font>
-
-</center>
+Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram problemas
 
 ##### Sugestões de melhoria
 
-<!-- Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram sugestões de melhoria-->
+Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram sugestões de melhoria
 
-Na tabela X é possível encontar as sugestões de melhoria, assim como o problema que a sugestão resolve.
-
-<center>
-
-<font size="2"><p style="text-align: center">Tabela X: Sugestões de melhoria</p></font>
-
-| Sugestão | Problema |
-| -------- | -------- |
-|          |          |
-
-<font size="2"><p style="text-align: center">Fonte: [Victor Hugo]().</p></font>
-
-</center>
 
 ### Tarefa: Contatar administradores
 
@@ -509,6 +493,11 @@ O storyboard apresentado se fez legível ao entrevistado, demonstrando durante a
 
 A partir das sugestões coletadas, sera realizada uma reoganização e reconstrução do storyboard em questão, para que as melhorias aclamadas possam ser resolvidas, além disso a clareza do artefato também será melhorada.
 
+
+#### Tarefa: Avaliar mídia
+
+A avaliação de mídia não é uma função fornecida pelo sistema, por isso no reprojeto será feita a criação dessa tarefa de forma a atender as necessidades dos usuários.
+
 ## Referências Bibliográficas
 
 ## Bibliografia
@@ -522,4 +511,6 @@ A partir das sugestões coletadas, sera realizada uma reoganização e reconstru
 | 1.2    | 08/11/2021 | Relato Acessar Ajuda              | [Luciano Ricardo](https://github.com/l-ricardo) | [Ana Catarina](https://github.com/an4catarina)  |
 | 1.3    | 08/11/2021 | Relato Download de Mídia          | [Pedro Henrique](https://github.com/pedro-hsf)  | [Ana Catatrina](https://github.com/an4catarina) |
 | 1.4    | 08/11/2023 | Relato Contatar Admin | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina)  |
-| 1.5    | 01/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina Santos](https://github.com/an4catarinna) | [Pedro Henrique](https://github.com/pedro-hsf)  |
+| 1.5    | 08/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina Santos](https://github.com/an4catarinna) | [Pedro Henrique](https://github.com/pedro-hsf)  |
+| 1.6    | 08/11/2021 | Relato Avaliar Midia              | [Victor Hugo](https://github.com/ViictorHugoo)  | [Pedro Henrique](https://github.com/pedro-hsf)  |
+

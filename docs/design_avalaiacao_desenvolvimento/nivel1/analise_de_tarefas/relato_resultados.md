@@ -392,15 +392,16 @@ A avaliação tem como objetivo principal avaliar se a [Análise de tarefas de A
 
 ##### Método de avaliação
 
-Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação da Analise de Tarefas](planejamento_avaliacao.md). Além disso foi utilizado um questionário de X questões para guiar a entrevista. A tabela X e Y representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
+Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação da Analise de Tarefas](planejamento_avaliacao.md). Além disso foi utilizado um questionário de X questões para guiar a entrevista. A tabela 11 e 12 representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela X: Cronograma executado</p></font>
+<font size="2"><p style="text-align: center">Tabela 11: Cronograma executado</p></font>
 
 | Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
-| :-----------: | :----------: | :---------------: | :------------: | :---: | :--------------: |
-|  Victor Hugo  |              |       ----        |      ----      | 08/11 | Microsoft Teams  |
+
+| ------------- | ------------ | ----------------- | -------------- | ----- | ---------------- |
+| Victor Hugo   | Ana Clara    | 19:55             | 20:10          | 08/11 | Microsoft Teams  |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
@@ -412,13 +413,13 @@ Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o
 
 ##### Registro da avaliação
 
-No Video X e Tabela Y é possível verificar os registros feitos durante a avaliação.
+No Video 6 e Tabela 12 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video X: Gravação da avaliação</p></font>
+<font size="2"><p style="text-align: center">Video 6: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UKcQ6_Wu0o8?si=KNUa1KNQre-Tnxle" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
@@ -426,33 +427,77 @@ No Video X e Tabela Y é possível verificar os registros feitos durante a avali
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela Y: Sumario de perguntas</p></font>
+<font size="2"><p style="text-align: center">Tabela 12: Sumario de perguntas</p></font>
 
 | Pergunta                                                                                | Resposta |
 | :-------------------------------------------------------------------------------------- | :------- |
-| Qual o seu nome?                                                                        |          |
-| Quantos anos você tem?                                                                  |          |
-| Qual seu nível de escolaridade?                                                         |          |
-| Qual a sua ocupação?                                                                    |          |
-| Qual seu grau de experiência com tecnologias?                                           |          |
-| Você já utilizou o Domínio Público?                                                     |          |
-| Quais atividades você tem/teria interesse em utilizar no domínio público?               |          |
-| Como você costuma acessar livros e mídias sem domínio/gratuitos?                        |          |
-| Com que frequência você lê livros?                                                      |          |
-| Quais tipos de conteúdo você mais consome online?                                       |          |
-| Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?           |          |
-| A pesquisa de mídias é fácil de usar? Por que?                                          |          |
-| Quais são as suas sugestões para melhorar a pesquisa de mídias?                         |          |
-| O sistema de retirar dúvidas é fácil e claro? Por que?                                  |          |
-| O processo de inscrição como colaborador é claro e fácil? Por que?                      |          |
-| A documentação de ajuda é clara e abrangente? Por que?                                  |          |
-| O processo de download é fácil e rápido?                                                |          |
-| As estatísticas do site são claras, completas e úteis? Por que?                         |          |
-| Qual é o seu nível de satisfação com o domínio público?                                 |          |
-| Você tem alguma outra fonte legal para acessar conteúdo gratuito ou de domínio público? |          |
-| Você tem alguma outra sugestão ou melhoria para o site do Domínio Público?              |          |
+| Qual o seu nome?                                                                        | Ana Clara Barbosa Borges |
+| Quantos anos você tem?                                                                  | 20 anos  |
+| Qual seu nível de escolaridade?                                                         | Cursando o nível superior |
+| Qual a sua ocupação?                                                                    | Estudante |
+| Qual seu grau de experiência com tecnologias?                                           | Avançado |
+| Você já utilizou o Domínio Público?                                                     | Não      |
+| Quais atividades você tem/teria interesse em utilizar no domínio público?               | Para buscar obras textuais que pussui interesse |
+| Como você costuma acessar livros e mídias sem domínio/gratuitos?                        | Compra as mídias |
+| Com que frequência você lê livros?                                                      | Uma vez por mês |
+| Quais tipos de conteúdo você mais consome online?                                       | Vídeos |
+| Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?           | Lazer e Entreterimento |
+| A pesquisa de mídias é fácil de usar? Por que?                                          | Sim, ela achou fácil |
+| Quais são as suas sugestões para melhorar a pesquisa de mídias?                         | Não tem sugestões | 
+| Avaliar a mídia é fácil? Por que?                                                       | Sim, achou intuitivo |
+| Quais são as suas sugestões para melhorar a avaliaçã de mídias?                         | Nenhuma |
+| Qual é o seu nível de satisfação com o domínio público?                                 | Médio |
+| Você tem alguma outra sugestão ou melhoria para o site do Domínio Público?              | Implementar a avaliação de mídias e melhorar esteticamente |
+| Os diagramas HTA e GOMS realmente representam a tarefa de avaliar mídia?                | Sim |
+| Você tem alguma outra sugestão ou melhoria para os diagramas?                           | Para o diagrama GOMS, corrigir o select do método 2 |
+
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+
+</center>
+
+Para que a avaliação pudesse ser conduzida, foi necessário criar cenários em que a tarefa de Avaliar Mídia estivesse presente no sistema. Para isso foram construidas etapas suficientes para que a tarefa fosse executada. As figuras de 1 a 4 representam as etapas criadas.
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 1: Etapa 1 de Avaliar Mídia</p></font>
+
+![Etapa 1](<../../../assets/etapas_avaliar_midia/etapa 1.png>)
+
+<font size="2"><p style="text-align: center">[Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+
+</center>
+
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 2: Etapa 2 de Avaliar Mídia</p></font>
+
+![Etapa 2](<../../../assets/etapas_avaliar_midia/etapa 2.png>)
+
+<font size="2"><p style="text-align: center">[Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+
+</center>
+
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 3: Etapa 3 de Avaliar Mídia</p></font>
+
+![Etapa 3](<../../../assets/etapas_avaliar_midia/etapa 3.png>)
+
+<font size="2"><p style="text-align: center">[Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+
+</center>
+
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 4: Etapa 4 de Avaliar Mídia</p></font>
+
+![Etapa 4](<../../../assets/etapas_avaliar_midia/etapa 4.png>)
+
+<font size="2"><p style="text-align: center">[Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
@@ -460,15 +505,17 @@ No Video X e Tabela Y é possível verificar os registros feitos durante a avali
 
 <!-- Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram problemas-->
 
-Na tabela X é possível encontar os problemas relatados, assim como sua causa, o resultado esperado e o resultado obitido.
-
+Na tabela 13 é possível encontar os problemas relatados.
 <center>
 
-<font size="2"><p style="text-align: center">Tabela X: Problemas relatados</p></font>
+<font size="2"><p style="text-align: center">Tabela 13: Problemas relatados</p></font>
 
-| Problema | Causa | Resultado Esperado | Resultado Encontrado |
-| -------- | ----- | ------------------ | -------------------- |
-|          |       |                    |                      |
+| Problema | Causa |
+| -------- | ----- |
+| Avaliar Mídia| Não há uma forma de avaliar mídia no site|
+| Site feio | Má distribuição de elementos na tela |
+| Diagrama GOMS | O select do método 2 está incorreto |
+
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo]().</p></font>
 
@@ -478,15 +525,17 @@ Na tabela X é possível encontar os problemas relatados, assim como sua causa, 
 
 <!-- Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram sugestões de melhoria-->
 
-Na tabela X é possível encontar as sugestões de melhoria, assim como o problema que a sugestão resolve.
+Na tabela 14 é possível encontar as sugestões de melhoria, assim como o problema que a sugestão resolve.
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela X: Sugestões de melhoria</p></font>
+<font size="2"><p style="text-align: center">Tabela 14: Sugestões de melhoria</p></font>
 
 | Sugestão | Problema |
 | -------- | -------- |
-|          |          |
+| Inclusão de avaliar as mídias conforme a equipe esta sugerindo | Falta de avaliar mídia|
+| Melhorar a estética do site | Site feio |
+| Corrigir o select do método 2 | Diagrama GOMS |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo]().</p></font>
 
@@ -569,7 +618,12 @@ Ele sugere alterações visando uma melhor visibilidade relacionado ao "Fale Con
 
 Com as sugestões fornecidas pela entrevistada, é plausível que haja uma reconfiguração do estilo de pesquisa do site, a partir de pesquisas por nossa equipe será feito um planejamento da barra de pesquisa, da forma que se encaixe melhor no site e satisfaça as queixas encontradas, para que assim possa trazer mais conforto ao usuário.
 
+#### Tarefa: Avaliar mídia
+
+A avaliação de mídia não é uma função fornecida pelo sistema, por isso no reprojeto será feita a criação dessa tarefa de forma a atender as necessidades dos usuários.
+
 #### Tarefa: Contatar Administradores
+
 
 Conforme com o que foi listado de problemas pelo entrevistado, o novo mapeamento de reprojeto sugere melhorias na visibilidade da opção "Fale Conosco", a inserção do email próprio do Domínio Público em um local específico na página devida, além de corrigir os botões relacionados ao envio do email.
 
@@ -586,4 +640,5 @@ Conforme com o que foi listado de problemas pelo entrevistado, o novo mapeamento
 | 1.1    | 01/11/2023 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
 | 1.2    | 08/11/2023 | Relato Acessar Ajuda              | [Luciano Ricardo](https://github.com/l-ricardo) | [Ana Catarina](https://github.com/an4catarina)  |
 | 1.3    | 08/11/2023 | Relato Download de Mídia | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina)  |
-| 1.5    | 01/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina Santos](https://github.com/an4catarinna) | [Pedro Henrique](https://github.com/pedro-hsf)  |
+| 1.4    | 08/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina Santos](https://github.com/an4catarinna) | [Pedro Henrique](https://github.com/pedro-hsf)  |
+| 1.5    | 08/11/2021 | Relato Avaliar Midia              | [Victor Hugo](https://github.com/ViictorHugoo)  | [Pedro Henrique](https://github.com/pedro-hsf)  |
