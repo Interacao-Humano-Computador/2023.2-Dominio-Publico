@@ -461,14 +461,15 @@ A Tabela 13 exibe as datas da realização da avaliação.
 
 | Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
 | ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
-| ----          | ----         | ----              | ----           | ---- | ----             |
+| Gustavo França          | Douglas Wilson         | 19:00              | 19:10           | 31/10 | Plataforma Microsoft Teams             |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
 </center>
 
 ##### Seleção dos participantes
 
+O participante se encaixa no perfil de usuário, pois é um usuário entre 18 e 24 anos, possui experiencia intermediária com tecnologia e já realizou buscas por conteúdo de domínio público em diferentes plataformas.
 
 ##### Registro da avaliação
 
@@ -478,9 +479,9 @@ No Video 7 e Tabela 14 é possível verificar os registros feitos durante a aval
 
 <font size="2"><p style="text-align: center">Video 7: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/euBTM3JafFE?si=xDfq56wnHTUfnVjn" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
 </center>
 
@@ -490,21 +491,24 @@ No Video 7 e Tabela 14 é possível verificar os registros feitos durante a aval
 
 | Pergunta                                                                                                      | Resposta |
 | ------------------------------------------------------------------------------------------------------------- | :------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |          |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |          |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |          |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |          |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |          |
+| Os atores envolvidos no storyboard são condizentes com a realidade?                                           | Sim         |
+| Você acha que as ações do storyboard levam para o objetivo final?                                             | Sim      |
+| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? | Não          |
+| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          | Sim         |
+| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     | Sim        |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
 </center>
 
 
 ##### Listagem de problemas encontrados
+
+Durante a entrevista o entrevistado foi questionado se havia notado alguma inconformidade entre o storyboard e a tarefa real, ele respondeu que não havia detectado nenhum problema.
+
 ##### Sugestões de melhoria
 
-
+Para esse storyboard, não foram listados qualquer tipo de problema ou melhorias.
 
 ### Planejamento de reprojeto
 
@@ -515,6 +519,10 @@ A partir das sugestões coletadas, sera realizada uma reoganização e reconstru
 ##### Tarefa: Acessar ajuda
 
 A partir dos problemas observados será realizada a reescrita de alguns trechos do storyboard de modo á deixar os dialogos mais legiveis.
+
+##### Tarefa: Contatar Administradores
+
+O storyboard apresentado se fez legível ao entrevistado, demonstrando durante a entrevista nenhum tipo correção.
 
 
 
@@ -534,3 +542,4 @@ A partir dos problemas observados será realizada a reescrita de alguns trechos 
 | 1.1    | 01/11/2021 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
 | 1.2    | 08/11/2021 | Relato Acessar Ajuda              | [Luciano Ricardo](https://github.com/l-ricardo) | [Ana Catarina](https://github.com/an4catarina)  |
 | 1.3    | 08/11/2021 | Relato Download de Mídia          | [Pedro Henrique](https://github.com/pedro-hsf)  | [Ana Catatrina](https://github.com/an4catarina) |
+| 1.4    | 08/11/2023 | Relato Contatar Admin | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina)  |

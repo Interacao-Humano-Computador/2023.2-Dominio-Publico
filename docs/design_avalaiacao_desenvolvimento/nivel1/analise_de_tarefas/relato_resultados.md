@@ -529,16 +529,17 @@ A Tabela 13 exibe as datas da realização da avaliação.
 
 <font size="2"><p style="text-align: center">Tabela 13: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
-| :-----------: | :----------: | :---------------: | :------------: | :---: | :--------------: |
-|     ----      |     ----     |       ----        |      ----      | ----  |       ----       |
+| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
+| ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
+| Gustavo França          | Douglas Wilson         | 19:00              | 19:10           | 31/10 | Plataforma Microsoft Teams             |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
 </center>
 
 ##### Seleção dos participantes
 
+O participante se encaixa no perfil de usuário, pois é um usuário entre 18 e 24 anos, possui experiencia intermediária com tecnologia e já realizou buscas por conteúdo de domínio público em diferentes plataformas.
 
 ##### Registro da avaliação
 
@@ -548,9 +549,9 @@ No Video 7 e Tabela 14 é possível verificar os registros feitos durante a aval
 
 <font size="2"><p style="text-align: center">Video 7: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SO_aY-b842Y?si=usAF0CvAOpIO2VWl" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
 </center>
 
@@ -560,42 +561,39 @@ No Video 7 e Tabela 14 é possível verificar os registros feitos durante a aval
 
 | Pergunta                                                                                | Resposta |
 | :-------------------------------------------------------------------------------------- | :------- |
-| Qual o seu nome?                                                                        |          |
-| Quantos anos você tem?                                                                  |          |
-| Qual seu nível de escolaridade?                                                         |          |
-| Qual a sua ocupação?                                                                    |          |
-| Qual seu grau de experiência com tecnologias?                                           |          |
-| Você já utilizou o Domínio Público?                                                     |          |
-| Quais atividades você tem/teria interesse em utilizar no domínio público?               |          |
-| Como você costuma acessar livros e mídias sem domínio/gratuitos?                        |          |
-| Com que frequência você lê livros?                                                      |          |
-| Quais tipos de conteúdo você mais consome online?                                       |          |
-| Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?           |          |
-| A pesquisa de mídias é fácil de usar? Por que?                                          |          |
-| Quais são as suas sugestões para melhorar a pesquisa de mídias?                         |          |
-| O sistema de retirar dúvidas é fácil e claro? Por que?                                  |          |
-| O processo de inscrição como colaborador é claro e fácil? Por que?                      |          |
-| A documentação de ajuda é clara e abrangente? Por que?                                  |          |
-| O processo de download é fácil e rápido?                                                |          |
-| As estatísticas do site são claras, completas e úteis? Por que?                         |          |
-| Qual é o seu nível de satisfação com o domínio público?                                 |          |
-| Você tem alguma outra fonte legal para acessar conteúdo gratuito ou de domínio público? |          |
-| Você tem alguma outra sugestão ou melhoria para o site do Domínio Público?              |          |
+| Qual o seu nome?                                                                        | Douglas Wilson             |
+| Quantos anos você tem?                                                                  | 21 anos                    |
+| Qual seu nível de escolaridade?                                                         | Ensino superior incompleto |
+| Qual a sua ocupação?                                                                    | Estudante                  |
+| Qual seu grau de experiência com tecnologias?                                           | Nível intermediário        |
+| Você já utilizou o Domínio Público?                                                     | Não         |
+| O processo de  contatar os administradores é fácil e rápido?                                          | Demorou um pouco para encontrar onde me comunicar com o administrador, não foi fácil         |
+| Quais são as suas sugestões para melhorar esse contato com os administradores?                        | Além da opção "Fale Conosco", ter a disponibilização do email direto do Dominio Publico         |
+| Você tem alguma fonte legal para acessar conteúdo gratuito ou de domínio público?               | Sim, utilizo plataformas como a BCE da UnB e algumas do meu estágio como o BDM        |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
 </center>
 
 
 ##### Listagem de problemas encontrados
+
+O entrevistado mostrou ter dificuldades ao encontrar algo relacionado a contatar administradores, sendo um processo desgastante haja vista que ele interagiu com outras partes do sistema até encontrar o que queria. Além disso, no momento de submeter a sua mensagem, ele ficou em dúvida de qual botão clicar, considerando que haviam dois botões com o mesmo propósito de enviar email.
+
 ##### Sugestões de melhoria
 
+Ele sugere alterações visando uma melhor visibilidade relacionado ao "Fale Conosco", oferecendo ideias de que essa opção poderia estar visualmente mais fácil de se encontrar, ou colocar em um local que geralmente é o padrão em outras plataformas, onde existe um "footer" para esse tipo de interação. Além de especificar um email direto do Domínio Público na página "Fale Conosco" para facilitar futuras mensagens que ele possa vir a enviar.
 
 ## Planejamento do reprojeto
 
 #### Tarefa: Pesquisar por mídia
 
 Com as sugestões fornecidas pela entrevistada, é plausível que haja uma reconfiguração do estilo de pesquisa do site, a partir de pesquisas por nossa equipe será feito um planejamento da barra de pesquisa, da forma que se encaixe melhor no site e satisfaça as queixas encontradas, para que assim possa trazer mais conforto ao usuário.
+
+#### Tarefa: Contatar Administradores
+
+Conforme com o que foi listado de problemas pelo entrevistado, o novo mapeamento de reprojeto sugere melhorias na visibilidade da opção "Fale Conosco", a inserção do email próprio do Domínio Público em um local específico na página devida, além de corrigir os botões relacionados ao envio do email.
 
 
 ## Referências Bibliográficas
@@ -610,8 +608,7 @@ Com as sugestões fornecidas pela entrevistada, é plausível que haja uma recon
 
 | Versão | Data       | Descrição                         | Autor(es)                                       | Revisor(es)                                     |
 | ------ | ---------- | --------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| 1.0    | 01/11/2021 | Criação do documento              | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
-| 1.1    | 01/11/2021 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
-| 1.2    | 08/11/2021 | Relato Acessar Ajuda              | [Luciano Ricardo](https://github.com/l-ricardo) | [Ana Catarina](https://github.com/an4catarina)  |
-| 1.3    | 08/11/2021 | Relato Download de Mídia | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina)  |
-
+| 1.0    | 01/11/2023 | Criação do documento              | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.1    | 01/11/2023 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.2    | 08/11/2023 | Relato Acessar Ajuda              | [Luciano Ricardo](https://github.com/l-ricardo) | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.3    | 08/11/2023 | Relato Download de Mídia | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina)  |
