@@ -63,9 +63,9 @@ Na Tabela 3, tem-se o <b>cronograma executado</b> para todas as atividades da pr
 | Planejamento              | Início: 27/09 <br>Fim: 28/09 | Maria Alice                       | Início: 27/09 <br>Fim: 27/09 | Luciano Ricardo  |
 | Processo de Design        | Início: 27/09 <br>Fim: 28/09 | Pedro Henrique e Harryson Martins | Início: 27/09 <br>Fim: 27/09 | Gustavo França   |
 | Implementar Git Pages     | Início: 28/09 <br>Fim: 30/09 | Victor                            | Início: 01/09 <br>Fim: 01/09 | Ana Catarina     |
-| Gravar apresentação       | Início: 01/10 <br>Fim: 01/10 | Gustavo França                    | Início: 01/10 <br>Fim: 01/10 | Victor           |
-| Edição da gravação        | Início: 01/10 <br>Fim: 02/10 | Ana Catarina                      | Início: 02/10 <br>Fim: 02/10 | Victor           |
-| Correção pós apresentação | Início: 03/10 <br>Fim:       | Victor Hugo                       |                              |                  |
+| Gravar apresentação       | Início: 01/10 <br>Fim: 01/10 | Gustavo França                    | Início: 01/10 <br>Fim: 01/10 | Victor Hugo      |
+| Edição da gravação        | Início: 01/10 <br>Fim: 02/10 | Ana Catarina                      | Início: 02/10 <br>Fim: 02/10 | Victor Hugo      |
+| Correção pós apresentação | Início: 03/10 <br>Fim: 04/10 | Victor Hugo                       | Início: 04/10 <br>Fim: 04/10 | Ana Catarina     |
 
 </center>
 
@@ -97,17 +97,17 @@ Na Tabela 5, tem-se o <b>cronograma executado</b> para todas as atividades da se
 
 <font size="2"><p style="text-align: center">Tabela 5: Cronograma executado de Atividades da Entrega 2 - Perfil do usuário.</p></font>
 
-| Atividade                                     | Período de desenvolvimento   | Responsáveis                  | Periodo de Revisão | Revisores        |
-| --------------------------------------------- | ---------------------------- | ----------------------------- | ------------------ | ---------------- |
-| Perfil do usuário                             | Inicio: 08/10 <br>Fim: 14/10 | Luciano Ricardo               | 15/10              | Maria Alice      |
-| Personas                                      | Inicio: 08/10 <br>Fim: 14/10 | Victor Hugo                   | 15/10              | Harryson Martins |
-| Pesquisa sobre ética                          | Inicio: 08/10 <br>Fim: 10/10 | Ana Catarina e Pedro Henrique | 10/10              | Victor Hugo      |
-| Execução do documento de pesquisa sobre ética | Inicio: 08/10 <br>Fim: 14/10 | Ana Catarina e Pedro Henrique | 10/10              | Luciano Ricardo  |
-| Análise de tarefas: HTA                       | Inicio: 08/10 <br>Fim: 10/10 | Harryson e Gustavo            | 14/10              | Ana Catarina     |
-| Implementar Git Pages                         | Inicio: 08/10 <br>Fim: 10/10 | Luciano Ricardo               | 10/10              | Gustavo França   |
-| Gravar apresentação                           | Inicio: 16/10 <br>Fim: 16/10 | Ana Catarina                  | 16/10              | Pedro Henrique   |
-| Edição da gravação                            | Inicio: 16/10 <br>Fim: 16/10 | Ana Catarina                  | 16/10              | Pedro Henrique   |
-| Correção pós apresentação                     | Inicio: 08/10 <br>Fim: 16/10 | Maria Alice                   | 16/10              | Harryson Martins |
+| Atividade                                     | Período de desenvolvimento   | Responsáveis                  | Periodo de Revisão           | Revisores        |
+| --------------------------------------------- | ---------------------------- | ----------------------------- | ---------------------------- | ---------------- |
+| Perfil do usuário                             | Inicio: 08/10 <br>Fim: 14/10 | Luciano Ricardo               | Inicio: 15/10 <br>Fim: 15/10 | Maria Alice      |
+| Personas                                      | Inicio: 08/10 <br>Fim: 14/10 | Victor Hugo                   | Inicio: 15/10 <br>Fim: 15/10 | Harryson Martins |
+| Pesquisa sobre ética                          | Inicio: 08/10 <br>Fim: 10/10 | Ana Catarina e Pedro Henrique | Inicio: 10/10 <br>Fim: 10/10 | Victor Hugo      |
+| Execução do documento de pesquisa sobre ética | Inicio: 08/10 <br>Fim: 14/10 | Ana Catarina e Pedro Henrique | Inicio: 10/10 <br>Fim: 10/10 | Luciano Ricardo  |
+| Análise de tarefas: HTA                       | Inicio: 08/10 <br>Fim: 10/10 | Harryson e Gustavo            | Inicio: 14/10 <br>Fim: 14/10 | Ana Catarina     |
+| Implementar Git Pages                         | Inicio: 08/10 <br>Fim: 10/10 | Luciano Ricardo               | Inicio: 10/10 <br>Fim: 10/10 | Gustavo França   |
+| Gravar apresentação                           | Inicio: 16/10 <br>Fim: 16/10 | Ana Catarina                  | Inicio: 16/10 <br>Fim: 16/10 | Pedro Henrique   |
+| Edição da gravação                            | Inicio: 16/10 <br>Fim: 16/10 | Ana Catarina                  | Inicio: 16/10 <br>Fim: 16/10 | Pedro Henrique   |
+| Correção pós apresentação                     | Inicio: 08/10 <br>Fim: 16/10 | Maria Alice                   | Inicio: 16/10 <br>Fim: 16/10 | Harryson Martins |
 
 </center>
 
@@ -140,11 +140,11 @@ Na Tabela 7, tem-se o <b>cronograma executado</b> para todas as atividades da te
 | Atividade                    | Período de desenvolvimento   | Responsáveis                  | Periodo de Revisão           | Revisores       |
 | ---------------------------- | ---------------------------- | ----------------------------- | ---------------------------- | --------------- |
 | Princípios gerais do projeto | Inicio: 17/10 <br>Fim: 17/10 | Ana Catarina e Pedro Henrique | Inicio: 17/10 <br>Fim: 23/10 | Luciano Ricardo |
-| Metas de usabilidade         | Inicio: 19/10 <br>Fim: 21/10 | Harryson e Gustavo            | 23/10                        | Victor          |
+| Metas de usabilidade         | Inicio: 19/10 <br>Fim: 21/10 | Harryson e Gustavo            | Inicio: 23/10 <br>Fim: 23/10 | Victor          |
 | Guia de estilo               | Inicio: 22/10 <br>Fim: 23/10 | Maria Alice e Victor Hugo     | Inicio: 23/10 <br>Fim: 23/10 | Luciano Ricardo |
 | Gravar apresentação          | Inicio: 23/10 <br>Fim: 23/10 | Maria Alice                   | Inicio: 23/10 <br>Fim: 23/10 |                 |
 | Edição da gravação           | Inicio: 23/10 <br>Fim: 23/10 | Ana Catarina                  | Inicio: 23/10 <br>Fim: 23/10 | Victor Hugo     |
-| Correção pós apresentação    |                              |                               |                              |                 |
+| Correção pós apresentação    | Inicio: 24/10 <br>Fim: 25/10 | Harryson Martins              | Inicio: 25/10 <br>Fim: 25/10 | Gustavo França  |
 
 </center>
 
@@ -212,15 +212,15 @@ Na Tabela 11, tem-se o <b>cronograma executado</b> para todas as atividades da q
 
 <font size="2"><p style="text-align: center">Tabela 11: Cronograma executado de Atividades da Entrega 5.</p></font>
 
-| Atividade                                                               | Período de desenvolvimento | Responsáveis | Periodo de Revisão | Revisores |
-| ----------------------------------------------------------------------- | -------------------------- | ------------ | ------------------ | --------- |
-| Relato dos resultados do Storyboard                                     | Inicio: 01/11 <br>Fim:     |              | Inicio: 01/11 <br>Fim: |           |
-| Relato dos resultados da Análise de tarefas                             | Inicio: 01/11 <br>Fim:     |              | Inicio: 01/11 <br>Fim: |           |
-| Planejamento do relato de resultados da avaliação do protótipo de papel | Inicio: 01/11 <br>Fim:     |              | Inicio: 01/11 <br>Fim: |           |
-| Planejamento da avaliação do protótipo de papel                         | Inicio: 01/11 <br>Fim:     |              | Inicio: 01/11 <br>Fim: |           |
-| Gravar apresentação                                                     |                            |              |                    |           |
-| Edição da gravação                                                      |                            |              |                    |           |
-| Correção pós apresentação                                               |                            |              |                    |           |
+| Atividade                                                               | Período de desenvolvimento   | Responsáveis                                                                                               | Periodo de Revisão           | Revisores                     |
+| ----------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------- | ----------------------------- |
+| Relato dos resultados do Storyboard                                     | Inicio: 01/11 <br>Fim: 08/11 | Ana Catarina, Harryson Martins, Gustavo França, Luciano Ricardo, Victor Hugo, Maria Alice e Pedro Henrique | Inicio: 01/11 <br>Fim: 08/11 | Luciano Ricardo e Victor Hugo |
+| Relato dos resultados da Análise de tarefas                             | Inicio: 01/11 <br>Fim: 08/11 | Ana Catarina, Harryson Martins, Gustavo França, Luciano Ricardo, Victor Hugo, Maria Alice e Pedro Henrique | Inicio: 01/11 <br>Fim: 08/11 | Luciano Ricardo e Victor Hugo |
+| Planejamento do relato de resultados da avaliação do protótipo de papel | Inicio: 01/11 <br>Fim: 08/11 | Luciano Ricardo                                                                                            | Inicio: 01/11 <br>Fim: 08/11 | Victor Hugo                   |
+| Planejamento da avaliação do protótipo de papel                         | Inicio: 01/11 <br>Fim: 08/11 | Gustavo,Victor Hugo, Harryson e Luciano Ricardo                                                            | Inicio: 01/11 <br>Fim: 08/11 | Victor Hugo                   |
+| Gravar apresentação                                                     | Inicio: 08/11 <br>Fim: 08/11 | Ana Catarina                                                                                               | Inicio: 08/11 <br>Fim: 08/11 |                               |
+| Edição da gravação                                                      | Inicio: 08/11 <br>Fim: 08/11 | Ana Catarina                                                                                               | Inicio: 08/11 <br>Fim: 08/11 |                               |
+| Correção pós apresentação                                               |                              |                                                                                                            |                              |                               |
 
 </center>
 
