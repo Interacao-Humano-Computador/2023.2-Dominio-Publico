@@ -243,15 +243,17 @@ A Tabela 7 exibe as datas da realização da avaliação.
 
 <font size="2"><p style="text-align: center">Tabela 7: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
-| :-----------: | :----------: | :---------------: | :------------: | :---: | :--------------: |
-|     ----      |     ----     |       ----        |      ----      | ----  |       ----       |
+| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
+| ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
+| Maria Alice       | Leandro Almeida         | 15:30            | 15:40          | 08/11|      UNB - FGA      |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 
 </center>
 
 ##### Seleção dos participantes
+
+A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico
 
 ##### Registro da avaliação
 
@@ -261,9 +263,9 @@ No Video 4 e Tabela 8 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Video 4: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BcrjW7SLixk?si=Mz4D3SQseka1gG_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 
 </center>
 
@@ -273,33 +275,30 @@ No Video 4 e Tabela 8 é possível verificar os registros feitos durante a avali
 
 | Pergunta                                                                                | Resposta |
 | :-------------------------------------------------------------------------------------- | :------- |
-| Qual o seu nome?                                                                        |          |
-| Quantos anos você tem?                                                                  |          |
-| Qual seu nível de escolaridade?                                                         |          |
-| Qual a sua ocupação?                                                                    |          |
-| Qual seu grau de experiência com tecnologias?                                           |          |
-| Você já utilizou o Domínio Público?                                                     |          |
-| Quais atividades você tem/teria interesse em utilizar no domínio público?               |          |
-| Como você costuma acessar livros e mídias sem domínio/gratuitos?                        |          |
-| Com que frequência você lê livros?                                                      |          |
-| Quais tipos de conteúdo você mais consome online?                                       |          |
-| Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?           |          |
-| A pesquisa de mídias é fácil de usar? Por que?                                          |          |
-| Quais são as suas sugestões para melhorar a pesquisa de mídias?                         |          |
-| O sistema de retirar dúvidas é fácil e claro? Por que?                                  |          |
-| O processo de inscrição como colaborador é claro e fácil? Por que?                      |          |
-| A documentação de ajuda é clara e abrangente? Por que?                                  |          |
-| O processo de download é fácil e rápido?                                                |          |
-| As estatísticas do site são claras, completas e úteis? Por que?                         |          |
-| Qual é o seu nível de satisfação com o domínio público?                                 |          |
-| Você tem alguma outra fonte legal para acessar conteúdo gratuito ou de domínio público? |          |
-| Você tem alguma outra sugestão ou melhoria para o site do Domínio Público?              |          |
+| Qual o seu nome?                                                                        |     Leandro     |
+| Quantos anos você tem?                                                                  |     20 anos     |
+| Qual seu nível de escolaridade?                                                         |     Graduando     |
+| Qual a sua ocupação?                                                                    |     Estudante     |
+| Qual seu grau de experiência com tecnologias?                                           |     Avançado     |
+| Você já utilizou o Domínio Público?                                                     |    Não    |
+| Quais atividades você tem/teria interesse em utilizar no domínio público?               |     Baixar livros     |
+| Como você costuma acessar livros e mídias sem domínio/gratuitos?                        |      Buscando PDFs gratuitos na internet    |
+| Com que frequência você lê livros?                                                      |       Uma vez por mês   |
+| Quais tipos de conteúdo você mais consome online?                                       |        Vídeos  |
+| O processo de inscrição como colaborador é claro e fácil? Por que?                      |  Definitivamente não, porque ele entrega um manual de como se inscrever, com campos mal definidos, botões que não parecem botões e dá esse manual enquanto eu esperava um formulário de cadastro.        |
+                               
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 
 </center>
 
 ##### Listagem de problemas encontrados
+
+Ao utilizar o site, o entrevistado encontrou problemas ao navegar pela funcionalidades, não entendendo em alguns momentos como poderia realizar a inscrição para se tornar um colaborador e também o motivo do site apresentar informações de forma crua sobre os dados a serem enviados para a equipe do Domínio Público. Isso tornou seu uso desgastante e desinteressante.
+
+##### Sugestões de melhoria
+
+O entrevistado sugeriu botões mais claros ao invés de hipelinks, um formulário no site, pedindo as informações de cada tipo de colaborador e um botão de enviar ao final do formulário
 
 ##### Sugestões de melhoria
 
@@ -640,5 +639,6 @@ Conforme com o que foi listado de problemas pelo entrevistado, o novo mapeamento
 | 1.1    | 01/11/2023 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
 | 1.2    | 08/11/2023 | Relato Acessar Ajuda              | [Luciano Ricardo](https://github.com/l-ricardo) | [Ana Catarina](https://github.com/an4catarina)  |
 | 1.3    | 08/11/2023 | Relato Download de Mídia | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina)  |
-| 1.4    | 08/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina Santos](https://github.com/an4catarinna) | [Pedro Henrique](https://github.com/pedro-hsf)  |
+| 1.4    | 08/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina Santos](https://github.com/an4catarina) | [Pedro Henrique](https://github.com/pedro-hsf)  |
 | 1.5    | 08/11/2021 | Relato Avaliar Midia              | [Victor Hugo](https://github.com/ViictorHugoo)  | [Pedro Henrique](https://github.com/pedro-hsf)  |
+| 1.6    | 08/11/2021 | Relato Se tornar um colaborador   | [Maria Alice](https://github.com/Maliz30)  | [Ana Catarina Santos](https://github.com/an4catarinna)  |

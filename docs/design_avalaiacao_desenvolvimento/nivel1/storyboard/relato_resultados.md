@@ -225,13 +225,15 @@ A Tabela 7 exibe as datas da realização da avaliação.
 
 | Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
 | ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
-| ----          | ----         | ----              | ----           | ---- | ----             |
+| Maria Alice       | Leandro Almeida      | 15:30             | 15:40         | 08/11| UNB - FGA|
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 
 </center>
 
 ##### Seleção dos participantes
+ 
+ A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico
 
 ##### Registro da avaliação
 
@@ -241,9 +243,9 @@ No Video 4 e Tabela 8 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Video 4: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1HeLDhydBmI?si=hr2_Q6Kr82pKUdLi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 
 </center>
 
@@ -253,19 +255,23 @@ No Video 4 e Tabela 8 é possível verificar os registros feitos durante a avali
 
 | Pergunta                                                                                                      | Resposta |
 | ------------------------------------------------------------------------------------------------------------- | :------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |          |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |          |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |          |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |          |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |          |
+|1 – A narrativa apresentada pelo Storyboard está condizente com o título? | Sim |
+|2 – O Storyboard em questão possui lastro na realidade? | Sim |
+|3 – O Storyboard apresenta os principais aspectos da realização daquela tarefa? | Sim |
+|4 – As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica? | Sim |
+|5 – O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cénarios) identificáveis? | Sim |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 
 </center>
 
 ##### Listagem de problemas encontrados
 
+Segundo o entrevistado, o storyboard está de acordo com a realidade e representa com fidelidade a funcionalidade analisada. A partir disso, não foram encontrados problemas no storyboard.
+
 ##### Sugestões de melhoria
+
+O entrevistado apresentou apenas uma sugestão durante a entrevista, sendo essa um maior detalhamento sobre a tarefa no storyboard.
 
 ### Tarefa: Acessar estatísticas
 
@@ -513,4 +519,4 @@ A avaliação de mídia não é uma função fornecida pelo sistema, por isso no
 | 1.4    | 08/11/2023 | Relato Contatar Admin | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina)  |
 | 1.5    | 08/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina Santos](https://github.com/an4catarinna) | [Pedro Henrique](https://github.com/pedro-hsf)  |
 | 1.6    | 08/11/2021 | Relato Avaliar Midia              | [Victor Hugo](https://github.com/ViictorHugoo)  | [Pedro Henrique](https://github.com/pedro-hsf)  |
-
+| 1.6    | 08/11/2021 | Relato Se tornar um colaborador   | [Maria Alice](https://github.com/Maliz30)  | [Ana Catarina Santos](https://github.com/an4catarinna)  |
