@@ -398,7 +398,6 @@ Durante a entrevista foi usado o método investigativo conforme descrito no [Pla
 <font size="2"><p style="text-align: center">Tabela 11: Cronograma executado</p></font>
 
 | Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
-
 | ------------- | ------------ | ----------------- | -------------- | ----- | ---------------- |
 | Victor Hugo   | Ana Clara    | 19:55             | 20:10          | 08/11 | Microsoft Teams  |
 
