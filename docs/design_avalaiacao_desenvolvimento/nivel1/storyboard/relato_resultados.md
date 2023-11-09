@@ -353,7 +353,7 @@ Durante a entrevista foi usado o método investigativo conforme descrito no [Pla
 
 | Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
 | ------------- | ------------ | ----------------- | -------------- | ----- | ---------------- |
-| Victor Hugo   | Ana Beatriz  | ----              | ----           | 08/11 | Presencialmente  |
+| Victor Hugo   | Ana Beatriz  | 19:05             | 19:30          | 08/11 | Presencialmente  |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
@@ -366,13 +366,13 @@ Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o
 
 ##### Registro da avaliação
 
-No Video x e Tabela Y é possível verificar os registros feitos durante a avaliação.
+No Video 6 e Tabela 12 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video x: Gravação da avaliação</p></font>
+<font size="2"><p style="text-align: center">Video 6: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
@@ -380,7 +380,7 @@ No Video x e Tabela Y é possível verificar os registros feitos durante a avali
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela y: Sumario de perguntas</p></font>
+<font size="2"><p style="text-align: center">Tabela 12: Sumario de perguntas</p></font>
 
 | Pergunta                                                                                                      | Resposta  |
 | ------------------------------------------------------------------------------------------------------------- | :-------: |
@@ -389,18 +389,17 @@ No Video x e Tabela Y é possível verificar os registros feitos durante a avali
 | Qual seu nível de escolaridade?                                                                               | Superior incompleto |
 | Qual a sua ocupação?                                                                                          | Estudante |
 | Qual seu grau de experiência com tecnologias?                                                                 | Intermediário |
-| Você já utilizou o Domínio Público?                                                                           |           |
-| Quais atividades você tem/teria interesse em utilizar no domínio público?                                     |           |
-| Como você costuma acessar livros e mídias sem domínio/gratuitos?                                              |           |
-| Com que frequência você lê livros?                                                                            |           |
-| Quais tipos de conteúdo você mais consome online?                                                             |           |
-| Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?                                 |           |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |           |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |           |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |           |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |           |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |           |
-
+| Você já utilizou o Domínio Público?                                                                           | Não |
+| Quais atividades você tem/teria interesse em utilizar no domínio público?                                     | Acessar livros |
+| Como você costuma acessar livros e mídias sem domínio/gratuitos?                                              | Pela Internet |
+| Com que frequência você lê livros?                                                                            | Uma vez por semana |
+| Quais tipos de conteúdo você mais consome online?                                                             | Livro |
+| Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?                                 | Lazer e entreterimento |
+| Os atores envolvidos no storyboard são condizentes com a realidade?                                           | Sim |
+| Você acha que as ações do storyboard levam para o objetivo final?                                             | Sim |
+| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? | Não |
+| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          | Sim |
+| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     | Sim |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
@@ -409,40 +408,11 @@ No Video x e Tabela Y é possível verificar os registros feitos durante a avali
 
 ##### Listagem de problemas encontrados
 
-<!-- Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram problemas-->
-
-Na tabela X é possível encontar os problemas relatados, assim como sua causa, o resultado esperado e o resultado obitido.
-
-<center>
-
-<font size="2"><p style="text-align: center">Tabela X: Problemas relatados</p></font>
-
-| Problema | Causa | Resultado Esperado | Resultado Encontrado |
-| -------- | ----- | ------------------ | -------------------- |
-|          |       |                    |                      |
-
-<font size="2"><p style="text-align: center">Fonte: [Victor Hugo]().</p></font>
-
-</center>
+Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram problemas
 
 ##### Sugestões de melhoria
 
-<!-- Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram sugestões de melhoria-->
-
-Na tabela X é possível encontar as sugestões de melhoria, assim como o problema que a sugestão resolve.
-
-<center>
-
-<font size="2"><p style="text-align: center">Tabela X: Sugestões de melhoria</p></font>
-
-| Sugestão | Problema |
-| -------- | -------- |
-|          |          |
-
-<font size="2"><p style="text-align: center">Fonte: [Victor Hugo]().</p></font>
-
-</center>
-
+Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram sugestões de melhoria
 
 
 ### Tarefa: Contatar administradores

@@ -408,16 +408,16 @@ A avaliação tem como objetivo principal avaliar se a [Análise de tarefas de A
 
 ##### Método de avaliação
 
-Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação da Analise de Tarefas](planejamento_avaliacao.md). Além disso foi utilizado um questionário de X questões para guiar a entrevista. A tabela X e Y representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
+Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação da Analise de Tarefas](planejamento_avaliacao.md). Além disso foi utilizado um questionário de X questões para guiar a entrevista. A tabela 11 e 12 representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
 
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela X: Cronograma executado</p></font>
+<font size="2"><p style="text-align: center">Tabela 11: Cronograma executado</p></font>
 
 | Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
 | ------------- | ------------ | ----------------- | -------------- | ----- | ---------------- |
-| Victor Hugo   |              | ----              | ----           | 08/11 | Microsoft Teams  |
+| Victor Hugo   | Ana Clara    | 19:55             | 20:10          | 08/11 | Microsoft Teams  |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
@@ -430,13 +430,13 @@ Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o
 
 ##### Registro da avaliação
 
-No Video X e Tabela Y é possível verificar os registros feitos durante a avaliação.
+No Video 6 e Tabela 12 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video X: Gravação da avaliação</p></font>
+<font size="2"><p style="text-align: center">Video 6: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
@@ -444,26 +444,30 @@ No Video X e Tabela Y é possível verificar os registros feitos durante a avali
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela Y: Sumario de perguntas</p></font>
+<font size="2"><p style="text-align: center">Tabela 12: Sumario de perguntas</p></font>
 
 | Pergunta                                                                                | Resposta |
 | :-------------------------------------------------------------------------------------- | :------- |
-| Qual o seu nome?                                                                        |          |
-| Quantos anos você tem?                                                                  |          |
-| Qual seu nível de escolaridade?                                                         |          |
-| Qual a sua ocupação?                                                                    |          |
-| Qual seu grau de experiência com tecnologias?                                           |          |
-| Você já utilizou o Domínio Público?                                                     |          |
-| Quais atividades você tem/teria interesse em utilizar no domínio público?               |          |
-| Como você costuma acessar livros e mídias sem domínio/gratuitos?                        |          |
-| Com que frequência você lê livros?                                                      |          |
-| Quais tipos de conteúdo você mais consome online?                                       |          |
-| Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?           |          |
-| A pesquisa de mídias é fácil de usar? Por que?                                          |          |
-| Quais são as suas sugestões para melhorar a pesquisa de mídias?                         |          |
-| Qual é o seu nível de satisfação com o domínio público?                                 |          |
-| Você tem alguma outra fonte legal para acessar conteúdo gratuito ou de domínio público? |          |
-| Você tem alguma outra sugestão ou melhoria para o site do Domínio Público?              |          |
+| Qual o seu nome?                                                                        | Ana Clara Barbosa Borges |
+| Quantos anos você tem?                                                                  | 20 anos  |
+| Qual seu nível de escolaridade?                                                         | Cursando o nível superior |
+| Qual a sua ocupação?                                                                    | Estudante |
+| Qual seu grau de experiência com tecnologias?                                           | Avançado |
+| Você já utilizou o Domínio Público?                                                     | Não      |
+| Quais atividades você tem/teria interesse em utilizar no domínio público?               | Para buscar obras textuais que pussui interesse |
+| Como você costuma acessar livros e mídias sem domínio/gratuitos?                        | Compra as mídias |
+| Com que frequência você lê livros?                                                      | Uma vez por mês |
+| Quais tipos de conteúdo você mais consome online?                                       | Vídeos |
+| Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?           | Lazer e Entreterimento |
+| A pesquisa de mídias é fácil de usar? Por que?                                          | Sim, ela achou fácil |
+| Quais são as suas sugestões para melhorar a pesquisa de mídias?                         | Não tem sugestões | 
+| Avaliar a mídia é fácil? Por que?                                                       | Sim, achou intuitivo |
+| Quais são as suas sugestões para melhorar a avaliaçã de mídias?                         | Nenhuma |
+| Qual é o seu nível de satisfação com o domínio público?                                 | Médio |
+| Você tem alguma outra sugestão ou melhoria para o site do Domínio Público?              | Implementar a avaliação de mídias e melhorar esteticamente |
+| Os diagramas HTA e GOMS realmente representam a tarefa de avaliar mídia?                | Sim |
+| Você tem alguma outra sugestão ou melhoria para os diagramas?                           | Para o diagrama GOMS, corrigir o select do método 2 |
+
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
@@ -519,15 +523,17 @@ Para que a avaliação pudesse ser conduzida, foi necessário criar cenários em
 
 <!-- Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram problemas-->
 
-Na tabela X é possível encontar os problemas relatados, assim como sua causa, o resultado esperado e o resultado obitido.
-
+Na tabela 13 é possível encontar os problemas relatados.
 <center>
 
-<font size="2"><p style="text-align: center">Tabela X: Problemas relatados</p></font>
+<font size="2"><p style="text-align: center">Tabela 13: Problemas relatados</p></font>
 
-| Problema | Causa | Resultado Esperado | Resultado Encontrado |
-| -------- | ----- | ------------------ | -------------------- |
-|          |       |                    |                      |
+| Problema | Causa |
+| -------- | ----- |
+| Avaliar Mídia| Não há uma forma de avaliar mídia no site|
+| Site feio | Má distribuição de elementos na tela |
+| Diagrama GOMS | O select do método 2 está incorreto |
+
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo]().</p></font>
 
@@ -537,15 +543,17 @@ Na tabela X é possível encontar os problemas relatados, assim como sua causa, 
 
 <!-- Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram sugestões de melhoria-->
 
-Na tabela X é possível encontar as sugestões de melhoria, assim como o problema que a sugestão resolve.
+Na tabela 14 é possível encontar as sugestões de melhoria, assim como o problema que a sugestão resolve.
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela X: Sugestões de melhoria</p></font>
+<font size="2"><p style="text-align: center">Tabela 14: Sugestões de melhoria</p></font>
 
 | Sugestão | Problema |
 | -------- | -------- |
-|          |          |
+| Inclusão de avaliar as mídias conforme a equipe esta sugerindo | Falta de avaliar mídia|
+| Melhorar a estética do site | Site feio |
+| Corrigir o select do método 2 | Diagrama GOMS |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo]().</p></font>
 
