@@ -1,9 +1,6 @@
 # Relato dos Resultados do Storyboard
 
-
 ## Introdução
-
-
 
 ### Tarefa: Pesquisar por mídia
 
@@ -64,7 +61,6 @@ No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avali
 
 </center>
 
-
 ##### Listagem de problemas encontrados
 
 A partir das respostas da participante foi possível identificar que as ações do Storyboard avaliado, possam não estar em uma ordem identificável, por não seguir as ações realizadas pela partcipante ao realizar a tarefa no site, e não fluida, pela ação mostrada ser intermitente e não contínua.
@@ -72,7 +68,6 @@ A partir das respostas da participante foi possível identificar que as ações 
 ##### Sugestões de melhoria
 
 A partir das falas da entrevistada, uma sugestão de melhoria seria melhorar a fluidez das ações no storyboard, dando uma continuidade maior as mesmas, além disso seria importante melhorar a clareza e identificação das ações do Storyboard.
-
 
 ### Tarefa: Fazer download da mídia
 
@@ -132,7 +127,6 @@ No Video 2 e Tabela 4 é possível verificar os registros feitos durante a avali
 
 </center>
 
-
 ##### Listagem de problemas encontrados
 
 Nesta etapa do Storyboard, nenhum problema foi identificado.
@@ -142,6 +136,7 @@ Nesta etapa do Storyboard, nenhum problema foi identificado.
 O entrevistado observou que existem potenciais oportunidades para tornar a realização dos objetivos dos usuários mais eficiente. No entanto, dada a natureza relativamente simples da tarefa, ele também destacou que a seção de Downloads se apresenta de forma coerente e descomplicada.
 
 
+##### Sugestões de melhoria
 
 ### Tarefa: Acessar ajuda
 
@@ -170,7 +165,6 @@ A Tabela 5 exibe as datas da realização da avaliação.
 ##### Seleção dos participantes
 
 A seleção do participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que o entrevistado tem idade entre 18-35 anos é do sexo masculino e possui ensino superior incompleto.
-
 
 ##### Registro da avaliação
 
@@ -202,7 +196,6 @@ No Video 3 e Tabela 6 é possível verificar os registros feitos durante a avali
 
 </center>
 
-
 ##### Listagem de problemas encontrados
 
 O entrevistado não declarou nenhum problema no storyboard, porém foi possível identificar uma certa dificuldade em ler alguns balões de dialogo.
@@ -212,7 +205,7 @@ O entrevistado não declarou nenhum problema no storyboard, porém foi possível
 O entrevistado não deu nenhuma sugestão de melhoria no storyboard, porém com base nos problemas observados algo que deve ser feito é reescrever os textos do storyboard de maneira mais legivel.
 
 
-
+##### Sugestões de melhoria
 
 ### Tarefa: Se tornar um colaborador
 
@@ -239,7 +232,6 @@ A Tabela 7 exibe as datas da realização da avaliação.
 </center>
 
 ##### Seleção dos participantes
-
 
 ##### Registro da avaliação
 
@@ -271,14 +263,9 @@ No Video 4 e Tabela 8 é possível verificar os registros feitos durante a avali
 
 </center>
 
-
 ##### Listagem de problemas encontrados
+
 ##### Sugestões de melhoria
-
-
-
-
-
 
 ### Tarefa: Acessar estatísticas
 
@@ -296,16 +283,17 @@ A Tabela 9 exibe as datas da realização da avaliação.
 
 <font size="2"><p style="text-align: center">Tabela 9: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
-| ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
-| ----          | ----         | ----              | ----           | ---- | ----             |
+| Entrevistador       | Entrevistado             | Horário de Início | Horário de Fim | Data        | Local/Plataforma |
+| ------------------- | ------------------------ | ----------------- | -------------- | ----------- | ---------------- |
+| Ana Catarina Santos | Gustavo Ribeiro Linhares | 22:16             | 22:20          | 008/11/2023 | Google Teams     |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina)</p></font>
 
 </center>
 
 ##### Seleção dos participantes
 
+A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico.
 
 ##### Registro da avaliação
 
@@ -315,9 +303,9 @@ No Video 5 e Tabela 10 é possível verificar os registros feitos durante a aval
 
 <font size="2"><p style="text-align: center">Video 5: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8QvbXiOlneQ?si=8YsS3PgaPvHYK11I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina)</p></font>
 
 </center>
 
@@ -325,25 +313,27 @@ No Video 5 e Tabela 10 é possível verificar os registros feitos durante a aval
 
 <font size="2"><p style="text-align: center">Tabela 10: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |          |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |          |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |          |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |          |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |          |
+| Pergunta                                                                                                      | Resposta                                                                    |
+| ------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- |
+| Os atores envolvidos no storyboard são condizentes com a realidade?                                           | Sim                                                                         |
+| Você acha que as ações do storyboard levam para o objetivo final?                                             | Sim                                                                         |
+| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? | O storyboard representa muito bem o funcionamento do acesso as estatísticas |
+| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          | Sim                                                                         |
+| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     | Sim                                                                         |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina)</p></font>
 
 </center>
 
+[Clique aqui para acessar o termo de consentimento](../../../assets/termos_de_consentimento/termodeconsentimento_storyboards-Gustavo.pdf)
 
 ##### Listagem de problemas encontrados
+
+Não foi encontrado nenhum problema na análise do storyboard.
+
 ##### Sugestões de melhoria
 
-
-
-
+Não houveram sugestões de melhorias
 
 ### Tarefa: Avaliar Midia
 
@@ -351,11 +341,9 @@ No Video 5 e Tabela 10 é possível verificar os registros feitos durante a aval
 
 A avaliação tem como objetivo principal avaliar se o [Storyboard de Avaliar Midia](storyboards.md) está em concordancia com as ações tomadas durante o uso real da interface.
 
-
 ##### Método de avaliação
 
 Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação do Storyboard](planejamento_avaliacao.md). Além disso foi utilizado um questionário de X questões para guiar a entrevista. A tabela X e Y representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
-
 
 <center>
 
@@ -364,7 +352,6 @@ Durante a entrevista foi usado o método investigativo conforme descrito no [Pla
 | Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
 | ------------- | ------------ | ----------------- | -------------- | ----- | ---------------- |
 | Victor Hugo   | Ana Beatriz  | ----              | ----           | 08/11 | Presencialmente  |
-
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
@@ -404,7 +391,6 @@ No Video 6 e Tabela 12 é possível verificar os registros feitos durante a aval
 
 </center>
 
-
 ##### Listagem de problemas encontrados
 
 <!-- Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram problemas-->
@@ -440,8 +426,6 @@ Na tabela X é possível encontar as sugestões de melhoria, assim como o proble
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo]().</p></font>
 
 </center>
-
-
 
 ### Tarefa: Contatar administradores
 
@@ -501,7 +485,6 @@ No Video 7 e Tabela 14 é possível verificar os registros feitos durante a aval
 
 </center>
 
-
 ##### Listagem de problemas encontrados
 
 Durante a entrevista o entrevistado foi questionado se havia notado alguma inconformidade entre o storyboard e a tarefa real, ele respondeu que não havia detectado nenhum problema.
@@ -524,15 +507,11 @@ A partir dos problemas observados será realizada a reescrita de alguns trechos 
 
 O storyboard apresentado se fez legível ao entrevistado, demonstrando durante a entrevista nenhum tipo correção.
 
-
+A partir das sugestões coletadas, sera realizada uma reoganização e reconstrução do storyboard em questão, para que as melhorias aclamadas possam ser resolvidas, além disso a clareza do artefato também será melhorada.
 
 ## Referências Bibliográficas
 
-
-
 ## Bibliografia
-
-
 
 ## Histórico de Versões
 
@@ -543,3 +522,4 @@ O storyboard apresentado se fez legível ao entrevistado, demonstrando durante a
 | 1.2    | 08/11/2021 | Relato Acessar Ajuda              | [Luciano Ricardo](https://github.com/l-ricardo) | [Ana Catarina](https://github.com/an4catarina)  |
 | 1.3    | 08/11/2021 | Relato Download de Mídia          | [Pedro Henrique](https://github.com/pedro-hsf)  | [Ana Catatrina](https://github.com/an4catarina) |
 | 1.4    | 08/11/2023 | Relato Contatar Admin | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.5    | 01/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina Santos](https://github.com/an4catarinna) | [Pedro Henrique](https://github.com/pedro-hsf)  |

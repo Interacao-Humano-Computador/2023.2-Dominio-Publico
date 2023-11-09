@@ -2,8 +2,6 @@
 
 ## Introdução
 
-
-
 ### Tarefa: Pesquisar por mídia
 
 ##### Objetivo e âmbito da avaliação
@@ -66,16 +64,11 @@ No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avali
 
 </center>
 
-
 ##### Listagem de problemas encontrados
 
 Durante a avaliação, a participante achou bem confuso o estilo de pesquisa oferecido pelo site, com vários campos, além disso não conseguiu identificar que havia uma outra forma de encontrar a mídia desejada, somente clicando na tela, pela não diferenciação dos itens clicáveis na tela.
 
 ##### Sugestões de melhoria
-
-
-
-
 
 ### Tarefa: Fazer download da mídia
 
@@ -106,7 +99,6 @@ A Tabela 3 exibe as datas da realização da avaliação.
 
 A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido,
 sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico.
-
 
 ##### Registro da avaliação
 
@@ -140,7 +132,6 @@ No Video 2 e Tabela 4 é possível verificar os registros feitos durante a avali
 <font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf)</p></font>
 
 </center>
-
 
 ##### Listagem de problemas encontrados
 
@@ -177,7 +168,6 @@ A Tabela 5 exibe as datas da realização da avaliação.
 </center>
 
 ##### Seleção dos participantes
-
 
 ##### Registro da avaliação
 
@@ -227,7 +217,6 @@ No Video 3 e Tabela 6 é possível verificar os registros feitos durante a avali
 
 </center>
 
-
 ##### Listagem de problemas encontrados
 
 Os principais problemas identificados pelo esntrevistado se relacionaram com a pesquisa de midias, esses dados serão utilizados na respectiva tarefa. No que se diz respeito a tarefa de acessar ajuda o entrevistado nunca utilizou a funcionalidade por não saber que existia e por nunca ter sido necessário.
@@ -236,8 +225,7 @@ Os principais problemas identificados pelo esntrevistado se relacionaram com a p
 
 Em relação a tarefa de acessar ajuda nenhuma sugestão foi dada.
 
-
-
+##### Sugestões de melhoria
 
 ### Tarefa: Se tornar um colaborador
 
@@ -264,7 +252,6 @@ A Tabela 7 exibe as datas da realização da avaliação.
 </center>
 
 ##### Seleção dos participantes
-
 
 ##### Registro da avaliação
 
@@ -312,20 +299,15 @@ No Video 4 e Tabela 8 é possível verificar os registros feitos durante a avali
 
 </center>
 
-
 ##### Listagem de problemas encontrados
+
 ##### Sugestões de melhoria
-
-
-
-
-
 
 ### Tarefa: Acessar estatísticas
 
 ##### Objetivo e âmbito da avaliação
 
-A finalidade da avaliação foi verificar a concordância entre a HTA de "Pesquisar por mídia" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
+A finalidade da avaliação foi verificar a concordância entre a HTA de "Acessar estatísticas" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
 
 ##### Método de avaliação
 
@@ -337,16 +319,18 @@ A Tabela 9 exibe as datas da realização da avaliação.
 
 <font size="2"><p style="text-align: center">Tabela 9: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
-| :-----------: | :----------: | :---------------: | :------------: | :---: | :--------------: |
-|     ----      |     ----     |       ----        |      ----      | ----  |       ----       |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+| Entrevistador       | Entrevistado             | Horário de Início | Horário de Fim | Data       | Local/Plataforma |
+| ------------------- | ------------------------ | ----------------- | -------------- | ---------- | ---------------- |
+| Ana Catarina Santos | Gustavo Ribeiro Linhares | 21:50             | 21:10          | 08/11/2023 | Google Teams     |
+
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina)</p></font>
 
 </center>
 
 ##### Seleção dos participantes
 
+A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico.
 
 ##### Registro da avaliação
 
@@ -356,9 +340,9 @@ No Video 5 e Tabela 10 é possível verificar os registros feitos durante a aval
 
 <font size="2"><p style="text-align: center">Video 5: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mv8osAVwS8A?si=voZ67dMPDsJ08cjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina)</p></font>
 
 </center>
 
@@ -366,38 +350,39 @@ No Video 5 e Tabela 10 é possível verificar os registros feitos durante a aval
 
 <font size="2"><p style="text-align: center">Tabela 10: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                | Resposta |
-| :-------------------------------------------------------------------------------------- | :------- |
-| Qual o seu nome?                                                                        |          |
-| Quantos anos você tem?                                                                  |          |
-| Qual seu nível de escolaridade?                                                         |          |
-| Qual a sua ocupação?                                                                    |          |
-| Qual seu grau de experiência com tecnologias?                                           |          |
-| Você já utilizou o Domínio Público?                                                     |          |
-| Quais atividades você tem/teria interesse em utilizar no domínio público?               |          |
-| Como você costuma acessar livros e mídias sem domínio/gratuitos?                        |          |
-| Com que frequência você lê livros?                                                      |          |
-| Quais tipos de conteúdo você mais consome online?                                       |          |
-| Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?           |          |
-| A pesquisa de mídias é fácil de usar? Por que?                                          |          |
-| Quais são as suas sugestões para melhorar a pesquisa de mídias?                         |          |
-| O sistema de retirar dúvidas é fácil e claro? Por que?                                  |          |
-| O processo de inscrição como colaborador é claro e fácil? Por que?                      |          |
-| A documentação de ajuda é clara e abrangente? Por que?                                  |          |
-| O processo de download é fácil e rápido?                                                |          |
-| As estatísticas do site são claras, completas e úteis? Por que?                         |          |
-| Qual é o seu nível de satisfação com o domínio público?                                 |          |
-| Você tem alguma outra fonte legal para acessar conteúdo gratuito ou de domínio público? |          |
-| Você tem alguma outra sugestão ou melhoria para o site do Domínio Público?              |          |
+| Pergunta                                                                   | Resposta                                                                                                                                          |
+| :------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Qual o seu nome?                                                           | Gustavo Ribeiro Linhares                                                                                                                          |
+| Quantos anos você tem?                                                     | 19                                                                                                                                                |
+| Qual seu nível de escolaridade?                                            | Ensino superior                                                                                                                                   |
+| Qual a sua ocupação?                                                       | Estudante                                                                                                                                         |
+| Qual seu grau de experiência com tecnologias?                              | Intermediário                                                                                                                                     |
+| Você já utilizou o Domínio Público?                                        | Já                                                                                                                                                |
+| Quais atividades você tem/teria interesse em utilizar no domínio público?  | Nunca                                                                                                                                             |
+| Como você costuma acessar livros e mídias sem domínio/gratuitos?           | O entrevistado costuma procurar o PDF online ou comprar em lojas online                                                                           |
+| Com que frequência você lê livros?                                         | 1 vez pro ano                                                                                                                                     |
+| Quais tipos de conteúdo você mais consome online?                          | Tecnologia e finanças                                                                                                                             |
+| A pesquisa de mídias é fácil de usar? Por que?                             | O entrevistado relatou que acha que o sistema é de fácil acesso e simples, sendo que o acesso a mídia é simples                                   |
+| Quais são as suas sugestões para melhorar a pesquisa de mídias?            | Não                                                                                                                                               |
+| O sistema de retirar dúvidas é fácil e claro? Por que?                     | É um processo simples porém poderia ser melhor, deveria ter uma filtragem do da dúvida que está sendo relatada para assim filtrar melhor os dados |
+| O processo de download é fácil e rápido?                                   | O processo de download é simples e rápido, foram relatadas formas diferente de fazer download dos coonteúdos, ação que deveria ser padronizada.   |
+| As estatísticas do site são claras, completas e úteis? Por que?            | O tipo de pesquisa é fácil e claro, porém o entrevistado relatou que parte visual poderia ser melhor.                                             |
+| Qual é o seu nível de satisfação com o domínio público?                    | Satisfação média                                                                                                                                  |
+| Você tem alguma outra sugestão ou melhoria para o site do Domínio Público? | O sistema dá um ênfase bom para o conteúdo porém o site não é visual, ele poderia mostrar melhor os elementos e ter um design mais agradável      |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina)</p></font>
 
 </center>
 
+[Clique aqui para acessar o termo de consentimento](../../../assets/termos_de_consentimento/termodeconsentimento_analisedetarefas-Gustavo.pdf)
 
 ##### Listagem de problemas encontrados
+
+- Em alguns tipos de mídia, ao tentar acessar a aba de informções, o sistema faz o download direto;
+
 ##### Sugestões de melhoria
 
+- O site poderia ter um design agradável e mais atual;
 
 ### Tarefa: Avaliar Midia
 
@@ -405,11 +390,9 @@ No Video 5 e Tabela 10 é possível verificar os registros feitos durante a aval
 
 A avaliação tem como objetivo principal avaliar se a [Análise de tarefas de Avaliar Mídia](../../../analise_de_requisitos/analise_de_tarefas/hta.md) está em concordancia com as ações tomadas durante o uso real da interface.
 
-
 ##### Método de avaliação
 
 Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação da Analise de Tarefas](planejamento_avaliacao.md). Além disso foi utilizado um questionário de X questões para guiar a entrevista. A tabela X e Y representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
-
 
 <center>
 
@@ -418,7 +401,6 @@ Durante a entrevista foi usado o método investigativo conforme descrito no [Pla
 | Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
 | :-----------: | :----------: | :---------------: | :------------: | :---: | :--------------: |
 |  Victor Hugo  |              |       ----        |      ----      | 08/11 | Microsoft Teams  |
-
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
@@ -474,7 +456,6 @@ No Video X e Tabela Y é possível verificar os registros feitos durante a avali
 
 </center>
 
-
 ##### Listagem de problemas encontrados
 
 <!-- Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram problemas-->
@@ -510,8 +491,6 @@ Na tabela X é possível encontar as sugestões de melhoria, assim como o proble
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo]().</p></font>
 
 </center>
-
-
 
 ### Tarefa: Contatar administradores
 
@@ -576,7 +555,6 @@ No Video 7 e Tabela 14 é possível verificar os registros feitos durante a aval
 
 </center>
 
-
 ##### Listagem de problemas encontrados
 
 O entrevistado mostrou ter dificuldades ao encontrar algo relacionado a contatar administradores, sendo um processo desgastante haja vista que ele interagiu com outras partes do sistema até encontrar o que queria. Além disso, no momento de submeter a sua mensagem, ele ficou em dúvida de qual botão clicar, considerando que haviam dois botões com o mesmo propósito de enviar email.
@@ -598,11 +576,7 @@ Conforme com o que foi listado de problemas pelo entrevistado, o novo mapeamento
 
 ## Referências Bibliográficas
 
-
-
 ## Bibliografia
-
-
 
 ## Histórico de Versões
 
@@ -612,3 +586,4 @@ Conforme com o que foi listado de problemas pelo entrevistado, o novo mapeamento
 | 1.1    | 01/11/2023 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
 | 1.2    | 08/11/2023 | Relato Acessar Ajuda              | [Luciano Ricardo](https://github.com/l-ricardo) | [Ana Catarina](https://github.com/an4catarina)  |
 | 1.3    | 08/11/2023 | Relato Download de Mídia | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.5    | 01/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina Santos](https://github.com/an4catarinna) | [Pedro Henrique](https://github.com/pedro-hsf)  |
