@@ -38,15 +38,15 @@ As verificações devem ser realizadas no perído de 14 de novembro de 2023 até
 | Atividade | Data | Responsável |
 | --------- | ---- | ----------- |
 | Planejamento | 14/11/2023 | [Victor Hugo]() |
-| Verificação do artefato Perfil do Usuário | 14/11/2023 | [Luciano Ricardo]() |
-| Verificação do artefato Personas | 14/11/2023 | [Luciano Ricardo]() |
-| Verificação do artefato Cenários | 14/11/2023 | [Luciano Ricardo]() |
-| Verificação do artefato Aspectos Éticos | 14/11/2023 | [Luciano Ricardo]() |
-| Verificação do artefato Análise de Tarefas | 14/11/2023 | [Maria Alice]() |
-| Verificação do artefato Principios e Diretrizes Gerais | 14/11/2023 | [Victor Hugo]() |
-| Verificação do artefato Metas de Usabilidade | 14/11/2023 | [Victor Hugo]() |
-| Verificação do artefato Caracteristicas Gerais | 14/11/2023 | [Victor Hugo]() |
-| Verificação do artefato Guia de Estilo | 14/11/2023 | [Victor Hugo]() |
+| Verificação e relato do artefato Perfil do Usuário | 14/11/2023 | [Luciano Ricardo]() |
+| Verificação e relato do artefato Personas | 14/11/2023 | [Luciano Ricardo]() |
+| Verificação e relato do artefato Cenários | 14/11/2023 | [Luciano Ricardo]() |
+| Verificação e relato do artefato Aspectos Éticos | 14/11/2023 | [Luciano Ricardo]() |
+| Verificação e relato do artefato Análise de Tarefas | 14/11/2023 | [Maria Alice]() |
+| Verificação e relato do artefato Principios e Diretrizes Gerais | 14/11/2023 | [Victor Hugo]() |
+| Verificação e relato do artefato Metas de Usabilidade | 14/11/2023 | [Victor Hugo]() |
+| Verificação e relato do artefato Caracteristicas Gerais | 14/11/2023 | [Victor Hugo]() |
+| Verificação e relato do artefato Guia de Estilo | 14/11/2023 | [Victor Hugo]() |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo]()</p></font>
 
