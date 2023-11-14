@@ -49,7 +49,7 @@ O checklist feito apos a verificação pode ser visualizado a seguir na tabela 2
 
 ## Bibliografia 
 
-> Bilheteria Digital. Heat-map. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/planejamentoProj/heat/>>. Acesso em: 14 de nov de 2023.
+> BRB - Mobildade. Heat-map. Repositório do Grupo 5 BRB - Mobilidade da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/planejamentoProj/heat/>>. Acesso em: 14 de nov de 2023.
 
 ## Referencias Bibliograficas
 

@@ -1,6 +1,6 @@
 # Introdução 
 
-A verificação do Cronograma Planejado é uma forma de validar o que foi feito pelo Grupo 5, na construção do Cronograma Planejado de horários.
+A verificação do Cronograma Planejado é uma forma de validar o que foi feito pelo Grupo 5, na construção do artefato Cronograma Planejado de horários.
 
 ## Objetivo
 
@@ -58,9 +58,14 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 
 ## Bibliografia 
 
+> BRB - Mobildade. Heat-map. Repositório do Grupo 5 BRB - Mobilidade da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/planejamentoProj/heat/>>. Acesso em: 14 de nov de 2023.
+
 ## Referencias Bibliograficas
+
+<a id="FRM3" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
+
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| ------ | ---- | --------- | --------- | ----------- |
+| 1.0 | 14/11 | Construção e elaboração do documento | [Gustavo França](https://github.com/gustavofbs) | [Harryson Martins](https://github.com/harry-cmartin) |
