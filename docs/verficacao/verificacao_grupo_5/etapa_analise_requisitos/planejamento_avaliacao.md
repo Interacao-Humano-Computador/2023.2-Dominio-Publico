@@ -13,9 +13,9 @@ A metodologia escolhida para o processo de verificação foi a de Inspeção, or
 
 ### Participantes
 
+Os artefatos desta etapa serão verificados pelos integrantes [Luciano Ricardo](), [Maria Alice]() e [Victor Hugo]() do Grupo 4. A revisão será destribuida entre estes mesmo integrantes, de forma que os artefatos sejam sempre verificados por outro que não o autor.
 
-
-### Artefatos verificados <!-- mudar -->
+### Artefatos para verificação
 
 
 
@@ -35,3 +35,4 @@ A metodologia escolhida para o processo de verificação foi a de Inspeção, or
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
+| 1.0 | 14/11/2023 | Criação e Estruturação | Victor Hugo | Luciano Ricardo |
