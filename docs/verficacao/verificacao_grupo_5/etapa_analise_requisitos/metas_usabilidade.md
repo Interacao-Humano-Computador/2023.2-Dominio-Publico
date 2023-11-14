@@ -34,3 +34,4 @@ O artefato apresentou seguir os padrões estabelecidos pela disciplina, sendo ne
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
+| 1.0 | 14/11/2023 | Criação e preenchimento | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz 30) |
