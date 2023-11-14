@@ -13,7 +13,7 @@ A metodologia escolhida para o processo de verificação foi a de Inspeção, or
 
 ### Participantes
 
-Os artefatos desta etapa serão verificados pelos integrantes [Luciano Ricardo](), [Maria Alice]() e [Victor Hugo]() do Grupo 4. A revisão será destribuida entre estes mesmo integrantes, de forma que os artefatos sejam sempre verificados por outro que não o autor.
+Os artefatos desta etapa serão verificados pelos integrantes [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30) e [Victor Hugo](https://github.com/ViictorHugoo) do Grupo 4. A revisão será destribuida entre estes mesmo integrantes, de forma que os artefatos sejam sempre verificados por outro que não o autor.
 
 ### Artefatos para verificação
 
@@ -37,16 +37,16 @@ As verificações devem ser realizadas no perído de 14 de novembro de 2023 até
 
 | Atividade | Data | Responsável |
 | --------- | ---- | ----------- |
-| Planejamento | 14/11/2023 | [Victor Hugo]() |
-| Verificação e relato do artefato Perfil do Usuário | 14/11/2023 | [Luciano Ricardo]() |
-| Verificação e relato do artefato Personas | 14/11/2023 | [Luciano Ricardo]() |
-| Verificação e relato do artefato Cenários | 14/11/2023 | [Luciano Ricardo]() |
-| Verificação e relato do artefato Aspectos Éticos | 14/11/2023 | [Luciano Ricardo]() |
-| Verificação e relato do artefato Análise de Tarefas | 14/11/2023 | [Maria Alice]() |
-| Verificação e relato do artefato Principios e Diretrizes Gerais | 14/11/2023 | [Victor Hugo]() |
-| Verificação e relato do artefato Metas de Usabilidade | 14/11/2023 | [Victor Hugo]() |
-| Verificação e relato do artefato Caracteristicas Gerais | 14/11/2023 | [Victor Hugo]() |
-| Verificação e relato do artefato Guia de Estilo | 14/11/2023 | [Victor Hugo]() |
+| Planejamento | 14/11/2023 | [Victor Hugo](https://github.com/ViictorHugoo) |
+| Verificação e relato do artefato Perfil do Usuário | 14/11/2023 | [Luciano Ricardo](https://github.com/l-ricardo) |
+| Verificação e relato do artefato Personas | 14/11/2023 | [Luciano Ricardo](https://github.com/l-ricardo) |
+| Verificação e relato do artefato Cenários | 14/11/2023 | [Luciano Ricardo](https://github.com/l-ricardo) |
+| Verificação e relato do artefato Aspectos Éticos | 14/11/2023 | [Luciano Ricardo](https://github.com/l-ricardo) |
+| Verificação e relato do artefato Análise de Tarefas | 14/11/2023 | [Maria Alice](https://github.com/Maliz30) |
+| Verificação e relato do artefato Principios e Diretrizes Gerais | 14/11/2023 | [Victor Hugo](https://github.com/ViictorHugoo) |
+| Verificação e relato do artefato Metas de Usabilidade | 14/11/2023 | [Victor Hugo](https://github.com/ViictorHugoo) |
+| Verificação e relato do artefato Caracteristicas Gerais | 14/11/2023 | [Victor Hugo](https://github.com/ViictorHugoo) |
+| Verificação e relato do artefato Guia de Estilo | 14/11/2023 | [Victor Hugo](https://github.com/ViictorHugoo) |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo]()</p></font>
 
@@ -65,7 +65,7 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 | -- | --------- | --------- |
 
 
-<font size="2"><p style="text-align: center">Fonte: [Victor Hugo]()</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 </center>
 
 ### Perfil do Usuário
@@ -77,7 +77,7 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 | -- | --------- | --------- |
 
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo]()</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 </center>
 
 
@@ -89,7 +89,7 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo]()</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 </center>
 
 ### Cenários
@@ -100,7 +100,7 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo]()</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 </center>
 
 
@@ -112,7 +112,7 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo]()</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 </center>
 
 
@@ -124,7 +124,7 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
 
-<font size="2"><p style="text-align: center">Fonte: [Maria Alice]()</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 </center>
 
 
@@ -136,7 +136,7 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
 
-<font size="2"><p style="text-align: center">Fonte: [Victor Hugo]()</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 </center>
 
 
@@ -148,7 +148,7 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
 
-<font size="2"><p style="text-align: center">Fonte: [Victor Hugo]()</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 </center>
 
 
@@ -160,7 +160,7 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
 
-<font size="2"><p style="text-align: center">Fonte: [Victor Hugo]()</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 </center>
 
 
@@ -172,7 +172,7 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
 
-<font size="2"><p style="text-align: center">Fonte: [Victor Hugo]()</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 </center>
 
 
@@ -191,4 +191,4 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0 | 14/11/2023 | Criação e Estruturação | [Victor Hugo]() | [Luciano Ricardo]() |
+| 1.0 | 14/11/2023 | Criação e Estruturação | [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo) |
