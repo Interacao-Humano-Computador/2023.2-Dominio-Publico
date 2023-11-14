@@ -58,7 +58,7 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 
 ## Bibliografia 
 
-> BRB - Mobildade. Heat-map. Repositório do Grupo 5 BRB - Mobilidade da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/planejamentoProj/heat/>>. Acesso em: 14 de nov de 2023.
+> BRB - Mobildade. Heat-map. Repositório do Grupo 5 BRB - Mobilidade da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/planejamentoProj/cronograma/>>. Acesso em: 14 de nov de 2023.
 
 ## Referencias Bibliograficas
 
