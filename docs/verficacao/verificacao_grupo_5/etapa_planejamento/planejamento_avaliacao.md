@@ -76,17 +76,68 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 |O artefato possui histórico de versão atualizado?|          |          |
 |Os textos estão em norma padrão e sem erros?|          |          |
 |O artefato possui Bibliografia?|          |          |
-|Todas as tarefas que serão realizadas estão no cronograma?|||
-|As tarefas estão bem subdivididas|||
+|Todas as tarefas que sforam realizadas estão no cronograma?|||
 |A tabela é chamada no texto?|||
 |A tabela possui fonte e nome?|||
 |Todas as tarefas possuem revisor?|||
+|As tarefas realizadas foram feitas nas datas planejadas?|||
+
+### Heat-map
+
+| Verificação | Avaliação | Sugestões |
+|:--------:|:--------:|:--------:|
+|O artefato possui introdução?|          |          |
+|O artefato possui histórico de versão atualizado?|          |          |
+|Os textos estão em norma padrão e sem erros?|          |          |
+|O artefato possui Bibliografia?|          |          |
+|É mostrada a disponibilidade de todos os membros no heat-map?|||
+
+### Processo Design
+
+| Verificação | Avaliação | Sugestões |
+|:--------:|:--------:|:--------:|
+|O artefato possui introdução?|          |          |
+|O artefato possui histórico de versão atualizado?|          |          |
+|Os textos estão em norma padrão e sem erros?|          |          |
+|O artefato possui Bibliografia?|          |          |
+|A escolha do ciclo de vida foi fundamentada?|||
+|Foi detalhado as fases e como será executado o ciclo de vida?|||
+
+### Site escolhido 
+
+| Verificação | Avaliação | Sugestões |
+|:--------:|:--------:|:--------:|
+|O artefato possui introdução?|          |          |
+|O artefato possui histórico de versão atualizado?|          |          |
+|Os textos estão em norma padrão e sem erros?|          |          |
+|O artefato possui Bibliografia?|          |          |
+|O site escolhido foi determinado dentre os sites individuais?|||
+|O motivo da escolha foi justificado?|||
+|Foi detalhado os problemas encontrados no site escolhido?|||
+|São citadas as heuristicas usadas para encontrar os problemas?|||
+
+### Sites avaliados
+
+| Verificação | Avaliação | Sugestões |
+|:--------:|:--------:|:--------:|
+|O artefato possui introdução?|          |          |
+|O artefato possui histórico de versão atualizado?|          |          |
+|Os textos estão em norma padrão e sem erros?|          |          |
+|O artefato possui Bibliografia?|          |          |
+|São evidenciados todos os sites escolhidos por cada membro?|||
+|Cada site avaliado possui uma descrição?|||
+|São evidenciados os problemas de cada site exposto?|||
 
 ## Bibliografia 
 
+> Bilheteria Digital. Verificação. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/planejamento/>>. Acesso em: 14 de nov de 2023.
+
 ## Referencias Bibliograficas
+
+<a id="FRM3" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| ------ | ---- | --------- | --------- | ----------- |
+| 1.0 | 14/11 | Construção e elaboração do documento |  [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
