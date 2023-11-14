@@ -72,6 +72,11 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
+| 1  | Há um texto introdutório sobre o artefato?| |
+| 2  | Há a referencia/bibliografia? | |
+| 3  | O artefato possui um histórico de versões padronizado? | |
+| 4  | As imagens e tabelas são chamadas no texto? | |
+| 5  | As imagens e tabelas possuem titulo e fonte? | |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
@@ -132,6 +137,17 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
+| 1  | Há um texto introdutório sobre o artefato?| |
+| 2  | Há a referencia/bibliografia? | |
+| 3  | O artefato possui um histórico de versões padronizado? | |
+| 4  | As imagens e tabelas são chamadas no texto? | |
+| 5  | As imagens e tabelas possuem titulo e fonte? | |
+
+| | O objetivo da análise de tarefas é apresentado? ||
+| | Há ao menos duas técnicas para especificar as tarefas? ||
+| | O HTA apresenta diagrama, legenda e representaçãoem tabela? ||
+| | O GOMS foi representado pelos modelos: KLM, CMN-GOMS, CPM-GOMS, CTT | |
+| | Foi utilizada alguma técnica para especificar as tarefas?||
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 </center>
