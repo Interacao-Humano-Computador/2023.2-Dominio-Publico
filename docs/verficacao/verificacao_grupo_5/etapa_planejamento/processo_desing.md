@@ -59,5 +59,7 @@ O checklist feito apos a verificação pode ser visualizado a seguir na tabela 2
 
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+
+| Versão | Data       | Descrição                        | Autor(es)                                                                                  | Revisor(es)                                    |
+| ------ | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
 | 1.0 | 14/11 | Construção e elaboração do documento | [Harryson Martins](https://github.com/harry-cmartin) | [Luciano Ricardo](https://github.com/l-ricardo)|
