@@ -54,12 +54,128 @@ As verificações devem ser realizadas no perído de 14 de novembro de 2023 até
 
 ## Checklist 
 
+Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Simone Barbosa, os itens de verificação listados no plano de ensino da disciplina e as principais tarefas realizadas na elaboração de cada artefato, foram construidas checklists que buscam melhor organizar e guiar a verificação. As checklists foram dividas em Checklist geral, representada pela tabela 2, contendo verificações que deverão ser feitas em cada um dos artefatos; e checklist especificas, com checagens voltadas para o artefato especifico a qual se refere, as tabelas de 3 a 11 representam, respectivamente, cada um dos artefatos listado em **Artefatos para Verificação**.
+
+### Geral
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 2: Checklist Geral</p></font>
+
+| N° | Descrição | Resultado |
+| -- | --------- | --------- |
 
 
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo]()</p></font>
+</center>
 
-<!-- As checklists foram construídas levando em conta os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos tendo como referência básica o livro Interação Humano-Computador de Bruno Silva e Simone Barbosa.3 Além dos itens listados anteriormente, também, serão analisados o relatório referente às entregas produzido pelo o monitor do grupo (Arthur Henrique) e as checklist previamente construídas na verificação do grupo 2 na etapa 2.
+### Perfil do Usuário
 
-Com o intuito de melhor organizar a verificação, a checklist será dividida em 6 checklists sendo que uma deverá estar presente em todas as etapas de verificação, no caso a checklist geral. As checklists são as seguintes: Geral, Aspectos Éticos, Perfil de Usuário, Cenários, Personas, Análise de Tarefas - Análise Hierárquica de Tarefas e Análise de Tarefas - GOMS. As tabelas de 3 a 9 apresenta as checklists de verificação.-->
+<center>
+<font size="2"><p style="text-align: center">Tabela 3: Checklist ...</p></font>
+
+| N° | Descrição | Resultado |
+| -- | --------- | --------- |
+
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo]()</p></font>
+</center>
+
+
+### Personas
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 4: Checklist ...</p></font>
+
+| N° | Descrição | Resultado |
+| -- | --------- | --------- |
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo]()</p></font>
+</center>
+
+### Cenários
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 5: Checklist ...</p></font>
+
+| N° | Descrição | Resultado |
+| -- | --------- | --------- |
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo]()</p></font>
+</center>
+
+
+### Aspectos Éticos
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 6: Checklist ...</p></font>
+
+| N° | Descrição | Resultado |
+| -- | --------- | --------- |
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo]()</p></font>
+</center>
+
+
+### Análise de Tarefas
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 7: Checklist ...</p></font>
+
+| N° | Descrição | Resultado |
+| -- | --------- | --------- |
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Alice]()</p></font>
+</center>
+
+
+### Principios e Diretrizes Gerais
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 8: Checklist ...</p></font>
+
+| N° | Descrição | Resultado |
+| -- | --------- | --------- |
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo]()</p></font>
+</center>
+
+
+### Metas de Usabilidade
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 9: Checklist ...</p></font>
+
+| N° | Descrição | Resultado |
+| -- | --------- | --------- |
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo]()</p></font>
+</center>
+
+
+### Caracteristicas Gerais
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 10: Checklist ...</p></font>
+
+| N° | Descrição | Resultado |
+| -- | --------- | --------- |
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo]()</p></font>
+</center>
+
+
+### Guia de Estilo
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 11: Checklist ...</p></font>
+
+| N° | Descrição | Resultado |
+| -- | --------- | --------- |
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo]()</p></font>
+</center>
+
+
 ## Bibliografia 
 
 > FAGAN, M.E., 1976, “Design and Code Inspection to Reduce Errors in Program Development”, IBM Systems Journal, vol. 15, no. 3.
