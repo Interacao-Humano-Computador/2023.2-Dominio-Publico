@@ -72,7 +72,11 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
-
+| 1  | Há um texto introdutório sobre o artefato?| |
+| 2  | Há a referencia/bibliografia? | |
+| 3  | O artefato possui um histórico de versões padronizado? | |
+| 4  | As imagens e tabelas são chamadas no texto? | |
+| 5  | As imagens e tabelas possuem titulo e fonte? | |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 </center>
@@ -140,7 +144,7 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 ### Principios e Diretrizes Gerais
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 8: Checklist ...</p></font>
+<font size="2"><p style="text-align: center">Tabela 8: Checklist dos Principios e Diretrizes Gerais</p></font>
 
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
@@ -152,7 +156,7 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 ### Metas de Usabilidade
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 9: Checklist ...</p></font>
+<font size="2"><p style="text-align: center">Tabela 9: Checklist Metas de Usabilidade</p></font>
 
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
@@ -164,7 +168,7 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 ### Caracteristicas Gerais
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 10: Checklist ...</p></font>
+<font size="2"><p style="text-align: center">Tabela 10: Checklist das Caracteristicas Gerais</p></font>
 
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
@@ -176,7 +180,7 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 ### Guia de Estilo
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 11: Checklist ...</p></font>
+<font size="2"><p style="text-align: center">Tabela 11: Checklist do Guia de Estilo</p></font>
 
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
