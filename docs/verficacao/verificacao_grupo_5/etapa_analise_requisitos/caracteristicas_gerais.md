@@ -1,6 +1,6 @@
 # Introdução 
 
-Este documento visa verificar se o artefato de [Características Gerais]() do [Grupo 5]() segue os critérios da Disciplina de Interação Humano-Computador e ajudar os integrantes a identificar possíveis erros e correções. Esta etapa está dividida entre **Verificações** e **Conclusão**. A parte de verificações traz o checklist do artefato e o resultado da verificação, que podem ser vistos na Tabela 1; a parte de conclusão traz as considerações do avaliador, tais como sugestões de melhoria e problemas encontrados, caso existam e sejam julgados necessários pelo avaliador.
+Este documento visa verificar se o artefato de [Características Gerais](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/metas_usa/) do [Grupo 5](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/) segue os critérios da Disciplina de Interação Humano-Computador e ajudar os integrantes a identificar possíveis erros e correções. Esta etapa está dividida entre **Verificações** e **Conclusão**. A parte de verificações traz o checklist do artefato e o resultado da verificação, que podem ser vistos na Tabela 1; a parte de conclusão traz as considerações do avaliador, tais como sugestões de melhoria e problemas encontrados, caso existam e sejam julgados necessários pelo avaliador.
 
 
 ## Verificações
