@@ -20,7 +20,7 @@ Os artefatos desta etapa serão verificados pelos integrantes [Luciano Ricardo](
 - O artefato Perfil do Usuário na versão , na data , produzido por e revisado por , com resultados em [Perfil do Usuário]();
 - O artefato Personas na versão , na data , produzido por e revisado por , com resultados em [Personas]();
 - O artefato Cenários na versão , na data , produzido por e revisado por , com resultados em [Cenários]();
-- O artefato Aspectos Éticos  na versão , na data , produzido por e revisado por , com resultados em [Aspectos Éticos]();
+- O artefato Aspectos Éticos na versão , na data , produzido por e revisado por , com resultados em [Aspectos Éticos]();
 - O artefato Análise de Tarefas na versão , na data , produzido por e revisado por , com resultados em [Análise de Tarefas]();
 - O artefato Principios e Diretrizes Gerais na versão , na data , produzido por e revisado por , com resultados em [Principios e Diretrizes Gerais]();
 - O artefato Metas de Usabilidade na versão , na data , produzido por e revisado por , com resultados em [Metas de Usabilidade]();
@@ -29,9 +29,28 @@ Os artefatos desta etapa serão verificados pelos integrantes [Luciano Ricardo](
 
 ### Cronograma
 
-As verificações devem ser realizadas no perído de 14 de novembro de 2023 até 15 de novembro de 2023, com seus resultados relatados nas respectivas páginas durante o mesmo período de tempo. 
+As verificações devem ser realizadas no perído de 14 de novembro de 2023 até 15 de novembro de 2023, com seus resultados relatados nas respectivas páginas durante o mesmo período de tempo. A tabela 1 apresenta o cronograma de atividades.
 
-<!-- A verificação será realizada no período de 17 de junho de 2023 até dia 18 de junho de 2023, com os resultados sendo relatados através da página de documentação do grupo até o dia 19 de junho de 2023. A tabela 2 a seguir, apresenta o cronograma das atividades a serem realizadas.-->
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 1: Cronograma de atividades</p></font>
+
+| Atividade | Data | Responsável |
+| --------- | ---- | ----------- |
+| Planejamento | 14/11/2023 | [Victor Hugo]() |
+| Verificação do artefato Perfil do Usuário | 14/11/2023 | [Luciano Ricardo]() |
+| Verificação do artefato Personas | 14/11/2023 | [Luciano Ricardo]() |
+| Verificação do artefato Cenários | 14/11/2023 | [Luciano Ricardo]() |
+| Verificação do artefato Aspectos Éticos | 14/11/2023 | [Luciano Ricardo]() |
+| Verificação do artefato Análise de Tarefas | 14/11/2023 | [Maria Alice]() |
+| Verificação do artefato Principios e Diretrizes Gerais | 14/11/2023 | [Victor Hugo]() |
+| Verificação do artefato Metas de Usabilidade | 14/11/2023 | [Victor Hugo]() |
+| Verificação do artefato Caracteristicas Gerais | 14/11/2023 | [Victor Hugo]() |
+| Verificação do artefato Guia de Estilo | 14/11/2023 | [Victor Hugo]() |
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo]()</p></font>
+
+</center>
 
 ## Checklist 
 
@@ -39,12 +58,12 @@ As verificações devem ser realizadas no perído de 14 de novembro de 2023 até
 
 > FAGAN, M.E., 1976, “Design and Code Inspection to Reduce Errors in Program Development”, IBM Systems Journal, vol. 15, no. 3.
 >
->Verificação , Bilheteria Digital. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa1/planejamento-verificacao-etapa1-grupo/>. Acesso em 14 de novembro de 2023.
+>Verificação, Bilheteria Digital. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa1/planejamento-verificacao-etapa1-grupo/>. Acesso em 14 de novembro de 2023.
 >
 >BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
 ## Referencias Bibliograficas
->Serrano, Milene. Serrano, Maurício. (2017). Requisitos – Aula 23. Requisitos de Software, Universidade de Brasília - Faculdade do Gama. Disponível em: https://aprender3.unb.br/pluginfile.php/2692623/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf
+>Serrano, Milene. Serrano, Maurício. (2017). Requisitos – Aula 23. Requisitos de Software, Universidade de Brasília - Faculdade do Gama.
 
 ## Histórico de Versões
 
