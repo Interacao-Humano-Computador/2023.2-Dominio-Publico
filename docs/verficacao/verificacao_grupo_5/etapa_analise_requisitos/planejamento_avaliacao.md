@@ -52,7 +52,7 @@ As verificações devem ser realizadas no perído de 14 de novembro de 2023 até
 | Verificação e relato do artefato Cenários | 14/11/2023 | [Luciano Ricardo](https://github.com/l-ricardo) |
 | Verificação e relato do artefato Aspectos Éticos | 14/11/2023 | [Luciano Ricardo](https://github.com/l-ricardo) |
 | Verificação e relato do artefato Análise de Tarefas | 14/11/2023 | [Maria Alice](https://github.com/Maliz30) |
-| Verificação e relato do artefato Principios e Diretrizes Gerais | 14/11/2023 | [Victor Hugo](https://github.com/ViictorHugoo) |
+| Verificação e relato do artefato Principios e Diretrizes Gerais | 14/11/2023 | [Maria Alice](https://github.com/Maliz30) |
 | Verificação e relato do artefato Metas de Usabilidade | 14/11/2023 | [Victor Hugo](https://github.com/ViictorHugoo) |
 | Verificação e relato do artefato Caracteristicas Gerais | 14/11/2023 | [Victor Hugo](https://github.com/ViictorHugoo) |
 | Verificação e relato do artefato Guia de Estilo | 14/11/2023 | [Victor Hugo](https://github.com/ViictorHugoo) |
@@ -149,7 +149,7 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
 
-<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/Maliz30)</p></font>
 </center>
 
 
@@ -160,6 +160,10 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
+| 6  | Há as metas de usabilidade que o projeto deve alcançar? | |
+| 7  | Há o motivo da escolha das metas de usabilidade? | |
+| 8  | Há a descrição das metas de usabilidade? | |
+
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 </center>
@@ -172,6 +176,9 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
+| 6  | Há as tarefas que o usuário pode fazer na plataforma? | |
+| 7  | Há os limites que a plataforma impõe ao usuário? | |
+| 8  | Há as tecnologias usadas para o desenvolvimento da plataforma | |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 </center>
@@ -184,6 +191,16 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
+| 6  | Há o objetivo do Guia de estilo? | |
+| 7  | Há o publico alvo? | |
+| 8  | Há como manter e ultilizar o guia de estilo? | |
+| 9  | Há a tipografia e seu uso? | |
+| 10 | Há a paleta de cores e seu uso? | |
+| 11 | Há elementos de ação? | |
+| 12 | Há elementos de interface? | |
+| 13 | Há elementos de interação? | |
+| 14 | O guia de estilo foi feito para o site avaliado? | |
+| 15 | Há a disposição espacial e grid? | |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 </center>
@@ -205,3 +222,5 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0 | 14/11/2023 | Criação e Estruturação | [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.1 | 14/11/2023 | Checklist Geral | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30) |
+| 1.2 | 14/11/2023 | Checklists Metas, Caracteristicas e Guia de estilo | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30) |
