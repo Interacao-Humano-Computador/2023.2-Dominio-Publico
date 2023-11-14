@@ -73,14 +73,10 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
 | 1  | Há um texto introdutório sobre o artefato?| |
-| 2  | Há a referencia/bibliografia? | |
+| 2  | Há a referencia/bibliografia no formato ABNT? | |
 | 3  | O artefato possui um histórico de versões padronizado? | |
 | 4  | As imagens e tabelas são chamadas no texto? | |
 | 5  | As imagens e tabelas possuem titulo e fonte? | |
-<<<<<<< HEAD
-
-=======
->>>>>>> b200260f005145caccba011cd0db936fd9d0343f
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 </center>
@@ -136,21 +132,16 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 ### Análise de Tarefas
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 7: Checklist ...</p></font>
+<font size="2"><p style="text-align: center">Tabela 7: Checklist de Análise de Tarefas</p></font>
 
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
-| 1  | Há um texto introdutório sobre o artefato?| |
-| 2  | Há a referencia/bibliografia? | |
-| 3  | O artefato possui um histórico de versões padronizado? | |
-| 4  | As imagens e tabelas são chamadas no texto? | |
-| 5  | As imagens e tabelas possuem titulo e fonte? | |
-
-| | O objetivo da análise de tarefas é apresentado? ||
-| | Há ao menos duas técnicas para especificar as tarefas? ||
-| | O HTA apresenta diagrama, legenda e representaçãoem tabela? ||
-| | O GOMS foi representado pelos modelos: KLM, CMN-GOMS, CPM-GOMS, CTT | |
-| | Foi utilizada alguma técnica para especificar as tarefas?||
+| 6 | O objetivo da análise de tarefas é apresentado? ||
+| 7 | 	As tarefas são descritas de forma clara e concisa? |
+| 8 | Há ao menos duas técnicas para especificar as tarefas? ||
+| 9 | O HTA apresenta diagrama, legenda e representaçãoem tabela? ||
+| 10 | O GOMS foi representado pelos modelos: KLM, CMN-GOMS, CPM-GOMS, CTT | |
+| 11 | Foi utilizada alguma técnica para especificar as tarefas?||
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 </center>
@@ -163,10 +154,19 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
+| 6 | Os princípios gerais do projeto são claramente definidos e documentados? ||
+| 7 | Os princípios gerais do projeto são consistentes com as expectativas dos usuários?||
+| 8 | Os princípios gerais do projeto promovem a simplicidade nas estruturas das tarefas? ||
+| 9 | Os princípios gerais do projeto promovem o equilíbrio entre controle e liberdade do usuário? ||
+| 10 | 	Os princípios gerais do projeto contém consistência e padronização ? ||
+| 11 | Os princípios gerais do projeto promovem a eficiência do usuário? ||
+| 12 | Os princípios gerais do projeto antecipam as necessidades do usuário? ||
+| 13 | Os princípios gerais do projeto promovem a visibilidade e o reconhecimento? ||
+| 14 | Os princípios gerais do projeto promovem o conteúdo relevante e a expressão adequada? ||
+| 15 | Os princípios gerais do projeto promovem o projeto para erros? | |
 
-<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/Maliz30)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 </center>
-
 
 ### Metas de Usabilidade
 
