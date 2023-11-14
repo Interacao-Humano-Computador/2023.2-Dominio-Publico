@@ -241,3 +241,4 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 | 1.0 | 14/11/2023 | Criação e Estruturação | [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo) |
 | 1.1 | 14/11/2023 | Checklist Geral | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30) |
 | 1.2 | 14/11/2023 | Checklists Metas, Caracteristicas e Guia de estilo | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30) |
+| 1.3 | 14/11/2023 | Checklist Análise de Tarefas, Principios e Diretrizes Gerais | [Maria Alice](https://github.com/Maliz30) | [Victor Hugo](https://github.com/ViictorHugoo) |
