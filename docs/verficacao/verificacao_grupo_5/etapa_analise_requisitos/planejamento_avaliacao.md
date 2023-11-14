@@ -17,15 +17,15 @@ Os artefatos desta etapa serão verificados pelos integrantes [Luciano Ricardo](
 
 ### Artefatos para verificação
 
-- O artefato Perfil do Usuário na versão , na data , produzido por e revisado por , com resultados em [Perfil do Usuário]();
-- O artefato Personas na versão , na data , produzido por e revisado por , com resultados em [Personas]();
-- O artefato Cenários na versão , na data , produzido por e revisado por , com resultados em [Cenários]();
-- O artefato Aspectos Éticos na versão , na data , produzido por e revisado por , com resultados em [Aspectos Éticos]();
-- O artefato Análise de Tarefas na versão , na data , produzido por e revisado por , com resultados em [Análise de Tarefas]();
-- O artefato Principios e Diretrizes Gerais na versão , na data , produzido por e revisado por , com resultados em [Principios e Diretrizes Gerais]();
-- O artefato Metas de Usabilidade na versão , na data , produzido por e revisado por , com resultados em [Metas de Usabilidade]();
-- O artefato Caracteristicas Gerais na versão , na data , produzido por e revisado por , com resultados em [Caracteristicas Gerais]();
-- O artefato Guia de Estilo  na versão , na data , produzido por e revisado por , com resultados em [Guia de Estilo]();
+- O artefato Perfil do Usuário na versão , na data , produzido por e revisado por , com resultados da verificação em [Perfil do Usuário]();
+- O artefato Personas na versão , na data , produzido por e revisado por , com resultados da verificação em [Personas]();
+- O artefato Cenários na versão , na data , produzido por e revisado por , com resultados da verificação em [Cenários]();
+- O artefato Aspectos Éticos na versão , na data , produzido por e revisado por , com resultados da verificação em [Aspectos Éticos]();
+- O artefato Análise de Tarefas na versão , na data , produzido por e revisado por , com resultados da verificação em [Análise de Tarefas]();
+- O artefato Principios e Diretrizes Gerais na versão , na data , produzido por e revisado por , com resultados da verificação em [Principios e Diretrizes Gerais]();
+- O artefato Metas de Usabilidade na versão , na data , produzido por e revisado por , com resultados da verificação em [Metas de Usabilidade]();
+- O artefato Caracteristicas Gerais na versão , na data , produzido por e revisado por , com resultados da verificação em [Caracteristicas Gerais]();
+- O artefato Guia de Estilo  na versão , na data , produzido por e revisado por , com resultados da verificação em [Guia de Estilo]();
 
 ### Cronograma
 
@@ -54,6 +54,12 @@ As verificações devem ser realizadas no perído de 14 de novembro de 2023 até
 
 ## Checklist 
 
+
+
+
+<!-- As checklists foram construídas levando em conta os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos tendo como referência básica o livro Interação Humano-Computador de Bruno Silva e Simone Barbosa.3 Além dos itens listados anteriormente, também, serão analisados o relatório referente às entregas produzido pelo o monitor do grupo (Arthur Henrique) e as checklist previamente construídas na verificação do grupo 2 na etapa 2.
+
+Com o intuito de melhor organizar a verificação, a checklist será dividida em 6 checklists sendo que uma deverá estar presente em todas as etapas de verificação, no caso a checklist geral. As checklists são as seguintes: Geral, Aspectos Éticos, Perfil de Usuário, Cenários, Personas, Análise de Tarefas - Análise Hierárquica de Tarefas e Análise de Tarefas - GOMS. As tabelas de 3 a 9 apresenta as checklists de verificação.-->
 ## Bibliografia 
 
 > FAGAN, M.E., 1976, “Design and Code Inspection to Reduce Errors in Program Development”, IBM Systems Journal, vol. 15, no. 3.
