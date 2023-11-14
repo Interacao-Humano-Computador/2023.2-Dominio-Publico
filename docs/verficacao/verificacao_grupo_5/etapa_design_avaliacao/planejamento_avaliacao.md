@@ -68,6 +68,112 @@ Os artefatos a serem avaliados nesta etapa são:
 
 ## Checklist 
 
+Para validar o artefato, será conduzida uma verificação por meio de checklists que incorporam as diretrizes estabelecidas durante as aulas pelo professor. Quando apropriado, esses checklists também considerarão aspectos destacados na literatura relevante. Nesta etapa, será elaborado um checklist abrangente para avaliação geral, aplicável a todos os artefatos, acompanhado por checklists específicos para cada artefato. As perguntas nos checklists deverão ser respondidas com Sim, Não, Incompleto ou Não Se Aplica. Observações serão registradas após cada tabela, identificando o ID correspondente que gerou a observação. 
+
+## Checklist Geral
+
+Na tabela 1, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 4 do Grupo 5.
+
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist Geral. </p></font>
+
+| ID  | Critério                                                    | Avaliação |
+|-----|-------------------------------------------------------------|-----------|
+| 01  | O artefato conta com um registro padronizado de suas versões? |           |
+| 02  | O artefato inclui uma seção de introdução?                   |           |
+| 03  | As referências bibliográficas e a bibliografia estão corretamente utilizadas no artefato? |           |
+| 04  | Todas as chamadas para tabelas e figuras estão incorporadas ao texto? |           |
+| 05  | Há uma consistência na apresentação de tabelas e figuras?   |           |
+| 06  | A estrutura do documento está claramente definida?          |           |
+
+## Checklist de Planejamento da Avaliação do Storyboard
+
+Na tabela 2, estão listados os critérios que devem ser verificados no Planejamento da Avaliação do Storyboard do Grupo 5.
+
+font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist do artefato "Planejamento da Avaliação do Storyboard". </p></font>
+
+| ID  | Critério                                                      | Avaliação |
+|-----|---------------------------------------------------------------|-----------|
+| 01  | O plano de avaliação adere ao Framework DECIDE?                |           |
+| 02  | Os objetivos da avaliação são descritos no artefato?          |           |
+| 03  | Os métodos a serem utilizados na avaliação são detalhadamente descritos no artefato? |           |
+| 04  | O artefato abrange os aspectos práticos da execução da avaliação? |           |
+| 05  | O artefato aborda os aspectos éticos envolvidos na avaliação?  |           |
+| 06  | O artefato fornece uma descrição das perguntas a serem formuladas durante a avaliação? |           |
+| 07  | Existe um cronograma planejado para a execução da avaliação no artefato? |           |
+| 08  | O artefato inclui um teste piloto do planejamento da avaliação? |           |
+
+## Checklist de Planejamento do Relato dos Resultados da Avaliação do Storyboard
+
+Na tabela 3, estão listados os critérios que devem ser verificados no Planejamento do Relato dos Resultados da Avaliação do Storyboard do Grupo 5.
+
+font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist do artefato "Planejamento do Relato dos Resultados da Avaliação do Storyboard". </p></font>
+
+| ID  | Critério                                                      | Avaliação |
+|-----|---------------------------------------------------------------|-----------|
+| 01  | O artefato fornece uma descrição dos objetivos para o relato dos resultados da avaliação? |           |
+| 02  | Os métodos utilizados são detalhadamente descritos no artefato? |           |
+| 03  | O artefato explica a abordagem para apresentar os aspectos práticos no relato dos resultados da avaliação? |           |
+| 04  | O artefato explica a abordagem para apresentar os aspectos éticos no relato dos resultados da avaliação? |           |
+| 05  | O artefato explica a abordagem para apresentar os resultados da avaliação? |           |
+| 06  | O artefato explica a abordagem para apresentar as conclusões da avaliação? |           |
+| 07  | O artefato inclui o modelo do cronograma executado durante a avaliação? |           |
+| 08  | O artefato inclui a estrutura do relatório a ser utilizada no relato dos resultados? |           |
+
+## Checklist de Storyboards
+
+Na tabela 4, estão listados os critérios que devem ser verificados nos Storyboards do Grupo 5.
+
+font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist do artefato "Storyboard" . </p></font>
+
+| ID  | Critério                                                      | Avaliação |
+|-----|---------------------------------------------------------------|-----------|
+| 01  | Cada storyboard inclui um título?                             |           |
+| 02  | Foi atribuída a autoria de cada storyboard a um membro específico do grupo? |           |
+| 03  | Existe um storyboard correspondente a cada tarefa apresentada pelo grupo? |           |
+| 04  | Cada storyboard incorpora atores em sua representação?       |           |
+| 05  | Cada storyboard contém cenários relevantes?                   |           |
+| 06  | A satisfação do usuário ao final da cena está representada em cada storyboard? |           |
+| 07  | Os storyboards incluem ações específicas do usuário?          |           |
+| 08  | Objetivos são claramente delineados em cada storyboard?       |           |
+| 09  | Os storyboards foram elaborados em formato físico, em papel?  |           |
+
+## Checklist de Planejamento da Avaliação da Análise de Tarefas
+
+Na tabela 5, estão listados os critérios que devem ser verificados no Planejamento da Avaliação da Análise de Tarefas do Grupo 5.
+
+font size="3"><p style="text-align: center"><b>Tabela 5</b> - Checklist do artefato "Planejamento da Avaliação da Análise de Tarefas". </p></font>
+
+| ID  | Critério                                                      | Avaliação |
+|-----|---------------------------------------------------------------|-----------|
+| 01  | O planejamento da avaliação segue o Framework DECIDE?         |           |
+| 02  | São delineados no artefato os objetivos da avaliação?         |           |
+| 03  | O artefato explica os métodos que serão empregados na avaliação? |           |
+| 04  | O artefato detalha os aspectos práticos envolvidos na avaliação? |           |
+| 05  | O artefato aborda os aspectos éticos relacionados à avaliação? |           |
+| 06  | O artefato identifica as perguntas que serão feitas durante a avaliação? |           |
+| 07  | Existe um cronograma planejado para a execução da avaliação no artefato? |           |
+| 08  | O artefato inclui o teste piloto do planejamento da avaliação? |           |
+ 
+## Checklist de Planejamento do Relato dos Resultados da Análise de Tarefas
+
+Na tabela 6, estão listados os critérios que devem ser verificados no Planejamento do Relato dos Resultados da Análise de Tarefas do Grupo 5. 
+
+font size="3"><p style="text-align: center"><b>Tabela 6</b> - Checklist do artefato "PPlanejamento do Relato dos Resultados da Análise de Tarefas". </p></font>
+
+| ID  | Critério                                                      | Avaliação |
+|-----|---------------------------------------------------------------|-----------|
+| 01  | O artefato delineia os objetivos para o relato dos resultados da avaliação? |           |
+| 02  | Os métodos utilizados são detalhadamente descritos no artefato? |           |
+| 03  | O artefato aborda os aspectos práticos relacionados ao relato dos resultados da avaliação? |           |
+| 04  | O artefato aborda os aspectos éticos envolvidos no relato dos resultados da avaliação? |           |
+| 05  | O artefato apresenta uma descrição dos resultados obtidos na avaliação? |           |
+| 06  | O artefato fornece uma explicação das conclusões alcançadas na avaliação? |           |
+| 07  | O artefato inclui o modelo do cronograma executado durante a avaliação? |           |
+| 08  | O artefato fornece a estrutura do relatório a ser utilizada no relato dos resultados? |           |
+
+
+
+
 
 ## Bibliografia 
 
@@ -77,3 +183,4 @@ Os artefatos a serem avaliados nesta etapa são:
 
 | Versão | Data      | Descrição               | Autor(es)           | Revisor(es)    |
 |1.0     | 14/11/2023| Criação do planejamento | Ana Catarina Santos | Pedro Henrique |
+|1.1     | 14/11/2023| Criação do planejamento | Pedro Henrique  | Ana Catarina Santos |
