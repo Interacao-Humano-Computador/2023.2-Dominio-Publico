@@ -70,6 +70,8 @@ Durante a avaliação, a participante achou bem confuso o estilo de pesquisa ofe
 
 ##### Sugestões de melhoria
 
+A participante sugeriu melhorar a forma de pesquisa do site, trazendo somente um campo de texto que possa pesquisar sobre qualquer palavra chave, assim como no google.
+
 ### Tarefa: Fazer download da mídia
 
 ##### Objetivo e âmbito da avaliação
