@@ -73,7 +73,7 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 | N° | Descrição | Resultado |
 | -- | --------- | --------- |
 | 1  | Há um texto introdutório sobre o artefato?| |
-| 2  | Há a referencia/bibliografia no formato ABNT? | |
+| 2  | Há a referencia/bibliografia seguindo a ABNT? | |
 | 3  | O artefato possui um histórico de versões padronizado? | |
 | 4  | As imagens e tabelas são chamadas no texto? | |
 | 5  | As imagens e tabelas possuem titulo e fonte? | |
@@ -226,6 +226,8 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 > FAGAN, M.E., 1976, “Design and Code Inspection to Reduce Errors in Program Development”, IBM Systems Journal, vol. 15, no. 3.
 >
 >Verificação, Bilheteria Digital. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa1/planejamento-verificacao-etapa1-grupo/>. Acesso em 14 de novembro de 2023.
+>
+>Modelo Padrão, Skoob. Disponível em: <https://interacao-humano-computador.github.io/2022.2-Skoob/verificacoes/modelo-padrao/>. Acesso em 14 de novembro de 2023.
 >
 >BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
