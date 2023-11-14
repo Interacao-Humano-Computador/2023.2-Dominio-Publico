@@ -39,6 +39,48 @@ A tabela a seguir contempla o cronograma planejado para as verificações da fas
 
 ## Checklist 
 
+A seguir será evidenciado, as listas de verificação para cada artefato citado acima. Tais listas foram construidas a partir da observação dos padrões desejaveis definidos para cada artefato e a partir das listas de detalhes evidenciados no plano de ensino da matéria.
+
+### Ferramentas
+
+| Verificação | Avaliação | Sugestões |
+|:--------:|:--------:|:--------:|
+|O artefato possui introdução?|          |          |
+|O artefato possui histórico de versão atualizado?|          |          |
+|Os textos estão em norma padrão e sem erros?|          |          |
+|O artefato possui Bibliografia?|          |          |
+|As ferramentas possuem descrição?|          |          |
+|Na descrição é dito para que será usada a ferramenta?|          |          |
+|Todas as ferramentas utilizadas no processo estão no artefato?|          |          |
+|Há alguma ferramenta que não foi utilizada e não está sendo citada?|          |          |
+
+### Cronograma Planejado
+
+| Verificação | Avaliação | Sugestões |
+|:--------:|:--------:|:--------:|
+|O artefato possui introdução?|          |          |
+|O artefato possui histórico de versão atualizado?|          |          |
+|Os textos estão em norma padrão e sem erros?|          |          |
+|O artefato possui Bibliografia?|          |          |
+|Todas as tarefas que serão realizadas estão no cronograma?|||
+|As tarefas estão bem subdivididas|||
+|A tabela é chamada no texto?|||
+|A tabela possui fonte e nome?|||
+|Todas as tarefas possuem revisor?|||
+
+### Cronograma Executado
+
+| Verificação | Avaliação | Sugestões |
+|:--------:|:--------:|:--------:|
+|O artefato possui introdução?|          |          |
+|O artefato possui histórico de versão atualizado?|          |          |
+|Os textos estão em norma padrão e sem erros?|          |          |
+|O artefato possui Bibliografia?|          |          |
+|Todas as tarefas que serão realizadas estão no cronograma?|||
+|As tarefas estão bem subdivididas|||
+|A tabela é chamada no texto?|||
+|A tabela possui fonte e nome?|||
+|Todas as tarefas possuem revisor?|||
 
 ## Bibliografia 
 
