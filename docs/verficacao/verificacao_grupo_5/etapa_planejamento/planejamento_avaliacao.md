@@ -21,6 +21,21 @@ A metodologia escolhida para desenvolvimento da verificação foi a de Inspeçã
 - [Sites avaliados](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/planejamentoProj/lista_Site/) ultima versão.
 
 
+## Cronograma
+
+A tabela a seguir contempla o cronograma planejado para as verificações da fase de planejamento, documentada na página do projeto do Grupo de número 5:
+
+| Data | Artefato | Responsável |
+|:--------:|:--------:|:--------:|
+|14/11/2023|Ferramentas|Harryson e Gustavo|
+|14/11/2023|Cronograma planejado|Harryson e Gustavo|
+|14/11/2023|Cronograma executado|Harryson e Gustavo|
+|14/11/2023|Heat-map|Harryson e Gustavo|
+|14/11/2023|Processo de design|Harryson e Gustavo|
+|14/11/2023|Site escolhido|Harryson e Gustavo|
+|14/11/2023|Sites avaliados|Harryson e Gustavo|
+
+
 
 ## Checklist 
 
