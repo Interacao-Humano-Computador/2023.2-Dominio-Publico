@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esta página é destinada à apresentação da etapa 6.1 do projeto de Interação Humano Computador. Focada na Verificação dos artefatos do grupo 5. A apresentação foi gravada no 15 de novembro de 2023.
+Esta página é destinada à apresentação da etapa 6.1 do projeto de Interação Humano Computador. Focada na Verificação dos artefatos do grupo 5. A apresentação foi gravada no 14 de novembro de 2023.
 
 ## Apresentação
 
@@ -25,4 +25,4 @@ Esta página é destinada à apresentação da etapa 6.1 do projeto de Interaç�
 
 | Versão |    Data    | Descrição                         | Autor(es)                                                                                      | Revisor(es)                                    |
 | ------ | :--------: | --------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 09/11/2023 | Criação e estruturação do arquivo | [Victor Hugo](https://github.com/ViictorHugoo) e [Ana Catarina](https://github.com/an4catarina | [Pedro Henrique](https://github.com/pedro-hsf) |
+| 1.0    | 14/11/2023 | Criação e estruturação do arquivo | [Victor Hugo](https://github.com/ViictorHugoo) e [Ana Catarina](https://github.com/an4catarina | [Pedro Henrique](https://github.com/pedro-hsf) |
