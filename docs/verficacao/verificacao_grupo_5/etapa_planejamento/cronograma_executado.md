@@ -67,5 +67,7 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 ## Histórico de Versões
 
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| 1.0 | 14/11 | Construção e elaboração do documento | [Gustavo França](https://github.com/gustavofbs) | [Luciano Ricardo](https://github.com/l-ricardo) |
+
+| Versão | Data       | Descrição                        | Autor(es)                                                                                  | Revisor(es)                                    |
+| ------ | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
+| 1.0    | 14/11/2023 | Construção e elaboração do documento           |    [Gustavo França](https://github.com/gustavofbs)                                               | [Ana Catarina](https://github.com/an4catarina) |
