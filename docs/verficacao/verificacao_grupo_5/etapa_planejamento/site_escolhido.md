@@ -14,16 +14,16 @@ A metodologia a ser utilizada será a Inspeção por meio do uso de Checklists, 
 
 <font size="2"><p style="text-align: center">Tabela 1: Verificação do Site escolhido</p></font>
 
-| Verificação | Avaliação | Sugestões |
+| ID | Critério | Resultados |
 |:--------:|:--------:|:--------:|
-|O artefato possui introdução?|          |          |
-|O artefato possui histórico de versão atualizado?|          |          |
-|Os textos estão em norma padrão e sem erros?|          |          |
-|O artefato possui Bibliografia?|          |          |
-|O site escolhido foi determinado dentre os sites individuais?|||
-|O motivo da escolha foi justificado?|||
-|Foi detalhado os problemas encontrados no site escolhido?|||
-|São citadas as heuristicas usadas para encontrar os problemas?|||
+|1|O artefato possui introdução?|          |       
+|2|O artefato possui histórico de versão atualizado?|                |
+|3|Os textos estão em norma padrão e sem erros?|          |        
+|4|O artefato possui Bibliografia?|          |          
+|5|O site escolhido foi determinado dentre os sites individuais?||
+|6|O motivo da escolha foi justificado?||
+|7|Foi detalhado os problemas encontrados no site escolhido?||
+|8|São citadas as heuristicas usadas para encontrar os problemas?||
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) </p></font>
 
@@ -39,14 +39,14 @@ O checklist feito apos a verificação pode ser visualizado a seguir na tabela 2
 
 | Verificação | Avaliação | Sugestões |
 |:--------:|:--------:|:--------:|
-|O artefato possui introdução?|Sim|-|
-|O artefato possui histórico de versão atualizado?|Sim|-|
-|Os textos estão em norma padrão e sem erros?|Sim|-|
-|O artefato possui Bibliografia?|Sim|-|
-|O site escolhido foi determinado dentre os sites individuais?|Sim|-|
-|O motivo da escolha foi justificado?|Sim|-|
-|Foi detalhado os problemas encontrados no site escolhido?|Sim|-|
-|São citadas as heuristicas usadas para encontrar os problemas?|Sim|Apesar de citadas não foram antes relacionadas como sendo heurísticas|
+|1|O artefato possui introdução?|    Sim      |       
+|2|O artefato possui histórico de versão atualizado?|       Sim         |
+|3|Os textos estão em norma padrão e sem erros?|    Sim      |        
+|4|O artefato possui Bibliografia?|    Sim      |          
+|5|O site escolhido foi determinado dentre os sites individuais?| Sim |
+|6|O motivo da escolha foi justificado?| Sim |
+|7|Foi detalhado os problemas encontrados no site escolhido?| Sim |
+|8|São citadas as heuristicas usadas para encontrar os problemas?| Sim, apesar de existirem citações que antes não foram relacionadas como sendo heurísticas|
 
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) </p></font>

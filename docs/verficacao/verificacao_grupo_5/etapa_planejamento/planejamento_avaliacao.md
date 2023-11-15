@@ -43,7 +43,7 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 
 ### Ferramentas
 
-| Verificação | Avaliação | Sugestões |
+| ID | Critério | Resultados |
 |:--------:|:--------:|:--------:|
 |O artefato possui introdução?|          |          |
 |O artefato possui histórico de versão atualizado?|          |          |
@@ -56,77 +56,77 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 
 ### Cronograma Planejado
 
-| Verificação | Avaliação | Sugestões |
+| ID | Critério | Resultados |
 |:--------:|:--------:|:--------:|
-|O artefato possui introdução?|          |          |
-|O artefato possui histórico de versão atualizado?|          |          |
-|Os textos estão em norma padrão e sem erros?|          |          |
-|O artefato possui Bibliografia?|          |          |
-|Todas as tarefas que serão realizadas estão no cronograma?|||
-|As tarefas estão bem subdivididas|||
-|A tabela é chamada no texto?|||
-|A tabela possui fonte e nome?|||
-|Todas as tarefas possuem revisor?|||
+|1|O artefato possui introdução?|        |  
+|2|O artefato possui histórico de versão atualizado?|       |
+|3|Os textos estão em norma padrão e sem erros?|        | 
+|4|O artefato possui Bibliografia?|       |  
+|5|Todas as tarefas que serão realizadas estão no cronograma?|   |
+|6|As tarefas estão bem subdivididas|  | 
+|7|A tabela é chamada no texto?|      | 
+|8|A tabela possui fonte e nome?|| 
+|9|Todas as tarefas possuem revisor?|   | 
 
 ### Cronograma Executado
 
-| Verificação | Avaliação | Sugestões |
+| ID | Critério | Resultado |
 |:--------:|:--------:|:--------:|
-|O artefato possui introdução?|          |          |
-|O artefato possui histórico de versão atualizado?|          |          |
-|Os textos estão em norma padrão e sem erros?|          |          |
-|O artefato possui Bibliografia?|          |          |
-|Todas as tarefas que sforam realizadas estão no cronograma?|||
-|A tabela é chamada no texto?|||
-|A tabela possui fonte e nome?|||
-|Todas as tarefas possuem revisor?|||
-|As tarefas realizadas foram feitas nas datas planejadas?|||
+| 1 |      O artefato possui introdução?    |          |
+| 2|      O artefato possui histórico de versão atualizado?     |
+|3|    Os textos estão em norma padrão e sem erros?      |          |
+|4|    O artefato possui Bibliografia?      |          |
+|5   |  Todas as tarefas que foram realizadas estão no cronograma?  |   |
+|6| A tabela é chamada no texto?  |   |
+|7| A tabela possui fonte e nome? |   |
+|8|  Todas as tarefas possuem revisor?  |     |
+|9   |  As tarefas realizadas foram feitas nas datas planejadas?  |  |
 
 ### Heat-map
 
-| Verificação | Avaliação | Sugestões |
+| ID | Critério | Resultados |
 |:--------:|:--------:|:--------:|
-|O artefato possui introdução?|          |          |
-|O artefato possui histórico de versão atualizado?|          |          |
-|Os textos estão em norma padrão e sem erros?|          |          |
-|O artefato possui Bibliografia?|          |          |
-|É mostrada a disponibilidade de todos os membros no heat-map?|||
+|1|O artefato possui introdução?|          |          
+|2|O artefato possui histórico de versão atualizado?|          |          
+|3|Os textos estão em norma padrão e sem erros?|          |          
+|4|O artefato possui Bibliografia?|          |          
+|5|É mostrada a disponibilidade de todos os membros no heat-map?||
 
 ### Processo Design
 
-| Verificação | Avaliação | Sugestões |
+| ID | Critério | Resultados |
 |:--------:|:--------:|:--------:|
-|O artefato possui introdução?|          |          |
-|O artefato possui histórico de versão atualizado?|          |          |
-|Os textos estão em norma padrão e sem erros?|          |          |
-|O artefato possui Bibliografia?|          |          |
-|A escolha do ciclo de vida foi fundamentada?|||
-|Foi detalhado as fases e como será executado o ciclo de vida?|||
+|1|O artefato possui introdução?|          |    
+|2|O artefato possui histórico de versão atualizado?|          |         
+|3|Os textos estão em norma padrão e sem erros?|          |        
+|4|O artefato possui Bibliografia?|          |        
+|5|A escolha do ciclo de vida foi fundamentada?||
+|6|Foi detalhado as fases e como será executado o ciclo de vida?||
 
 ### Site escolhido 
 
-| Verificação | Avaliação | Sugestões |
+| ID | Critério | Resultados |
 |:--------:|:--------:|:--------:|
-|O artefato possui introdução?|          |          |
-|O artefato possui histórico de versão atualizado?|          |          |
-|Os textos estão em norma padrão e sem erros?|          |          |
-|O artefato possui Bibliografia?|          |          |
-|O site escolhido foi determinado dentre os sites individuais?|||
-|O motivo da escolha foi justificado?|||
-|Foi detalhado os problemas encontrados no site escolhido?|||
-|São citadas as heuristicas usadas para encontrar os problemas?|||
+|1|O artefato possui introdução?|          |       
+|2|O artefato possui histórico de versão atualizado?|                |
+|3|Os textos estão em norma padrão e sem erros?|          |        
+|4|O artefato possui Bibliografia?|          |          
+|5|O site escolhido foi determinado dentre os sites individuais?||
+|6|O motivo da escolha foi justificado?||
+|7|Foi detalhado os problemas encontrados no site escolhido?||
+|8|São citadas as heuristicas usadas para encontrar os problemas?||
 
 ### Sites avaliados
 
-| Verificação | Avaliação | Sugestões |
+| ID | Critério | Resultados |
 |:--------:|:--------:|:--------:|
-|O artefato possui introdução?|          |          |
-|O artefato possui histórico de versão atualizado?|          |          |
-|Os textos estão em norma padrão e sem erros?|          |          |
-|O artefato possui Bibliografia?|          |          |
-|São evidenciados todos os sites escolhidos por cada membro?|||
-|Cada site avaliado possui uma descrição?|||
-|São evidenciados os problemas de cada site exposto?|||
+|1|O artefato possui introdução?|          |         
+|2|O artefato possui histórico de versão atualizado?|          |          
+|3|Os textos estão em norma padrão e sem erros?|          |          
+|4|O artefato possui Bibliografia?|          |          
+|5|São evidenciados todos os sites escolhidos por cada membro?||
+|6|Cada site avaliado possui uma descrição?||
+|7|São evidenciados os problemas de cada site exposto?||
 
 ## Bibliografia 
 
