@@ -4,7 +4,7 @@ A verificação é uma etapa que ajuda na evolução dos projetos. Nessa parte �
 
 ## Objetivo
 
-O objetivo desse artefato é avaliar e verificar a qualidade dos produtos produzidos pela ![Equipe 5](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/)
+O objetivo desse artefato é avaliar e verificar a qualidade dos produtos produzidos pela [Equipe 5](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/)
 
 ## Metodologia
 
@@ -45,14 +45,14 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 
 | ID | Critério | Resultados |
 |:--------:|:--------:|:--------:|
-|O artefato possui introdução?|          |          |
-|O artefato possui histórico de versão atualizado?|          |          |
-|Os textos estão em norma padrão e sem erros?|          |          |
-|O artefato possui Bibliografia?|          |          |
-|As ferramentas possuem descrição?|          |          |
-|Na descrição é dito para que será usada a ferramenta?|          |          |
-|Todas as ferramentas utilizadas no processo estão no artefato?|          |          |
-|Há alguma ferramenta que não foi utilizada e não está sendo citada?|          |          |
+|1|O artefato possui introdução?|          |  
+|2|O artefato possui histórico de versão atualizado?|          |  
+|3|Os textos estão em norma padrão e sem erros?|          |  
+|4|O artefato possui Bibliografia?|          |  
+|5|As ferramentas possuem descrição?|          |  
+|6|Na descrição é dito para que será usada a ferramenta?|          | 
+|7|Todas as ferramentas utilizadas no processo estão no artefato?|          | 
+|8|Há alguma ferramenta que não foi utilizada e não está sendo citada?|          | 
 
 ### Cronograma Planejado
 
