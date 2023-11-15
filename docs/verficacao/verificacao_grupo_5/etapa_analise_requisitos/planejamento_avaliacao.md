@@ -141,7 +141,6 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 | 8 | Há ao menos duas técnicas para especificar as tarefas? ||
 | 9 | O HTA apresenta diagrama, legenda e representaçãoem tabela? ||
 | 10 | O GOMS foi representado pelos modelos: KLM, CMN-GOMS, CPM-GOMS, CTT | |
-| 11 | Foi utilizada alguma técnica para especificar as tarefas?||
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 </center>
