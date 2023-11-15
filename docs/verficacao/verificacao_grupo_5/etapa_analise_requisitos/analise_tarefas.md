@@ -5,7 +5,7 @@ Este documento visa verificar se o artefato de [Análise de Tarefas](https://int
 ## Verificações
 
 O [Grupo 5](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/), BRB Mobilidade, dividiu a análise de tarefas em 3 páginas diferentes: [Sobre](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/sobre_analise_tarefas/), [HTA](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/) e [CTT](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/). Devido a isso serão apresentadas 3 tabelas de checklists, uma para cada página, como forma de tornar a verificação mais clara para a equipe. 
-É importante citar ainda, que devido a segmwentação do conteúdo, algumas perguntas serão irrelevantes na avaliação. Essas perguntas serão sinalizadas com "-" na coluna resultado.  
+É importante citar ainda, que devido a segmentação do conteúdo, algumas perguntas serão irrelevantes na avaliação. Essas perguntas serão sinalizadas com "-" na coluna resultado.  
 
 Na tabela 1, é apresentada a Verificação da página [Sobre](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/sobre_analise_tarefas/).
 
