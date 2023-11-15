@@ -139,5 +139,8 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+
+
+| Versão | Data       | Descrição                        | Autor(es)                                                                                  | Revisor(es)                                    |
+| ------ | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
 | 1.0 | 14/11 | Construção e elaboração do documento |  [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |

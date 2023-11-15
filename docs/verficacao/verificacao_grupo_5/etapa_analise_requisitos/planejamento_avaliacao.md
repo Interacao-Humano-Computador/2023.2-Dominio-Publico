@@ -44,18 +44,18 @@ As verificações devem ser realizadas no perído de 14 de novembro de 2023 até
 
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma de atividades</p></font>
 
-| Atividade | Data | Responsável |
-| --------- | ---- | ----------- |
-| Planejamento | 14/11/2023 | [Victor Hugo](https://github.com/ViictorHugoo) |
-| Verificação e relato do artefato Perfil do Usuário | 14/11/2023 | [Luciano Ricardo](https://github.com/l-ricardo) |
-| Verificação e relato do artefato Personas | 14/11/2023 | [Luciano Ricardo](https://github.com/l-ricardo) |
-| Verificação e relato do artefato Cenários | 14/11/2023 | [Luciano Ricardo](https://github.com/l-ricardo) |
-| Verificação e relato do artefato Aspectos Éticos | 14/11/2023 | [Luciano Ricardo](https://github.com/l-ricardo) |
-| Verificação e relato do artefato Análise de Tarefas | 14/11/2023 | [Maria Alice](https://github.com/Maliz30) |
-| Verificação e relato do artefato Principios e Diretrizes Gerais | 14/11/2023 | [Maria Alice](https://github.com/Maliz30) |
-| Verificação e relato do artefato Metas de Usabilidade | 14/11/2023 | [Victor Hugo](https://github.com/ViictorHugoo) |
-| Verificação e relato do artefato Caracteristicas Gerais | 14/11/2023 | [Victor Hugo](https://github.com/ViictorHugoo) |
-| Verificação e relato do artefato Guia de Estilo | 14/11/2023 | [Victor Hugo](https://github.com/ViictorHugoo) |
+| Atividade                                                       | Data       | Responsável                                     |
+| --------------------------------------------------------------- | ---------- | ----------------------------------------------- |
+| Planejamento                                                    | 14/11/2023 | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| Verificação e relato do artefato Perfil do Usuário              | 14/11/2023 | [Luciano Ricardo](https://github.com/l-ricardo) |
+| Verificação e relato do artefato Personas                       | 14/11/2023 | [Luciano Ricardo](https://github.com/l-ricardo) |
+| Verificação e relato do artefato Cenários                       | 14/11/2023 | [Luciano Ricardo](https://github.com/l-ricardo) |
+| Verificação e relato do artefato Aspectos Éticos                | 14/11/2023 | [Luciano Ricardo](https://github.com/l-ricardo) |
+| Verificação e relato do artefato Análise de Tarefas             | 14/11/2023 | [Maria Alice](https://github.com/Maliz30)       |
+| Verificação e relato do artefato Principios e Diretrizes Gerais | 14/11/2023 | [Maria Alice](https://github.com/Maliz30)       |
+| Verificação e relato do artefato Metas de Usabilidade           | 14/11/2023 | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| Verificação e relato do artefato Caracteristicas Gerais         | 14/11/2023 | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| Verificação e relato do artefato Guia de Estilo                 | 14/11/2023 | [Victor Hugo](https://github.com/ViictorHugoo)  |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
@@ -70,13 +70,13 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 <center>
 <font size="2"><p style="text-align: center">Tabela 2: Checklist Geral</p></font>
 
-| N° | Descrição | Resultado |
-| -- | --------- | --------- |
-| 1  | Há um texto introdutório sobre o artefato?| |
-| 2  | Há a referencia/bibliografia seguindo a ABNT? | |
-| 3  | O artefato possui um histórico de versões padronizado? | |
-| 4  | As imagens e tabelas são chamadas no texto? | |
-| 5  | As imagens e tabelas possuem titulo e fonte? | |
+| ID  | Critério                                               | Resultado |
+| --- | ------------------------------------------------------ | --------- |
+| 1   | Há um texto introdutório sobre o artefato?             |           |
+| 2   | Há a referencia/bibliografia?                          |           |
+| 3   | O artefato possui um histórico de versões padronizado? |           |
+| 4   | As imagens e tabelas são chamadas no texto?            |           |
+| 5   | As imagens e tabelas possuem titulo e fonte?           |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 </center>
@@ -84,11 +84,17 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 ### Perfil do Usuário
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 3: Checklist ...</p></font>
+<font size="2"><p style="text-align: center">Tabela 3: Checklist Perfil do Usuário</p></font>
 
-| N° | Descrição | Resultado |
-| -- | --------- | --------- |
-
+| ID  | Critério                                                                                                                  | Resultado |
+| --- | ------------------------------------------------------------------------------------------------------------------------- | --------- |
+| 6   | O perfil de usuário foi definido com base em dados coletados por meio de algum estudo, como entrevistas ou questionários? |           |
+| 7   | O percentual de usuários em cada faixa de características foi determinado?                                                |           |
+| 8   | O perfil do usuário possui idade, sexo, status socioeconômico e grau de escolaridade definidos?                           |           |
+| 9   | O perfil do usuário possui sua experiência com tecnologia definida?                                                       |           |
+| 10  | O perfil do usuário é definido entre tecnófilos ou tecnófobos?                                                            |           |
+| 11  | O perfil do usuário possui suas tarefas primárias definidas?                                                              |           |
+| 12  | O perfil do usuário possui a experiência com o produto ou semelhantes definidos?                                          |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 </center>
@@ -97,10 +103,24 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 ### Personas
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 4: Checklist ...</p></font>
+<font size="2"><p style="text-align: center">Tabela 4: Checklist Personas</p></font>
 
-| N° | Descrição | Resultado |
-| -- | --------- | --------- |
+| ID  | Critério                                                                                              | Resultado |
+| --- | ----------------------------------------------------------------------------------------------------- | --------- |
+| 6   | As personas foram criadas baseadas nos dados do perfil do usuário?                                    |           |
+| 7   | A razão da quantidade de personas é justificada?                                                      |           |
+| 8   | As personas possuem nome e sobrenome?                                                                 |           |
+| 9   | As personas possuem idade e dados demográficos?                                                       |           |
+| 10  | As personas possuem foto?                                                                             |           |
+| 11  | As personas são identificadas entre primaria, secundaria ou antipersona?                              |           |
+| 12  | As personas possuem seu objetivos específicos claramente definidos?                                   |           |
+| 13  | As personas possuem suas especialidades claramente definidas?                                         |           |
+| 14  | As personas possuem sua educação definida?                                                            |           |
+| 15  | As personas possuem seu nivel de treinamento definido?                                                |           |
+| 16  | As personas possuem suas tarefas básicas ou críticas definidas com frequência, importância e duração? |           |
+| 16  | As personas possuem seus relacionamentos com outros explicados?                                       |           |
+| 17  | Os requisitos necessários para atender às necessidades das personas são abordados?                    |           |
+| 18  | As expectativas das personas sobre o produto estão documentadas?                                      |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 </center>
@@ -108,10 +128,15 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 ### Cenários
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 5: Checklist ...</p></font>
+<font size="2"><p style="text-align: center">Tabela 5: Checklist Cenários</p></font>
 
-| N° | Descrição | Resultado |
-| -- | --------- | --------- |
+| ID  | Critério                                                | Resultado |
+| --- | ------------------------------------------------------- | --------- |
+| 6   | Os cenarios possuem contexto definido?                  |           |
+| 7   | Os cenarios possuem o(s) ator(es) envolvidos definidos? |           |
+| 8   | Os cenarios possuem objetivos definidos?                |           |
+| 9   | Os cenarios possuem ações definidas?                    |           |
+| 10  | Os cenarios possuem avaliação definida?                 |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 </center>
@@ -120,10 +145,14 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 ### Aspectos Éticos
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 6: Checklist ...</p></font>
+<font size="2"><p style="text-align: center">Tabela 6: Checklist Aspectos Éticos</p></font>
 
-| N° | Descrição | Resultado |
-| -- | --------- | --------- |
+| ID  | Critério                                                                                                   | Resultado |
+| --- | ---------------------------------------------------------------------------------------------------------- | --------- |
+| 6   | São citados os princípios da autonomia, da beneficência, da não maleficência e da justiça e equidade?      |           |
+| 7   | Existe um modelo de termo de consentimento livre e esclarecido que será disponibilizado aos participantes? |           |
+| 8   | É citado que os avaliadores irão solicitar a permissão para gravar a pessoa, antes de começar a gravação?  |           |
+| 9   | No TCLE é explicado o objetivo da pesquisa e como ela será realizada aos participantes?                    |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 </center>
@@ -172,12 +201,11 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 <center>
 <font size="2"><p style="text-align: center">Tabela 9: Checklist Metas de Usabilidade</p></font>
 
-| N° | Descrição | Resultado |
-| -- | --------- | --------- |
-| 6  | Há as metas de usabilidade que o projeto deve alcançar? | |
-| 7  | Há o motivo da escolha das metas de usabilidade? | |
-| 8  | Há a descrição das metas de usabilidade? | |
-
+| ID  | Critério                                                | Resultado |
+| --- | ------------------------------------------------------- | --------- |
+| 6   | Há as metas de usabilidade que o projeto deve alcançar? |           |
+| 7   | Há o motivo da escolha das metas de usabilidade?        |           |
+| 8   | Há a descrição das metas de usabilidade?                |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 </center>
@@ -188,11 +216,11 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 <center>
 <font size="2"><p style="text-align: center">Tabela 10: Checklist das Caracteristicas Gerais</p></font>
 
-| N° | Descrição | Resultado |
-| -- | --------- | --------- |
-| 6  | Há as tarefas que o usuário pode fazer na plataforma? | |
-| 7  | Há os limites que a plataforma impõe ao usuário? | |
-| 8  | Há as tecnologias usadas para o desenvolvimento da plataforma | |
+| ID  | Critério                                                      | Resultado |
+| --- | ------------------------------------------------------------- | --------- |
+| 6   | Há as tarefas que o usuário pode fazer na plataforma?         |           |
+| 7   | Há os limites que a plataforma impõe ao usuário?              |           |
+| 8   | Há as tecnologias usadas para o desenvolvimento da plataforma |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 </center>
@@ -203,18 +231,18 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 <center>
 <font size="2"><p style="text-align: center">Tabela 11: Checklist do Guia de Estilo</p></font>
 
-| N° | Descrição | Resultado |
-| -- | --------- | --------- |
-| 6  | Há o objetivo do Guia de estilo? | |
-| 7  | Há o publico alvo? | |
-| 8  | Há como manter e ultilizar o guia de estilo? | |
-| 9  | Há a tipografia e seu uso? | |
-| 10 | Há a paleta de cores e seu uso? | |
-| 11 | Há elementos de ação? | |
-| 12 | Há elementos de interface? | |
-| 13 | Há elementos de interação? | |
-| 14 | O guia de estilo foi feito para o site avaliado? | |
-| 15 | Há a disposição espacial e grid? | |
+| ID  | Critério                                         | Resultado |
+| --- | ------------------------------------------------ | --------- |
+| 6   | Há o objetivo do Guia de estilo?                 |           |
+| 7   | Há o publico alvo?                               |           |
+| 8   | Há como manter e ultilizar o guia de estilo?     |           |
+| 9   | Há a tipografia e seu uso?                       |           |
+| 10  | Há a paleta de cores e seu uso?                  |           |
+| 11  | Há elementos de ação?                            |           |
+| 12  | Há elementos de interface?                       |           |
+| 13  | Há elementos de interação?                       |           |
+| 14  | O guia de estilo foi feito para o site avaliado? |           |
+| 15  | Há a disposição espacial e grid?                 |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 </center>
@@ -235,9 +263,11 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| ------ | ---- | --------- | --------- | ----------- |
-| 1.0 | 14/11/2023 | Criação e Estruturação | [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo) |
-| 1.1 | 14/11/2023 | Checklist Geral | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30) |
-| 1.2 | 14/11/2023 | Checklists Metas, Caracteristicas e Guia de estilo | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30) |
-| 1.3 | 14/11/2023 | Checklist Análise de Tarefas, Principios e Diretrizes Gerais | [Maria Alice](https://github.com/Maliz30) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| Versão | Data       | Descrição                                                          | Autor(es)                                       | Revisor(es)                                     |
+| ------ | ---------- | ------------------------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 14/11/2023 | Criação e Estruturação                                             | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.1    | 14/11/2023 | Checklist Geral                                                    | [Victor Hugo](https://github.com/ViictorHugoo)  | [Maria Alice](https://github.com/Maliz30)       |
+| 1.2    | 14/11/2023 | Checklists Metas, Caracteristicas e Guia de estilo                 | [Victor Hugo](https://github.com/ViictorHugoo)  | [Maria Alice](https://github.com/Maliz30)       |
+| 1.3    | 14/11/2023 | Checklists Cenarios, Personas, Perfil de Usuário e Aspectos Éticos | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
+
+| 1.4 | 14/11/2023 | Checklist Análise de Tarefas, Principios e Diretrizes Gerais | [Maria Alice](https://github.com/Maliz30) | [Victor Hugo](https://github.com/ViictorHugoo) |

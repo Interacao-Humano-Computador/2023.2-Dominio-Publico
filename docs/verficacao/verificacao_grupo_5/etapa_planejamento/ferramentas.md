@@ -63,5 +63,7 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 ## Histórico de Versões
 
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+
+| Versão | Data       | Descrição                        | Autor(es)                                                                                  | Revisor(es)                                    |
+| ------ | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
 | 1.0 | 14/11 | Construção e elaboração do documento | [Gustavo França](https://github.com/gustavofbs) | [Maria Alice](https://github.com/Maliz30) |
