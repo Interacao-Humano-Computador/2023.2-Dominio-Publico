@@ -161,10 +161,15 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 ### Análise de Tarefas
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 7: Checklist ...</p></font>
+<font size="2"><p style="text-align: center">Tabela 7: Checklist de Análise de Tarefas</p></font>
 
-| ID  | Critério | Resultado |
-| --- | -------- | --------- |
+| N° | Descrição | Resultado |
+| -- | --------- | --------- |
+| 6 | O objetivo da análise de tarefas é apresentado? ||
+| 7 | 	As tarefas são descritas de forma clara e concisa? |
+| 8 | Há ao menos duas técnicas para especificar as tarefas? ||
+| 9 | O HTA apresenta diagrama, legenda e representaçãoem tabela? ||
+| 10 | O GOMS foi representado pelos modelos: KLM, CMN-GOMS, CPM-GOMS, CTT | |
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 </center>
@@ -175,12 +180,21 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 <center>
 <font size="2"><p style="text-align: center">Tabela 8: Checklist dos Principios e Diretrizes Gerais</p></font>
 
-| ID  | Critério | Resultado |
-| --- | -------- | --------- |
+| N° | Descrição | Resultado |
+| -- | --------- | --------- |
+| 6 | Os princípios gerais do projeto são claramente definidos e documentados? ||
+| 7 | Os princípios gerais do projeto são consistentes com as expectativas dos usuários?||
+| 8 | Os princípios gerais do projeto promovem a simplicidade nas estruturas das tarefas? ||
+| 9 | Os princípios gerais do projeto promovem o equilíbrio entre controle e liberdade do usuário? ||
+| 10 | 	Os princípios gerais do projeto contém consistência e padronização ? ||
+| 11 | Os princípios gerais do projeto promovem a eficiência do usuário? ||
+| 12 | Os princípios gerais do projeto antecipam as necessidades do usuário? ||
+| 13 | Os princípios gerais do projeto promovem a visibilidade e o reconhecimento? ||
+| 14 | Os princípios gerais do projeto promovem o conteúdo relevante e a expressão adequada? ||
+| 15 | Os princípios gerais do projeto promovem o projeto para erros? | |
 
-<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/Maliz30)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 </center>
-
 
 ### Metas de Usabilidade
 
@@ -255,3 +269,5 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 | 1.1    | 14/11/2023 | Checklist Geral                                                    | [Victor Hugo](https://github.com/ViictorHugoo)  | [Maria Alice](https://github.com/Maliz30)       |
 | 1.2    | 14/11/2023 | Checklists Metas, Caracteristicas e Guia de estilo                 | [Victor Hugo](https://github.com/ViictorHugoo)  | [Maria Alice](https://github.com/Maliz30)       |
 | 1.3    | 14/11/2023 | Checklists Cenarios, Personas, Perfil de Usuário e Aspectos Éticos | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
+
+| 1.4 | 14/11/2023 | Checklist Análise de Tarefas, Principios e Diretrizes Gerais | [Maria Alice](https://github.com/Maliz30) | [Victor Hugo](https://github.com/ViictorHugoo) |
