@@ -30,23 +30,20 @@ Com base nos objetivos evidenciados, foram preparadas perguntas seguindo critér
 
 ### O que iremos avaliar ?
 
-- Apropriação de tecnologia pelos usuários, incluindo o sistema computacional a ser avaliado mas não se limitando a ele;
+(1) Verificar a conformidade com um padrão;
 
-- Verificar a conformidade com um padrão;
-
-- Comparar ideias e alternativas de design;
-
-- Identificar problemas na interação e interface
+(2) Identificar problemas na interação e interface
 
 ### Perguntas
 
-- Foi possível explorar conceitos de design no protótipo de papel?
+| Ordem das perguntas | Objetivos Relacionados | Perguntas | Tipo de pergunta | Respostas possíveis |
+|---------------------|------------------------|-----------|-------------------|----------------------|
+| 1°                  | 2                      | Ao realizar a tarefa (citar a tarefa) no site Domínio Público, você percebeu se a interface e interação estavam em conformidade com padrões de usabilidade estabelecidos? | Fechada | Sim<br/>Não<br/> |
+| 2°                  | 2                      |  Houve algum momento durante a interação no site Domínio Público em que você encontrou dificuldades devido a problemas na interface? | Aberta | Resposta discursiva |
+| 3°                  | 1                      | A disposição dos elementos de interação no site Domínio Público auxiliaram na rapidez da execução da sua tarefa? | Fechada | Sim<br/>Não |
+| 4°                  | 1                      | Em termos de layout e design do site Domínio Público, achou alguma parte que não faça sentido com o objetivo do site? | Fechada | Sim<br/>Não<br/>Caso sim, pedir para descrever |
+| 5°                  | 2                      | Você imagina alguma forma de melhorar esta tarefa no site Domínio Público? | Aberta | Resposta discursiva |
 
-- Alguma melhoria foi listada para o protótipo apresentado?
-
-- Problemas relacionados a usabilidade foram encontradas?
-
-- Novas ideias principais relacionadas ao design foram encontradas?
 
 ## C - Métodos de Avaliação
 
@@ -177,3 +174,4 @@ No Vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 | ------ | ---------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 01/11/2023 | Criação do Documento     | [Victor Hugo](https://github.com/ViictorHugoo)                                                                                                                                         | [Ana Catarina](https://github.com/an4catarina) |
 | 1.1    | 08/11/2023 | Organização do documento | [Victor Hugo](https://github.com/ViictorHugoo),[Gustavo](https://github.com/gustavofbs),[Luciano Ricardo](https://github.com/l-ricardo) e [Harryson](https://github.com/harry-cmartin) | [Ana Catarina](https://github.com/an4catarina) |
+| 1.2    | 20/11/2023 | Organização das perguntas| [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina) |
