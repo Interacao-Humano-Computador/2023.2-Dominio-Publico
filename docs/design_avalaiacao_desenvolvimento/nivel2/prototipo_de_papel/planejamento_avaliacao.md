@@ -38,11 +38,10 @@ Com base nos objetivos evidenciados, foram preparadas perguntas seguindo critér
 
 | Ordem das perguntas | Objetivos Relacionados | Perguntas | Tipo de pergunta | Respostas possíveis |
 |---------------------|------------------------|-----------|-------------------|----------------------|
-| 1°                  | 2                      | Ao realizar a tarefa (citar a tarefa) no site Domínio Público, você percebeu se a interface e interação estavam em conformidade com padrões de usabilidade estabelecidos? | Fechada | Sim<br/>Não<br/> |
-| 2°                  | 2                      |  Houve algum momento durante a interação no site Domínio Público em que você encontrou dificuldades devido a problemas na interface? | Aberta | Resposta discursiva |
-| 3°                  | 1                      | A disposição dos elementos de interação no site Domínio Público auxiliaram na rapidez da execução da sua tarefa? | Fechada | Sim<br/>Não |
-| 4°                  | 1                      | Em termos de layout e design do site Domínio Público, achou alguma parte que não faça sentido com o objetivo do site? | Fechada | Sim<br/>Não<br/>Caso sim, pedir para descrever |
-| 5°                  | 2                      | Você imagina alguma forma de melhorar esta tarefa no site Domínio Público? | Aberta | Resposta discursiva |
+| 1°                  | 2                      |  Houve algum momento durante a interação no site Domínio Público em que você encontrou dificuldades devido a problemas na interface? | Aberta | Resposta discursiva |
+| 2°                  | 1                      | A disposição dos elementos de interação no site Domínio Público auxiliaram na rapidez da execução da sua tarefa? | Fechada | Sim<br/>Não |
+| 3°                  | 1                      | Em termos de layout e design do site Domínio Público, achou alguma parte que não faça sentido com o objetivo do site? | Fechada | Sim<br/>Não<br/>Caso sim, pedir para descrever |
+| 4°                  | 2                      | Você imagina alguma forma de melhorar esta tarefa no site Domínio Público? | Aberta | Resposta discursiva |
 
 
 ## C - Métodos de Avaliação
@@ -86,8 +85,14 @@ O cronograma das entrevistas com os usuários estão documentadas na Tabela 1 co
 
 <font size="2"><p style="text-align: center">Tabela 2: Cronograma da entrevista </p></font>
 
-|                                           Entrevistador(es)                                            | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Data Executada |           Tarefa            | Local |
+|                                           Entrevistador(es)                                            | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Data Executada |           Tarefa(s)            | Local |
 | :----------------------------------------------------------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :------------: | :-------------------------: | :---: |
+| [Maria Alice](), [Luciano Ricardo]() e [Victor Hugo]() |     Tales | || 21/11 | | Se tornar colaborador, Pedir ajuda e Avaliar midia | FGA |
+| [Maria Alice](), [Luciano Ricardo]() e [Victor Hugo]() |     Luciano | || 21/11 | | Se tornar colaborador, Pedir ajuda e Avaliar midia | FGA |
+| [Ana Catarina]() e [Pedro Henrique]() | Gustavo | || 21/11 | | Acessar estatisticas e Download de mídia | FGA |
+| [Gustavo França]() e [Harryson Martins]() | ||| 22/11 | |Contatar Admin e Pesquisar por mída | FGA |
+
+<!-- 
 |    [Ana Catarina](https://github.com/an4catarina) e [Victor Hugo](https://github.com/ViictorHugoo)     |     Gustavo     |       19:10       |     19:25      |     15/11      |                |   Acessar as Estátisticas   |  FGA  |
 |    [Gustavo França](https://github.com/gustavofbs) e [Ana Catarina](https://github.com/an4catarina)    |     Douglas     |       19:10       |     19:25      |     15/11      |                |       Contatar Admin        |  FGA  |
 | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) |    Luma Maia    |       22:30       |     22:45      |     15/11      |                |     Pesquisar por mídia     |  FGA  |
@@ -95,7 +100,7 @@ O cronograma das entrevistas com os usuários estão documentadas na Tabela 1 co
 |      [Maria Alice](https://github.com/Maliz30) e [Luciano Ricardo](https://github.com/l-ricardo)       |     Camila      |       13:50       |     14:05      |     15/11      |                | Cadidatura para Colaborador |  FGA  |
 |       [Pedro Henrique](https://github.com/pedro-hsf) e [Maria Alice](https://github.com/Maliz30)       |     Nicolas     |       13:50       |     14:05      |     15/11      |                |      Download de Mídia      |  FGA  |
 |    [Victor Hugo](https://github.com/ViictorHugoo) e [Pedro Henrique](https://github.com/pedro-hsf)     |  Douglas Alves  |       18:00       |     18:15      |     15/11      |                |        Avaliar Midia        |  FGA  |
-
+-->
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
 
 ## D - Lidando com as Questões Éticas
@@ -175,3 +180,4 @@ No Vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 | 1.0    | 01/11/2023 | Criação do Documento     | [Victor Hugo](https://github.com/ViictorHugoo)                                                                                                                                         | [Ana Catarina](https://github.com/an4catarina) |
 | 1.1    | 08/11/2023 | Organização do documento | [Victor Hugo](https://github.com/ViictorHugoo),[Gustavo](https://github.com/gustavofbs),[Luciano Ricardo](https://github.com/l-ricardo) e [Harryson](https://github.com/harry-cmartin) | [Ana Catarina](https://github.com/an4catarina) |
 | 1.2    | 20/11/2023 | Organização das perguntas| [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina) |
+| 1.3    | 21/11/2023 | Corrigindo detalhes | [Victor Hugo]() | [Luciano Ricardo]() |
