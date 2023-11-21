@@ -32,7 +32,7 @@ Com base nos objetivos evidenciados, foram preparadas perguntas seguindo critér
 
 (1) Verificar a conformidade com um padrão;
 
-(2) Identificar problemas na interação e interface
+(2) Identificar problemas na interação e interface.
 
 ### Perguntas
 

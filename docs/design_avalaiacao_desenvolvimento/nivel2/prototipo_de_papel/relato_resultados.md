@@ -134,7 +134,7 @@ No Video 2 e Tabela 4 é possível verificar os registros feitos durante a avali
 
 
 
-### Tarefa: Acessar ajuda
+### Tarefas: Acessar ajuda 
 
 ##### Objetivo e âmbito da avaliação
 
@@ -337,21 +337,22 @@ No Video 5 e Tabela 10 é possível verificar os registros feitos durante a aval
 
 ##### Objetivo e âmbito da avaliação
 
-A avaliação tem como objetivo principal avaliar se a [Análise de Tarefas de Avaliar Midia](../../../analise_de_requisitos/analise_de_tarefas) está em concordancia com as ações tomadas durante o uso real da interface.
+A avaliação tem como objetivo identificar problemas no Protótipo de papel para que não sejam repetidos no protótipo de alta e verificar se o Protótipo de papel atende as necessidades do usuário de forma eficaz e sem abiguidades, de forma não haja problemas na interação com a interface. 
 
 
 ##### Método de avaliação
 
-Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação do Storyboard](planejamento_avaliacao.md). Além disso foi utilizado um questionário de X questões para guiar a entrevista. A tabela X e Y representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
+Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação do Protótipo de Papel](planejamento_avaliacao.md). Além disso foi utilizado um questionário de 4 questões para guiar a entrevista. A tabela 11 e 12 representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
 
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 11: Cronograma executado</p></font>
+<font size="2"><p style="text-align: center">Tabela X: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
-| ------------- | ------------ | ----------------- | -------------- | ----- | ---------------- |
-| Victor Hugo   | Ana Beatriz  | ----              | ----           | 08/11 | Presencialmente  |
+| Entrevistadores | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
+| -------------  | ------------ | ----------------- | -------------- | ----- | ---------------- |
+| Luciando Ricardo, Maria Alice e Victor Hugo    | Tales  | ----              | ----           | 21/11 | Presencialmente - FGA  |
+| Luciando Ricardo, Maria Alice e Victor Hugo    |        | ----              | ----           | 21/11 | Presencialmente - FGA  |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
@@ -380,9 +381,13 @@ No Video 6 e Tabela 12 é possível verificar os registros feitos durante a aval
 
 <font size="2"><p style="text-align: center">Tabela 12: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------- |
-|                                                                                                               |          |
+| Perguntas | Tipo de pergunta | Respostas possíveis |
+|-----------|-------------------|----------------------|
+|  Houve algum momento durante a interação no site Domínio Público em que você encontrou dificuldades devido a problemas na interface? | Aberta |  |
+| A disposição dos elementos de interação no site Domínio Público auxiliaram na rapidez da execução da sua tarefa? | Fechada |  |
+| Em termos de layout e design do site Domínio Público, achou alguma parte que não faça sentido com o objetivo do site? | Fechada |  |
+| Você imagina alguma forma de melhorar esta tarefa no site Domínio Público? | Aberta |  |
+
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
@@ -504,4 +509,5 @@ No Video 7 e Tabela 14 é possível verificar os registros feitos durante a aval
 
 | Versão | Data       | Descrição            | Autor(es)                                       | Revisor(es)                                    |
 | ------ | ---------- | -------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 07/11/2021 | Criação do documento | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.0    | 07/11/2023 | Criação do documento | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.1    | 21/11/2023 | Avaliar midia - Preliminar | [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo) |
