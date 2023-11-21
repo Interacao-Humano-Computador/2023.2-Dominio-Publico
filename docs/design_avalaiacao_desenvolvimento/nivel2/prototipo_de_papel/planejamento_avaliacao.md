@@ -87,10 +87,10 @@ O cronograma das entrevistas com os usuários estão documentadas na Tabela 1 co
 
 |                                           Entrevistador(es)                                            | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Data Executada |           Tarefa(s)            | Local |
 | :----------------------------------------------------------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :------------: | :-------------------------: | :---: |
-| [Maria Alice](), [Luciano Ricardo]() e [Victor Hugo]() |     Tales | || 21/11 | | Se tornar colaborador, Pedir ajuda e Avaliar midia | FGA |
-| [Maria Alice](), [Luciano Ricardo]() e [Victor Hugo]() |     Luciano | || 21/11 | | Se tornar colaborador, Pedir ajuda e Avaliar midia | FGA |
-| [Ana Catarina]() e [Pedro Henrique]() | Gustavo | || 21/11 | | Acessar estatisticas e Download de mídia | FGA |
-| [Gustavo França]() e [Harryson Martins]() | ||| 22/11 | |Contatar Admin e Pesquisar por mída | FGA |
+| [Maria Alice](https://github.com/Maliz30), [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |     Tales | || 21/11 | | Se tornar colaborador, Pedir ajuda e Avaliar midia | FGA |
+| [Maria Alice](https://github.com/Maliz30), [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |     Luciano | || 21/11 | | Se tornar colaborador, Pedir ajuda e Avaliar midia | FGA |
+| [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf) | Gustavo | || 21/11 | | Acessar estatisticas e Download de mídia | FGA |
+| [Gustavo França](https://github.com/gustavofbs) e [Harryson Martins](https://github.com/harry-cmartin) | ||| 22/11 | |Contatar Admin e Pesquisar por mída | FGA |
 
 <!-- 
 |    [Ana Catarina](https://github.com/an4catarina) e [Victor Hugo](https://github.com/ViictorHugoo)     |     Gustavo     |       19:10       |     19:25      |     15/11      |                |   Acessar as Estátisticas   |  FGA  |
@@ -180,4 +180,4 @@ No Vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 | 1.0    | 01/11/2023 | Criação do Documento     | [Victor Hugo](https://github.com/ViictorHugoo)                                                                                                                                         | [Ana Catarina](https://github.com/an4catarina) |
 | 1.1    | 08/11/2023 | Organização do documento | [Victor Hugo](https://github.com/ViictorHugoo),[Gustavo](https://github.com/gustavofbs),[Luciano Ricardo](https://github.com/l-ricardo) e [Harryson](https://github.com/harry-cmartin) | [Ana Catarina](https://github.com/an4catarina) |
 | 1.2    | 20/11/2023 | Organização das perguntas| [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina) |
-| 1.3    | 21/11/2023 | Corrigindo detalhes | [Victor Hugo]() | [Luciano Ricardo]() |
+| 1.3    | 21/11/2023 | Corrigindo detalhes | [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo) |
