@@ -351,8 +351,8 @@ Durante a entrevista foi usado o método investigativo conforme descrito no [Pla
 
 | Entrevistadores | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
 | -------------  | ------------ | ----------------- | -------------- | ----- | ---------------- |
-| Luciando Ricardo, Maria Alice e Victor Hugo    | Tales  | ----              | ----           | 21/11 | Presencialmente - FGA  |
-| Luciando Ricardo, Maria Alice e Victor Hugo    |        | ----              | ----           | 21/11 | Presencialmente - FGA  |
+| Luciando Ricardo, Maria Alice e Victor Hugo    | Bruno  | 15:44              | 15:57           | 21/11 | Presencialmente - FGA  |
+| Luciando Ricardo, Maria Alice e Victor Hugo    | Maria Abritta | 16:01              | 16:10           | 21/11 | Presencialmente - FGA  |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
@@ -361,19 +361,27 @@ Durante a entrevista foi usado o método investigativo conforme descrito no [Pla
 
 ##### Seleção dos participantes
 
-Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o entrevistador. O usuário entrevistado selecionado possui entre 18 e 24 anos; é experiente com tecnologia (tecnófilo); e lê com frequencia media, conforme estabelecido no [Perfil de Usuário]().
+Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o entrevistador. O usuário entrevistado selecionado possui entre 18 e 24 anos; é experiente com tecnologia (tecnófilo); e lê com frequencia media, conforme estabelecido no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md).
 
 ##### Registro da avaliação
 
-No Video 6 e Tabela 12 é possível verificar os registros feitos durante a avaliação.
+Nos Videos 6 e 7, e na Tabela 12 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 6: Gravação da avaliação</p></font>
+<font size="2"><p style="text-align: center">Video 6: Gravação da avaliação com Bruno</p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fSARhlI9ygc?si=eNzUcaNxOHALAEzK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30) e [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+
+
+<font size="2"><p style="text-align: center">Video 7: Gravação da avaliação com Maria Abritta</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BcIXcSJNe5A?si=ArC_m1XU0IVvUV8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30) e [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+
 
 </center>
 
@@ -383,52 +391,26 @@ No Video 6 e Tabela 12 é possível verificar os registros feitos durante a aval
 
 | Perguntas | Tipo de pergunta | Respostas possíveis |
 |-----------|-------------------|----------------------|
-|  Houve algum momento durante a interação no site Domínio Público em que você encontrou dificuldades devido a problemas na interface? | Aberta |  |
-| A disposição dos elementos de interação no site Domínio Público auxiliaram na rapidez da execução da sua tarefa? | Fechada |  |
-| Em termos de layout e design do site Domínio Público, achou alguma parte que não faça sentido com o objetivo do site? | Fechada |  |
-| Você imagina alguma forma de melhorar esta tarefa no site Domínio Público? | Aberta |  |
-
+| A disposição dos elementos de interação no Protótipo de papel auxiliaram na rapidez da execução da sua tarefa? | Fechada | Sim |
+| Em termos de layout e design do Protótipo de papel, achou alguma parte que não faça sentido com o objetivo do site? | Fechada | Sim |
+| Você imagina alguma forma de melhorar a forma de executar esta tarefa no protótipo de papel? | Aberta | Não, acreditam que está eficaz e não necessita alterações |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
+- Observações: Não houveram momentos durante a interação com o propotótipo de papel em que os usuários encontraram dificuldades devido a problemas na interface. 
+
 
 ##### Listagem de problemas encontrados
 
-<!-- Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram problemas-->
-
-Na tabela X é possível encontar os problemas relatados, assim como sua causa, o resultado esperado e o resultado obitido.
-
-<center>
-
-<font size="2"><p style="text-align: center">Tabela X: Problemas relatados</p></font>
-
-| Problema | Causa | Resultado Esperado | Resultado Encontrado |
-| -------- | ----- | ------------------ | -------------------- |
-|          |       |                    |                      |
-
-<font size="2"><p style="text-align: center">Fonte: [Victor Hugo]().</p></font>
-
-</center>
+Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram problemas
 
 ##### Sugestões de melhoria
 
-<!-- Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram sugestões de melhoria-->
+Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram sugestões de melhoria
 
-Na tabela X é possível encontar as sugestões de melhoria, assim como o problema que a sugestão resolve.
 
-<center>
-
-<font size="2"><p style="text-align: center">Tabela X: Sugestões de melhoria</p></font>
-
-| Sugestão | Problema |
-| -------- | -------- |
-|          |          |
-
-<font size="2"><p style="text-align: center">Fonte: [Victor Hugo]().</p></font>
-
-</center>
 
 ### Tarefa: Contatar administradores
 
@@ -511,3 +493,4 @@ No Video 7 e Tabela 14 é possível verificar os registros feitos durante a aval
 | ------ | ---------- | -------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 07/11/2023 | Criação do documento | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.1    | 21/11/2023 | Avaliar midia - Preliminar | [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.2    | 21/11/2023 | Avaliar midia - Final | [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo) |
