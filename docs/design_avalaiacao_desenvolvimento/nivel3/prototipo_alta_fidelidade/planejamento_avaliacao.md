@@ -44,4 +44,73 @@ As perguntas propostas são:
 
 O método escolhido para a avaliação IHC do protótipo de alta fidelidade foi o de teste de usabilidade, o qual associado a entrevista e observação juntamente com o usuário, nos permite avaliar e testar a usabilidade de um certo sistema. O teste de usabilidade, seguindo as [Metas de usabilidade](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/metas_de_usabilidade/) , nos permite extrair informações e feedbacks dos usuários. A escolha do métoo se deve ao fato de possibilitar por uma maneira simples a coleta de muita informação dos usuários .
 
+## I - Aspectos Práticos da Avaliação
+
+### Recrutamento
+
+O recrutamendo dos usuários entrevistados serão definidos a partir do Perfil de usuários. O local definido para entrevista será online ou presencial, de forma a acordar com o usuário. O número de participantes da pesquisa será equivalente ao número de de integrantes, ou seja, 7 usuários a serem entrevistados.
+
+### Preparação
+
+    Para realizar as entrevistas e observação das ações dos usuários seram utilizadas para testagem as seguintes tarefas:
+
+- Pesquisar por mídia
+- Download de mídia
+- Acessar ajuda
+- Se tornar colaborador
+- Acessae estatísticas
+- Avaliar mídias
+- Contatar administradores
+
+Para realização da entrevista, será orientado para o entrevistado qual a ação desejada que ele faça no protótipo, além de que ele narre suas ações (Think aloud.)
+
+A sequêcia das ações que serão propostas ao usuário, a ser realizadas podem ser conferidas a partir da Análise de tarefas, com o [Diagram HTA](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/analise_de_tarefas/hta/) ou [GOMS](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/analise_de_tarefas/goms/).
+
+### Custos
+
+Os custos planejados para realização da avaliação são mínimos, tendo em vista que somente será necessário a utilização do tempo, imagem e consentimento dos entrevistados, além da necessidade de um aparelho de gravação de imagem pessoal, por parte do entrevistador. Dessa forma serão utilizadas os seguintes artefatos:
+
+- Perguntas exploradas
+- Termo de consentimento
+- Teste piloto
+- Roteiro de perguntas
+- Figma
+- Protótipo de alta fidelidade desenvolvido
+
+### Prazos
+
+O cronograma das entrevistas com os usuários estão documentadas na Tabela 1 com os seguintes tópicos:
+
+- Entrevistador;
+- Entrevistado;
+- Horário de início e fim;
+- Local e data que ocorreu a entrevista;
+
+<font size="2"><p style="text-align: center">Tabela 1: Cronograma da entrevista </p></font>
+
+|Entrevistador(es)| Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Data Executada |Tarefa(s)| Local |
+| :-------------: | :-------------: | :---------------: | :------------: | :------------: | :------------: | :-----: | :---: |
+|[Harryson Martins](https://github.com/harry-cmartin)||||||Pesquisar por mídia|FGA|
+
+
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin).</p></font>
+
+### Perguntas desenvolvidas
+
+A seguir, tabela 2, podem ser vistas as perguntas que serão propostas aos usuários após o término das entrevistas, para coletagem de informações. Na tabela 3, podem ser vistas as diretrizes a serem observadas pelos entrevistadores ao decorrer da avaliação. Ambos os artefatos foram baseados na Fase E - Perguntas a serem exploradas.
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 2: Perguntas propostas</p></font>
+
+|Pergunta|Resposta|
+|:------:|:------:|
+|Você acredita que as tarefas desenvolvidas foram de facil compreensão e execução?||
+|Você encontrou alguma dificuldade na realização das tarefas?||
+|Você acredita que os elementos na tela oferecem uma disposição satisfatória e um design compreensivel ?||
+|Você encontrou algum erro ou omissão de elementos durante a execuação da tarefa?||
+
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs).</p></font>
+
+</center>
 
