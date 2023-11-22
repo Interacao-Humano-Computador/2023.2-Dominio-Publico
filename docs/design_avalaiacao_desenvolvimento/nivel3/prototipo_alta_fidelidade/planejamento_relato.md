@@ -41,12 +41,12 @@ Além disso os entrevistadores deverão seguir o cronograma planejado explicitad
 
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma planejado</p></font>
 
-|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada |           Tarefa            |           Local            |
-| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :-------------------------: | :------------------------: |
-|    [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf)    |       ---       |        ---        |      ---       |      ---       |   ---   | FGA |
-|   [Gustavo França](https://github.com/gustavofbs) e [Harryson Martins](https://github.com/harry-cmartin)   |      ---       |   ---   |  --- |  ---  |  ---  |  FGA  |
-|   [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30) e [Victor Hugo](https://github.com/ViictorHugoo)   |       ---       |        ---        |      ---       |      ---       |    ---      | FGA |
-|
+|                                                              Entrevistador(es)                                                              | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Tarefa | Local |
+| :-----------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :----: | :---: |
+|                       [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf)                       |       ---       |        ---        |      ---       |      ---       |  ---   |  FGA  |
+|                   [Gustavo França](https://github.com/gustavofbs) e [Harryson Martins](https://github.com/harry-cmartin)                    |       ---       |        ---        |      ---       |      ---       |  ---   |  FGA  |
+| [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30) e [Victor Hugo](https://github.com/ViictorHugoo) |       ---       |        ---        |      ---       |      ---       |  ---   |  FGA  |
+|                                                                                                                                             |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
@@ -62,7 +62,6 @@ Por fim, esse tópico do relato da avaliação deve conter uma tabela com o cron
 | Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
 | ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
 | ----          | ----         | ----              | ----           | ---- | ----             |
-
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
@@ -134,6 +133,6 @@ Os problemas encontrados, sugestões de melhorias e quaisquer outros pontos enco
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição              | Autor(es)                                       | Revisor(es)                                    |
-| ------ | ---------- | ---------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 01/11/2021 | Criação do documento   | [Gustavo França](https://github.com/gustavofbs)  |  [Victor Hugo](https://github.com/ViictorHugoo) |
+| Versão | Data       | Descrição            | Autor(es)                                       | Revisor(es)                                    |
+| ------ | ---------- | -------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 01/11/2021 | Criação do documento | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
