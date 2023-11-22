@@ -52,7 +52,7 @@ O recrutamendo dos usuários entrevistados serão definidos a partir do Perfil d
 
 ### Preparação
 
-    Para realizar as entrevistas e observação das ações dos usuários seram utilizadas para testagem as seguintes tarefas:
+Para realizar as entrevistas e observação das ações dos usuários seram utilizadas para testagem as seguintes tarefas:
 
 - Pesquisar por mídia
 - Download de mídia
@@ -90,7 +90,7 @@ O cronograma das entrevistas com os usuários estão documentadas na Tabela 1 co
 
 |Entrevistador(es)| Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Data Executada |Tarefa(s)| Local |
 | :-------------: | :-------------: | :---------------: | :------------: | :------------: | :------------: | :-----: | :---: |
-|[Harryson Martins](https://github.com/harry-cmartin)||||||Pesquisar por mídia|FGA|
+|[Harryson Martins](https://github.com/harry-cmartin)|Kelven Cunha|||23/11/2023|||Pesquisar por mídia|FGA|
 
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin).</p></font>
@@ -110,7 +110,62 @@ A seguir, tabela 2, podem ser vistas as perguntas que serão propostas aos usuá
 |Você acredita que os elementos na tela oferecem uma disposição satisfatória e um design compreensivel ?||
 |Você encontrou algum erro ou omissão de elementos durante a execuação da tarefa?||
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs).</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin).</p></font>
 
 </center>
 
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 3: Diretrizes</p></font>
+
+|Pergunta|Resposta|
+|:------:|:------:|
+|O usuário consegue operar o sistema ?||
+|O usuário atinge todos os objetivos determinados? Com qual eficiencia e tempo ?||
+|O usuário entende as sequencias de ações que devem ser realizadas para realizar uma ação?||
+|O usuário encontrou barreiras para concluir as tarefas?||
+|Se encontradas, as barreiras foram determinates para o usuário não concluir as tarefas?||
+
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin).</p></font>
+
+</center>
+
+## D - Questões Éticas
+
+Como já apresentado, o termo de consentimento, garantirá uma interação respetuosa e profissional entre ambas as partes participantes.
+
+## E - Avaliar, Interpretar e Apresentar os Dados
+
+Após a finalização da entrevista, os dados coletados serão verificados e validados, a fim de se observar se foram coletados de forma correta todas as informações necessarias para evolução do produto final.
+
+Além disso, os problemas coletados serão organizados e elencados por ordem de importancia e impacto na aplicação, com o intuito de aplicar um solução no reprojeto do site final. As novas sugestões elencadas pelo usuário serão as principais fontes de embasamento para a evolução do produto.
+
+Por fim, os dados finais e lapidados obtidos serão dispostos a fim de proporcionar parametros para uma melhora na aplicação.
+
+
+## Planejamento do Teste Piloto
+
+## Teste Piloto
+
+
+
+## Bibliografia
+
+> SANTOS, Mizal. Planejamento da avaliação da Análise de tarefas. Repositório do Grupo Bnaco Central da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/planejamento_avaliacao. Acesso em: 21 de nov de 2023.
+
+
+> Bilheteria Digital. Planejamento da Avaliação do Protótipo de Alta Fidelidade. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-3/planejamento-avaliacao-paf/. Acesso em: 21 de nov de 2023.
+
+
+
+## Referências Bibliográficas
+
+<a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011
+
+
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição                        | Autor(es)                                                                                  | Revisor(es)                                    |
+| ------ | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
+| 1.0  | 21/11/2023 | Criação do Documento             |    [Harryson Martins](https://github.com/harry-cmartin)                                             | [Ana Catarina](https://github.com/an4catarina) |
