@@ -505,74 +505,105 @@ Durante a entrevista e durante a análise dos resultados após a entrevista, nã
 
 ##### Objetivo e âmbito da avaliação
 
-A finalidade da avaliação foi verificar a concordância entre a Protótipo de Papel de "Contatar administradores" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
+A finalidade da avaliação foi verificar a concordância entre a Protoripo de Papel de "Contatar administradores" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
 
 ##### Método de avaliação
 
-Conforme sugerido pelo [planejamento da avaliação](planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
+Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação do Protótipo de Papel](planejamento_avaliacao.md). Além disso foi utilizado um questionário de 4 questões para guiar a entrevista. As Tabelas 13 e 14 representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
 
-A Tabela 14 exibe as datas da realização da avaliação.
+A Tabela 13 exibe as datas da realização da avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 14: Cronograma executado</p></font>
+<font size="2"><p style="text-align: center">Tabela 13: Cronograma executado</p></font>
 
 | Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
 | ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
-| ----          | ----         | ----              | ----           | ---- | ----             |
+| Gustavo França | Flávio Gustavo | 12:25             | 12:27          | 22/11 | Presencialmente - FGA |
+| Gustavo França | Kelven | 12:30            | 12:32         | 22/11 | Presencialmente - FGA |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
 </center>
 
 ##### Seleção dos participantes
 
+Os usuários entrevistados possuem entre 18 e 24 anos; é experiente com tecnologia (tecnófilo); e lê com frequencia media, conforme estabelecido no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md).
 
 ##### Registro da avaliação
 
-No Video 8 e Tabela 15 é possível verificar os registros feitos durante a avaliação.
+No Video 8 e Tabela 14 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 8: Gravação da avaliação</p></font>
+<font size="2"><p style="text-align: center">Video 1: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xOvv3SnBEe4" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
 </center>
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 15: Sumario de perguntas</p></font>
+<font size="2"><p style="text-align: center">Tabela 2: Sumario de perguntas</p></font>
 
 | Pergunta | Resposta |
 | -------- | :------- |
-|          |          |
-|          |          |
-|          |          |
-|          |          |
-|          |          |
+| Houve algum momento durante a interação no site Domínio Público em que você encontrou dificuldades devido a problemas na interface?         |     Não     |
+| A disposição dos elementos de interação no site Domínio Público auxiliaram na rapidez da execução da sua tarefa?         |     Sim     |
+| Em termos de layout e design do site Domínio Público, achou alguma parte que não faça sentido com o objetivo do site?         |   Não       |
+| Você imagina alguma forma de melhorar esta tarefa no site Domínio Público?         |  Não        |
 
-<font size="2"><p style="text-align: center">Fonte: [------------](https://github.com/---------)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
+
+</center>
+
+No Video 9 e Tabela 15 é possível verificar os registros feitos durante a avaliação.
+
+<center>
+
+<font size="2"><p style="text-align: center">Video 2: Gravação da avaliação</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=XSwB3Ov9KdQ" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 3: Sumario de perguntas</p></font>
+
+| Pergunta | Resposta |
+| :--------: | :-------: |
+| Houve algum momento durante a interação no site Domínio Público em que você encontrou dificuldades devido a problemas na interface?           |   Não       |
+| A disposição dos elementos de interação no site Domínio Público auxiliaram na rapidez da execução da sua tarefa?          |   Sim       |
+| Em termos de layout e design do site Domínio Público, achou alguma parte que não faça sentido com o objetivo do site?           |    Não     |
+| Você imagina alguma forma de melhorar esta tarefa no site Domínio Público?          |       Não   |
+
+
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
 </center>
 
 
 ##### Listagem de problemas encontrados
+
+Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram problemas
+
+
 ##### Sugestões de melhoria
 
+Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram sugestões de melhoria
 
-### Planejamento de reprojeto
 
 
 
 
 ## Referências Bibliográficas
 
-
-
-## Bibliografia
+> 1. BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
 
 
 
@@ -585,3 +616,4 @@ No Video 8 e Tabela 15 é possível verificar os registros feitos durante a aval
 | 1.2    | 21/11/2023 | Avaliar midia - Final      | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
 | 1.3    | 21/11/2023 | Pedir ajuda                | [Luciano Ricardo](https://github.com/l-ricardo) | [Gustavo França](https://github.com/gustavofbs) |
 | 1.4    | 22/11/2023 | Se tornar colaborador | [Maria Alice](https://github.com/Maliz30) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.4    | 22/11/2023 | Contatar Administradores | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
