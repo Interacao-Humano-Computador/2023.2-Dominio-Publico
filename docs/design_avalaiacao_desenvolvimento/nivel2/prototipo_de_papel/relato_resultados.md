@@ -9,7 +9,7 @@ Durante essa etapa, o grupo desenvolveu o protótipo de papel, o qual pode ser v
 
 <font size="2"><p style="text-align: center">Figura 1: Visão Geral do Protótipo de papel</p></font>
 
-![Protótipo de Papel](../../../../../assets/prototipo_de_papel/todosPrototipos.jpg)
+![Protótipo de Papel](../../../assets/prototipo_de_papel/todosPrototipos.jpg)
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 
@@ -163,16 +163,14 @@ A avaliação foi dividida em duas etapas, sendo elas a funcionalidade Download 
 
 <font size="2"><p style="text-align: center">Tabela 5: Sumario de perguntas</p></font>
 
-|                                                              Pergunta                                                               | Resposta |
-| :---------------------------------------------------------------------------------------------------------------------------------: | :------: |
-| Houve algum momento durante a interação no site Domínio Público em que você encontrou dificuldades devido a problemas na interface? |   Não    |
-|          A disposição dos elementos de interação no site Domínio Público auxiliaram na rapidez da execução da sua tarefa?           |   Sim    |
-|        Em termos de layout e design do site Domínio Público, achou alguma parte que não faça sentido com o objetivo do site?        |   Não    |
-|                             Você imagina alguma forma de melhorar esta tarefa no site Domínio Público?                              |   Não    |
-
-| Durante a interação com a opção de "fazer download", você percebeu algum feedback claro do sistema indicando o progresso ou conclusão do download? Esse feedback foi satisfatório para você?
-| Sim |
-| Ao baixar algo no site de domínio público, você achou fácil entender o que estava prestes a ser baixado e todo processo envolvido ? | Sim |
+|                                                                                           Pergunta                                                                                           | Resposta |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: |
+|                             Houve algum momento durante a interação no site Domínio Público em que você encontrou dificuldades devido a problemas na interface?                              |   Não    |
+|                                       A disposição dos elementos de interação no site Domínio Público auxiliaram na rapidez da execução da sua tarefa?                                       |   Sim    |
+|                                    Em termos de layout e design do site Domínio Público, achou alguma parte que não faça sentido com o objetivo do site?                                     |   Não    |
+|                                                          Você imagina alguma forma de melhorar esta tarefa no site Domínio Público?                                                          |   Não    |
+| Durante a interação com a opção de "fazer download", você percebeu algum feedback claro do sistema indicando o progresso ou conclusão do download? Esse feedback foi satisfatório para você? |   Sim    |
+|                              Ao baixar algo no site de domínio público, você achou fácil entender o que estava prestes a ser baixado e todo processo envolvido?                              |   Sim    |
 
 <font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf)</p></font>
 
@@ -545,11 +543,10 @@ Os usuários entrevistados possuem entre 18 e 34 anos; é experiente com tecnolo
 
 ##### Registro da avaliação
 
-No Video 8 e Tabela 14 é possível verificar os registros feitos durante a avaliação.
+No Video 11 e Tabela 14 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 8: Gravação da avaliação</p></font>
 <font size="2"><p style="text-align: center">Video 11: Gravação da avaliação</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xOvv3SnBEe4?si=5MWSNbccC3wPehtp" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -577,7 +574,7 @@ No Video 12 e Tabela 15 é possível verificar os registros feitos durante a ava
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 2: Gravação da avaliação</p></font>
+<font size="2"><p style="text-align: center">Video 12: Gravação da avaliação</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XSwB3Ov9KdQ?si=yMW2OXNrFQuQ6tba" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

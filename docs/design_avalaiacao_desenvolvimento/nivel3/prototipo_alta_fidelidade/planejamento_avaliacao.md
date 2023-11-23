@@ -87,15 +87,15 @@ O cronograma das entrevistas com os usuários estão documentadas na Tabela 1 co
 
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma da entrevista </p></font>
 
-|                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Data Executada |          Tarefa(s)          |           Local            |
-| :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :------------: | :-------------------------: | :------------------------: | --- |
-|    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo     |       15:00       |     15:15      |     20/11      |                |   Acessar as Estátisticas   | Plataforma Microsoft Teams |
-|   [Gustavo França](https://github.com/gustavofbs)    | Flávio Augusto  |       12:00       |     12:15      |     20/11      |                |       Contatar Admin        | Plataforma Microsoft Teams |
-| [Harryson Martins](https://github.com/harry-cmartin) |  Kelven Cunha   |                   |                |   23/11/2023   |                |                             |    Pesquisar por mídia     | FGA |
-|   [Luciano Ricardo](https://github.com/l-ricardo)    |      Bruno      |       16:00       |     16:15      |     17/11      |                |         Pedir Ajuda         | Plataforma Microsoft Teams |
-|      [Maria Alice](https://github.com/Maliz30)       |  Maria Abritta  |       16:30       |     16:45      |     21/11      |                | Cadidatura para Colaborador | Plataforma Microsoft Teams |
-|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       14:00       |     14:15      |     21/11      |                |      Download de Mídia      | Plataforma Microsoft Teams |
-|    [Victor Hugo](https://github.com/ViictorHugoo)    |      Tales      |       13:00       |     13:15      |     21/11      |                |        Avaliar Midia        | Plataforma Microsoft Teams |
+| Entrevistador(es)                                    | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Data Executada | Tarefa(s)                    | Local                      |
+| ---------------------------------------------------- | --------------- | ----------------- | -------------- | -------------- | -------------- | ---------------------------- | -------------------------- |
+| [Ana Catarina](https://github.com/an4catarina)       | Gustavo         | 15:00             | 15:15          | 20/11          |                | Acessar as Estatísticas      | Plataforma Microsoft Teams |
+| [Gustavo França](https://github.com/gustavofbs)      | Flávio Augusto  | 12:00             | 12:15          | 20/11          |                | Contatar Admin               | Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) | Kelven Cunha    |                   |                | 23/11/2023     |                | Pesquisar por Mídia          | FGA                        |
+| [Luciano Ricardo](https://github.com/l-ricardo)      | Bruno           | 16:00             | 16:15          | 17/11          |                | Pedir Ajuda                  | Plataforma Microsoft Teams |
+| [Maria Alice](https://github.com/Maliz30)            | Maria Abritta   | 16:30             | 16:45          | 21/11          |                | Candidatura para Colaborador | Plataforma Microsoft Teams |
+| [Pedro Henrique](https://github.com/pedro-hsf)       | Nicolas         | 14:00             | 14:15          | 21/11          |                | Download de Mídia            | Plataforma Microsoft Teams |
+| [Victor Hugo](https://github.com/ViictorHugoo)       | Tales           | 13:00             | 13:15          | 21/11          |                | Avaliar Mídia                | Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin).</p></font>
 
