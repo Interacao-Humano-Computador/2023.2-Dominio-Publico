@@ -43,13 +43,13 @@ Além disso os entrevistadores deverão seguir o cronograma planejado explicitad
 
 |                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada |           Tarefa            |           Local            |
 | :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :-------------------------: | :------------------------: |
-|    [Ana Catarina](https://github.com/an4catarina)    |       ---       |        ---        |      ---       |      ---       |   Acessar as Estátisticas   | Plataforma Microsoft Teams |
-|   [Gustavo França](https://github.com/gustavofbs)    |      ----       |        ---        |      ---       |      ---       |       Contatar Admin        | Plataforma Microsoft Teams |
-| [Harryson Martins](https://github.com/harry-cmartin) |       ---       |        ---        |      ---       |      ---       |     Pesquisar por mídia     | Plataforma Microsoft Teams |
-|   [Luciano Ricardo](https://github.com/l-ricardo)    |       ---       |        ---        |      ---       |      ---       |         Pedir Ajuda         | Plataforma Microsoft Teams |
-|      [Maria Alice](https://github.com/Maliz30)       |       ---       |        ---        |      ---       |      ---       | Cadidatura para Colaborador | Plataforma Microsoft Teams |
-|    [Pedro Henrique](https://github.com/pedro-hsf)    |       ---       |        ---        |      ---       |      ---       |      Download de Mídia      | Plataforma Microsoft Teams |
-|    [Victor Hugo](https://github.com/ViictorHugoo)    |       ---       |        ---        |      ---       |      ---       |        Avaliar Midia        | Plataforma Microsoft Teams |
+|    [Ana Catarina](https://github.com/an4catarina)    |       Gustavo   |        15:00        |      15:15       |      20/11       |   Acessar as Estátisticas   | Plataforma Microsoft Teams |
+|   [Gustavo França](https://github.com/gustavofbs)    |      Flávio Augusto       |        12:00        |      12:15       |      20/11       |       Contatar Admin        | Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) |       Kelven Cunha       |        12:20        |      12:35       |      17/11       |     Pesquisar por mídia     | Plataforma Microsoft Teams |
+|   [Luciano Ricardo](https://github.com/l-ricardo)    |       Bruno       |        16:00        |      16:15       |      17/11       |         Pedir Ajuda         | Plataforma Microsoft Teams |
+|      [Maria Alice](https://github.com/Maliz30)       |       Maria Abritta       |        16:30        |      16:45       |      21/11       | Cadidatura para Colaborador | Plataforma Microsoft Teams |
+|    [Pedro Henrique](https://github.com/pedro-hsf)    |       Nicolas       |        14:00        |      14:15       |      21/11       |      Download de Mídia      | Plataforma Microsoft Teams |
+|    [Victor Hugo](https://github.com/ViictorHugoo)    |       Tales       |        13:00        |      13:15       |      21/11       |        Avaliar Midia        | Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
