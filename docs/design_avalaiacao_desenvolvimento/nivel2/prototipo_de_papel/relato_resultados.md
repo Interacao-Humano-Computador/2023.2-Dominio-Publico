@@ -42,7 +42,7 @@ No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Video 1: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="https://youtu.be/gGSSgCB2GnI?si=xH7y6SZe42ZQp7m0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gGSSgCB2GnI?si=9dlZig7B9Q_M-lVI" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 
@@ -70,7 +70,7 @@ No Video 2 e Tabela 3 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Video 2: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="https://youtu.be/ojqceB62QOY?si=7s-Ag7iTk66lppO3" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ojqceB62QOY?si=RHOhVRCHF7sB8EEF" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 
