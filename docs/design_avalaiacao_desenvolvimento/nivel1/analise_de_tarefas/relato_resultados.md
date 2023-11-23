@@ -29,7 +29,7 @@ A Tabela 1 exibe as datas da realização da avaliação.
 ##### Seleção dos participantes
 
 A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido,
-sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico.
+sendo que a entrevistada tem idade entre 18-34 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico.
 
 ##### Registro da avaliação
 
@@ -88,10 +88,9 @@ A Tabela 3 exibe as datas da realização da avaliação.
 
 <font size="2"><p style="text-align: center">Tabela 3: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
-| :-----------: | :----------: | :---------------: | :------------: | :---: | :--------------: |
-| Pedro Henrique         | Nicolas Bomfim        | 17:40             | 17:50        | 07/11| Pessoalmente            |
-
+| Entrevistador  |  Entrevistado  | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
+| :------------: | :------------: | :---------------: | :------------: | :---: | :--------------: |
+| Pedro Henrique | Nicolas Bomfim |       17:40       |     17:50      | 07/11 |   Pessoalmente   |
 
 <font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf)</p></font>
 
@@ -100,7 +99,7 @@ A Tabela 3 exibe as datas da realização da avaliação.
 ##### Seleção dos participantes
 
 A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido,
-sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico.
+sendo que a entrevistada tem idade entre 18-34 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico.
 
 ##### Registro da avaliação
 
@@ -120,16 +119,16 @@ No Video 2 e Tabela 4 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Tabela 4: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                | Resposta |
-| :-------------------------------------------------------------------------------------- | :------- |
-| Qual o seu nome?                                                                        |   Nicolas Bomfim       |
-| Quantos anos você tem?                                                                  |     20 anos     |
-| Qual seu nível de escolaridade?                                                         |    Graduando      |
-| Qual a sua ocupação?                                                                    |   Estudante       |
-| Qual seu grau de experiência com tecnologias?                                           |    Intermediário      |
-| Você já utilizou o Domínio Público?                                                     |   Sim       |
-| O processo de download é fácil e rápido?                                                |     Achou bem rápido, fácil e intuitivo     |
-| Quais são as suas sugestões para melhorar a parte de Download ?                         | Achou bem completo a parte de download e não mudaria nada nesse quesito       |
+| Pergunta                                                        | Resposta                                                                |
+| :-------------------------------------------------------------- | :---------------------------------------------------------------------- |
+| Qual o seu nome?                                                | Nicolas Bomfim                                                          |
+| Quantos anos você tem?                                          | 20 anos                                                                 |
+| Qual seu nível de escolaridade?                                 | Graduando                                                               |
+| Qual a sua ocupação?                                            | Estudante                                                               |
+| Qual seu grau de experiência com tecnologias?                   | Intermediário                                                           |
+| Você já utilizou o Domínio Público?                             | Sim                                                                     |
+| O processo de download é fácil e rápido?                        | Achou bem rápido, fácil e intuitivo                                     |
+| Quais são as suas sugestões para melhorar a parte de Download ? | Achou bem completo a parte de download e não mudaria nada nesse quesito |
 
 <font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf)</p></font>
 
@@ -139,11 +138,9 @@ No Video 2 e Tabela 4 é possível verificar os registros feitos durante a avali
 
 Nesta seção, não foram identificados problemas significativos, e o participante considerou a experiência de navegação no site envolvendo Downloads como rápida e intuitiva.
 
-
 ##### Sugestões de melhoria
 
 O participante expressou conforto na seção de Downloads e afirmou que não seriam necessárias mudanças significativas nessa área.
-
 
 ### Tarefa: Acessar ajuda
 
@@ -245,9 +242,9 @@ A Tabela 7 exibe as datas da realização da avaliação.
 
 <font size="2"><p style="text-align: center">Tabela 7: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
-| ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
-| Maria Alice       | Leandro Almeida         | 15:30            | 15:40          | 08/11|      UNB - FGA      |
+| Entrevistador | Entrevistado    | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
+| ------------- | --------------- | ----------------- | -------------- | ----- | ---------------- |
+| Maria Alice   | Leandro Almeida | 15:30             | 15:40          | 08/11 | UNB - FGA        |
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 
@@ -255,7 +252,7 @@ A Tabela 7 exibe as datas da realização da avaliação.
 
 ##### Seleção dos participantes
 
-A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico
+A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que a entrevistada tem idade entre 18-34 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico
 
 ##### Registro da avaliação
 
@@ -275,20 +272,19 @@ No Video 4 e Tabela 8 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Tabela 8: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                | Resposta |
-| :-------------------------------------------------------------------------------------- | :------- |
-| Qual o seu nome?                                                                        |     Leandro     |
-| Quantos anos você tem?                                                                  |     20 anos     |
-| Qual seu nível de escolaridade?                                                         |     Graduando     |
-| Qual a sua ocupação?                                                                    |     Estudante     |
-| Qual seu grau de experiência com tecnologias?                                           |     Avançado     |
-| Você já utilizou o Domínio Público?                                                     |    Não    |
-| Quais atividades você tem/teria interesse em utilizar no domínio público?               |     Baixar livros     |
-| Como você costuma acessar livros e mídias sem domínio/gratuitos?                        |      Buscando PDFs gratuitos na internet    |
-| Com que frequência você lê livros?                                                      |       Uma vez por mês   |
-| Quais tipos de conteúdo você mais consome online?                                       |        Vídeos  |
-| O processo de inscrição como colaborador é claro e fácil? Por que?                      |  Definitivamente não, porque ele entrega um manual de como se inscrever, com campos mal definidos, botões que não parecem botões e dá esse manual enquanto eu esperava um formulário de cadastro.        |
-                               
+| Pergunta                                                                  | Resposta                                                                                                                                                                                         |
+| :------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Qual o seu nome?                                                          | Leandro                                                                                                                                                                                          |
+| Quantos anos você tem?                                                    | 20 anos                                                                                                                                                                                          |
+| Qual seu nível de escolaridade?                                           | Graduando                                                                                                                                                                                        |
+| Qual a sua ocupação?                                                      | Estudante                                                                                                                                                                                        |
+| Qual seu grau de experiência com tecnologias?                             | Avançado                                                                                                                                                                                         |
+| Você já utilizou o Domínio Público?                                       | Não                                                                                                                                                                                              |
+| Quais atividades você tem/teria interesse em utilizar no domínio público? | Baixar livros                                                                                                                                                                                    |
+| Como você costuma acessar livros e mídias sem domínio/gratuitos?          | Buscando PDFs gratuitos na internet                                                                                                                                                              |
+| Com que frequência você lê livros?                                        | Uma vez por mês                                                                                                                                                                                  |
+| Quais tipos de conteúdo você mais consome online?                         | Vídeos                                                                                                                                                                                           |
+| O processo de inscrição como colaborador é claro e fácil? Por que?        | Definitivamente não, porque ele entrega um manual de como se inscrever, com campos mal definidos, botões que não parecem botões e dá esse manual enquanto eu esperava um formulário de cadastro. |
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 
@@ -320,7 +316,6 @@ A Tabela 9 exibe as datas da realização da avaliação.
 
 <font size="2"><p style="text-align: center">Tabela 9: Cronograma executado</p></font>
 
-
 | Entrevistador       | Entrevistado             | Horário de Início | Horário de Fim | Data       | Local/Plataforma |
 | ------------------- | ------------------------ | ----------------- | -------------- | ---------- | ---------------- |
 | Ana Catarina Santos | Gustavo Ribeiro Linhares | 21:50             | 21:10          | 08/11/2023 | Google Teams     |
@@ -331,7 +326,7 @@ A Tabela 9 exibe as datas da realização da avaliação.
 
 ##### Seleção dos participantes
 
-A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico.
+A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que a entrevistada tem idade entre 18-34 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico.
 
 ##### Registro da avaliação
 
@@ -409,7 +404,7 @@ Durante a entrevista foi usado o método investigativo conforme descrito no [Pla
 
 ##### Seleção dos participantes
 
-Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o entrevistador. O usuário entrevistado selecionado possui entre 18 e 24 anos; é experiente com tecnologia (tecnófilo); e lê com frequencia media, conforme estabelecido no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md).
+Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o entrevistador. O usuário entrevistado selecionado possui entre 18 e 34 anos; é experiente com tecnologia (tecnófilo); e lê com frequencia media, conforme estabelecido no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md).
 
 ##### Registro da avaliação
 
@@ -429,28 +424,27 @@ No Video 6 e Tabela 12 é possível verificar os registros feitos durante a aval
 
 <font size="2"><p style="text-align: center">Tabela 12: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                | Resposta |
-| :-------------------------------------------------------------------------------------- | :------- |
-| Qual o seu nome?                                                                        | Ana Clara Barbosa Borges |
-| Quantos anos você tem?                                                                  | 20 anos  |
-| Qual seu nível de escolaridade?                                                         | Cursando o nível superior |
-| Qual a sua ocupação?                                                                    | Estudante |
-| Qual seu grau de experiência com tecnologias?                                           | Avançado |
-| Você já utilizou o Domínio Público?                                                     | Não      |
-| Quais atividades você tem/teria interesse em utilizar no domínio público?               | Para buscar obras textuais que pussui interesse |
-| Como você costuma acessar livros e mídias sem domínio/gratuitos?                        | Compra as mídias |
-| Com que frequência você lê livros?                                                      | Uma vez por mês |
-| Quais tipos de conteúdo você mais consome online?                                       | Vídeos |
-| Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?           | Lazer e Entreterimento |
-| A pesquisa de mídias é fácil de usar? Por que?                                          | Sim, ela achou fácil |
-| Quais são as suas sugestões para melhorar a pesquisa de mídias?                         | Não tem sugestões | 
-| Avaliar a mídia é fácil? Por que?                                                       | Sim, achou intuitivo |
-| Quais são as suas sugestões para melhorar a avaliaçã de mídias?                         | Nenhuma |
-| Qual é o seu nível de satisfação com o domínio público?                                 | Médio |
-| Você tem alguma outra sugestão ou melhoria para o site do Domínio Público?              | Implementar a avaliação de mídias e melhorar esteticamente |
-| Os diagramas HTA e GOMS realmente representam a tarefa de avaliar mídia?                | Sim |
-| Você tem alguma outra sugestão ou melhoria para os diagramas?                           | Para o diagrama GOMS, corrigir o select do método 2 |
-
+| Pergunta                                                                      | Resposta                                                   |
+| :---------------------------------------------------------------------------- | :--------------------------------------------------------- |
+| Qual o seu nome?                                                              | Ana Clara Barbosa Borges                                   |
+| Quantos anos você tem?                                                        | 20 anos                                                    |
+| Qual seu nível de escolaridade?                                               | Cursando o nível superior                                  |
+| Qual a sua ocupação?                                                          | Estudante                                                  |
+| Qual seu grau de experiência com tecnologias?                                 | Avançado                                                   |
+| Você já utilizou o Domínio Público?                                           | Não                                                        |
+| Quais atividades você tem/teria interesse em utilizar no domínio público?     | Para buscar obras textuais que pussui interesse            |
+| Como você costuma acessar livros e mídias sem domínio/gratuitos?              | Compra as mídias                                           |
+| Com que frequência você lê livros?                                            | Uma vez por mês                                            |
+| Quais tipos de conteúdo você mais consome online?                             | Vídeos                                                     |
+| Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público? | Lazer e Entreterimento                                     |
+| A pesquisa de mídias é fácil de usar? Por que?                                | Sim, ela achou fácil                                       |
+| Quais são as suas sugestões para melhorar a pesquisa de mídias?               | Não tem sugestões                                          |
+| Avaliar a mídia é fácil? Por que?                                             | Sim, achou intuitivo                                       |
+| Quais são as suas sugestões para melhorar a avaliaçã de mídias?               | Nenhuma                                                    |
+| Qual é o seu nível de satisfação com o domínio público?                       | Médio                                                      |
+| Você tem alguma outra sugestão ou melhoria para o site do Domínio Público?    | Implementar a avaliação de mídias e melhorar esteticamente |
+| Os diagramas HTA e GOMS realmente representam a tarefa de avaliar mídia?      | Sim                                                        |
+| Você tem alguma outra sugestão ou melhoria para os diagramas?                 | Para o diagrama GOMS, corrigir o select do método 2        |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
@@ -468,7 +462,6 @@ Para que a avaliação pudesse ser conduzida, foi necessário criar cenários em
 
 </center>
 
-
 <center>
 
 <font size="2"><p style="text-align: center">Figura 2: Etapa 2 de Avaliar Mídia</p></font>
@@ -479,7 +472,6 @@ Para que a avaliação pudesse ser conduzida, foi necessário criar cenários em
 
 </center>
 
-
 <center>
 
 <font size="2"><p style="text-align: center">Figura 3: Etapa 3 de Avaliar Mídia</p></font>
@@ -489,7 +481,6 @@ Para que a avaliação pudesse ser conduzida, foi necessário criar cenários em
 <font size="2"><p style="text-align: center">[Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
-
 
 <center>
 
@@ -506,16 +497,16 @@ Para que a avaliação pudesse ser conduzida, foi necessário criar cenários em
 <!-- Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram problemas-->
 
 Na tabela 13 é possível encontar os problemas relatados.
+
 <center>
 
 <font size="2"><p style="text-align: center">Tabela 13: Problemas relatados</p></font>
 
-| Problema | Causa |
-| -------- | ----- |
-| Avaliar Mídia| Não há uma forma de avaliar mídia no site|
-| Site feio | Má distribuição de elementos na tela |
-| Diagrama GOMS | O select do método 2 está incorreto |
-
+| Problema      | Causa                                     |
+| ------------- | ----------------------------------------- |
+| Avaliar Mídia | Não há uma forma de avaliar mídia no site |
+| Site feio     | Má distribuição de elementos na tela      |
+| Diagrama GOMS | O select do método 2 está incorreto       |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo]().</p></font>
 
@@ -531,11 +522,11 @@ Na tabela 14 é possível encontar as sugestões de melhoria, assim como o probl
 
 <font size="2"><p style="text-align: center">Tabela 14: Sugestões de melhoria</p></font>
 
-| Sugestão | Problema |
-| -------- | -------- |
-| Inclusão de avaliar as mídias conforme a equipe esta sugerindo | Falta de avaliar mídia|
-| Melhorar a estética do site | Site feio |
-| Corrigir o select do método 2 | Diagrama GOMS |
+| Sugestão                                                       | Problema               |
+| -------------------------------------------------------------- | ---------------------- |
+| Inclusão de avaliar as mídias conforme a equipe esta sugerindo | Falta de avaliar mídia |
+| Melhorar a estética do site                                    | Site feio              |
+| Corrigir o select do método 2                                  | Diagrama GOMS          |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo]().</p></font>
 
@@ -557,9 +548,9 @@ A Tabela 13 exibe as datas da realização da avaliação.
 
 <font size="2"><p style="text-align: center">Tabela 13: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
-| ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
-| Gustavo França          | Douglas Wilson         | 19:00              | 19:10           | 31/10 | Plataforma Microsoft Teams             |
+| Entrevistador  | Entrevistado   | Horário de Início | Horário de Fim | Data  | Local/Plataforma           |
+| -------------- | -------------- | ----------------- | -------------- | ----- | -------------------------- |
+| Gustavo França | Douglas Wilson | 19:00             | 19:10          | 31/10 | Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
@@ -567,7 +558,7 @@ A Tabela 13 exibe as datas da realização da avaliação.
 
 ##### Seleção dos participantes
 
-O participante se encaixa no perfil de usuário, pois é um usuário entre 18 e 24 anos, possui experiencia intermediária com tecnologia e já realizou buscas por conteúdo de domínio público em diferentes plataformas.
+O participante se encaixa no perfil de usuário, pois é um usuário entre 18 e 34 anos, possui experiencia intermediária com tecnologia e já realizou buscas por conteúdo de domínio público em diferentes plataformas.
 
 ##### Registro da avaliação
 
@@ -587,18 +578,17 @@ No Video 7 e Tabela 14 é possível verificar os registros feitos durante a aval
 
 <font size="2"><p style="text-align: center">Tabela 14: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                | Resposta |
-| :-------------------------------------------------------------------------------------- | :------- |
-| Qual o seu nome?                                                                        | Douglas Wilson             |
-| Quantos anos você tem?                                                                  | 21 anos                    |
-| Qual seu nível de escolaridade?                                                         | Ensino superior incompleto |
-| Qual a sua ocupação?                                                                    | Estudante                  |
-| Qual seu grau de experiência com tecnologias?                                           | Nível intermediário        |
-| Você já utilizou o Domínio Público?                                                     | Não         |
-| O processo de  contatar os administradores é fácil e rápido?                                          | Demorou um pouco para encontrar onde me comunicar com o administrador, não foi fácil         |
-| Quais são as suas sugestões para melhorar esse contato com os administradores?                        | Além da opção "Fale Conosco", ter a disponibilização do email direto do Dominio Publico         |
-| Você tem alguma fonte legal para acessar conteúdo gratuito ou de domínio público?               | Sim, utilizo plataformas como a BCE da UnB e algumas do meu estágio como o BDM        |
-
+| Pergunta                                                                          | Resposta                                                                                |
+| :-------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
+| Qual o seu nome?                                                                  | Douglas Wilson                                                                          |
+| Quantos anos você tem?                                                            | 21 anos                                                                                 |
+| Qual seu nível de escolaridade?                                                   | Ensino superior incompleto                                                              |
+| Qual a sua ocupação?                                                              | Estudante                                                                               |
+| Qual seu grau de experiência com tecnologias?                                     | Nível intermediário                                                                     |
+| Você já utilizou o Domínio Público?                                               | Não                                                                                     |
+| O processo de contatar os administradores é fácil e rápido?                       | Demorou um pouco para encontrar onde me comunicar com o administrador, não foi fácil    |
+| Quais são as suas sugestões para melhorar esse contato com os administradores?    | Além da opção "Fale Conosco", ter a disponibilização do email direto do Dominio Publico |
+| Você tem alguma fonte legal para acessar conteúdo gratuito ou de domínio público? | Sim, utilizo plataformas como a BCE da UnB e algumas do meu estágio como o BDM          |
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
@@ -624,9 +614,7 @@ A avaliação de mídia não é uma função fornecida pelo sistema, por isso no
 
 #### Tarefa: Contatar Administradores
 
-
 Conforme com o que foi listado de problemas pelo entrevistado, o novo mapeamento de reprojeto sugere melhorias na visibilidade da opção "Fale Conosco", a inserção do email próprio do Domínio Público em um local específico na página devida, além de corrigir os botões relacionados ao envio do email.
-
 
 ## Referências Bibliográficas
 
@@ -634,12 +622,12 @@ Conforme com o que foi listado de problemas pelo entrevistado, o novo mapeamento
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                         | Autor(es)                                       | Revisor(es)                                     |
-| ------ | ---------- | --------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| 1.0    | 01/11/2023 | Criação do documento              | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
-| 1.1    | 01/11/2023 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
-| 1.2    | 08/11/2023 | Relato Acessar Ajuda              | [Luciano Ricardo](https://github.com/l-ricardo) | [Ana Catarina](https://github.com/an4catarina)  |
-| 1.3    | 08/11/2023 | Relato Download de Mídia | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina)  |
-| 1.4    | 08/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina Santos](https://github.com/an4catarina) | [Pedro Henrique](https://github.com/pedro-hsf)  |
-| 1.5    | 08/11/2021 | Relato Avaliar Midia              | [Victor Hugo](https://github.com/ViictorHugoo)  | [Pedro Henrique](https://github.com/pedro-hsf)  |
-| 1.6    | 08/11/2021 | Relato Se tornar um colaborador   | [Maria Alice](https://github.com/Maliz30)  | [Ana Catarina Santos](https://github.com/an4catarinna)  |
+| Versão | Data       | Descrição                         | Autor(es)                                             | Revisor(es)                                            |
+| ------ | ---------- | --------------------------------- | ----------------------------------------------------- | ------------------------------------------------------ |
+| 1.0    | 01/11/2023 | Criação do documento              | [Luciano Ricardo](https://github.com/l-ricardo)       | [Victor Hugo](https://github.com/ViictorHugoo)         |
+| 1.1    | 01/11/2023 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo)        | [Luciano Ricardo](https://github.com/l-ricardo)        |
+| 1.2    | 08/11/2023 | Relato Acessar Ajuda              | [Luciano Ricardo](https://github.com/l-ricardo)       | [Ana Catarina](https://github.com/an4catarina)         |
+| 1.3    | 08/11/2023 | Relato Download de Mídia          | [Pedro Henrique](https://github.com/pedro-hsf)        | [Ana Catarina](https://github.com/an4catarina)         |
+| 1.4    | 08/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina Santos](https://github.com/an4catarina) | [Pedro Henrique](https://github.com/pedro-hsf)         |
+| 1.5    | 08/11/2021 | Relato Avaliar Midia              | [Victor Hugo](https://github.com/ViictorHugoo)        | [Pedro Henrique](https://github.com/pedro-hsf)         |
+| 1.6    | 08/11/2021 | Relato Se tornar um colaborador   | [Maria Alice](https://github.com/Maliz30)             | [Ana Catarina Santos](https://github.com/an4catarinna) |

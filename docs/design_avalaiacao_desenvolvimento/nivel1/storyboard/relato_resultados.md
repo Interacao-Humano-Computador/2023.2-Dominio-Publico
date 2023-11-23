@@ -29,7 +29,7 @@ A Tabela 1 exibe as datas da realização da avaliação.
 ##### Seleção dos participantes
 
 A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido,
-sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico.
+sendo que a entrevistada tem idade entre 18-34 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico.
 
 ##### Registro da avaliação
 
@@ -85,9 +85,9 @@ A Tabela 3 exibe as datas da realização da avaliação.
 
 <font size="2"><p style="text-align: center">Tabela 3: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
-| ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
-| Pedro Henrique         | Nicolas Bomfim        | 17:50           | 18:00       | 07/11| Pessoalmente            |
+| Entrevistador  | Entrevistado   | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
+| -------------- | -------------- | ----------------- | -------------- | ----- | ---------------- |
+| Pedro Henrique | Nicolas Bomfim | 17:50             | 18:00          | 07/11 | Pessoalmente     |
 
 <font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf)</p></font>
 
@@ -95,7 +95,7 @@ A Tabela 3 exibe as datas da realização da avaliação.
 
 ##### Seleção dos participantes
 
-A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico
+A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que a entrevistada tem idade entre 18-34 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico
 
 ##### Registro da avaliação
 
@@ -117,11 +117,11 @@ No Video 2 e Tabela 4 é possível verificar os registros feitos durante a avali
 
 | Pergunta                                                                                                      | Resposta |
 | ------------------------------------------------------------------------------------------------------------- | :------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |       Sim   |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |       Sim   |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |     Sim     |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |      Sim    |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |     Sim     |
+| Os atores envolvidos no storyboard são condizentes com a realidade?                                           | Sim      |
+| Você acha que as ações do storyboard levam para o objetivo final?                                             | Sim      |
+| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? | Sim      |
+| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          | Sim      |
+| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     | Sim      |
 
 <font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf)</p></font>
 
@@ -134,7 +134,6 @@ Nesta etapa do Storyboard, nenhum problema foi identificado.
 ##### Sugestões de melhoria
 
 O entrevistado observou que existem potenciais oportunidades para tornar a realização dos objetivos dos usuários mais eficiente. No entanto, dada a natureza relativamente simples da tarefa, ele também destacou que a seção de Downloads se apresenta de forma coerente e descomplicada.
-
 
 ##### Sugestões de melhoria
 
@@ -164,7 +163,7 @@ A Tabela 5 exibe as datas da realização da avaliação.
 
 ##### Seleção dos participantes
 
-A seleção do participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que o entrevistado tem idade entre 18-35 anos é do sexo masculino e possui ensino superior incompleto.
+A seleção do participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que o entrevistado tem idade entre 18-34 anos é do sexo masculino e possui ensino superior incompleto.
 
 ##### Registro da avaliação
 
@@ -204,7 +203,6 @@ O entrevistado não declarou nenhum problema no storyboard, porém foi possível
 
 O entrevistado não deu nenhuma sugestão de melhoria no storyboard, porém com base nos problemas observados algo que deve ser feito é reescrever os textos do storyboard de maneira mais legivel.
 
-
 ##### Sugestões de melhoria
 
 ### Tarefa: Se tornar um colaborador
@@ -223,17 +221,17 @@ A Tabela 7 exibe as datas da realização da avaliação.
 
 <font size="2"><p style="text-align: center">Tabela 7: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
-| ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
-| Maria Alice       | Leandro Almeida      | 15:30             | 15:40         | 08/11| UNB - FGA|
+| Entrevistador | Entrevistado    | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
+| ------------- | --------------- | ----------------- | -------------- | ----- | ---------------- |
+| Maria Alice   | Leandro Almeida | 15:30             | 15:40          | 08/11 | UNB - FGA        |
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 
 </center>
 
 ##### Seleção dos participantes
- 
- A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico
+
+A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que a entrevistada tem idade entre 18-34 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico
 
 ##### Registro da avaliação
 
@@ -253,13 +251,13 @@ No Video 4 e Tabela 8 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Tabela 8: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------- |
-|1 – A narrativa apresentada pelo Storyboard está condizente com o título? | Sim |
-|2 – O Storyboard em questão possui lastro na realidade? | Sim |
-|3 – O Storyboard apresenta os principais aspectos da realização daquela tarefa? | Sim |
-|4 – As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica? | Sim |
-|5 – O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cénarios) identificáveis? | Sim |
+| Pergunta                                                                                                             | Resposta |
+| -------------------------------------------------------------------------------------------------------------------- | :------- |
+| 1 – A narrativa apresentada pelo Storyboard está condizente com o título?                                            | Sim      |
+| 2 – O Storyboard em questão possui lastro na realidade?                                                              | Sim      |
+| 3 – O Storyboard apresenta os principais aspectos da realização daquela tarefa?                                      | Sim      |
+| 4 – As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica?                                  | Sim      |
+| 5 – O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cénarios) identificáveis? | Sim      |
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 
@@ -299,7 +297,7 @@ A Tabela 9 exibe as datas da realização da avaliação.
 
 ##### Seleção dos participantes
 
-A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que a entrevistada tem idade entre 18-35 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico.
+A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que a entrevistada tem idade entre 18-34 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico.
 
 ##### Registro da avaliação
 
@@ -365,7 +363,7 @@ Durante a entrevista foi usado o método investigativo conforme descrito no [Pla
 
 ##### Seleção dos participantes
 
-Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o entrevistador. O usuário entrevistado selecionado possui entre 18 e 24 anos; é experiente com tecnologia (tecnófilo); e lê com frequencia media, conforme estabelecido no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md).
+Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o entrevistador. O usuário entrevistado selecionado possui entre 18 e 34 anos; é experiente com tecnologia (tecnófilo); e lê com frequencia media, conforme estabelecido no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md).
 
 ##### Registro da avaliação
 
@@ -385,24 +383,24 @@ No Video 6 e Tabela 12 é possível verificar os registros feitos durante a aval
 
 <font size="2"><p style="text-align: center">Tabela 12: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                                      | Resposta  |
-| ------------------------------------------------------------------------------------------------------------- | :-------: |
-| Qual o seu nome?                                                                                              | Ana Beatriz |
-| Quantos anos você tem?                                                                                        | 18 anos |
-| Qual seu nível de escolaridade?                                                                               | Superior incompleto |
-| Qual a sua ocupação?                                                                                          | Estudante |
-| Qual seu grau de experiência com tecnologias?                                                                 | Intermediário |
-| Você já utilizou o Domínio Público?                                                                           | Não |
-| Quais atividades você tem/teria interesse em utilizar no domínio público?                                     | Acessar livros |
-| Como você costuma acessar livros e mídias sem domínio/gratuitos?                                              | Pela Internet |
-| Com que frequência você lê livros?                                                                            | Uma vez por semana |
-| Quais tipos de conteúdo você mais consome online?                                                             | Livro |
+| Pergunta                                                                                                      |        Resposta        |
+| ------------------------------------------------------------------------------------------------------------- | :--------------------: |
+| Qual o seu nome?                                                                                              |      Ana Beatriz       |
+| Quantos anos você tem?                                                                                        |        18 anos         |
+| Qual seu nível de escolaridade?                                                                               |  Superior incompleto   |
+| Qual a sua ocupação?                                                                                          |       Estudante        |
+| Qual seu grau de experiência com tecnologias?                                                                 |     Intermediário      |
+| Você já utilizou o Domínio Público?                                                                           |          Não           |
+| Quais atividades você tem/teria interesse em utilizar no domínio público?                                     |     Acessar livros     |
+| Como você costuma acessar livros e mídias sem domínio/gratuitos?                                              |     Pela Internet      |
+| Com que frequência você lê livros?                                                                            |   Uma vez por semana   |
+| Quais tipos de conteúdo você mais consome online?                                                             |         Livro          |
 | Qual o principal objetivo ao acessar conteúdo gratuito ou de domínio público?                                 | Lazer e entreterimento |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           | Sim |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             | Sim |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? | Não |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          | Sim |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     | Sim |
+| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |          Sim           |
+| Você acha que as ações do storyboard levam para o objetivo final?                                             |          Sim           |
+| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |          Não           |
+| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |          Sim           |
+| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |          Sim           |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
@@ -415,7 +413,6 @@ Durante a entrevista e durante a análise dos resultados após a entrevista, nã
 ##### Sugestões de melhoria
 
 Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram sugestões de melhoria
-
 
 ### Tarefa: Contatar administradores
 
@@ -433,9 +430,9 @@ A Tabela 13 exibe as datas da realização da avaliação.
 
 <font size="2"><p style="text-align: center">Tabela 13: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
-| ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
-| Gustavo França          | Douglas Wilson         | 19:00              | 19:10           | 31/10 | Plataforma Microsoft Teams             |
+| Entrevistador  | Entrevistado   | Horário de Início | Horário de Fim | Data  | Local/Plataforma           |
+| -------------- | -------------- | ----------------- | -------------- | ----- | -------------------------- |
+| Gustavo França | Douglas Wilson | 19:00             | 19:10          | 31/10 | Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
@@ -443,7 +440,7 @@ A Tabela 13 exibe as datas da realização da avaliação.
 
 ##### Seleção dos participantes
 
-O participante se encaixa no perfil de usuário, pois é um usuário entre 18 e 24 anos, possui experiencia intermediária com tecnologia e já realizou buscas por conteúdo de domínio público em diferentes plataformas.
+O participante se encaixa no perfil de usuário, pois é um usuário entre 18 e 34 anos, possui experiencia intermediária com tecnologia e já realizou buscas por conteúdo de domínio público em diferentes plataformas.
 
 ##### Registro da avaliação
 
@@ -465,11 +462,11 @@ No Video 7 e Tabela 14 é possível verificar os registros feitos durante a aval
 
 | Pergunta                                                                                                      | Resposta |
 | ------------------------------------------------------------------------------------------------------------- | :------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           | Sim         |
+| Os atores envolvidos no storyboard são condizentes com a realidade?                                           | Sim      |
 | Você acha que as ações do storyboard levam para o objetivo final?                                             | Sim      |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? | Não          |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          | Sim         |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     | Sim        |
+| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? | Não      |
+| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          | Sim      |
+| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     | Sim      |
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
@@ -499,7 +496,6 @@ O storyboard apresentado se fez legível ao entrevistado, demonstrando durante a
 
 A partir das sugestões coletadas, sera realizada uma reoganização e reconstrução do storyboard em questão, para que as melhorias aclamadas possam ser resolvidas, além disso a clareza do artefato também será melhorada.
 
-
 #### Tarefa: Avaliar mídia
 
 A avaliação de mídia não é uma função fornecida pelo sistema, por isso no reprojeto será feita a criação dessa tarefa de forma a atender as necessidades dos usuários.
@@ -510,13 +506,13 @@ A avaliação de mídia não é uma função fornecida pelo sistema, por isso no
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                         | Autor(es)                                       | Revisor(es)                                     |
-| ------ | ---------- | --------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| 1.0    | 01/11/2021 | Criação do documento              | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
-| 1.1    | 01/11/2021 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
-| 1.2    | 08/11/2021 | Relato Acessar Ajuda              | [Luciano Ricardo](https://github.com/l-ricardo) | [Ana Catarina](https://github.com/an4catarina)  |
-| 1.3    | 08/11/2021 | Relato Download de Mídia          | [Pedro Henrique](https://github.com/pedro-hsf)  | [Ana Catatrina](https://github.com/an4catarina) |
-| 1.4    | 08/11/2023 | Relato Contatar Admin | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina)  |
-| 1.5    | 08/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina Santos](https://github.com/an4catarinna) | [Pedro Henrique](https://github.com/pedro-hsf)  |
-| 1.6    | 08/11/2021 | Relato Avaliar Midia              | [Victor Hugo](https://github.com/ViictorHugoo)  | [Pedro Henrique](https://github.com/pedro-hsf)  |
-| 1.6    | 08/11/2021 | Relato Se tornar um colaborador   | [Maria Alice](https://github.com/Maliz30)  | [Ana Catarina Santos](https://github.com/an4catarinna)  |
+| Versão | Data       | Descrição                         | Autor(es)                                              | Revisor(es)                                            |
+| ------ | ---------- | --------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
+| 1.0    | 01/11/2021 | Criação do documento              | [Luciano Ricardo](https://github.com/l-ricardo)        | [Victor Hugo](https://github.com/ViictorHugoo)         |
+| 1.1    | 01/11/2021 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo)         | [Luciano Ricardo](https://github.com/l-ricardo)        |
+| 1.2    | 08/11/2021 | Relato Acessar Ajuda              | [Luciano Ricardo](https://github.com/l-ricardo)        | [Ana Catarina](https://github.com/an4catarina)         |
+| 1.3    | 08/11/2021 | Relato Download de Mídia          | [Pedro Henrique](https://github.com/pedro-hsf)         | [Ana Catatrina](https://github.com/an4catarina)        |
+| 1.4    | 08/11/2023 | Relato Contatar Admin             | [Gustavo França](https://github.com/gustavofbs)        | [Ana Catarina](https://github.com/an4catarina)         |
+| 1.5    | 08/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina Santos](https://github.com/an4catarinna) | [Pedro Henrique](https://github.com/pedro-hsf)         |
+| 1.6    | 08/11/2021 | Relato Avaliar Midia              | [Victor Hugo](https://github.com/ViictorHugoo)         | [Pedro Henrique](https://github.com/pedro-hsf)         |
+| 1.6    | 08/11/2021 | Relato Se tornar um colaborador   | [Maria Alice](https://github.com/Maliz30)              | [Ana Catarina Santos](https://github.com/an4catarinna) |
