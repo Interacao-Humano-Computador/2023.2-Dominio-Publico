@@ -240,12 +240,13 @@ A avaliação foi feita logo após a Avaliação do Download de Mídia, sendo qu
 
 <font size="2"><p style="text-align: center">Tabela 7: Sumario de perguntas</p></font>
 
-|                                                              Pergunta                                                               | Resposta |
-| :---------------------------------------------------------------------------------------------------------------------------------: | :------: |
-| Houve algum momento durante a interação no site Domínio Público em que você encontrou dificuldades devido a problemas na interface? |   Não    |
-|          A disposição dos elementos de interação no site Domínio Público auxiliaram na rapidez da execução da sua tarefa?           |   Sim    |
-|        Em termos de layout e design do site Domínio Público, achou alguma parte que não faça sentido com o objetivo do site?        |   Não    |
-|                             Você imagina alguma forma de melhorar esta tarefa no site Domínio Público?                              |   Não    |
+|                                                                    Pergunta                                                                    | Resposta |
+| :--------------------------------------------------------------------------------------------------------------------------------------------: | :------: |
+|      Houve algum momento durante a interação no site Domínio Público em que você encontrou dificuldades devido a problemas na interface?       |   Não    |
+|                A disposição dos elementos de interação no site Domínio Público auxiliaram na rapidez da execução da sua tarefa?                |   Sim    |
+|             Em termos de layout e design do site Domínio Público, achou alguma parte que não faça sentido com o objetivo do site?              |   Não    |
+|                                   Você imagina alguma forma de melhorar esta tarefa no site Domínio Público?                                   |   Não    |
+| Ao acessar as estatísticas, você achou que os dados foram disponibilizados de uma forma clara? Houve alguma dificuldade ao assimilar os dados? | Sim, Não |
 
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina)</p></font>
 
