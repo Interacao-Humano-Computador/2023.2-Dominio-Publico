@@ -43,12 +43,12 @@ Além disso os entrevistadores deverão seguir o cronograma planejado explicitad
 
 |                  Entrevistador(es)                   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada |           Tarefa            |           Local            |
 | :--------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :-------------------------: | :------------------------: |
-|    [Ana Catarina](https://github.com/an4catarina)    |       ---       |        ---        |      ---       |      ---       |   Acessar as Estátisticas   | Plataforma Microsoft Teams |
+|    [Ana Catarina](https://github.com/an4catarina)    |     Gustavo Linhares     |        11:00       |      11:10       |      21/11       |   Acessar as Estátisticas   | FGA |
 |   [Gustavo França](https://github.com/gustavofbs)    |      ----       |        ---        |      ---       |      ---       |       Contatar Admin        | Plataforma Microsoft Teams |
 | [Harryson Martins](https://github.com/harry-cmartin) |       ---       |        ---        |      ---       |      ---       |     Pesquisar por mídia     | Plataforma Microsoft Teams |
 |   [Luciano Ricardo](https://github.com/l-ricardo)    |       ---       |        ---        |      ---       |      ---       |         Pedir Ajuda         | Plataforma Microsoft Teams |
 |      [Maria Alice](https://github.com/Maliz30)       |       ---       |        ---        |      ---       |      ---       | Cadidatura para Colaborador | Plataforma Microsoft Teams |
-|    [Pedro Henrique](https://github.com/pedro-hsf)    |       ---       |        ---        |      ---       |      ---       |      Download de Mídia      | Plataforma Microsoft Teams |
+|    [Pedro Henrique](https://github.com/pedro-hsf)    |       Gustavo Linhares      |        11:00       |      11:10      |      21/11       |      Download de Mídia      | FGA |
 |    [Victor Hugo](https://github.com/ViictorHugoo)    |       ---       |        ---        |      ---       |      ---       |        Avaliar Midia        | Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>

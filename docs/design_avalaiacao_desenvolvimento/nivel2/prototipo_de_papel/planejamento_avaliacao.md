@@ -89,7 +89,7 @@ O cronograma das entrevistas com os usuários estão documentadas na Tabela 1 co
 | :----------------------------------------------------------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :------------: | :-------------------------: | :---: |
 | [Maria Alice](https://github.com/Maliz30), [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |     Tales | || 21/11 | | Se tornar colaborador, Pedir ajuda e Avaliar midia | FGA |
 | [Maria Alice](https://github.com/Maliz30), [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |     Luciano | || 21/11 | | Se tornar colaborador, Pedir ajuda e Avaliar midia | FGA |
-| [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf) | Gustavo | || 21/11 | | Acessar estatisticas e Download de mídia | FGA |
+| [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf) | Gustavo Linhares|11:00 |11:10| 21/11 |21/11 | Acessar estatisticas e Download de mídia | FGA |
 | [Gustavo França](https://github.com/gustavofbs) e [Harryson Martins](https://github.com/harry-cmartin) | ||| 22/11 | |Contatar Admin e Pesquisar por mída | FGA |
 
 <!-- 

@@ -1,22 +1,16 @@
 # Perfil de Usuário
 
-
-
 ## Introdução
 
 Segundo Barbosa e Silva (2010) perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado.
 
-
-
 ## Metodologia
 
-Para determinar o perfil de usuário do site foram utilizadas duas abordagens, sendo elas a ferramenta de tráfico de rede [Similarweb](https://www.similarweb.com/website/dominiopublico.gov.br/#demographics) e um questionário. 
-
-
+Para determinar o perfil de usuário do site foram utilizadas duas abordagens, sendo elas a ferramenta de tráfico de rede [Similarweb](https://www.similarweb.com/website/dominiopublico.gov.br/#demographics) e um questionário.
 
 ## Resultados da ferramenta de tráfico
 
-Ao utilizar a ferramenta de tráfico de rede [Similarweb](https://www.similarweb.com/website/dominiopublico.gov.br/#demographics) foi possivel concluir conforme as Figuras 1 e 2 que o os usuarios são estudantes de 24 à 34 anos. Note que aqui consideramos o sexo irrelevante visto que a diferança percentual é minima, como pode ser visto na Figura 1.
+Ao utilizar a ferramenta de tráfico de rede [Similarweb](https://www.similarweb.com/website/dominiopublico.gov.br/#demographics) foi possivel concluir conforme as Figuras 1 e 2 que o a grande parte dos usuários são estudantes coma faixa etária entre 18 à 34 anos. Note que aqui consideramos o sexo irrelevante visto que a diferança percentual é minima, como pode ser visto na Figura 1.
 
 <center>
 
@@ -38,18 +32,15 @@ Ao utilizar a ferramenta de tráfico de rede [Similarweb](https://www.similarweb
 
 </center>
 
-
-
 ## Resultados do questionário
 
 O questionário teve um total de 7 perguntas de aspectos gerais do site e foi respondido por 26 pessoas. Para as perguntas houve um enfoque no tipo de conteudo majoritario do site, que são livros de dominio publico. O questionário tambem contou com um Termo de Consentimento Livre e Esclarecido confome descrito na secçao de [aspectos éticos](aspectos_eticos.md)
 
 As perguntas e respostas do questionário serão descritas a seguir.
 
-
 #### Qual é a sua faixa etária?
 
-De acordo com o gráfico apresentado na Figura 3 a faixa etária dos usuarios do site é majoritariamente 18 à 24 anos.
+De acordo com o gráfico apresentado na Figura 3 a faixa etária dos usuarios do site é majoritariamente 18 à 34 anos.
 
 <center>
 
@@ -60,7 +51,6 @@ De acordo com o gráfico apresentado na Figura 3 a faixa etária dos usuarios do
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo), 2023</p></font>
 
 </center>
-
 
 #### Qual o seu gênero?
 
@@ -76,7 +66,6 @@ De acordo com o gráfico apresentado na Figura 4 o gênero dos usuarios do site 
 
 </center>
 
-
 #### Qual o seu grau de escolariedade?
 
 De acordo com o gráfico apresentado na Figura 5 o grau de escolariedade dos usuarios do site é majoritariamente de pessoas com o ensino superior incompleto.
@@ -90,7 +79,6 @@ De acordo com o gráfico apresentado na Figura 5 o grau de escolariedade dos usu
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo), 2023</p></font>
 
 </center>
-
 
 #### Qual o seu nível de afinidade com dispositivos eletrônicos?
 
@@ -106,7 +94,6 @@ De acordo com o gráfico apresentado na Figura 6 o nível de afinidade com dispo
 
 </center>
 
-
 #### Quantos livros você lê por ano?
 
 De acordo com o gráfico apresentado na Figura 7 os usuarios do site é leem de 3 à 5 livros por ano.
@@ -120,7 +107,6 @@ De acordo com o gráfico apresentado na Figura 7 os usuarios do site é leem de 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo), 2023</p></font>
 
 </center>
-
 
 #### Já teve dificuldades para encontrar um livro online?
 
@@ -150,8 +136,6 @@ De acordo com o gráfico apresentado na Figura 9 os usuarios esperam que um livr
 
 </center>
 
-
-
 ## Resultados do questionário
 
 Com base nessas duas abordagens podemos montar o perfil do usuario descrito na Tabela 1.
@@ -162,7 +146,7 @@ Com base nessas duas abordagens podemos montar o perfil do usuario descrito na T
 
 | Característica                    | Descrição                                        |
 | --------------------------------- | ------------------------------------------------ |
-| Idade                             | Jovens de 18 à 24 anos                           |
+| Idade                             | Jovens de 18 à 34 anos                           |
 | Genero                            | Indiferente, devido a proximidade dos resultados |
 | Grau de escolaridade              | Superior incompleto                              |
 | Nível de conhecimento tecnológico | Experiente (tecnófilos)                          |
@@ -173,13 +157,9 @@ Com base nessas duas abordagens podemos montar o perfil do usuario descrito na T
 
 </center>
 
+## Referências
 
-
-## Referências 
-
->  BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
-
-
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
 ## Histórico de versões
 

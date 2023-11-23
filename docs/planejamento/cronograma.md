@@ -332,12 +332,12 @@ Tabela 17, tem-se o <b>cronograma executado</b> para todas as atividades da sét
 
 | Atividade                                                                          | Período de desenvolvimento | Responsáveis | Periodo de Revisão | Revisores |
 | ---------------------------------------------------------------------------------- | -------------------------- | ------------ | ------------------ | --------- |
-| Protótipo de papel                                                                 |                            |              |                    |           |
-| Relato dos resultados do Protótipo de Papel                                        |                            |              |                    |           |
-| Planejamento da avaliação do protótipo de alta fidelidade                          |                            |              |                    |           |
-| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |                            |              |                    |           |
-| Gravar apresentação                                                                |                            |              |                    |           |
-| Edição da gravação                                                                 |                            |              |                    |           |
+| Protótipo de papel                                                                 |       21/11 - 22/11                     |      Ana Catarina, Pedro Henrique, Victor Hugo, Maria Alice, Luciano Ricardo, Gustavo França e Harryson Martins        |    22/11                |  Pedro Henrique |
+| Relato dos resultados do Protótipo de Papel                                        |                     21/11 - 22/11       |      Ana Catarina, Pedro Henrique, Victor Hugo, Maria Alice, Luciano Ricardo, Gustavo França e Harryson Martins        |   22/11                 |   Victor Hugo        |
+| Planejamento da avaliação do protótipo de alta fidelidade                          |    21/11                        |      Gustavo França        |            22/11        |      Maria Alice     |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |         21/11                   |  Harryson Martins            |           22/11         |    Ana Catarina       |
+| Gravar apresentação                                                                |   22/11                         |  Victor Hugo            |     22/11               |   Ana Catarina      | 
+| Edição da gravação                                                                 |       22/11                     |        Ana Catarina      |            22/11        |   Victor Hugo      | 
 | Correção pós apresentação                                                          |                            |              |                    |           |
 
 </center>
