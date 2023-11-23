@@ -89,18 +89,9 @@ O cronograma das entrevistas com os usuários estão documentadas na Tabela 1 co
 | :----------------------------------------------------------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :------------: | :-------------------------: | :---: |
 | [Maria Alice](https://github.com/Maliz30), [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |     Tales | || 21/11 | | Se tornar colaborador, Pedir ajuda e Avaliar midia | FGA |
 | [Maria Alice](https://github.com/Maliz30), [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |     Luciano | || 21/11 | | Se tornar colaborador, Pedir ajuda e Avaliar midia | FGA |
-| [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf) | Gustavo Linhares|11:00 |11:10| 21/11 |21/11 | Acessar estatisticas e Download de mídia | FGA |
+| [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf) | Gustavo | || 21/11 | | Acessar estatisticas e Download de mídia | FGA |
 | [Gustavo França](https://github.com/gustavofbs) e [Harryson Martins](https://github.com/harry-cmartin) | ||| 22/11 | |Contatar Admin e Pesquisar por mída | FGA |
 
-<!-- 
-|    [Ana Catarina](https://github.com/an4catarina) e [Victor Hugo](https://github.com/ViictorHugoo)     |     Gustavo     |       19:10       |     19:25      |     15/11      |                |   Acessar as Estátisticas   |  FGA  |
-|    [Gustavo França](https://github.com/gustavofbs) e [Ana Catarina](https://github.com/an4catarina)    |     Douglas     |       19:10       |     19:25      |     15/11      |                |       Contatar Admin        |  FGA  |
-| [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) |    Luma Maia    |       22:30       |     22:45      |     15/11      |                |     Pesquisar por mídia     |  FGA  |
-| [Luciano Ricardo](https://github.com/l-ricardo) e [Harryson Martins](https://github.com/harry-cmartin) |      Pedro      |       22:30       |     22:45      |     15/11      |                |         Pedir Ajuda         |  FGA  |
-|      [Maria Alice](https://github.com/Maliz30) e [Luciano Ricardo](https://github.com/l-ricardo)       |     Camila      |       13:50       |     14:05      |     15/11      |                | Cadidatura para Colaborador |  FGA  |
-|       [Pedro Henrique](https://github.com/pedro-hsf) e [Maria Alice](https://github.com/Maliz30)       |     Nicolas     |       13:50       |     14:05      |     15/11      |                |      Download de Mídia      |  FGA  |
-|    [Victor Hugo](https://github.com/ViictorHugoo) e [Pedro Henrique](https://github.com/pedro-hsf)     |  Douglas Alves  |       18:00       |     18:15      |     15/11      |                |        Avaliar Midia        |  FGA  |
--->
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
 
 ## D - Lidando com as Questões Éticas
@@ -141,7 +132,7 @@ De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamen
 
 | Ordem | Data       | Horário de início e fim | Local | Entrevistadores                  | Entrevistado |
 | ----- | ---------- | ----------------------- | ----- | -------------------------------- | ------------ |
-| 1     | 14/10/2023 | 14:10 - 14:25           | FGA   | Pedro Henrique e Luciano Ricardo | Victor hugo  |
+| 1     | 14/10/2023 | 14:10 - 14:25           | FGA   | Victor Hugo e Luciano Ricardo | Maria alice  |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
 
@@ -155,9 +146,9 @@ No Vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 
 <font size="2"><p style="text-align: center">Vídeo 1: Teste piloto </p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1sodmDOMpqE?si=zhq8R6HfqKlE7e8i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/an4catarina), [Victor Hugo](https://github.com/ViictorHugoo), [Pedro Henrique](https://github.com/pedro-hsf).</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/an4catarina), [Victor Hugo](https://github.com/ViictorHugoo), [Maria Alice](https://github.com/Maliz30).</p></font>
 
 </center>
 

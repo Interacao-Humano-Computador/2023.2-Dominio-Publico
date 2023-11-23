@@ -52,7 +52,7 @@ No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Video 1: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="https://youtu.be/gGSSgCB2GnI?si=xH7y6SZe42ZQp7m0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gGSSgCB2GnI?si=9dlZig7B9Q_M-lVI" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 
@@ -79,7 +79,7 @@ No Video 2 e Tabela 3 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Video 2: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="https://youtu.be/ojqceB62QOY?si=7s-Ag7iTk66lppO3" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ojqceB62QOY?si=RHOhVRCHF7sB8EEF" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 
@@ -460,6 +460,17 @@ Durante a entrevista foi usado o método investigativo conforme descrito no [Pla
 
 Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o entrevistador. O usuário entrevistado selecionado possui entre 18 e 34 anos; é experiente com tecnologia (tecnófilo); e lê com frequencia media, conforme estabelecido no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md).
 
+##### Protótipo de papel
+
+Na figura X é possível visualizar o protótipo de papel utilizado para a avaliação da intervenção da tarefa "avaliar midia".
+
+<font size="2"><p style="text-align: center">Figura X: Protótipo de papel de "avaliar midia"</p></font>
+
+![Protótipo de Papel](../../../assets/prototipo_de_papel/avaliarMidia.jpg)
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+
+
 ##### Registro da avaliação
 
 Nos Videos 7 e 8, e na Tabela 13 é possível verificar os registros feitos durante a avaliação.
@@ -539,9 +550,10 @@ No Video 8 e Tabela 14 é possível verificar os registros feitos durante a aval
 
 <center>
 
+<font size="2"><p style="text-align: center">Video 8: Gravação da avaliação</p></font>
 <font size="2"><p style="text-align: center">Video 11: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xOvv3SnBEe4" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xOvv3SnBEe4?si=5MWSNbccC3wPehtp" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
@@ -549,7 +561,7 @@ No Video 8 e Tabela 14 é possível verificar os registros feitos durante a aval
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 2: Sumario de perguntas</p></font>
+<font size="2"><p style="text-align: center">Tabela 14: Sumario de perguntas</p></font>
 
 | Pergunta                                                                                                                            | Resposta |
 | ----------------------------------------------------------------------------------------------------------------------------------- | :------- |
@@ -566,9 +578,9 @@ No Video 12 e Tabela 15 é possível verificar os registros feitos durante a ava
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 12: Gravação da avaliação</p></font>
+<font size="2"><p style="text-align: center">Video 2: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=XSwB3Ov9KdQ" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XSwB3Ov9KdQ?si=yMW2OXNrFQuQ6tba" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
@@ -576,7 +588,7 @@ No Video 12 e Tabela 15 é possível verificar os registros feitos durante a ava
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 3: Sumario de perguntas</p></font>
+<font size="2"><p style="text-align: center">Tabela 15: Sumario de perguntas</p></font>
 
 |                                                              Pergunta                                                               | Resposta |
 | :---------------------------------------------------------------------------------------------------------------------------------: | :------: |
