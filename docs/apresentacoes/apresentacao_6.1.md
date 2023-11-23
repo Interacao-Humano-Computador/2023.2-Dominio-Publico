@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esta página é destinada à apresentação da etapa 6.1 do projeto de Interação Humano Computador. Focada na Verificação dos artefatos do grupo 5. A apresentação foi gravada no 14 de novembro de 2023.
+Esta página é destinada à apresentação da etapa 6.1 do projeto de Interação Humano Computador. Focada na Verificação dos artefatos do grupo 5. A apresentação foi gravada no 14 de novembro de 2023
 
 ## Apresentação
 
@@ -19,7 +19,6 @@ Esta página é destinada à apresentação da etapa 6.1 do projeto de Interaç�
 > Plano de Ensino da Disciplina de IHC. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf>>. Acesso em: 30 de outubro de 2023
 >
 > Apresentações Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/apresentacao/apresentacao4/>>. Acesso em 30 de outubro de 2023.
-
 
 ## Histórico de versão
 

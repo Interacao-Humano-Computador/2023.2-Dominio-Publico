@@ -46,7 +46,7 @@ Além disso os entrevistadores deverão seguir o cronograma planejado explicitad
 
 </center>
 
-Por fim, esse tópico do relato da avaliação deve conter uma tabela com o cronograma executado para o relato da avaliação de cada storyboard nos mesmos moldes do exibido da Tabela 2.
+Por fim, esse tópico do relato da avaliação deve conter uma tabela com o cronograma executado para o relato da avaliação de cada storyboard nos mesmos moldes do exibido da Tabela 2
 
 <center>
 

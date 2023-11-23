@@ -36,13 +36,12 @@ Com base nos objetivos evidenciados, foram preparadas perguntas seguindo critér
 
 ### Perguntas
 
-| Ordem das perguntas | Objetivos Relacionados | Perguntas | Tipo de pergunta | Respostas possíveis |
-|---------------------|------------------------|-----------|-------------------|----------------------|
-| 1°                  | 2                      |  Houve algum momento durante a interação no site Domínio Público em que você encontrou dificuldades devido a problemas na interface? | Aberta | Resposta discursiva |
-| 2°                  | 1                      | A disposição dos elementos de interação no site Domínio Público auxiliaram na rapidez da execução da sua tarefa? | Fechada | Sim<br/>Não |
-| 3°                  | 1                      | Em termos de layout e design do site Domínio Público, achou alguma parte que não faça sentido com o objetivo do site? | Fechada | Sim<br/>Não<br/>Caso sim, pedir para descrever |
-| 4°                  | 2                      | Você imagina alguma forma de melhorar esta tarefa no site Domínio Público? | Aberta | Resposta discursiva |
-
+| Ordem das perguntas | Objetivos Relacionados | Perguntas                                                                                                                           | Tipo de pergunta | Respostas possíveis                            |
+| ------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------- |
+| 1°                  | 2                      | Houve algum momento durante a interação no site Domínio Público em que você encontrou dificuldades devido a problemas na interface? | Aberta           | Resposta discursiva                            |
+| 2°                  | 1                      | A disposição dos elementos de interação no site Domínio Público auxiliaram na rapidez da execução da sua tarefa?                    | Fechada          | Sim<br/>Não                                    |
+| 3°                  | 1                      | Em termos de layout e design do site Domínio Público, achou alguma parte que não faça sentido com o objetivo do site?               | Fechada          | Sim<br/>Não<br/>Caso sim, pedir para descrever |
+| 4°                  | 2                      | Você imagina alguma forma de melhorar esta tarefa no site Domínio Público?                                                          | Aberta           | Resposta discursiva                            |
 
 ## C - Métodos de Avaliação
 
@@ -85,18 +84,18 @@ O cronograma das entrevistas com os usuários estão documentadas na Tabela 1 co
 
 <font size="2"><p style="text-align: center">Tabela 2: Cronograma da entrevista </p></font>
 
-|                                           Entrevistador(es)                                            | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Data Executada |           Tarefa(s)            | Local |
-| :----------------------------------------------------------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :------------: | :-------------------------: | :---: |
-| [Maria Alice](https://github.com/Maliz30), [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |     Tales | || 21/11 | | Se tornar colaborador, Pedir ajuda e Avaliar midia | FGA |
-| [Maria Alice](https://github.com/Maliz30), [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |     Luciano | || 21/11 | | Se tornar colaborador, Pedir ajuda e Avaliar midia | FGA |
-| [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf) | Gustavo | || 21/11 | | Acessar estatisticas e Download de mídia | FGA |
-| [Gustavo França](https://github.com/gustavofbs) e [Harryson Martins](https://github.com/harry-cmartin) | ||| 22/11 | |Contatar Admin e Pesquisar por mída | FGA |
+|                                                              Entrevistador(es)                                                              | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Data Executada |                     Tarefa(s)                      | Local |
+| :-----------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :------------: | :------------------------------------------------: | :---: |
+| [Maria Alice](https://github.com/Maliz30), [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |      Tales      |                   |                |     21/11      |                | Se tornar colaborador, Pedir ajuda e Avaliar midia |  FGA  |
+| [Maria Alice](https://github.com/Maliz30), [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |     Luciano     |                   |                |     21/11      |                | Se tornar colaborador, Pedir ajuda e Avaliar midia |  FGA  |
+|                       [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf)                       |     Gustavo     |                   |                |     21/11      |                |      Acessar estatisticas e Download de mídia      |  FGA  |
+|                   [Gustavo França](https://github.com/gustavofbs) e [Harryson Martins](https://github.com/harry-cmartin)                    |                 |                   |                |     22/11      |                |        Contatar Admin e Pesquisar por mída         |  FGA  |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
 
 ## D - Lidando com as Questões Éticas
 
-Ao realizar avaliações com usuários, é importante seguir as diretrizes éticas para garantir respeito aos envolvidos, evitando qualquer dano durante e após a divulgação dos resultados. A condução de metodologias com terceiros requer a consciência dos participantes sobre os princípios éticos e a assinatura de um termo de consentimento.
+Ao realizar avaliações com usuários, é importante seguir as diretrizes éticas para garantir respeito aos envolvidos, evitando qualquer dano durante e após a divulgação dos resultados. A condução de metodologias com terceiros requer a consciência dos participantes sobre os princípios éticos e a assinatura de um termo de consentimento
 
 Segue abaixo na Figura 2 o termo de consentimento em <a href= "docs/analise_de_requisitos/aspectos_eticos/aspectos_eticos.md"> Aspectos Éticos </a> a ser utilizado pelo Grupo 04:
 
@@ -130,8 +129,8 @@ De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamen
 
 <font size="2"><p style="text-align: center">Tabela 3: Planejamento do teste piloto </p></font>
 
-| Ordem | Data       | Horário de início e fim | Local | Entrevistadores                  | Entrevistado |
-| ----- | ---------- | ----------------------- | ----- | -------------------------------- | ------------ |
+| Ordem | Data       | Horário de início e fim | Local | Entrevistadores               | Entrevistado |
+| ----- | ---------- | ----------------------- | ----- | ----------------------------- | ------------ |
 | 1     | 14/10/2023 | 14:10 - 14:25           | FGA   | Victor Hugo e Luciano Ricardo | Maria alice  |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
@@ -166,9 +165,9 @@ No Vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                | Autor(es)                                                                                                                                                                              | Revisor(es)                                    |
-| ------ | ---------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 01/11/2023 | Criação do Documento     | [Victor Hugo](https://github.com/ViictorHugoo)                                                                                                                                         | [Ana Catarina](https://github.com/an4catarina) |
-| 1.1    | 08/11/2023 | Organização do documento | [Victor Hugo](https://github.com/ViictorHugoo),[Gustavo](https://github.com/gustavofbs),[Luciano Ricardo](https://github.com/l-ricardo) e [Harryson](https://github.com/harry-cmartin) | [Ana Catarina](https://github.com/an4catarina) |
-| 1.2    | 20/11/2023 | Organização das perguntas| [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina) |
-| 1.3    | 21/11/2023 | Corrigindo detalhes | [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo) |
+| Versão | Data       | Descrição                 | Autor(es)                                                                                                                                                                              | Revisor(es)                                     |
+| ------ | ---------- | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 01/11/2023 | Criação do Documento      | [Victor Hugo](https://github.com/ViictorHugoo)                                                                                                                                         | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.1    | 08/11/2023 | Organização do documento  | [Victor Hugo](https://github.com/ViictorHugoo),[Gustavo](https://github.com/gustavofbs),[Luciano Ricardo](https://github.com/l-ricardo) e [Harryson](https://github.com/harry-cmartin) | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.2    | 20/11/2023 | Organização das perguntas | [Gustavo França](https://github.com/gustavofbs)                                                                                                                                        | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.3    | 21/11/2023 | Corrigindo detalhes       | [Victor Hugo](https://github.com/ViictorHugoo)                                                                                                                                         | [Luciano Ricardo](https://github.com/l-ricardo) |

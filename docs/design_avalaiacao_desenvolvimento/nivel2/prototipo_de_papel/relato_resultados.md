@@ -216,7 +216,7 @@ Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o
 
 ##### Protótipo de papel
 
-Na figura 3 é possível visualizar o protótipo de papel utilizado para a avaliação da intervenção da tarefa "Acessar estatísticas".
+Na figura 3 é possível visualizar o protótipo de papel utilizado para a avaliação da intervenção da tarefa "Acessar estatísticas"
 
 <font size="2"><p style="text-align: center">Figura 3: Protótipo de papel de "Acessar estatísticas"</p></font>
 
@@ -469,7 +469,6 @@ Na figura X é possível visualizar o protótipo de papel utilizado para a avali
 ![Protótipo de Papel](../../../assets/prototipo_de_papel/avaliarMidia.jpg)
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
-
 
 ##### Registro da avaliação
 
