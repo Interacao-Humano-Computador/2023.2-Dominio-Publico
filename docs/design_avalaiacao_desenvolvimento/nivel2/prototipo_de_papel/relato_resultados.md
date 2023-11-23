@@ -538,7 +538,7 @@ No Video 8 e Tabela 14 é possível verificar os registros feitos durante a aval
 
 <font size="2"><p style="text-align: center">Video 1: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xOvv3SnBEe4" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xOvv3SnBEe4?si=5MWSNbccC3wPehtp" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
@@ -565,7 +565,7 @@ No Video 9 e Tabela 15 é possível verificar os registros feitos durante a aval
 
 <font size="2"><p style="text-align: center">Video 2: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=XSwB3Ov9KdQ" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XSwB3Ov9KdQ?si=yMW2OXNrFQuQ6tba" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
