@@ -452,6 +452,17 @@ Durante a entrevista foi usado o método investigativo conforme descrito no [Pla
 
 Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o entrevistador. O usuário entrevistado selecionado possui entre 18 e 24 anos; é experiente com tecnologia (tecnófilo); e lê com frequencia media, conforme estabelecido no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md).
 
+##### Protótipo de papel
+
+Na figura X é possível visualizar o protótipo de papel utilizado para a avaliação da intervenção da tarefa "avaliar midia".
+
+<font size="2"><p style="text-align: center">Figura X: Protótipo de papel de "avaliar midia"</p></font>
+
+![Protótipo de Papel](../../../assets/prototipo_de_papel/avaliarMidia.jpg)
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+
+
 ##### Registro da avaliação
 
 Nos Videos 7 e 8, e na Tabela 13 é possível verificar os registros feitos durante a avaliação.
