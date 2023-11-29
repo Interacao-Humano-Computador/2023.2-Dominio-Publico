@@ -187,3 +187,163 @@ Os participantes não forneceram propostas de melhoria para o protótipo.
 
 ### Tarefa: Fazer download da mídia
 
+##### Objetivo e âmbito da avaliação
+
+A avaliação teve como objetivo analisar a eficácia da função de "Fazer Download" e avaliar a consistência nas interações dos usuários no Domínio Público. Além disso, buscamos identificar áreas de aprimoramento para oferecer suporte mais eficiente e satisfatório aos usuários, garantindo uma experiência aprimorada.
+
+##### Método de avaliação
+
+Conforme sugerido pelo [planejamento da avaliação](docs/design_avalaiacao_desenvolvimento/nivel3/prototipo_alta_fidelidade/planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
+
+A Tabela 8 exibe as datas da realização da avaliação.
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 8: Cronograma executado</p></font>
+
+| Entrevistador                                        | Entrevistado   | Horário de Início | Horário de Fim | Data       | Local/Plataforma |
+| ---------------------------------------------------- | -------------- | ----------------- | -------------- | ---------- | ---------------- |
+| [Pedro Henrique](https://github.com/pedro-hsf) | Richard Ribeiro | 17:17             | 15:24          | 29/11/2023 |Microsoft Teams              |
+| [Pedro Henrique](https://github.com/pedro-hsf) | Milena Baruc   | 13:30             | 13:50          | 29/11/2023 |Microsoft Teams              |
+|[Pedro Henrique](https://github.com/pedro-hsf)  | Nicolas Bomfim | 14:20             |14:50           | 29/11/2023 |Microsoft Teams|
+
+<font size="2"><p style="text-align: center">Fonte:[Pedro Henrique](https://github.com/pedro-hsf).</p></font>
+
+</center>
+
+##### Seleção dos participantes
+
+A seleção dos participantes foi realizada de forma criteriosa, atribuindo a cada tarefa um responsável designado. O entrevistador foi escolhido com base nessa responsabilidade específica. O usuário selecionado para a entrevista está na faixa etária de 18 a 34 anos, demonstrando experiência significativa com tecnologia e uma frequência média de leitura, conforme detalhado no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md). Essa abordagem visa garantir que os participantes se alinhem adequadamente com as características necessárias para fornecer insights valiosos durante o processo de avaliação. 
+
+##### Registro da avaliação
+
+No Video 4 e Tabela 8 e 9 é possível verificar os registros feitos durante a avaliação.
+
+<center>
+
+<font size="2"><p style="text-align: center">Video 4: Gravação da avaliação "Fazer Download"</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9AKlwUSpriw?si=TMQz2PKUL0T-TtUN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf)</p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 8: Perguntas propostas</p></font>
+
+|                                                Pergunta                                                 | Resposta |
+| :-----------------------------------------------------------------------------------------------------: | :------: |
+|            Você acredita que as tarefas desenvolvidas foram de facil compreensão e execução?            |   Sim       |
+|                      Você encontrou alguma dificuldade na realização das tarefas?                       |      Não    |
+| Você acredita que os elementos na tela oferecem uma disposição satisfatória e um design compreensivel ? |      Sim    |
+|            Você encontrou algum erro ou omissão de elementos durante a execuação da tarefa?             |       Não   |
+
+<font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf).</p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 9: Diretrizes</p></font>
+
+|                                         Pergunta                                          | Resposta |
+| :---------------------------------------------------------------------------------------: | :------: |
+|                           O usuário consegue operar o sistema ?                           |    Sim      |
+|      O usuário atinge todos os objetivos determinados? Com qual eficiencia e tempo ?      |    Sim de forma rápida e eficiente      |
+| O usuário entende as sequencias de ações que devem ser realizadas para realizar uma ação? |    Sim      |
+|                  O usuário encontrou barreiras para concluir as tarefas?                  |    Não      |
+|  Se encontradas, as barreiras foram determinates para o usuário não concluir as tarefas?  |    Não houve barreiras      |
+
+<font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf).</p></font>
+
+</center>
+
+No Video 5 e Tabela 10 e 11 é possível verificar os registros feitos durante a avaliação.
+
+<center>
+
+<font size="2"><p style="text-align: center">Video 5: Gravação da avaliação "Fazer Download"</p></font>
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf)</p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 10: Perguntas propostas</p></font>
+
+|                                                Pergunta                                                 | Resposta |
+| :-----------------------------------------------------------------------------------------------------: | :------: |
+|            Você acredita que as tarefas desenvolvidas foram de facil compreensão e execução?            |          |
+|                      Você encontrou alguma dificuldade na realização das tarefas?                       |          |
+| Você acredita que os elementos na tela oferecem uma disposição satisfatória e um design compreensivel ? |          |
+|            Você encontrou algum erro ou omissão de elementos durante a execuação da tarefa?             |          |
+
+<font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf).</p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 11: Diretrizes</p></font>
+
+|                                         Pergunta                                          | Resposta |
+| :---------------------------------------------------------------------------------------: | :------: |
+|                           O usuário consegue operar o sistema ?                           |          |
+|      O usuário atinge todos os objetivos determinados? Com qual eficiencia e tempo ?      |          |
+| O usuário entende as sequencias de ações que devem ser realizadas para realizar uma ação? |          |
+|                  O usuário encontrou barreiras para concluir as tarefas?                  |          |
+|  Se encontradas, as barreiras foram determinates para o usuário não concluir as tarefas?  |          |
+
+<font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf).</p></font>
+
+</center>
+
+No Video 6 e Tabela 12 e 13 é possível verificar os registros feitos durante a avaliação.
+
+<center>
+
+<font size="2"><p style="text-align: center">Video 6: Gravação da avaliação "Fazer Download"</p></font>
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf)</p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 12: Perguntas propostas</p></font>
+
+|                                                Pergunta                                                 | Resposta |
+| :-----------------------------------------------------------------------------------------------------: | :------: |
+|            Você acredita que as tarefas desenvolvidas foram de facil compreensão e execução?            |          |
+|                      Você encontrou alguma dificuldade na realização das tarefas?                       |          |
+| Você acredita que os elementos na tela oferecem uma disposição satisfatória e um design compreensivel ? |          |
+|            Você encontrou algum erro ou omissão de elementos durante a execuação da tarefa?             |          |
+
+<font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf).</p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 13: Diretrizes</p></font>
+
+|                                         Pergunta                                          | Resposta |
+| :---------------------------------------------------------------------------------------: | :------: |
+|                           O usuário consegue operar o sistema ?                           |          |
+|      O usuário atinge todos os objetivos determinados? Com qual eficiencia e tempo ?      |          |
+| O usuário entende as sequencias de ações que devem ser realizadas para realizar uma ação? |          |
+|                  O usuário encontrou barreiras para concluir as tarefas?                  |          |
+|  Se encontradas, as barreiras foram determinates para o usuário não concluir as tarefas?  |          |
+
+<font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf).</p></font>
+
+</center>
+
+
