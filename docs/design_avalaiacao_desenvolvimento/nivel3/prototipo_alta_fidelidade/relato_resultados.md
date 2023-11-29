@@ -217,6 +217,9 @@ A seleção dos participantes foi realizada de forma criteriosa, atribuindo a ca
 
 ##### Registro da avaliação
 
+Antes do início dos testes, os entrevistados receberam um roteiro que delineava as ações a serem realizadas no sistema. Estas incluíam acessar a área de Download, baixar uma mídia no formato desejado, completar o processo de Download e, em seguida, baixar outra mídia de escolha, com a instrução de cancelar o download antes da conclusão. Foi solicitado ao entrevistado que narrasse em voz alta as ações que estava executando.
+
+
 No Video 4 e Tabela 8 e 9 é possível verificar os registros feitos durante a avaliação.
 
 <center>
@@ -346,4 +349,185 @@ No Video 6 e Tabela 12 e 13 é possível verificar os registros feitos durante a
 
 </center>
 
+##### Listagem de problemas encontrados
 
+Após a análise das perguntas e diretrizes durante as entrevistas, constatou-se que não houve identificação de problemas nas três entrevistas conduzidas para a tarefa. Alcançando assim o resultado esperado.
+
+##### Sugestões de melhoria
+
+Não foram apresentadas sugestões de aprimoramento para o protótipo pelos participantes.
+
+### Tarefa: Avaliar Midia
+
+##### Objetivo e âmbito da avaliação
+
+A avaliação teve como objetivo analisar a eficácia da função de "Avaliar Midia" e avaliar a consistência nas interações dos usuários no Domínio Público. Além disso, buscamos identificar áreas de aprimoramento para oferecer suporte mais eficiente e satisfatório aos usuários, garantindo uma experiência aprimorada.
+
+##### Método de avaliação
+
+Conforme sugerido pelo [planejamento da avaliação](docs/design_avalaiacao_desenvolvimento/nivel3/prototipo_alta_fidelidade/planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
+
+A Tabela 8 exibe as datas da realização da avaliação.
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 8: Cronograma executado</p></font>
+
+| Entrevistador                                        | Entrevistado   | Horário de Início | Horário de Fim | Data       | Local/Plataforma |
+| ---------------------------------------------------- | -------------- | ----------------- | -------------- | ---------- | ---------------- |
+| [Victor Hugo](https://github.com/ViictorHugoo) | Clara Closs  | 18:52 | 18:58 | 29/11/2023 | Microsoft Teams |
+| [Victor Hugo](https://github.com/ViictorHugoo) | Maria Helena |              |           | 29/11/2023 | Microsoft Teams |
+| [Victor Hugo](https://github.com/ViictorHugoo) | Júlia Takaki |              |           | 29/11/2023 | Microsoft Teams |
+
+<font size="2"><p style="text-align: center">Fonte:[Victor Hugo](https://github.com/ViictorHugoo).</p></font>
+
+</center>
+
+##### Seleção dos participantes
+
+A seleção dos participantes foi realizada de forma criteriosa, atribuindo a cada tarefa um responsável designado. O entrevistador foi escolhido com base nessa responsabilidade específica. O usuário selecionado para a entrevista está na faixa etária de 18 a 34 anos, demonstrando experiência significativa com tecnologia e uma frequência média de leitura, conforme detalhado no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md). Essa abordagem visa garantir que os participantes se alinhem adequadamente com as características necessárias para fornecer insights valiosos durante o processo de avaliação. 
+
+##### Registro da avaliação
+
+Antes do início dos testes, os entrevistados receberam um roteiro que delineava as ações a serem realizadas no sistema. Estas incluíam acessar a midia que deseja avaliar, avaliar uma midia, completar e publicar uma avaliação, iniciar uma segunda avaliação, porém cancelando-a antes de publicar e, em seguida, denunciar uma avaliação. Foi solicitado ao entrevistado que narrasse em voz alta as ações que estava executando.
+
+
+No Video 7 e Tabela 14 e 15 é possível verificar os registros feitos durante a avaliação.
+
+<center>
+
+<font size="2"><p style="text-align: center">Video 7: Gravação da avaliação "Fazer Download"</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qr2p1_MsFGk?si=lOavbJKp5yiZyRZ-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 14: Perguntas propostas</p></font>
+
+|                                                Pergunta                                                 | Resposta |
+| :-----------------------------------------------------------------------------------------------------: | :------: |
+|            Você acredita que as tarefas desenvolvidas foram de facil compreensão e execução?            | sim |
+|                      Você encontrou alguma dificuldade na realização das tarefas?                       | nao |
+| Você acredita que os elementos na tela oferecem uma disposição satisfatória e um design compreensivel ? | sim |
+|            Você encontrou algum erro ou omissão de elementos durante a execuação da tarefa?             | nao |
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo).</p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 15: Diretrizes</p></font>
+
+|                                         Pergunta                                          | Resposta |
+| :---------------------------------------------------------------------------------------: | :------: |
+|                           O usuário consegue operar o sistema ?                           | sim |
+|      O usuário atinge todos os objetivos determinados? Com qual eficiencia e tempo ?      |sim, rapidamente e sem problemas|
+| O usuário entende as sequencias de ações que devem ser realizadas para realizar uma ação? | sim |
+|                  O usuário encontrou barreiras para concluir as tarefas?                  | nao |
+|  Se encontradas, as barreiras foram determinates para o usuário não concluir as tarefas?  | não foram encontradas|
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo).</p></font>
+
+</center>
+
+No Video 7 e Tabela 16 e 17 é possível verificar os registros feitos durante a avaliação.
+
+<center>
+
+<font size="2"><p style="text-align: center">Video 7: Gravação da avaliação "Fazer Download"</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wOBaGx9GaO0?si=GUSuJIw1hIx47-iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 16: Perguntas propostas</p></font>
+
+|                                                Pergunta                                                 | Resposta |
+| :-----------------------------------------------------------------------------------------------------: | :------: |
+|            Você acredita que as tarefas desenvolvidas foram de facil compreensão e execução?            | sim |
+|                      Você encontrou alguma dificuldade na realização das tarefas?                       | não |
+| Você acredita que os elementos na tela oferecem uma disposição satisfatória e um design compreensivel ? | sim |
+|            Você encontrou algum erro ou omissão de elementos durante a execuação da tarefa?             | sim, na parte de pesquisa de midia |
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo).</p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 17: Diretrizes</p></font>
+
+|                                         Pergunta                                          | Resposta |
+| :---------------------------------------------------------------------------------------: | :------: |
+|                           O usuário consegue operar o sistema ?                           | sim |
+|      O usuário atinge todos os objetivos determinados? Com qual eficiencia e tempo ?      | sim, menos eficiente do que o esperado|
+| O usuário entende as sequencias de ações que devem ser realizadas para realizar uma ação? | sim |
+|                  O usuário encontrou barreiras para concluir as tarefas?                  | sim, o resultado de pesquisa de midia não aparenta guiar para ver mais detalhes da midia|
+|  Se encontradas, as barreiras foram determinates para o usuário não concluir as tarefas?  | não |
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo).</p></font>
+
+</center>
+
+No Video 8 e Tabela 18 e 19 é possível verificar os registros feitos durante a avaliação.
+
+<center>
+
+<font size="2"><p style="text-align: center">Video 6: Gravação da avaliação "Fazer Download"</p></font>
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 18: Perguntas propostas</p></font>
+
+|                                                Pergunta                                                 | Resposta |
+| :-----------------------------------------------------------------------------------------------------: | :------: |
+|            Você acredita que as tarefas desenvolvidas foram de facil compreensão e execução?            |          |
+|                      Você encontrou alguma dificuldade na realização das tarefas?                       |          |
+| Você acredita que os elementos na tela oferecem uma disposição satisfatória e um design compreensivel ? |          |
+|            Você encontrou algum erro ou omissão de elementos durante a execuação da tarefa?             |          |
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo).</p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 19: Diretrizes</p></font>
+
+|                                         Pergunta                                          | Resposta |
+| :---------------------------------------------------------------------------------------: | :------: |
+|                           O usuário consegue operar o sistema ?                           |          |
+|      O usuário atinge todos os objetivos determinados? Com qual eficiencia e tempo ?      |          |
+| O usuário entende as sequencias de ações que devem ser realizadas para realizar uma ação? |          |
+|                  O usuário encontrou barreiras para concluir as tarefas?                  |          |
+|  Se encontradas, as barreiras foram determinates para o usuário não concluir as tarefas?  |          |
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo).</p></font>
+
+</center>
+
+##### Listagem de problemas encontrados
+
+Problemas encontrados na avaliação:
+1. Texto de resumo da obra é muito grande
+2. Pop-up de denuncia é grande e o usuário sentiu que poderia assustar ao pegar desprevinido
+3. Icone para denuncia parecia mais um icone de informações, o que deixou o usuário confuso
+
+##### Sugestões de melhoria
+
+Os participantes não forneceram propostas de melhoria para o protótipo.
