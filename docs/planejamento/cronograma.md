@@ -367,14 +367,14 @@ Na Tabela 19, tem-se o <b>cronograma executado</b> para todas as atividades da e
 
 <font size="2"><p style="text-align: center">Tabela 19: Cronograma executado de Atividades da Entrega 8.</p></font>
 
-| Atividade                                                          | Período de desenvolvimento | Responsáveis | Periodo de Revisão | Revisores |
-| ------------------------------------------------------------------ | -------------------------- | ------------ | ------------------ | --------- |
-| Relato dos resultados da avaliação do protótipo de alta fidelidade |                            |              |                    |           |
-| Planejamento de verificação dos artefatos da entrega 7             |                            |              |                    |           |
-| Relato da verificação da Etapa 7 e ajustes nos artefatos           |                            |              |                    |           |
-| Gravar apresentação                                                |                            |              |                    |           |
-| Edição da gravação                                                 |                            |              |                    |           |
-| Correção pós apresentação                                          |                            |              |                    |           |
+| Atividade                                                         | Período de desenvolvimento | Responsáveis         | Periodo de Revisão           | Revisores        |
+| ----------------------------------------------------------------- | -------------------------- | --------------------- | ----------------------------- | ---------------- |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade |                          |                   Ana Catarina, Gustavo França, Harryson Martins ,Luciano Ricardo, Maria Alice, Pedro Henrique, Victor Hugo     |                               |                  |
+| Planejamento de verificação dos artefatos da entrega 7             |                            |                       |                               |                  |
+| Relato da verificação da Etapa 7 e ajustes nos artefatos           |                            |                       |                               |                  |
+| Gravar apresentação                                                |                            |                       |                               |                  |
+| Edição da gravação                                                 | Início: 27/11 <br>Fim: 27/11 | Ana Catarina          | Início: 27/11 <br>Fim: 27/11  | Pedro Henrique   |
+| Correção pós apresentação                                          |                            |                       |                               |                  |
 
 </center>
 

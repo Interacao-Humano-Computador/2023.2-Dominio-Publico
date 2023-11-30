@@ -34,13 +34,15 @@ Além disso os entrevistadores deverão seguir o cronograma planejado explicitad
 
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma planejado</p></font>
 
-| [Ana Catarina](https://github.com/an4catarina) | Gustavo Linhares | 11:00 | 11:10 | 21/11 | Acessar as Estátisticas | FGA |
-| [Gustavo França](https://github.com/gustavofbs) | Flávio Augusto | 12:00 | 12:15 | 20/11 | Contatar Admin | Plataforma Microsoft Teams |
-| [Harryson Martins](https://github.com/harry-cmartin) | Kelven Cunha | 12:20 | 12:35 | 17/11 | Pesquisar por mídia | Plataforma Microsoft Teams |
-| [Luciano Ricardo](https://github.com/l-ricardo) | Bruno | 16:00 | 16:15 | 17/11 | Pedir Ajuda | Plataforma Microsoft Teams |
-| [Maria Alice](https://github.com/Maliz30) | Maria Abritta | 16:30 | 16:45 | 21/11 | Cadidatura para Colaborador | Plataforma Microsoft Teams |
-| [Pedro Henrique](https://github.com/pedro-hsf) | Gustavo Linhares | 11:00 | 11:10 | 21/11 | Download de Mídia | FGA |
-| [Victor Hugo](https://github.com/ViictorHugoo) | Tales | 13:00 | 13:15 | 21/11 | Avaliar Midia | Plataforma Microsoft Teams |
+| Nome             | Participante 2   | Início | Fim   | Data  | Atividade                    | Plataforma                 |
+| ---------------- | ---------------- | ------ | ----- | ----- | ---------------------------- | -------------------------- |
+| Ana Catarina     | Gustavo Linhares | 11:00  | 11:10 | 21/11 | Acessar as Estatísticas      | FGA                        |
+| Gustavo França   | Flávio Augusto   | 12:00  | 12:15 | 20/11 | Contatar Admin               | Plataforma Microsoft Teams |
+| Harryson Martins | Kelven Cunha     | 12:20  | 12:35 | 17/11 | Pesquisar por Mídia          | Plataforma Microsoft Teams |
+| Luciano Ricardo  | Bruno            | 16:00  | 16:15 | 17/11 | Pedir Ajuda                  | Plataforma Microsoft Teams |
+| Maria Alice      | Maria Abritta    | 16:30  | 16:45 | 21/11 | Candidatura para Colaborador | Plataforma Microsoft Teams |
+| Pedro Henrique   | Gustavo Linhares | 11:00  | 11:10 | 21/11 | Download de Mídia            | FGA                        |
+| Victor Hugo      | Tales            | 13:00  | 13:15 | 21/11 | Avaliar Mídia                | Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
