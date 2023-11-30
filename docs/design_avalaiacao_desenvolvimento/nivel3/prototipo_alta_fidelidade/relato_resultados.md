@@ -429,7 +429,7 @@ No Video 8 e Tabela 17 e 18 é possível verificar os registros feitos durante a
 
 <font size="2"><p style="text-align: center">Video 8: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_gxJAVoHxLw?si=VeB0fZOY8S-VVM9Z" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte:[Luciano Ricardo](https://github.com/l-ricardo).</p></font>
 
