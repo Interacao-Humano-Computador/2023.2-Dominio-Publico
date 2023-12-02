@@ -44,10 +44,10 @@ A tabela a seguir contempla o cronograma planejado para as verificações da fas
 
 | Data | Artefato | Responsável |
 |:--------:|:--------:|:--------:|
-|02/12/2023|Aspectos Éticos| Gustavo França|
-|02/12/2023|Perfil de Usuário| Gustavo França | 
-|02/12/2023|Personas| Gustavo França |
-|02/12/2023|Cenários| Gustavo França |
+|02/12/2023|Aspectos Éticos| Gustavo França e Harryson Campos |
+|02/12/2023|Perfil de Usuário| Gustavo França  e Harryson Campos | 
+|02/12/2023|Personas| Gustavo França  e Harryson Campos |
+|02/12/2023|Cenários| Gustavo França  e Harryson Campos |
 
 </center>="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs).</p></font>
 </center>
