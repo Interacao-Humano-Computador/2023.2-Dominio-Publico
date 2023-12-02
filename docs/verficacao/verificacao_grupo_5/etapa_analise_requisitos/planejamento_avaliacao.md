@@ -132,11 +132,11 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 
 | ID  | Critério                                                | Resultado |
 | --- | ------------------------------------------------------- | --------- |
-| 6   | Os cenarios possuem contexto definido?                  |           |
-| 7   | Os cenarios possuem o(s) ator(es) envolvidos definidos? |           |
-| 8   | Os cenarios possuem objetivos definidos?                |           |
-| 9   | Os cenarios possuem ações definidas?                    |           |
-| 10  | Os cenarios possuem avaliação definida?                 |           |
+| 1   | Os cenarios possuem contexto definido?                  |           |
+| 2   | Os cenarios possuem o(s) ator(es) envolvidos definidos? |           |
+| 3   | Os cenarios possuem objetivos definidos?                |           |
+| 4   | Os cenarios possuem ações definidas?                    |           |
+| 5  | Os cenarios possuem avaliação definida?                 |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 </center>
@@ -149,10 +149,10 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 
 | ID  | Critério                                                                                                   | Resultado |
 | --- | ---------------------------------------------------------------------------------------------------------- | --------- |
-| 6   | São citados os princípios da autonomia, da beneficência, da não maleficência e da justiça e equidade?      |           |
-| 7   | Existe um modelo de termo de consentimento livre e esclarecido que será disponibilizado aos participantes? |           |
-| 8   | É citado que os avaliadores irão solicitar a permissão para gravar a pessoa, antes de começar a gravação?  |           |
-| 9   | No TCLE é explicado o objetivo da pesquisa e como ela será realizada aos participantes?                    |           |
+| 1   | São citados os princípios da autonomia, da beneficência, da não maleficência e da justiça e equidade?      |           |
+| 2   | Existe um modelo de termo de consentimento livre e esclarecido que será disponibilizado aos participantes? |           |
+| 3   | É citado que os avaliadores irão solicitar a permissão para gravar a pessoa, antes de começar a gravação?  |           |
+| 4   | No TCLE é explicado o objetivo da pesquisa e como ela será realizada aos participantes?                    |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 </center>

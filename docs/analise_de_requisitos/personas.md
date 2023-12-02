@@ -117,4 +117,4 @@ As tabelas de 1 a 4 representam o elenco estabelecido e as figuras de 1 a 4 expl
 | Versão | Data       | Descrição              | Autor(es)                                                                                        | Revisor(es)                               |
 | ------ | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------- |
 | 1.0    | 15/10/2023 | Criação e estruturação | [Victor Hugo](https://github.com/ViictorHugoo)                                                   | [Maria Alice](https://github.com/Maliz30) |
-| 1.0    | 15/10/2023 | Criação e estruturação | [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo) | [Maria Alice](https://github.com/Maliz30) |
+| 1.1    | 15/10/2023 | Criação e estruturação | [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo) | [Maria Alice](https://github.com/Maliz30) |
