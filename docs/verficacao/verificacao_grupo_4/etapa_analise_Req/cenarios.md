@@ -26,6 +26,7 @@ A metodologia a ser utilizada será a Inspeção por meio do uso de Checklists, 
 | 8   | Os cenarios possuem objetivos definidos?                |           |
 | 9   | Os cenarios possuem ações definidas?                    |           |
 | 10  | Os cenarios possuem avaliação definida?                 |           |
+|11   | Os cenários desenvolvidos estão de acordo ao recomendado pelos autores (Rosson e Carroll,2002) em  BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador| 
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)  </p></font>
 
@@ -52,6 +53,7 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 | 8   | Os cenarios possuem objetivos definidos?                |           |
 | 9   | Os cenarios possuem ações definidas?                    |           |
 | 10  | Os cenarios possuem avaliação definida?                 |           |
+|11   | Os cenários desenvolvidos estão de acordo ao recomendado pelos autores (Rosson e Carroll,2002) em  BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador| 
 
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)  </p></font>
