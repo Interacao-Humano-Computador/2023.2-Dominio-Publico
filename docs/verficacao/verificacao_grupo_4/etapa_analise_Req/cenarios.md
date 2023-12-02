@@ -43,17 +43,17 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 
 | ID  | Critério                                                | Resultado |
 | --- | ------------------------------------------------------- | --------- |
-| 1   | Há um texto introdutório sobre o artefato?                                                                                |                                                                                         |
-| 2   | Há a referencia/bibliografia?                                                                                             |                                                                                         |
-| 3   | O artefato possui um histórico de versões padronizado?                                                                    |                                                                                         |
-| 4   | As imagens e tabelas são chamadas no texto?                                                                               |                                                                                         |
-| 5   | As imagens e tabelas possuem titulo e fonte?                                                                              |                                                                                         |
-| 6   | Os cenarios possuem contexto definido?                  |           |
-| 7   | Os cenarios possuem o(s) ator(es) envolvidos definidos? |           |
-| 8   | Os cenarios possuem objetivos definidos?                |           |
-| 9   | Os cenarios possuem ações definidas?                    |           |
-| 10  | Os cenarios possuem avaliação definida?                 |           |
-|11   | Os cenários desenvolvidos estão de acordo ao recomendado pelos autores (Rosson e Carroll,2002) em  BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador| 
+| 1   | Há um texto introdutório sobre o artefato?                                                                                |  Sim                                                                                       |
+| 2   | Há a referencia/bibliografia?                                                                                             | Sim                                                                                         |
+| 3   | O artefato possui um histórico de versões padronizado?                                                                    |  Sim                                                                                        |
+| 4   | As imagens e tabelas são chamadas no texto?                                                                               |  Sim                                                                                        |
+| 5   | As imagens e tabelas possuem titulo e fonte?                                                                              | Sim                                                                                         |
+| 6   | Os cenarios possuem contexto definido?                  |Sim            |
+| 7   | Os cenarios possuem o(s) ator(es) envolvidos definidos? |   Sim         |
+| 8   | Os cenarios possuem objetivos definidos?                |   Sim         |
+| 9   | Os cenarios possuem ações definidas?                    |   Sim         |
+| 10  | Os cenarios possuem avaliação definida?                 |   Sim         |
+|11   | Os cenários desenvolvidos estão de acordo ao recomendado pelos autores (Rosson e Carroll,2002) em  BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador| Não|
 
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)  </p></font>
@@ -62,6 +62,9 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 
 ## Problemas Encontrados
 
+A partir do checklist foi identificado que é necessário alterar os cenários construídos para se encaixar nas recomendações dos autores utilizados como Bibliografia.
+
+## Verificação
 
 ## Bibliografia 
 

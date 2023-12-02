@@ -40,21 +40,26 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 
 | ID | Critério | Resultado |
 |:--------:|:--------:|:--------:|
-|1|O artefato possui introdução?|       | 
-|2|O artefato possui histórico de versão atualizado?|       |
-|3|Os textos estão em norma padrão e sem erros?|      | 
-|4|O artefato possui Bibliografia?|        | 
-|5|Todas as tarefas que foram realizadas estão no cronograma?| |
-|6|A tabela é chamada no texto?|  |
-|7|A tabela possui fonte e nome?|  |
-|8|Todas as tarefas possuem revisor?| |
-|9|As tarefas realizadas foram feitas nas datas planejadas?|  |
+|1|O artefato possui introdução?|  Sim     | 
+|2|O artefato possui histórico de versão atualizado?|  Sim     |
+|3|Os textos estão em norma padrão e sem erros?|Sim      | 
+|4|O artefato possui Bibliografia?|   Sim     | 
+|5|Todas as tarefas que foram realizadas estão no cronograma?| Sim|
+|6|A tabela é chamada no texto?| Sim |
+|7|A tabela possui fonte e nome?|  Não|
+|8|Todas as tarefas possuem revisor?| Sim|
+|9|As tarefas realizadas foram feitas nas datas planejadas?| Não|
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)  </p></font>
 
 </center>
 
 ## Problemas Encontrados
+
+A partir do checklist foi constatado que é necessario colocar fontes nas tabelas
+
+## Verificações
+
 
 
 ## Bibliografia 
