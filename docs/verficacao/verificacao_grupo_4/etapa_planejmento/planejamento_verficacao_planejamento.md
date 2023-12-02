@@ -19,6 +19,9 @@ A metodologia escolhida para desenvolvimento da verificação foi a de Inspeçã
 - [Site escolhido](docs/planejamento/site_escolhido.md) ultima versão.
 - [Sites avaliados](docs/planejamento/sites_avaliados.md) ultima versão.
 
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 1: Cronograma de verificação</p></font>
 
 | Artefato | Versão | Autor   |
 |:----------:|:--------:|:---------:|
@@ -28,6 +31,12 @@ A metodologia escolhida para desenvolvimento da verificação foi a de Inspeçã
 |  Processo de design | 1.1     | [Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf) |
 |  Sites avaliados| 1.7     | [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo) ,[Luciano Ricardo](https://github.com/l-ricardo),[Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf), [Ana Catarina](https://github.com/an4catarina) |
 |  Site escolhido| 1.3   | [Gustavo França](https://github.com/gustavofbs),[Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin) |
+
+
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) </p></font>
+
+</center>
+
 
 
 
@@ -44,7 +53,6 @@ A tabela a seguir contempla o cronograma planejado para as verificações da fas
 |14/11/2023|Processo de design||
 |14/11/2023|Site escolhido|Harryson e Gustavo|
 |14/11/2023|Sites avaliados|Harryson e Gustavo|
-
 
 
 ## Checklist 
@@ -92,6 +100,20 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 |8|  Todas as tarefas possuem revisor?  |     |
 |9   |  As tarefas realizadas foram feitas nas datas planejadas?  |  |
 
+
+### Metodologia
+
+| ID | Critério | Resultado |
+|:--------:|:--------:|:--------:|
+| 1 |      O artefato possui introdução?    |          |
+| 2|      O artefato possui histórico de versão atualizado?     |
+|3|    Os textos estão em norma padrão e sem erros?      |          |
+|4|    O artefato possui Bibliografia?      |          |
+|5|É evidenciado a metodologia a ser utilizada no projeto?||
+|6|A metodologia escolhida é descrita e contextualizada?||
+|7|É explicado o por que da escolha da metodologia?||
+|8|É evidenciado a metodologia de avaliaçã a ser seguida?||
+|9|É descrito como funciona esse tipo de avaliação?||
 
 ### Processo Design
 
