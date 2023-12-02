@@ -41,15 +41,15 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 
 | ID  | Critério                                                                                                   | Resultado |
 | --- | ---------------------------------------------------------------------------------------------------------- | --------- |
-| 1   | Há um texto introdutório sobre o artefato?                                                                                |                                                                                         |
-| 2   | Há a referencia/bibliografia?                                                                                             |                                                                                         |
-| 3   | O artefato possui um histórico de versões padronizado?                                                                    |                                                                                         |
-| 4   | As imagens e tabelas são chamadas no texto?                                                                               |                                                                                         |
+| 1   | Há um texto introdutório sobre o artefato?                                                                                |  Sim                                                                                       |
+| 2   | Há a referencia/bibliografia?                                                                                             |        Sim                                                                                     |
+| 3   | O artefato possui um histórico de versões padronizado?                                                                    |          Sim                                                                                   |
+| 4   | As imagens e tabelas são chamadas no texto?                                                                               |  Sim                                                                                           |
 | 5   | As imagens e tabelas possuem titulo e fonte?                                                                              |                                                                                         |
-| 6   | São citados os princípios da autonomia, da beneficência, da não maleficência e da justiça e equidade?      |           |
-| 7   | Existe um modelo de termo de consentimento livre e esclarecido que será disponibilizado aos participantes? |           |
-| 8   | É citado que os avaliadores irão solicitar a permissão para gravar a pessoa, antes de começar a gravação?  |           |
-| 9   | No TCLE é explicado o objetivo da pesquisa e como ela será realizada aos participantes?                    |           |
+| 6   | São citados os princípios da autonomia, da beneficência, da não maleficência e da justiça e equidade?      | Sim              |
+| 7   | Existe um modelo de termo de consentimento livre e esclarecido que será disponibilizado aos participantes? |  Sim             |
+| 8   | É citado que os avaliadores irão solicitar a permissão para gravar a pessoa, antes de começar a gravação?  |Sim               |
+| 9   | No TCLE é explicado o objetivo da pesquisa e como ela será realizada aos participantes?                    |  Sim             |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)  </p></font>
@@ -57,6 +57,10 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 </center>
 
 ## Problemas Encontrados
+
+Nessa verificação não foram encontrados problemas a serem corrigidos.
+
+## Verificação
 
 
 ## Bibliografia 

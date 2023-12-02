@@ -39,14 +39,14 @@ O checklist feito apos a verificação pode ser visualizado a seguir na tabela 2
 
 | Verificação | Avaliação | Sugestões |
 |:--------:|:--------:|:--------:|
-|1|O artefato possui introdução?|       |       
-|2|O artefato possui histórico de versão atualizado?|               |
-|3|Os textos estão em norma padrão e sem erros?|        |        
-|4|O artefato possui Bibliografia?|         |          
-|5|O site escolhido foi determinado dentre os sites individuais?| |
-|6|O motivo da escolha foi justificado?|  |
-|7|Foi detalhado os problemas encontrados no site escolhido?|  |
-|8|São citadas as heuristicas usadas para encontrar os problemas?| |
+|1|O artefato possui introdução?| Sim      |       
+|2|O artefato possui histórico de versão atualizado?|   Sim           |
+|3|Os textos estão em norma padrão e sem erros?|  Sim      |        
+|4|O artefato possui Bibliografia?|   Sim      |          
+|5|O site escolhido foi determinado dentre os sites individuais?|Sim |
+|6|O motivo da escolha foi justificado?| Sim |
+|7|Foi detalhado os problemas encontrados no site escolhido?|  Sim|
+|8|São citadas as heuristicas usadas para encontrar os problemas?|Sim |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
@@ -55,6 +55,9 @@ O checklist feito apos a verificação pode ser visualizado a seguir na tabela 2
 
 ## Problemas Encontrados
 
+Nessa verificação não foram encontrados problemas a serem corrigidos.
+
+## Verificação
 
 ## Bibliografia 
 

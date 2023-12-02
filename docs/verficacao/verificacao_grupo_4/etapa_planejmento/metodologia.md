@@ -41,15 +41,15 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 
 | ID | Critério | Resultado |
 |:--------:|:--------:|:--------:|
-| 1 |      O artefato possui introdução?    |          |
-| 2|      O artefato possui histórico de versão atualizado?     |
-|3|    Os textos estão em norma padrão e sem erros?      |          |
-|4|    O artefato possui Bibliografia?      |          |
-|5|É evidenciado a metodologia a ser utilizada no projeto?||
-|6|A metodologia escolhida é descrita e contextualizada?||
-|7|É explicado o por que da escolha da metodologia?||
-|8|É evidenciado a metodologia de avaliaçã a ser seguida?||
-|9|É descrito como funciona esse tipo de avaliação?||
+| 1 |      O artefato possui introdução?    |  Sim        |
+| 2|      O artefato possui histórico de versão atualizado?     |Sim|
+|3|    Os textos estão em norma padrão e sem erros?      | Sim         |
+|4|    O artefato possui Bibliografia?      |Sim          |
+|5|É evidenciado a metodologia a ser utilizada no projeto?|Sim|
+|6|A metodologia escolhida é descrita e contextualizada?|Sim|
+|7|É explicado o por que da escolha da metodologia?|Sim|
+|8|É evidenciado a metodologia de avaliaçã a ser seguida?|Sim|
+|9|É descrito como funciona esse tipo de avaliação?|Sim|
 
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)  </p></font>
@@ -58,6 +58,7 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 
 ## Problemas Encontrados
 
+Nessa verificação não foram encontrados problemas a serem corrigidos.
 
 ## Bibliografia 
 
