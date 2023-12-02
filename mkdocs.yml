@@ -145,6 +145,27 @@ nav:
                   - Planejamento da Avaliação: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao.md
                   - Planejamento do Relato dos Resultados: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato.md
                   - Relato dos resultados: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_2/prototipo_de_papel/relato_resultados.md
+      - Grupo 4:
+            - Etapa de Planejamento:
+            - Planejamento da Verificação: 
+            - Ferramentas: 
+            - Cronograma Planejado: 
+            - Cronograma Executado: 
+            - Heat-map: 
+            - Sites Avaliados: 
+            - Processo de Design: 
+            - Site Escolhido: 
+          - Etapa de Análise de Requisitos:
+            - Planejamento da Verificação: 
+            - Perfil do Usuário: 
+            - Personas: 
+            - Cenários:
+            - Aspectos Éticos: 
+            - Análise de Tarefas:
+            - Principios e Diretrizes Gerais: 
+            - Metas de Usabilidade: 
+            - Caracteristicas Gerais: 
+            - Guia de Estilo:
 # Extensions
 markdown_extensions:
   - pymdownx.emoji
