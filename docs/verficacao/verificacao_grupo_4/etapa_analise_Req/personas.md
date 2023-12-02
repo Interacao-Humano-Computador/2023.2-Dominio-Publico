@@ -14,21 +14,27 @@ A metodologia a ser utilizada será a Inspeção por meio do uso de Checklists, 
 
 <font size="2"><p style="text-align: center">Tabela 1: Verificação do personas</p></font>
 
-| ID  | Critério                                                                                                                  | Resultado                                                                               |
-| --- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 1   | Há um texto introdutório sobre o artefato?                                                                                |                                                                                         |
-| 2   | Há a referencia/bibliografia?                                                                                             |                                                                                         |
-| 3   | O artefato possui um histórico de versões padronizado?                                                                    |                                                                                         |
-| 4   | As imagens e tabelas são chamadas no texto?                                                                               |                                                                                         |
-| 5   | As imagens e tabelas possuem titulo e fonte?                                                                              |                                                                                         |
-| 6   | O perfil de usuário foi definido com base em dados coletados por meio de algum estudo, como entrevistas ou questionários?                                                                                                                    |                                                                                         |
-| 7   | O percentual de usuários em cada faixa de características foi determinado?                                                |                                                                                         |
-| 8   | O perfil do usuário possui idade, sexo, status socioeconômico e grau de escolaridade definidos?                           |                                                                                         |
-| 9   | O perfil do usuário possui sua experiência com tecnologia definida?                                                       |                                                                                         |
-| 10  | O perfil do usuário é definido entre tecnófilos ou tecnófobos?                                                            |                                                                                         |
-| 11  | O perfil do usuário possui suas tarefas primárias definidas?                                                              |                                                                                         |
-| 12  | O perfil do usuário possui a experiência com o produto ou semelhantes definidos?                                          |                                                                                         |
-
+| ID  | Critério                                                                                              | Resultado                                                                                             |
+| --- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 1   | Há um texto introdutório sobre o artefato?                                                            |                                                                                                  |
+| 2   | Há a referencia/bibliografia?                                                                         |                                                                                                    |
+| 3   | O artefato possui um histórico de versões padronizado?                                                |                                                                                                   |
+| 4   | As imagens e tabelas são chamadas no texto?                                                           |                                     |
+| 5   | As imagens e tabelas possuem titulo e fonte?                                                          |                                                                                                  |
+| 6   | As personas foram criadas baseadas nos dados do perfil do usuário?                                    |  |
+| 7   | A razão da quantidade de personas é justificada?                                                      |                                                                                                   |
+| 8   | As personas possuem nome e sobrenome?                                                                 |                                                                                                   |
+| 9   | As personas possuem idade e dados demográficos?                                                       |                                          |
+| 10  | As personas possuem foto?                                                                             |                                                                                                    |
+| 11  | As personas são identificadas entre primaria, secundaria ou antipersona?                              |                                                                                                   |
+| 12  | As personas possuem seu objetivos específicos claramente definidos?                                   |                                                                                                 |
+| 13  | As personas possuem suas especialidades claramente definidas?                                         |                                                                                                 |
+| 14  | As personas possuem sua educação definida?                                                            |                                                                                                  |
+| 15  | As personas possuem seu nivel de treinamento definido?                                                |                                                                                                    |
+| 16  | As personas possuem suas tarefas básicas ou críticas definidas com frequência, importância e duração? |                                                    |
+| 16  | As personas possuem seus relacionamentos com outros explicados?                                       |                                                                                              |
+| 17  | Os requisitos necessários para atender às necessidades das personas são abordados?                    |                                                                                                  |
+| 18  | As expectativas das personas sobre o produto estão documentadas?                                      |                                                                                                 |
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)  </p></font>
 
