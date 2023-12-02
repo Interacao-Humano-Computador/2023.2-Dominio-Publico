@@ -30,7 +30,7 @@ A metodologia escolhida para desenvolvimento da verificação foi a de Inspeçã
 
 
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
 
 </center>
 
@@ -39,6 +39,9 @@ A metodologia escolhida para desenvolvimento da verificação foi a de Inspeçã
 
 A tabela a seguir contempla o cronograma planejado para as verificações da fase de planejamento, documentada na página do projeto do Grupo de número 6:
 
+<center>
+<font size="2"><p style="text-align: center">Tabela 2: Checklist Aspectos Éticos</p></font>
+
 | Data | Artefato | Responsável |
 |:--------:|:--------:|:--------:|
 |02/12/2023|Aspectos Éticos| Gustavo França|
@@ -46,7 +49,8 @@ A tabela a seguir contempla o cronograma planejado para as verificações da fas
 |02/12/2023|Personas| Gustavo França |
 |02/12/2023|Cenários| Gustavo França |
 
-
+</center>="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs).</p></font>
+</center>
 
 
 ## Checklist 
@@ -56,7 +60,7 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 ### Aspectos Éticos
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 6: Checklist Aspectos Éticos</p></font>
+<font size="2"><p style="text-align: center">Tabela 3: Checklist Aspectos Éticos</p></font>
 
 | ID  | Critério                                                                                                   | Resultado |
 | --- | ---------------------------------------------------------------------------------------------------------- | --------- |
@@ -77,7 +81,7 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 ### Perfil de Usuário
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 2: Checklist Perfil do Usuário </p></font>
+<font size="2"><p style="text-align: center">Tabela 4: Checklist Perfil do Usuário </p></font>
 
 | ID  | Critério                                                                                                                  | Resultado                                                                               |
 | --- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -100,7 +104,7 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 ### Personas
 
 <center>
-<font size="2"><p style="text-align: center">Tabela : Checklist Personas</p></font>
+<font size="2"><p style="text-align: center">Tabela 5: Checklist Personas</p></font>
 
 | ID  | Critério                                                                                              | Resultado                                                                                             |
 | --- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
@@ -130,7 +134,7 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 ### Cenários
 
 <center>
-<font size="2"><p style="text-align: center">Tabela : Checklist Cenários</p></font>
+<font size="2"><p style="text-align: center">Tabela 6: Checklist Cenários</p></font>
 
 | ID  | Critério                                                | Resultado |
 | --- | ------------------------------------------------------- | --------- |

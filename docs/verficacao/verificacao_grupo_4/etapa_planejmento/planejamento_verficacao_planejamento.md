@@ -44,6 +44,9 @@ A metodologia escolhida para desenvolvimento da verificação foi a de Inspeçã
 
 A tabela a seguir contempla o cronograma planejado para as verificações da fase de planejamento:
 
+<center>
+<font size="2"><p style="text-align: center">Tabela 2: Checklist Ferramentas</p></font>
+
 | Data | Artefato | Responsável |
 |:--------:|:--------:|:--------:|
 |02/12/2023|Ferramentas||
@@ -54,12 +57,18 @@ A tabela a seguir contempla o cronograma planejado para as verificações da fas
 |02/12/2023|Site escolhido|Harryson e Gustavo|
 |02/12/2023|Sites avaliados|Harryson e Gustavo|
 
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)  </p></font>
+</center>
+
 
 ## Checklist 
 
 A seguir será evidenciado, as listas de verificação para cada artefato citado acima. Tais listas foram construidas a partir da observação dos padrões desejaveis definidos para cada artefato e a partir das listas de detalhes evidenciados no plano de ensino da matéria.
 
 ### Ferramentas
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 3: Checklist Ferramentas</p></font>
 
 | ID | Critério | Resultados |
 |:--------:|:--------:|:--------:|
@@ -72,7 +81,13 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 |7|Todas as ferramentas utilizadas no processo estão no artefato?|          | 
 |8|Há alguma ferramenta que não foi utilizada e não está sendo citada?|          | 
 
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)  </p></font>
+</center>
+
 ### Cronograma Planejado
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 4: Checklist Cronograma Planejado</p></font>
 
 | ID | Critério | Resultados |
 |:--------:|:--------:|:--------:|
@@ -86,7 +101,13 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 |8|A tabela possui fonte e nome?|| 
 |9|Todas as tarefas possuem revisor?|   | 
 
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)  </p></font>
+</center>
+
 ### Cronograma Executado
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 5: Checklist Cronograma Executado</p></font>
 
 | ID | Critério | Resultado |
 |:--------:|:--------:|:--------:|
@@ -100,8 +121,14 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 |8|  Todas as tarefas possuem revisor?  |     |
 |9   |  As tarefas realizadas foram feitas nas datas planejadas?  |  |
 
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)  </p></font>
+</center>
+
 
 ### Metodologia
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 6: Checklist Metodologia</p></font>
 
 | ID | Critério | Resultado |
 |:--------:|:--------:|:--------:|
@@ -115,7 +142,13 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 |8|É evidenciado a metodologia de avaliaçã a ser seguida?||
 |9|É descrito como funciona esse tipo de avaliação?||
 
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)  </p></font>
+</center>
+
 ### Processo Design
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 7: Checklist Processo Design</p></font>
 
 | ID | Critério | Resultados |
 |:--------:|:--------:|:--------:|
@@ -126,7 +159,13 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 |5|A escolha do ciclo de vida foi fundamentada?||
 |6|Foi detalhado as fases e como será executado o ciclo de vida?||
 
-### Site escolhido 
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)  </p></font>
+</center>
+
+### Site escolhido
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 8: Checklist Site escolhido</p></font>
 
 | ID | Critério | Resultados |
 |:--------:|:--------:|:--------:|
@@ -139,7 +178,13 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 |7|Foi detalhado os problemas encontrados no site escolhido?||
 |8|São citadas as heuristicas usadas para encontrar os problemas?||
 
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)  </p></font>
+</center>
+
 ### Sites avaliados
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 9: Checklist Sites avaliados</p></font>
 
 | ID | Critério | Resultados |
 |:--------:|:--------:|:--------:|
@@ -150,6 +195,9 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 |5|São evidenciados todos os sites escolhidos por cada membro?||
 |6|Cada site avaliado possui uma descrição?||
 |7|São evidenciados os problemas de cada site exposto?||
+
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)  </p></font>
+</center>
 
 ## Bibliografia 
 
