@@ -26,7 +26,7 @@ A metodologia a ser utilizada será a Inspeção por meio do uso de Checklists, 
 |8|  Todas as tarefas possuem revisor?  |     |
 |9   |  As tarefas realizadas foram feitas nas datas planejadas?  |  |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
 
 </center>
 
@@ -50,7 +50,7 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 |8|Todas as tarefas possuem revisor?| |
 |9|As tarefas realizadas foram feitas nas datas planejadas?|  |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)  </p></font>
 
 </center>
 
@@ -71,4 +71,4 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 
 | Versão | Data       | Descrição                        | Autor(es)                                                                                  | Revisor(es)                                    |
 | ------ | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
-| 1.0    | 14/11/2023 | Construção e elaboração do documento           |    [Gustavo França](https://github.com/gustavofbs)                                               | [Ana Catarina](https://github.com/an4catarina) |
+| 1.0    | 02/11/2023 | Construção e elaboração do documento           |     [Harryson Martins](https://github.com/harry-cmartin)                                              | [Ana Catarina](https://github.com/an4catarina) |

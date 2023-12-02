@@ -25,7 +25,7 @@ A metodologia a ser utilizada será a Inspeção por meio do uso de Checklists, 
 |7|São evidenciados os problemas de cada site exposto?||
 
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
 
 </center>
 
@@ -48,7 +48,7 @@ O checklist feito apos a verificação pode ser visualizado a seguir na tabela 2
 |7|São evidenciados os problemas de cada site exposto?| |
 
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
 
 </center>
 

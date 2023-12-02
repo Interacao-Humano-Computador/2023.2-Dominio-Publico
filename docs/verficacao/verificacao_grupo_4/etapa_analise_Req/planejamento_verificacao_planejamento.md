@@ -25,8 +25,8 @@ A metodologia escolhida para desenvolvimento da verificação foi a de Inspeçã
 |:----------:|:--------:|:---------:|
 |  Aspectos Éticos  | 1.0  | [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf) |
 | Perfil de Usuário  | 1.2  | [Luciano Ricardo](https://github.com/l-ricardo) |
-|  Personas | 1.3  | [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo) ,[Luciano Ricardo](https://github.com/l-ricardo),[Maria Alice](https://github.com/Maliz30)  |
-|  Cenários | 1.1     | [Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf) |
+|  Personas | 1.1  | [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)  |
+|  Cenários | 1.0     | [Maria Alice](https://github.com/Maliz30) |
 
 
 
@@ -41,13 +41,11 @@ A tabela a seguir contempla o cronograma planejado para as verificações da fas
 
 | Data | Artefato | Responsável |
 |:--------:|:--------:|:--------:|
-|14/11/2023|Ferramentas|Harryson e Gustavo|
-|14/11/2023|Cronograma planejado|Harryson e Gustavo|
-|14/11/2023|Cronograma executado|Harryson e Gustavo|
-|14/11/2023|Heat-map|Harryson e Gustavo|
-|14/11/2023|Processo de design|Harryson e Gustavo|
-|14/11/2023|Site escolhido|Harryson e Gustavo|
-|14/11/2023|Sites avaliados|Harryson e Gustavo|
+|02/12/2023|Aspectos Éticos| Gustavo França|
+|02/12/2023|Perfil de Usuário| Gustavo França | 
+|02/12/2023|Personas| Gustavo França |
+|02/12/2023|Cenários| Gustavo França |
+
 
 
 
@@ -72,7 +70,7 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 | 8   | É citado que os avaliadores irão solicitar a permissão para gravar a pessoa, antes de começar a gravação?  |           |
 | 9   | No TCLE é explicado o objetivo da pesquisa e como ela será realizada aos participantes?                    |           |
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
+
 </center>="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs).</p></font>
 </center>
 
@@ -145,9 +143,9 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 | 7   | Os cenarios possuem o(s) ator(es) envolvidos definidos? |           |
 | 8   | Os cenarios possuem objetivos definidos?                |           |
 | 9   | Os cenarios possuem ações definidas?                    |           |
-| 10  | Os cenarios possuem avaliação definida?                  |           |
+| 10  | Os cenarios possuem avaliação definida?                 |           |
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 </center>
 
 
@@ -157,7 +155,7 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 
 ## Bibliografia 
 
-> Bilheteria Digital. Verificação. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/planejamento/>>. Acesso em: 02 de dez de 2023.
+> Verificação. Repositório do Grupo Domínio Público da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_planejamento/planejamento_avaliacao/>>. Acesso em: 2 de dez de 2023.
 
 ## Referencias Bibliograficas
 

@@ -4,7 +4,7 @@ A verificação do Cronograma Planejado é uma forma de validar o que foi feito 
 
 ## Objetivo
 
-O objetivo desse artefato é verificar a qualidade do [Cronograma Planejado]() realizado pelo grupo 4, com o Domínio Público.
+O objetivo desse artefato é verificar a qualidade do [Cronograma Planejado](docs/planejamento/cronograma.md) realizado pelo grupo 4, com o Domínio Público.
 
 ## Metodologia
 
@@ -26,7 +26,7 @@ A metodologia a ser utilizada será a Inspeção por meio do uso de Checklists, 
 |8|A tabela possui fonte e nome?|| 
 |9|Todas as tarefas possuem revisor?|   | 
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
 
 </center>
 
@@ -50,7 +50,7 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 |8|A tabela possui fonte e nome?|| 
 |9|Todas as tarefas possuem revisor?| | 
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)  </p></font>
 
 </center>
 
@@ -69,4 +69,4 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 
 | Versão | Data       | Descrição                        | Autor(es)                                                                                  | Revisor(es)                                    |
 | ------ | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
-| 1.0 | 02/11 | Construção e elaboração do documento | [Gustavo França](https://github.com/gustavofbs) | [Harryson Martins](https://github.com/harry-cmartin) |
+| 1.0 | 02/12 | Construção e elaboração do documento | [Harryson Martins](https://github.com/harry-cmartin) |[Gustavo França](https://github.com/gustavofbs)|

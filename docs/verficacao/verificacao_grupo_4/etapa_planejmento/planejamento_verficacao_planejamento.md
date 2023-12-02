@@ -33,7 +33,7 @@ A metodologia escolhida para desenvolvimento da verificação foi a de Inspeçã
 |  Site escolhido| 1.3   | [Gustavo França](https://github.com/gustavofbs),[Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin) |
 
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
 
 </center>
 
@@ -46,13 +46,13 @@ A tabela a seguir contempla o cronograma planejado para as verificações da fas
 
 | Data | Artefato | Responsável |
 |:--------:|:--------:|:--------:|
-|14/11/2023|Ferramentas||
-|14/11/2023|Cronograma planejado|Harryson e Gustavo|
-|14/11/2023|Cronograma executado|Harryson e Gustavo|
-|14/11/2023|Metodologia|Harryson e Gustavo|
-|14/11/2023|Processo de design||
-|14/11/2023|Site escolhido|Harryson e Gustavo|
-|14/11/2023|Sites avaliados|Harryson e Gustavo|
+|02/12/2023|Ferramentas||
+|02/12/2023|Cronograma planejado|Harryson e Gustavo|
+|02/12/2023|Cronograma executado|Harryson e Gustavo|
+|02/12/2023|Metodologia|Harryson e Gustavo|
+|02/12/2023|Processo de design||
+|02/12/2023|Site escolhido|Harryson e Gustavo|
+|02/12/2023|Sites avaliados|Harryson e Gustavo|
 
 
 ## Checklist 
@@ -153,7 +153,7 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 
 ## Bibliografia 
 
-> Verificação. Repositório do Grupo Domínio Público da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_planejamento/planejamento_avaliacao/>>. Acesso em: 2 de nov de 2023.
+> Verificação. Repositório do Grupo Domínio Público da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_planejamento/planejamento_avaliacao/>>. Acesso em: 2 de dez de 2023.
 
 ## Referencias Bibliograficas
 
