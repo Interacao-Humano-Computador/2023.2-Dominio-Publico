@@ -13,7 +13,7 @@ A metodologia escolhida para desenvolvimento da verificação foi a de Inspeçã
 ## Artefatos para verificação
 
 - [Aspectos Éticos](docs/analise_de_requisitos/aspectos_eticos.md) ultima versâo.
-- [Perfil de Usuário](docs/analise_de_requisitos/perfil_de_usuario.mdd) ultima versão.
+- [Perfil de Usuário](docs/analise_de_requisitos/perfil_de_usuario.md) ultima versão.
 - [Personas](docs/analise_de_requisitos/personas.md) ultima versão.
 - [Cenários](docs/analise_de_requisitos/cenarios.md) ultima versão.
 
