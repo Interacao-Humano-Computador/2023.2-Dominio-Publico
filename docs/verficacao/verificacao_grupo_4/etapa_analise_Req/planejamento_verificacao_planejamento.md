@@ -12,10 +12,11 @@ A metodologia escolhida para desenvolvimento da verificação foi a de Inspeçã
 
 ## Artefatos para verificação
 
-- [Aspectos Éticos](docs/analise_de_requisitos/aspectos_eticos.md) ultima versâo.
-- [Perfil de Usuário](docs/analise_de_requisitos/perfil_de_usuario.md) ultima versão.
-- [Personas](docs/analise_de_requisitos/personas.md) ultima versão.
-- [Cenários](docs/analise_de_requisitos/cenarios.md) ultima versão.
+- [Aspectos Éticos](../../../analise_de_requisitos/aspectos_eticos.md) última versão.
+- [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md) última versão.
+- [Personas](../../../analise_de_requisitos/personas.md) última versão.
+- [Cenários](../../../analise_de_requisitos/cenarios.md) última versão.
+- [Princípios Gerais do Projeto](../../../analise_de_requisitos/principios_gerais.md) última versão.
 
 <center>
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma de verificação</p></font>
@@ -26,6 +27,7 @@ A metodologia escolhida para desenvolvimento da verificação foi a de Inspeçã
 | Perfil de Usuário |  1.2   |                         [Luciano Ricardo](https://github.com/l-ricardo)                          |
 |     Personas      |  1.1   | [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo) |
 |     Cenários      |  1.0   |                            [Maria Alice](https://github.com/Maliz30)                             |
+| Princípios Gerais do Projeto | 1.0 | [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf)|
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
 </center>
@@ -44,6 +46,7 @@ A tabela a seguir contempla o cronograma planejado para as verificações da fas
 | 02/12/2023 | Perfil de Usuário | Gustavo França  e Harryson Campos |
 | 02/12/2023 |     Personas      | Gustavo França  e Harryson Campos |
 | 02/12/2023 |     Cenários      | Gustavo França  e Harryson Campos |
+| 03/12/2023 | Princípios Gerais do Projeto | Maria Alice            |
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
 </center>
@@ -148,7 +151,42 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 </center>
 
+## Princípios Gerais do Projeto
 
+Na Tabela 7 é apresentada a lista de perguntas utilizadas na verificação dos princípios gerais do projeto.
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 7: Execução da verificação do Cenários</p></font>
+
+| ID  | Critério                                                | Resultado |
+| -- | ------------------------------------------------------- | --------- |
+|**Geral**| | |
+| 1  | Há um texto introdutório sobre o artefato?  | |
+| 2  | Há a referencia/bibliografia?               | |
+| 3  | O artefato possui um histórico de versões padronizado? | |
+| 4  | As imagens e tabelas são chamadas no texto? | |
+| 5  | As imagens e tabelas possuem titulo e fonte? | |
+|**Específico**| | |
+| 6  | É apresentado como o Princípios Gerais do Projeto será utilizado no projeto ? | |  
+| 7  | O documento demonstra como aplicar os princípios na prática ? |  |
+| 8  | Os princípios gerais do projeto apresentam embasamento teórico? Por exemplo: Norman, 1988; Tognazzini, online; Nielsen, 1993; Shneiderman, 1998; Cooper, 1999; | |
+| 9  |O topico "Correspondência com as expectativas dos usuários" foi abordado nos princípios e diretrizes? ||
+| 10 |O tópico "Simplicidade nas estruturas das tarefas" foi abordado nos princípios e diretrizes?		||
+| 11 |O tópico "Equilíbrio entre controle e liberdade do usuário" foi abordado nos princípios e diretrizes? ||		
+| 12 |O tópico "Consistência e padronização" foi abordado nos princípios e diretrizes?		||
+| 13 |O tópico "Promoção da eficiência do usuário" foi abordado nos princípios e diretrizes?	||	
+| 14 |O tópico "Antecipação das necessidades do usuário" foi abordado nos princípios e diretrizes? ||		
+| 15 |O tópico "Visibilidade e reconhecimento" foi abordado nos princípios e diretrizes?		||
+| 16 |O tópico "Conteúdo relevante e expressão adequada" foi abordado nos princípios e diretrizes? ||		
+| 17 |O tópico "Projeto para erros" foi abordado nos princípios e diretrizes? ||
+| 18 |Há descrição para cada um dos princípios ?   ||
+| 19 |Foram identificadas violações dos princípios gerais definidos no projeto? Caso sim, essas violações foram explicitadas? ||
+
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)  </p></font>
+
+</center>
 
 
 
