@@ -51,10 +51,10 @@ A tabela 2 a seguir contempla o cronograma planejado para as verificações da f
 
 |    Data    |                                                          Artefato                                                           |          Responsável pela verificação           |
 | :--------: | :-------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------: |
-| 03/12/2023 |                          [Stoyboards](designAvaliacao/storyboard/storyboards/#historico-de-versao)                          |                                                 |
-| 03/12/2023 |               [Planejamento da Avaliação dos Storyboards](designAvaliacao/storyboard/planejamentoAvaliacao/)                | [Luciano Ricardo](https://github.com/l-ricardo) |
-| 03/12/2023 |         [Planejamento do Relato dos Resultados dos Storyboards](designAvaliacao/storyboard/planejamentoResultados/)         |                                                 |
-| 03/12/2023 |                        [Relato dos Resultados dos Storyboards](designAvaliacao/resultadoStoryBoard/)                        |                                                 |
+| 03/12/2023 |                          [Stoyboards](designAvaliacao/storyboard/storyboards/#historico-de-versao)                          | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 03/12/2023 |               [Planejamento da Avaliação dos Storyboards](designAvaliacao/storyboard/planejamentoAvaliacao/)                | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 03/12/2023 |         [Planejamento do Relato dos Resultados dos Storyboards](designAvaliacao/storyboard/planejamentoResultados/)         | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 03/12/2023 |                        [Relato dos Resultados dos Storyboards](designAvaliacao/resultadoStoryBoard/)                        | [Victor Hugo](https://github.com/ViictorHugoo)  |
 | 03/12/2023 |          [Planejamento da Avaliação da Análise de Tarefas](designAvaliacao/Análisedearefas/planejamentoAvaliacao/)          | [Luciano Ricardo](https://github.com/l-ricardo) |
 | 03/12/2023 |    [Planejamento do Relato dos Resultados da Análise de Tarefas](designAvaliacao/Análisdearefas/planejamentoResultados/)    |                                                 |
 | 03/12/2023 |                     [Relato dos Resultados da Análise de Tarefas](designAvaliacao/resultadoStoryBoard/)                     |                                                 |
@@ -66,7 +66,7 @@ A tabela 2 a seguir contempla o cronograma planejado para as verificações da f
 | 03/12/2023 |                [Relato dos Resultados do Protótipo de Alta Fidelidade](designAvaliacao/resultadoStoryBoard/)                |                                                 |
 
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) </p></font>
 </center>
 
 
@@ -105,16 +105,19 @@ Na tabela 2, estão listados os critérios que devem ser verificados no Planejam
 
 | ID  | Critério                                                                               |
 | --- | -------------------------------------------------------------------------------------- |
-| 07  | O plano de avaliação adere ao Framework DECIDE?                                        |
-| 08  | Os objetivos da avaliação são descritos no artefato?                                   |
-| 09  | Os métodos a serem utilizados na avaliação são detalhadamente descritos no artefato?   |
-| 10  | O artefato abrange os aspectos práticos da execução da avaliação?                      |
-| 11  | O artefato aborda os aspectos éticos envolvidos na avaliação?                          |
-| 12  | O artefato fornece uma descrição das perguntas a serem formuladas durante a avaliação? |
-| 13  | Existe um cronograma planejado para a execução da avaliação no artefato?               |
-| 14  | O artefato inclui um teste piloto do planejamento da avaliação?                        |
+| 07  | O planejamento da avaliação segue o Framework DECIDE?                                  |
+| 08  | Os objetivos da avaliação estão bem definidos e apresentam os motivos de sua escolha?  |
+| 09  | O artefato apresenta o escopo da avaliação?                                            |
+| 10  | Os métodos a serem utilizados na avaliação são detalhadamente descritos no artefato?   |
+| 11  | O artefato apresenta o motivo de escolha dos participantes?                            |
+| 12  | O artefato apresenta o motivo da escolha da quantidade de participantes?               |
+| 13  | O artefato descreve os aspectos práticos da execução da avaliação?                     |
+| 14  | O artefato apresenta os aspectos éticos da execução da avaliação?                      |
+| 15  | O artefato fornece uma descrição das perguntas a serem formuladas durante a avaliação? |
+| 16  | Existe um cronograma planejado para a execução da avaliação no artefato?               |
+| 17  | O artefato inclui um teste piloto do planejamento da avaliação?                        |
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) </p></font>
+<font size="2"><p style="text-align: center"> Fonte: [Victor Hugo](https://github.com/ViictorHugoo) </p></font>
 </center>
 
 
@@ -136,7 +139,7 @@ Na tabela 3, estão listados os critérios que devem ser verificados no Planejam
 | 13  | O artefato inclui o modelo do cronograma executado durante a avaliação?                                    |
 | 14  | O artefato inclui a estrutura do relatório a ser utilizada no relato dos resultados?                       |
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) </p></font>
 </center>
 
 
@@ -159,7 +162,7 @@ Na tabela 4, estão listados os critérios que devem ser verificados nos Storybo
 | 13  | Objetivos são claramente delineados em cada storyboard?                        |
 | 14  | Os storyboards foram elaborados em formato físico, em papel?                   |
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) </p></font>
 </center>
 
 
@@ -178,8 +181,11 @@ A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o re
 | 10  | Existe uma análise e interpretação dos dados?                     |
 | 11  | Os problemas encontrados estão listados?                          |
 | 12  | Existe sugestões e/ou planejamento de correção para os problemas? |
+| 13  | As entrevistas são gravadas?                                      |
+| 14  | As entrevistas duram no máximo 20 minutos?                        |
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) </p></font>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) </p></font>
 </center>
 
 
