@@ -32,9 +32,19 @@ Na tabela 1, estão listados os critérios específicos para a avaliação do ar
 
 ## Conclusão
 
-Após a avaliação, foi feita uma análise geral sobre os artefatos que tiveram a sua avaliação como "não" ou "incompleto" para haja uma melhor descrição do respectivo ID.
+Após a avaliação, realizou-se uma análise geral dos artefatos que receberam avaliação 'não' ou 'incompleto', visando uma melhor descrição do respectivo ID. Esta análise inclui a listagem dos problemas identificados durante a inspeção, sua localização, gravidade, justificativa e/ou recomendações de solução, quando aplicáveis.
 
-- **ID 01:** Foi definido como  pois ...............
+- **ID 03:** Foi definido como "incompleto".
+  - Problema:
+  - Local:
+  - Gravidade:
+  - Solução:
+ 
+- **ID 03:** Foi definido como "incompleto".
+  - Problema:
+  - Local:
+  - Gravidade:
+  - Solução:
 
 ## Gravação da Verificação
 
