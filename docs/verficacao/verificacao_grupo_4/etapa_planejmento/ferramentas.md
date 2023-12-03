@@ -15,7 +15,7 @@ Na tabela 1, estão listados os critérios específicos para a avaliação do ar
 | :---: | :-----------------------------------------------------------------: | :--------: |
 |   1   |                    O artefato possui introdução?                    | sim        |
 |   2   |          O artefato possui histórico de versão atualizado?          | sim        |
-|   3   |            Os textos estão em norma padrão e sem erros?             | não |
+|   3   |            Os textos estão em norma padrão e sem erros?             | não        |
 |   4   |                   O artefato possui Bibliografia?                   | sim        |
 |   5   |                  As ferramentas possuem descrição?                  | sim        |
 |   6   |        Na descrição é dito para que será usada a ferramenta?        | sim        |
