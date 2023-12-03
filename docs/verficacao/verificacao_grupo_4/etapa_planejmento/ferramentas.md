@@ -20,7 +20,7 @@ Na tabela 1, estão listados os critérios específicos para a avaliação do ar
 |   5   |                  As ferramentas possuem descrição?                  |            |
 |   6   |        Na descrição é dito para que será usada a ferramenta?        |            |
 |   7   |   Todas as ferramentas utilizadas no processo estão no artefato?    |            |
-|   8   | Há alguma ferramenta que não foi utilizada e não está sendo citada? |            |
+|   8   | Há alguma ferramenta que não foi utilizada e está sendo citada? |            |
 |   9   | O artefato apresenta uma forma de acessar as ferramentas?           |            |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
@@ -29,7 +29,7 @@ Na tabela 1, estão listados os critérios específicos para a avaliação do ar
 
 Após a avaliação, foi feita uma análise geral sobre os artefatos que tiveram a sua avaliação como "não" ou "incompleto" para haja uma melhor descrição do respectivo ID.
 
-- **ID 01:** Foi definido como  pois ...............
+<!-- - **ID 01:** Foi definido como  pois ............... -->
 
 ## Gravação da Verificação
 
