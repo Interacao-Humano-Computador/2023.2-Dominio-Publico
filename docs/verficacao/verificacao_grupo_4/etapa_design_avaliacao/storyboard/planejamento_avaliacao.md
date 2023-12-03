@@ -33,6 +33,7 @@ Na tabela 1, estão listados os critérios específicos para a avaliação do ar
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
 
+
 ## Conclusão
 
 Após a avaliação, foi feita uma análise geral sobre os artefatos que tiveram a sua avaliação como "não" ou "incompleto" para haja uma melhor descrição do respectivo ID.
