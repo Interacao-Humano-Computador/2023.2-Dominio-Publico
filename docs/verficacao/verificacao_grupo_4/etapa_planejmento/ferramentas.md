@@ -35,7 +35,7 @@ Após a avaliação, realizou-se uma análise geral dos artefatos que receberam 
   - Gravidade: Problema pequeno;
   - Solução: Correção da palavra "Editação" para "Edição".
  
-- - **ID 08:** Foi definido como "não".
+- **ID 08:** Foi definido como "não".
   - Problema: A ferramenta "Miro" não foi utilizada para o desenvolvimento do projeto;
   - Local: Tabela 1;
   - Gravidade: Problema pequeno;
