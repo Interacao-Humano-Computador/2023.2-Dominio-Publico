@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento visa verificar se o artefato de [XXXXXXXXXXXXXXXXXXXXXXX](YYYYYYYYYYYYYYYYYYYYYYYyyy) segue os critérios da Disciplina de Interação Humano-Computador e ajudar os integrantes a identificar possíveis erros e correções. Esta etapa está dividida entre Checklist de Verificação e Conclusão.
+Este documento visa verificar se o artefato de [Planejamento do Relato dos Resultados Storyboard](../../../../design_avalaiacao_desenvolvimento/nivel1/storyboard/planejamento_relato.md) segue os critérios da Disciplina de Interação Humano-Computador e ajudar os integrantes a identificar possíveis erros e correções. Esta etapa está dividida entre Checklist de Verificação e Conclusão.
 
 
 ## Checklist de Verificação
@@ -28,20 +28,25 @@ Na tabela 1, estão listados os critérios específicos para a avaliação do ar
 | 13  | O artefato inclui o modelo do cronograma executado durante a avaliação?                                          |           |
 | 14  | O artefato inclui a estrutura do relatório a ser utilizada no relato dos resultados?                             |           |
 
-<font size="2"><p style="text-align: center">Fonte: [xxxxxxxxxxxxxxxxx](https://github.com/xxxxxxxxxxxxxx), 2023</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
 
 ## Conclusão
 
 Após a avaliação, foi feita uma análise geral sobre os artefatos que tiveram a sua avaliação como "não" ou "incompleto" para haja uma melhor descrição do respectivo ID.
 
-- **ID 01:** Foi definido como "Incompleto" pois ...............
-- **ID 04:** Foi definido como "Incompleto" pois ..........
-- **ID 05:** Foi definido como "não" ............
-- **ID 14**: Foi definido como "incompleto" ............
+- **ID 01:** Foi definido como  pois ...............
 
+
+## Bibliografia 
+
+> 1. BARROS, André. Plano de ensino da disciplina Interação Humano Computador no semestre 02/2023, FGA, Gama, 2023. Acesso em: 14 de nov. de 2023.
+> 2. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> 3. Planejamento da Verificação da Etapa 4 do Grupo 2- Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa4/planejamento-verificacao-etapa4-grupo>>. Acesso em 14 de nov. de 2023.
+> 4. FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976. Acesso em: 14 de nov. de 2021
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                   | Autor(es)                                       | Revisor(es)                                    |
 | ------ | ---------- | --------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 03/12/2023 | Criação do modelo do relato | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.0    | 03/12/2023 | Relato da inspeção          | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30)     |
+
