@@ -45,7 +45,7 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 | ID  | Critério                                                                                                                  | Resultado                                                                               |
 | --- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | 1   | Há um texto introdutório sobre o artefato?                                                                                |         Sim                                                                             |
-| 2   | Há a referencia/bibliografia?                                                                                             |         Não possui uma bibliografia                                                     |
+| 2   | Há a referencia/bibliografia?                                                                                             |         Sim                                                                             |
 | 3   | O artefato possui um histórico de versões padronizado?                                                                    |         Sim                                                                             |
 | 4   | As imagens e tabelas são chamadas no texto?                                                                               |         Sim                                                                             |
 | 5   | As imagens e tabelas possuem titulo e fonte?                                                                              |         Sim                                                                             |
@@ -54,7 +54,6 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 | 8   | O perfil do usuário possui idade, sexo, status socioeconômico e grau de escolaridade definidos?                           |         Sim                                                                                |
 | 9   | O perfil do usuário possui sua experiência com tecnologia definida?                                                       |         Sim                                                                                |
 | 10  | O perfil do usuário é definido entre tecnófilos ou tecnófobos?                                                            |         Sim                                                                                |
-| 11  | O perfil do usuário possui suas tarefas primárias definidas?                                                              |         Não                                                                                |
 | 12  | O perfil do usuário possui a experiência com o produto ou semelhantes definidos?                                          |         Não                                                                                |
 
 
