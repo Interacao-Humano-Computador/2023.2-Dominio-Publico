@@ -105,8 +105,7 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 | 8   | O perfil do usuário possui idade, sexo, status socioeconômico e grau de escolaridade definidos?                           |           |
 | 9   | O perfil do usuário possui sua experiência com tecnologia definida?                                                       |           |
 | 10  | O perfil do usuário é definido entre tecnófilos ou tecnófobos?                                                            |           |
-| 11  | O perfil do usuário possui suas tarefas primárias definidas?                                                              |           |
-| 12  | O perfil do usuário possui a experiência com o produto ou semelhantes definidos?                                          |           |
+| 11  | O perfil do usuário possui a experiência com o produto ou semelhantes definidos?                                          |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs).</p></font>
 </center>
@@ -134,9 +133,9 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 | 14  | As personas possuem sua educação definida?                                                            |           |
 | 15  | As personas possuem seu nivel de treinamento definido?                                                |           |
 | 16  | As personas possuem suas tarefas básicas ou críticas definidas com frequência, importância e duração? |           |
-| 16  | As personas possuem seus relacionamentos com outros explicados?                                       |           |
-| 17  | Os requisitos necessários para atender às necessidades das personas são abordados?                    |           |
-| 18  | As expectativas das personas sobre o produto estão documentadas?                                      |           |
+| 17  | As personas possuem seus relacionamentos com outros explicados?                                       |           |
+| 18  | Os requisitos necessários para atender às necessidades das personas são abordados?                    |           |
+| 19  | As expectativas das personas sobre o produto estão documentadas?                                      |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs).</p></font>
 </center>
@@ -217,3 +216,4 @@ Na Tabela 7 é apresentada a lista de perguntas utilizadas na verificação dos 
 | ------ | ----- | ------------------------------------ | -------------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 02/12 | Construção e elaboração do documento | [Gustavo França](https://github.com/harry-cmartin) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.1    | 03/12 | Alteração tabela de Princípios Gerais          | [Maria Alice](https://github.com/Maliz30)                                                         | [Victor Hugo](https://github.com/ViictorHugoo)   |
+|1.4     | 04/12/2023 | Correção de checklist                            | [Gustavo França](https://github.com/gustavofbs) |[Victor Hugo](https://github.com/ViictorHugoo)|

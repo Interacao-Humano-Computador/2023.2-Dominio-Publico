@@ -37,11 +37,11 @@ O checklist feito apos a verificação pode ser visualizado a seguir na tabela 2
 
 <font size="2"><p style="text-align: center">Tabela 1: Execução da verificação do Site escolhido</p></font>
 
-| Verificação | Avaliação | Sugestões |
+| ID | Critério | Resultados |
 |:--------:|:--------:|:--------:|
 |1|O artefato possui introdução?| Sim      |       
 |2|O artefato possui histórico de versão atualizado?|   Sim           |
-|3|Os textos estão em norma padrão e sem erros?|  Sim      |        
+|3|Os textos estão em norma padrão e sem erros?|  Não      |        
 |4|O artefato possui Bibliografia?|   Sim      |          
 |5|O site escolhido foi determinado dentre os sites individuais?|Sim |
 |6|O motivo da escolha foi justificado?| Sim |
@@ -55,7 +55,7 @@ O checklist feito apos a verificação pode ser visualizado a seguir na tabela 2
 
 ## Problemas Encontrados
 
-Nessa verificação não foram encontrados problemas a serem corrigidos.
+Na questão de ID 2, foi constatado que o vídeo da avaliação do site não estava devidamente inserido, sendo definido como um erro a ser corrigido.
 
 ## Verificação
 
