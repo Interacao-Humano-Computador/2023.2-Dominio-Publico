@@ -64,4 +64,4 @@ A gravação da verificação está presente no vídeo 1.
 
 | Versão | Data       | Descrição                   | Autor(es)                                       | Revisor(es)                                    |
 | ------ | ---------- | --------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0 | 03/12/2023 | Elaboração das perguntas da verificação  |[Maria Alice](https://github.com/gustavofbs)| [Pedro Henrique](https://github.com/pedro-hsf)  |
+| 1.0    | 03/12/2023 | Elaboração das perguntas da verificação  |[Maria Alice](https://github.com/gustavofbs)| [Pedro Henrique](https://github.com/pedro-hsf)  |
