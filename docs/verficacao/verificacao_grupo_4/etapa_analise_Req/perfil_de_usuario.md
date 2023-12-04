@@ -54,7 +54,7 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 | 8   | O perfil do usuário possui idade, sexo, status socioeconômico e grau de escolaridade definidos?                           |         Sim                                                                                |
 | 9   | O perfil do usuário possui sua experiência com tecnologia definida?                                                       |         Sim                                                                                |
 | 10  | O perfil do usuário é definido entre tecnófilos ou tecnófobos?                                                            |         Sim                                                                                |
-| 12  | O perfil do usuário possui a experiência com o produto ou semelhantes definidos?                                          |         Não                                                                                |
+| 12  | O perfil do usuário possui a experiência com o produto ou semelhantes definidos?                                          |         Sim                                                                                |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)  </p></font>
