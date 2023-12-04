@@ -66,6 +66,18 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 
 Não foi listado uma bibliografia no artefato, além de não possui tarefas primárias e experiência com produtos ou semelhantes definidos.
 
+## Verificação
+
+<center>
+
+<font size="2"><p style="text-align: center">Video 1: Gravação da verificação do artefato Perfil de Usuário</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PpaP04fdi-Q?si=09BRablodIx3eCUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
+
+</center>
+
 ## Bibliografia 
 
 > Verificação. Repositório do Grupo Domínio Público da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_planejamento/cronograma_planejado/>>. Acesso em: 2 de nov de 2023.
@@ -79,3 +91,4 @@ Não foi listado uma bibliografia no artefato, além de não possui tarefas prim
 | Versão | Data       | Descrição                        | Autor(es)                                                                                  | Revisor(es)                                    |
 | ------ | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
 | 1.0 | 02/21 | Construção e elaboração do documento  |[Gustavo França](https://github.com/gustavofbs)| [Harryson Martins](https://github.com/harry-cmartin) |
+| 1.0 | 02/21 | Adição do vídeo de verificação  |[Gustavo França](https://github.com/gustavofbs)| [Luciano Ricardo](https://github.com/l-ricardo) |

@@ -79,8 +79,17 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 
 As personas não estão seguindo o perfil de usuário declarado no projeto, não estão possuindo dados demográficos e as suas tarefas não estão claras no escopo de básicas ou críticas
 
-# Verificação
+## Verificação
 
+<center>
+
+<font size="2"><p style="text-align: center">Video 1: Gravação da verificação do artefato Personas</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GRzbFIuKgXM?si=YtRXYyyvJkWd0z1C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
+
+</center>
 
 ## Bibliografia 
 
@@ -95,3 +104,4 @@ As personas não estão seguindo o perfil de usuário declarado no projeto, não
 | Versão | Data       | Descrição                        | Autor(es)                                                                                  | Revisor(es)                                    |
 | ------ | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
 | 1.0 | 02/21 | Construção e elaboração do documento  |[Gustavo França](https://github.com/gustavofbs)| [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.0 | 02/21 | Adição do vídeo de verificação  |[Gustavo França](https://github.com/gustavofbs)| [Luciano Ricardo](https://github.com/l-ricardo) |
