@@ -1,6 +1,6 @@
-# Introdução 
+# Introdução
 
-A verificação é uma etapa que ajuda na evolução dos projetos. Nessa parte é verificado todos os artefatos produzidos pelas equipes, nesse caso, será realizada a verificação da equipe de número 4, para a etapa inicial, de planejamento. 
+A verificação é uma etapa que ajuda na evolução dos projetos. Nessa parte é verificado todos os artefatos produzidos pelas equipes, nesse caso, será realizada a verificação da equipe de número 4, para a etapa inicial, de planejamento.
 
 ## Objetivo
 
@@ -12,186 +12,197 @@ A metodologia escolhida para desenvolvimento da verificação foi a de Inspeçã
 
 ## Artefatos para verificação
 
-- [Aspectos Éticos](../../../analise_de_requisitos/aspectos_eticos.md) última versão.
-- [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md) última versão.
-- [Personas](../../../analise_de_requisitos/personas.md) última versão.
-- [Cenários](../../../analise_de_requisitos/cenarios.md) última versão.
-- [Princípios Gerais do Projeto](../../../analise_de_requisitos/principios_gerais.md) última versão.
+- [Ferramentas](docs/planejamento/ferramentas.md) ultima versâo.
+- [Cronograma Planejado](docs/planejamento/cronograma.md) ultima versão.
+- [Cronograma Executado](docs/planejamento/cronograma.md) ultima versão.
+- [Processo de design](docs/planejamento/processo_design.md) ultima versão.
+- [Site escolhido](docs/planejamento/site_escolhido.md) ultima versão.
+- [Sites avaliados](docs/planejamento/sites_avaliados.md) ultima versão.
 
 <center>
+
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma de verificação</p></font>
 
-|     Artefato      | Versão |                                              Autor                                               |
-| :---------------: | :----: | :----------------------------------------------------------------------------------------------: |
-|  Aspectos Éticos  |  1.0   | [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf)  |
-| Perfil de Usuário |  1.2   |                         [Luciano Ricardo](https://github.com/l-ricardo)                          |
-|     Personas      |  1.1   | [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo) |
-|     Cenários      |  1.0   |                            [Maria Alice](https://github.com/Maliz30)                             |
-| Princípios Gerais do Projeto | 1.0 | [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf)|
+|      Artefato      | Versão |                                                                                                                                                                      Autor                                                                                                                                                                       |
+| :----------------: | :----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|     Cronograma     |  1.7   |                                                                                                    [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo),[Maria Alice](https://github.com/Maliz30)                                                                                                     |
+|    Ferramentas     |  1.3   | [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo) ,[Luciano Ricardo](https://github.com/l-ricardo),[Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf), [Ana Catarina](https://github.com/an4catarina) |
+|    Metodologia     |  1.3   |                                                                            [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo) ,[Luciano Ricardo](https://github.com/l-ricardo),[Maria Alice](https://github.com/Maliz30)                                                                            |
+| Processo de design |  1.1   |                                                                                                 [Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf)                                                                                                  |
+|  Sites avaliados   |  1.7   | [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo) ,[Luciano Ricardo](https://github.com/l-ricardo),[Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf), [Ana Catarina](https://github.com/an4catarina) |
+|   Site escolhido   |  1.3   |                                                                                                 [Gustavo França](https://github.com/gustavofbs),[Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin)                                                                                                  |
 
-<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
+
 </center>
-
 
 ## Cronograma
 
-A tabela a seguir contempla o cronograma planejado para as verificações da fase de planejamento, documentada na página do projeto do Grupo de número 6:
+A tabela a seguir contempla o cronograma planejado para as verificações da fase de planejamento:
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 2: Checklist Aspectos Éticos</p></font>
+<font size="2"><p style="text-align: center">Tabela 2: Checklist Ferramentas</p></font>
 
-|    Data    |     Artefato      |            Responsável            |
-| :--------: | :---------------: | :-------------------------------: |
-| 02/12/2023 |  Aspectos Éticos  | Gustavo França e Harryson Campos  |
-| 02/12/2023 | Perfil de Usuário | Gustavo França  e Harryson Campos |
-| 02/12/2023 |     Personas      | Gustavo França  e Harryson Campos |
-| 02/12/2023 |     Cenários      | Gustavo França  e Harryson Campos |
-| 03/12/2023 | Princípios Gerais do Projeto | Maria Alice            |
+|    Data    |       Artefato       |    Responsável     |
+| :--------: | :------------------: | :----------------: |
+| 02/12/2023 |     Ferramentas      |    Victor Hugo     |
+| 02/12/2023 | Cronograma planejado | Harryson e Gustavo |
+| 02/12/2023 | Cronograma executado | Harryson e Gustavo |
+| 02/12/2023 |     Metodologia      | Harryson e Gustavo |
+| 02/12/2023 |  Processo de design  |                    |
+| 02/12/2023 |    Site escolhido    | Harryson e Gustavo |
+| 02/12/2023 |   Sites avaliados    | Harryson e Gustavo |
 
-<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
+
 </center>
 
-
-## Checklist 
+## Checklist
 
 A seguir será evidenciado, as listas de verificação para cada artefato citado acima. Tais listas foram construidas a partir da observação dos padrões desejaveis definidos para cada artefato e a partir das listas de detalhes evidenciados no plano de ensino da matéria.
 
-### Aspectos Éticos
+### Ferramentas
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 3: Checklist Aspectos Éticos</p></font>
+<font size="2"><p style="text-align: center">Tabela 3: Checklist Ferramentas</p></font>
 
-| ID  | Critério                                                                                                   | Resultado |
-| --- | ---------------------------------------------------------------------------------------------------------- | --------- |
-| 1   | Há um texto introdutório sobre o artefato?                                                                 |           |
-| 2   | Há a referencia/bibliografia?                                                                              |           |
-| 3   | O artefato possui um histórico de versões padronizado?                                                     |           |
-| 4   | As imagens e tabelas são chamadas no texto?                                                                |           |
-| 5   | As imagens e tabelas possuem titulo e fonte?                                                               |           |
-| 6   | São citados os princípios da autonomia, da beneficência, da não maleficência e da justiça e equidade?      |           |
-| 7   | Existe um modelo de termo de consentimento livre e esclarecido que será disponibilizado aos participantes? |           |
-| 8   | É citado que os avaliadores irão solicitar a permissão para gravar a pessoa, antes de começar a gravação?  |           |
-| 9   | No TCLE é explicado o objetivo da pesquisa e como ela será realizada aos participantes?                    |           |
+| ID  |                              Critério                               | Resultados |
+| :-: | :-----------------------------------------------------------------: | :--------: |
+|  1  |                    O artefato possui introdução?                    |            |
+|  2  |          O artefato possui histórico de versão atualizado?          |            |
+|  3  |            Os textos estão em norma padrão e sem erros?             |            |
+|  4  |                   O artefato possui Bibliografia?                   |            |
+|  5  |                  As ferramentas possuem descrição?                  |            |
+|  6  |        Na descrição é dito para que será usada a ferramenta?        |            |
+|  7  |   Todas as ferramentas utilizadas no processo estão no artefato?    |            |
+|  8  | Há alguma ferramenta que não foi utilizada e não está sendo citada? |            |
+|  9  |      O artefato apresenta uma forma de acessar as ferramentas?      |            |
 
-
-<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
-</center>
-
-### Perfil de Usuário
-
-<center>
-<font size="2"><p style="text-align: center">Tabela 4: Checklist Perfil do Usuário </p></font>
-
-| ID  | Critério                                                                                                                  | Resultado |
-| --- | ------------------------------------------------------------------------------------------------------------------------- | --------- |
-| 1   | Há um texto introdutório sobre o artefato?                                                                                |           |
-| 2   | Há a referencia/bibliografia?                                                                                             |           |
-| 3   | O artefato possui um histórico de versões padronizado?                                                                    |           |
-| 4   | As imagens e tabelas são chamadas no texto?                                                                               |           |
-| 5   | As imagens e tabelas possuem titulo e fonte?                                                                              |           |
-| 6   | O perfil de usuário foi definido com base em dados coletados por meio de algum estudo, como entrevistas ou questionários? |           |
-| 7   | O percentual de usuários em cada faixa de características foi determinado?                                                |           |
-| 8   | O perfil do usuário possui idade, sexo, status socioeconômico e grau de escolaridade definidos?                           |           |
-| 9   | O perfil do usuário possui sua experiência com tecnologia definida?                                                       |           |
-| 10  | O perfil do usuário é definido entre tecnófilos ou tecnófobos?                                                            |           |
-| 11  | O perfil do usuário possui suas tarefas primárias definidas?                                                              |           |
-| 12  | O perfil do usuário possui a experiência com o produto ou semelhantes definidos?                                          |           |
-
-<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs).</p></font>
-</center>
-
-### Personas
-
-<center>
-<font size="2"><p style="text-align: center">Tabela 5: Checklist Personas</p></font>
-
-| ID  | Critério                                                                                              | Resultado |
-| --- | ----------------------------------------------------------------------------------------------------- | --------- |
-| 1   | Há um texto introdutório sobre o artefato?                                                            |           |
-| 2   | Há a referencia/bibliografia?                                                                         |           |
-| 3   | O artefato possui um histórico de versões padronizado?                                                |           |
-| 4   | As imagens e tabelas são chamadas no texto?                                                           |           |
-| 5   | As imagens e tabelas possuem titulo e fonte?                                                          |           |
-| 6   | As personas foram criadas baseadas nos dados do perfil do usuário?                                    |           |
-| 7   | A razão da quantidade de personas é justificada?                                                      |           |
-| 8   | As personas possuem nome e sobrenome?                                                                 |           |
-| 9   | As personas possuem idade e dados demográficos?                                                       |           |
-| 10  | As personas possuem foto?                                                                             |           |
-| 11  | As personas são identificadas entre primaria, secundaria ou antipersona?                              |           |
-| 12  | As personas possuem seu objetivos específicos claramente definidos?                                   |           |
-| 13  | As personas possuem suas especialidades claramente definidas?                                         |           |
-| 14  | As personas possuem sua educação definida?                                                            |           |
-| 15  | As personas possuem seu nivel de treinamento definido?                                                |           |
-| 16  | As personas possuem suas tarefas básicas ou críticas definidas com frequência, importância e duração? |           |
-| 16  | As personas possuem seus relacionamentos com outros explicados?                                       |           |
-| 17  | Os requisitos necessários para atender às necessidades das personas são abordados?                    |           |
-| 18  | As expectativas das personas sobre o produto estão documentadas?                                      |           |
-
-<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs).</p></font>
-</center>
-
-### Cenários
-
-<center>
-<font size="2"><p style="text-align: center">Tabela 6: Checklist Cenários</p></font>
-
-| ID  | Critério                                                | Resultado |
-| --- | ------------------------------------------------------- | --------- |
-| 1   | Há um texto introdutório sobre o artefato?              |           |
-| 2   | Há a referencia/bibliografia?                           |           |
-| 3   | O artefato possui um histórico de versões padronizado?  |           |
-| 4   | As imagens e tabelas são chamadas no texto?             |           |
-| 5   | As imagens e tabelas possuem titulo e fonte?            |           |
-| 6   | Os cenarios possuem contexto definido?                  |           |
-| 7   | Os cenarios possuem o(s) ator(es) envolvidos definidos? |           |
-| 8   | Os cenarios possuem objetivos definidos?                |           |
-| 9   | Os cenarios possuem ações definidas?                    |           |
-| 10  | Os cenarios possuem avaliação definida?                 |           |
-
-<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
-</center>
-
-## Princípios Gerais do Projeto
-
-Na Tabela 7 é apresentada a lista de perguntas utilizadas na verificação dos princípios gerais do projeto.
-
-<center>
-
-<font size="2"><p style="text-align: center">Tabela 7: Execução da verificação do Cenários</p></font>
-
-| ID  | Critério                                                | Resultado |
-| -- | ------------------------------------------------------- | --------- |
-|**Geral**| | |
-| 1  | Há um texto introdutório sobre o artefato?  | |
-| 2  | Há a referencia/bibliografia?               | |
-| 3  | O artefato possui um histórico de versões padronizado? | |
-| 4  | As imagens e tabelas são chamadas no texto? | |
-| 5  | As imagens e tabelas possuem titulo e fonte? | |
-|**Específico**| | |
-| 6  | É apresentado como o Princípios Gerais do Projeto será utilizado no projeto ? | |  
-| 7  | O documento demonstra como aplicar os princípios na prática ? |  |
-| 8  | Os princípios gerais do projeto apresentam embasamento teórico? Por exemplo: Norman, 1988; Tognazzini, online; Nielsen, 1993; Shneiderman, 1998; Cooper, 1999; | |
-| 9  |O topico "Correspondência com as expectativas dos usuários" foi abordado nos princípios e diretrizes? ||
-| 10 |O tópico "Simplicidade nas estruturas das tarefas" foi abordado nos princípios e diretrizes?		||
-| 11 |O tópico "Equilíbrio entre controle e liberdade do usuário" foi abordado nos princípios e diretrizes? ||		
-| 12 |O tópico "Consistência e padronização" foi abordado nos princípios e diretrizes?		||
-| 13 |O tópico "Promoção da eficiência do usuário" foi abordado nos princípios e diretrizes?	||	
-| 14 |O tópico "Antecipação das necessidades do usuário" foi abordado nos princípios e diretrizes? ||		
-| 15 |O tópico "Visibilidade e reconhecimento" foi abordado nos princípios e diretrizes?		||
-| 16 |O tópico "Conteúdo relevante e expressão adequada" foi abordado nos princípios e diretrizes? ||		
-| 17 |O tópico "Projeto para erros" foi abordado nos princípios e diretrizes? ||
-| 18 |Há descrição para cada um dos princípios ?   ||
-| 19 |Foram identificadas violações dos princípios gerais definidos no projeto? Caso sim, essas violações foram explicitadas? ||
-
-
-<font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)  </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) </p></font>
 
 </center>
 
+### Cronograma Planejado
 
+<center>
+<font size="2"><p style="text-align: center">Tabela 4: Checklist Cronograma Planejado</p></font>
 
+| ID  |                          Critério                          | Resultados |
+| :-: | :--------------------------------------------------------: | :--------: |
+|  1  |               O artefato possui introdução?                |            |
+|  2  |     O artefato possui histórico de versão atualizado?      |            |
+|  3  |        Os textos estão em norma padrão e sem erros?        |            |
+|  4  |              O artefato possui Bibliografia?               |            |
+|  5  | Todas as tarefas que serão realizadas estão no cronograma? |            |
+|  6  |             As tarefas estão bem subdivididas              |            |
+|  7  |                A tabela é chamada no texto?                |            |
+|  8  |               A tabela possui fonte e nome?                |            |
+|  9  |             Todas as tarefas possuem revisor?              |            |
 
-## Bibliografia 
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
+
+</center>
+
+### Cronograma Executado
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 5: Checklist Cronograma Executado</p></font>
+
+| ID  |                          Critério                          | Resultado |
+| :-: | :--------------------------------------------------------: | :-------: |
+|  1  |               O artefato possui introdução?                |           |
+|  2  |     O artefato possui histórico de versão atualizado?      |
+|  3  |        Os textos estão em norma padrão e sem erros?        |           |
+|  4  |              O artefato possui Bibliografia?               |           |
+|  5  | Todas as tarefas que foram realizadas estão no cronograma? |           |
+|  6  |                A tabela é chamada no texto?                |           |
+|  7  |               A tabela possui fonte e nome?                |           |
+|  8  |             Todas as tarefas possuem revisor?              |           |
+|  9  |  As tarefas realizadas foram feitas nas datas planejadas?  |           |
+
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
+
+</center>
+
+### Metodologia
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 6: Checklist Metodologia</p></font>
+
+| ID  |                        Critério                         | Resultado |
+| :-: | :-----------------------------------------------------: | :-------: |
+|  1  |              O artefato possui introdução?              |           |
+|  2  |    O artefato possui histórico de versão atualizado?    |
+|  3  |      Os textos estão em norma padrão e sem erros?       |           |
+|  4  |             O artefato possui Bibliografia?             |           |
+|  5  | É evidenciado a metodologia a ser utilizada no projeto? |           |
+|  6  |  A metodologia escolhida é descrita e contextualizada?  |           |
+|  7  |    É explicado o por que da escolha da metodologia?     |           |
+|  8  | É evidenciado a metodologia de avaliaçã a ser seguida?  |           |
+|  9  |    É descrito como funciona esse tipo de avaliação?     |           |
+
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
+
+</center>
+
+### Processo Design
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 7: Checklist Processo Design</p></font>
+
+| ID  |                                  Critério                                   |
+| :-: | :-------------------------------------------------------------------------: |
+|  1  |      As atividades do processo de design foram claramente delineadas?       |
+|  2  |        Os ciclos de vida foram apresentados de forma compreensível?         |
+|  3  |             As fases dos ciclos foram explicitamente descritas?             |
+|  4  |     Existe uma descrição detalhada das técnicas utilizadas no processo?     |
+|  5  |   Cada ciclo inclui uma conclusão ou direcionamento claro ao seu término?   |
+|  6  | O ciclo de vida de Mayhew é abordado e devidamente documentado no conteúdo? |
+
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina) </p></font>
+
+</center>
+
+### Site escolhido
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 8: Checklist Site escolhido</p></font>
+
+| ID  |                            Critério                            | Resultados |
+| :-: | :------------------------------------------------------------: | :--------: |
+|  1  |                 O artefato possui introdução?                  |            |
+|  2  |       O artefato possui histórico de versão atualizado?        |            |
+|  3  |          Os textos estão em norma padrão e sem erros?          |            |
+|  4  |                O artefato possui Bibliografia?                 |            |
+|  5  | O site escolhido foi determinado dentre os sites individuais?  |            |
+|  6  |              O motivo da escolha foi justificado?              |            |
+|  7  |   Foi detalhado os problemas encontrados no site escolhido?    |            |
+|  8  | São citadas as heuristicas usadas para encontrar os problemas? |            |
+
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
+
+</center>
+
+### Sites avaliados
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 9: Checklist Sites avaliados</p></font>
+
+| ID  |                          Critério                           | Resultados |
+| :-: | :---------------------------------------------------------: | :--------: |
+|  1  |                O artefato possui introdução?                |            |
+|  2  |      O artefato possui histórico de versão atualizado?      |            |
+|  3  |        Os textos estão em norma padrão e sem erros?         |            |
+|  4  |               O artefato possui Bibliografia?               |            |
+|  5  | São evidenciados todos os sites escolhidos por cada membro? |            |
+|  6  |          Cada site avaliado possui uma descrição?           |            |
+|  7  |     São evidenciados os problemas de cada site exposto?     |            |
+
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
+
+</center>
+
+## Bibliografia
 
 > Verificação. Repositório do Grupo Domínio Público da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_planejamento/planejamento_avaliacao/>>. Acesso em: 2 de dez de 2023.
 
@@ -199,9 +210,10 @@ Na Tabela 7 é apresentada a lista de perguntas utilizadas na verificação dos 
 
 <a id="FRM3" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
-
 ## Histórico de Versões
 
-| Versão | Data  | Descrição                            | Autor(es)                                          | Revisor(es)                                    |
-| ------ | ----- | ------------------------------------ | -------------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 02/12 | Construção e elaboração do documento | [Gustavo França](https://github.com/harry-cmartin) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| Versão | Data  | Descrição                                 | Autor(es)                                                                                              | Revisor(es)                                    |
+| ------ | ----- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------- |
+| 1.0    | 02/12 | Construção e elaboração do documento      | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.1    | 03/12 | Alteração tabela de Ferramenras           | [Victor Hugo](https://github.com/ViictorHugoo)                                                         | [Maria Alice](https://github.com/Maliz30)      |
+| 1.2    | 03/12 | Alteração na tabela de processo de design | [Ana Catarina Santos](https://github.com/an4catarina)                                                  | [Pedro Henrique](https://github.com/pedro-hsf) |
