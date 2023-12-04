@@ -191,7 +191,7 @@ A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 ### Checklist de Planejamento da Avaliação da Análise de Tarefas
 
-Na tabela 6, estão listados os critérios que devem ser verificados no Planejamento da Avaliação da Análise de Tarefas do Grupo 4.
+Na tabela 6, estão listados os critérios  específicos que devem ser verificados no Planejamento da Avaliação da Análise de Tarefas do Grupo 4.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Checklist do artefato "Planejamento da Avaliação da Análise de Tarefas". </p></font>
@@ -207,7 +207,7 @@ Na tabela 6, estão listados os critérios que devem ser verificados no Planejam
 | 13  | Existe um cronograma planejado para a execução da avaliação no artefato? |
 | 14  | O artefato inclui o teste piloto do planejamento da avaliação?           |
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30) </p></font>
 </center>
 
 
@@ -393,3 +393,5 @@ A tabela 14 a seguir apresenta a checklist referente aos itens exigidos para o r
 | Versão | Data       | Descrição               | Autor(es)                                       | Revisor(es)                                    |
 | ------ | ---------- | ----------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 03/12/2023 | Criação do planejamento | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.0 | 03/12/2023 | Elaboração das perguntas da verificação od Planejamento da Avaliação da Análise de Tarefas  |[Maria Alice](https://github.com/gustavofbs)| [Pedro Henrique](https://github.com/pedro-hsf)  |
+
