@@ -13,21 +13,20 @@ Na tabela 1, estão listados os critérios específicos para a avaliação do ar
 
 | ID  | Critério                                                                                                         | Avaliação |
 | --- | ---------------------------------------------------------------------------------------------------------------- | --------- |
-| 01  | O artefato conta com um registro padronizado de suas versões?                                                    |           |
-| 02  | O artefato inclui uma seção de introdução?                                                                       |           |
-| 03  | As referências bibliográficas e a bibliografia estão corretamente utilizadas no artefato, seguindo a norma ABNT? |           |
-| 04  | Todas as chamadas para tabelas e figuras estão incorporadas ao texto?                                            |           |
-| 05  | Há uma consistência na apresentação de tabelas e figuras?                                                        |           |
-| 06  | A estrutura do documento está claramente definida e se mantem consistente durante todo artefato?                 |           |
-| 07  | Os objetivos do relato são apresentados?                                                                         |           |
-| 08  | A metodologia do relato é apresentada?                                                                           |           |
-| 09  | Os participantes estão documentados?                                                                             |           |
-| 10  | Existe uma análise e interpretação dos dados?                                                                    |           |
-| 11  | Os problemas encontrados estão listados?                                                                         |           |
-| 12  | Existe sugestões e/ou planejamento de correção para os problemas?                                                |           |
-| 13  | As entrevistas são gravadas?                                                                                     |           |
-| 14  | As entrevistas duram no máximo 20 minutos?                                                                       |           |
-
+| 01  | O artefato conta com um registro padronizado de suas versões?                                                    | incompleto |
+| 02  | O artefato inclui uma seção de introdução?                                                                       | não |
+| 03  | As referências bibliográficas e a bibliografia estão corretamente utilizadas no artefato, seguindo a norma ABNT? | não |
+| 04  | Todas as chamadas para tabelas e figuras estão incorporadas ao texto?                                            | incompleto |
+| 05  | Há uma consistência na apresentação de tabelas e figuras?                                                        | sim |
+| 06  | A estrutura do documento está claramente definida e se mantem consistente durante todo artefato?                 | incompleto |
+| 07  | Os objetivos do relato são apresentados?                                                                         | sim |
+| 08  | A metodologia do relato é apresentada?                                                                           | sim |
+| 09  | Os participantes estão documentados?                                                                             | sim |
+| 10  | Existe uma análise e interpretação dos dados?                                                                    | sim |
+| 11  | Os problemas encontrados estão listados?                                                                         | sim |
+| 12  | Existe sugestões e/ou planejamento de correção para os problemas?                                                | sim |
+| 13  | As entrevistas são gravadas?                                                                                     | sim |
+| 14  | As entrevistas duram no máximo 20 minutos?                                                                       | sim |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
 
@@ -35,17 +34,31 @@ Na tabela 1, estão listados os critérios específicos para a avaliação do ar
 
 Após a avaliação, realizou-se uma análise geral dos artefatos que receberam avaliação 'não' ou 'incompleto', visando uma melhor descrição do respectivo ID. Esta análise inclui a listagem dos problemas identificados durante a inspeção, sua localização, gravidade, justificativa e/ou recomendações de solução, quando aplicáveis.
 
-- **ID 03:** Foi definido como "incompleto".
-  - Problema:
-  - Local:
-  - Gravidade:
-  - Solução:
- 
-- **ID 03:** Foi definido como "incompleto".
-  - Problema:
-  - Local:
-  - Gravidade:
-  - Solução:
+- **ID 01:** Foi definido como "incompleto".
+    - Problema: Item com número de versão incorretor;
+    - Local: Tabela de Histórico de Versões;
+    - Gravidade: Problema cosmético;
+    - Solução: Correção do número de versão para "1.7".
+- **ID 02:** Foi definido como "não".
+    - Problema: Não há texto na seção de introdução;
+    - Local: "Introdução";
+    - Gravidade: Problema pequeno;
+    - Solução: Inclusão de um texto introdutório na seção de introdução.
+- **ID 03:** Foi definido como "não".
+    - Problema: Não há referências bibliográficas e nem bibliografia;
+    - Local: "Referências Bibliográficas" e "Bibliografia";
+    - Gravidade: Problema pequeno;
+    - Solução: Inclusão de referências bibliográficas e bibliografia.
+- **ID 04:** Foi definido como "incompleto".
+    - Problema: Tabelas e Vídeos sem numeração;
+    - Local: "Tarefa: Avaliar Mídia";
+    - Gravidade: Problema pequeno;
+    - Solução: Inclusão de numerção das tabelas e vídeos.
+- **ID 06:** Foi definido como "incompleto".
+    - Problema: Repetição desnecessária de "Sugestões de Melhoria";
+    - Local: "Tarefa: Download de Midia" e "Tarefa: Acessar Ajuda";
+    - Gravidade: Problema pequeno;
+    - Solução: Exclusão do texto em excesso.
 
 
 ## Gravação da Verificação
@@ -53,7 +66,12 @@ Após a avaliação, realizou-se uma análise geral dos artefatos que receberam 
 É possível ver a gravação da verificação do artefato "Relato dos resultados do Storyboard" no vídeo 1.
 
 <center>
-<iframe></iframe>
+
+<font size="3"><p style="text-align: center">Vídeo 1: Verificação do artefato Relato dos Resultados do Storyboard </p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJmiMsMCv60?si=L4Sl1QqzRIgbyoih" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Autor: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 </center>
 
 

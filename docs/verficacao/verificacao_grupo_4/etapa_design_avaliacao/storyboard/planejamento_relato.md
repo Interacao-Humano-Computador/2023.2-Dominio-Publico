@@ -39,13 +39,20 @@ Após a avaliação, realizou-se uma análise geral dos artefatos que receberam 
   - Local: "Tópicos";
   - Gravidade: Problema pequeno;
   - Solução: Incluir subseções para cada tópico, facilitando a compreensão e a localização.
+- **Obs.:** Há tabelas não preenchidas e vídeos vazios no artefato, é recomendado que sejam preenchidos ou substituidos por imagens ilustrativas.
 
 ## Gravação da Verificação
 
 É possível ver a gravação da verificação do artefato "Planejamento do Relato dos Storyboards" no vídeo 1.
 
 <center>
+
+<font size="3"><p style="text-align: center">Vídeo 1: Verificação do artefato Planejamento do Relato dos Resultados do Storyboard </p></font>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M24Zy2kaylY?si=TUdAL2PHA-t0rQcP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Autor: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+
 </center>
 
 
