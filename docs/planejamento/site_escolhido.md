@@ -55,8 +55,6 @@ Adotando as Heurísticas de Nilsen (Nilsen, 1993), identificamos os principais d
 
 [Avaliação Completa](../assets/avaliacoes/DominioPublico.pdf)
 
-<iframe text-align="center" width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <center>
 
 <font size="2"><p style="text-align: center">Vídeo 1: Avaliação individual</p></font>
