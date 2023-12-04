@@ -13,40 +13,45 @@ Na tabela 1, estão listados os critérios específicos para a avaliação do ar
 
 | ID  | Critério                                                                                                         | Avaliação |
 | --- | ---------------------------------------------------------------------------------------------------------------- | --------- |
-| 01  | O artefato conta com um registro padronizado de suas versões?                                                    |           |
-| 02  | O artefato inclui uma seção de introdução?                                                                       |           |
-| 03  | As referências bibliográficas e a bibliografia estão corretamente utilizadas no artefato, seguindo a norma ABNT? |           |
-| 04  | Todas as chamadas para tabelas e figuras estão incorporadas ao texto?                                            |           |
-| 05  | Há uma consistência na apresentação de tabelas e figuras?                                                        |           |
-| 06  | A estrutura do documento está claramente definida e se mantem consistente durante todo artefato?                 |           |
-| 07  | O planejamento da avaliação segue o Framework DECIDE?                                                            |           |
-| 08  | Os objetivos da avaliação estão bem definidos e apresentam os motivos de sua escolha?                            |           |
-| 09  | O artefato apresenta o escopo da avaliação?                                                                      |           |
-| 10  | Os métodos a serem utilizados na avaliação são detalhadamente descritos no artefato?                             |           |
-| 11  | O artefato apresenta o motivo de escolha dos participantes?                                                      |           |
-| 12  | O artefato apresenta o motivo da escolha da quantidade de participantes?                                         |           |
-| 13  | O artefato descreve os aspectos práticos da execução da avaliação?                                               |           |
-| 14  | O artefato apresenta os aspectos éticos da execução da avaliação?                                                |           |
-| 15  | O artefato fornece uma descrição das perguntas a serem formuladas durante a avaliação?                           |           |
-| 16  | Existe um cronograma planejado para a execução da avaliação no artefato?                                         |           |
-| 17  | O artefato inclui um teste piloto do planejamento da avaliação?                                                  |           |
+| 01  | O artefato conta com um registro padronizado de suas versões?                                                    | sim |
+| 02  | O artefato inclui uma seção de introdução?                                                                       | sim |
+| 03  | As referências bibliográficas e a bibliografia estão corretamente utilizadas no artefato, seguindo a norma ABNT? | sim |
+| 04  | Todas as chamadas para tabelas e figuras estão incorporadas ao texto?                                            | sim |
+| 05  | Há uma consistência na apresentação de tabelas e figuras?                                                        | sim |
+| 06  | A estrutura do documento está claramente definida e se mantem consistente durante todo artefato?                 | sim |
+| 07  | O planejamento da avaliação segue o Framework DECIDE?                                                            | sim |
+| 08  | Os objetivos da avaliação estão bem definidos e apresentam os motivos de sua escolha?                            | incompleto |
+| 09  | O artefato apresenta o escopo da avaliação?                                                                      | sim |
+| 10  | Os métodos a serem utilizados na avaliação são detalhadamente descritos no artefato?                             | sim |
+| 11  | O artefato apresenta o motivo de escolha dos participantes?                                                      | sim |
+| 12  | O artefato apresenta o motivo da escolha da quantidade de participantes?                                         | sim |
+| 13  | O artefato descreve os aspectos práticos da execução da avaliação?                                               | sim |
+| 14  | O artefato apresenta os aspectos éticos da execução da avaliação?                                                | sim |
+| 15  | O artefato fornece uma descrição das perguntas a serem formuladas durante a avaliação?                           | sim |
+| 16  | Existe um cronograma planejado para a execução da avaliação no artefato?                                         | sim |
+| 17  | O artefato inclui um teste piloto do planejamento da avaliação?                                                  | sim |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
 
 
 ## Conclusão
 
-Após a avaliação, foi feita uma análise geral sobre os artefatos que tiveram a sua avaliação como "não" ou "incompleto" para haja uma melhor descrição do respectivo ID.
+Após a avaliação, realizou-se uma análise geral dos artefatos que receberam avaliação 'não' ou 'incompleto', visando uma melhor descrição do respectivo ID. Esta análise inclui a listagem dos problemas identificados durante a inspeção, sua localização, gravidade, justificativa e/ou recomendações de solução, quando aplicáveis.
 
-- **ID 01:** Foi definido como  pois ...............
+- **ID 08:** Foi definido como "incompleto".
+  - Problema: Não é de fácil compreensão o motivo da escolha dos objetivos da avaliação;
+  - Local: "D - Objetivos da avaliação";
+  - Gravidade: Problema pequeno;
+  - Solução: Definir de forma mais clara os motivos de cada objetivo e sua importância para a avaliação;
+  - Oberservação: Parte do objetivo se encontra em outra parte do artefato, na seção "E - Exploração de perguntas".
+
+
 
 ## Gravação da Verificação
 
 É possível ver a gravação da verificação do artefato "Planejamento da Avaliação dos Storyboards" no vídeo 1.
 
-<center>
-<iframe></iframe>
-</center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5KQUkSyoQds?si=ak8ZP62nAUSUwyju" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Bibliografia 
 
