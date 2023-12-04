@@ -393,5 +393,5 @@ A tabela 14 a seguir apresenta a checklist referente aos itens exigidos para o r
 | Versão | Data       | Descrição               | Autor(es)                                       | Revisor(es)                                    |
 | ------ | ---------- | ----------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 03/12/2023 | Criação do planejamento | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.0 | 03/12/2023 | Elaboração das perguntas da verificação od Planejamento da Avaliação da Análise de Tarefas  |[Maria Alice](https://github.com/gustavofbs)| [Pedro Henrique](https://github.com/pedro-hsf)  |
+| 1.1 | 03/12/2023 | Elaboração das perguntas da verificação od Planejamento da Avaliação da Análise de Tarefas  |[Maria Alice](https://github.com/gustavofbs)| [Pedro Henrique](https://github.com/pedro-hsf)  |
 
