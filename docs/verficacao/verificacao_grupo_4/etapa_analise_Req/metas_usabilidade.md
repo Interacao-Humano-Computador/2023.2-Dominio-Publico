@@ -21,10 +21,9 @@ A tabela 1 a seguir apresenta a checklist com os dados obtidos a partir da verif
 | 5   | As imagens e tabelas possuem titulo e fonte?                                                               |           |
 |**Específico**  |                                                                                                 |           |
 | 6   | As metas de usabilidade são baseadas nas necessidades dos usuários?                                                                                                          |           |
-| 7   | As metas de usabilidade são claras e bem especificadas?                                                                                                     |           |
-| 8   | As metas de usabilidade são relevantes para o contexto de uso do sistema?                                                                                                           |           |
-| 9   |  As metas de usabilidade são comunicadas de forma clara e concisa?                                                                                                           |           |
-| 10  |  As metas de usabilidade sao representadas como guias de estilo?                                                                                                            |           |
+| 7   | As metas de usabilidade são relevantes para o contexto de uso do sistema?                                                                                                           |           |
+| 8   |  As metas de usabilidade são comunicadas de forma clara e concisa?                                                                                                           |           |
+| 9  |  As metas de usabilidade sao representadas como guias de estilo?                                                                                                            |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf) </p></font>
 </center>
