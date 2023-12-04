@@ -186,7 +186,7 @@ A tabela 7 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 ###  Planejamento da Avaliação da Análise de Tarefas
 
-Na tabela 8, estão listados os critérios  específicos que devem ser verificados no Planejamento da Avaliação da Análise de Tarefas do Grupo 4.
+As perguntas do checklist específico foram elaboradas a partir do capítulo 9, Planejamento da Avaliação de IHC, do livro "Interação Humano-Computador" de Barbosa e Silva. Serão utilizados 2 checklists, um geral, a ser utilizado em todos os artefatos verificados, e outro específico, utilizado somente neste artefato. Na tabela 8, estão listados os critérios  específicos que devem ser verificados no Planejamento da Avaliação da Análise de Tarefas do Grupo 4.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 8</b> - Checklist do artefato "Planejamento da Avaliação da Análise de Tarefas". </p></font>
@@ -207,7 +207,7 @@ Na tabela 8, estão listados os critérios  específicos que devem ser verificad
 
 ###  Planejamento do Relato dos Resultados da Análise de Tarefas
 
-Na tabela 9, estão listados os critérios que devem ser verificados no Planejamento do Relato dos Resultados da Análise de Tarefas do Grupo 4.
+As perguntas do checklist específico foram elaboradas a partir do capítulo 9, Planejamento da Avaliação de IHC, do livro "Interação Humano-Computador" de Barbosa e Silva. Serão utilizados 2 checklists, um geral, a ser utilizado em todos os artefatos verificados, e outro específico, utilizado somente neste artefato. Na tabela 9, estão listados os critérios que devem ser verificados no Planejamento do Relato dos Resultados da Análise de Tarefas do Grupo 4.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 9</b> - Checklist do artefato "Planejamento do Relato dos Resultados da Análise de Tarefas". </p></font>
@@ -233,7 +233,7 @@ Na tabela 9, estão listados os critérios que devem ser verificados no Planejam
 
 ### Relato dos resultados da Análise de Tarefas
 
-A tabela 10 a seguir apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
+As perguntas do checklist específico foram elaboradas a partir dos capítulos 9, Planejamento da Avaliação de IHC, e 10, Métodos de Avaliação de IHC, do livro "Interação Humano-Computador" de Barbosa e Silva. Serão utilizados 2 checklists, um geral, a ser utilizado em todos os artefatos verificados, e outro específico, utilizado somente neste artefato. A tabela 10, a seguir, apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 10</b> - Checklist do artefato "Relato dos resultados da Análise de Tarefas". </p></font>

@@ -7,7 +7,7 @@ Este documento visa verificar se o artefato de [Planejamento da Avaliação da A
 
 ## Checklist de Verificação
 
-Na tabela 1, estão listados os critérios que devem ser verificados no artefato Planejamento da Avaliação de Tarefas do Grupo 4.
+As perguntas do checklist específico foram elaboradas a partir do capítulo 9, Planejamento da Avaliação de IHC, do livro "Interação Humano-Computador" de Barbosa e Silva. Foram utilizados 2 checklists, um geral, utilizados em todos os artefatos verificados, e outro específico, utilizado somente neste artefato. Na tabela 1, estão listados os critérios que devem ser verificados no artefato Planejamento da Avaliação de Tarefas do Grupo 4.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do artefato "Planejamento da Avaliação de Tarefas" . </p></font>
 
@@ -39,7 +39,7 @@ A gravação da verificação está presente no vídeo 1.
 
 <font size="2"><p style="text-align: center">Vídeo 1: Gravação da verificação</p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JjO1KRc8oBs?si=lzptXMEbCE80DFQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 
