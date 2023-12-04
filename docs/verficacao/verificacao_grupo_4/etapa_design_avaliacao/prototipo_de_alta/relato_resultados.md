@@ -7,9 +7,9 @@ Este documento visa verificar se o artefato de [Relato dos Resultados do Protót
 
 ## Checklist de Verificação
 
-Na tabela 1, estão listados os critérios que devem ser verificados no artefato Relato dos Resultados da Análise de Tarefas do Grupo 4.
+Na tabela 1, estão listados os critérios que devem ser verificados no artefato Relato dos Resultados do Protótipo de Alta Fidelidade do Grupo 4.
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do artefato "Relato dos Resultados da Análise de Tarefas" . </p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do artefato "Relato dos Resultados do Protótipo de Alta Fidelidade" . </p></font>
 
 | ID  | Critério                                                                                                         | Avaliação |
 | --- | ---------------------------------------------------------------------------------------------------------------- | --------- |
@@ -55,6 +55,7 @@ Segue o Video 1 com a gravação da verificação.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                   | Autor(es)                                       | Revisor(es)                                    |
-| ------ | ---------- | --------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 03/12/2023 | Criação do modelo do relato | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| Versão | Data       | Descrição                   | Autor(es)                                       | Revisor(es)                                     |
+| ------ | ---------- | --------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 03/12/2023 | Criação do modelo do relato | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.1    | 04/12/2023 | Relato da Verificação       | [Luciano Ricardo](https://github.com/l-ricardo) | [Gustavo França](https://github.com/gustavofbs) |
