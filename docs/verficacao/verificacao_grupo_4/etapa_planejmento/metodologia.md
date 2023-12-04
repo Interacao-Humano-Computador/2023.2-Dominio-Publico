@@ -60,6 +60,35 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 
 Nessa verificação não foram encontrados problemas a serem corrigidos.
 
+## Verificação
+
+
+<center>
+
+<font size="2"><p style="text-align: center">Video 2: Gravação da verificação Cronograma Executado</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/onoP_6tEpHY?si=s1_2LBMuRFtOI1yx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte:  [Harryson Martins](https://github.com/harry-cmartin)</p></font>
+
+
+</center>
+
+## Resultados 
+
+Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gráfica sobre o artefato Metodologia verificado, com as opções "Sim", "Não" e "Não se aplica". No Gráfico 1 é possível ver os resultados:
+
+<center>
+
+<font size="2"><p style="text-align: center">Gráfico 1: Resultados da verificação da Metodologia</p></font>
+
+![Metodologia](../../assets/verificacao/metodologia.jpg)
+
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
+
+</center>
+
+
 ## Bibliografia 
 
 > Verificação. Repositório do Grupo Domínio Público da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_planejamento/cronograma_planejado/>>. Acesso em: 2 de nov de 2023.

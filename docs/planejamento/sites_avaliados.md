@@ -100,6 +100,10 @@ Com base nas heuristicas de <a href="##">Nielsen</a> a equipe realizou, individu
 
 **[Avaliação Completa](../assets/avaliacoes/AvaliaçãoAnalandia.pdf).**
 
+## Bibliografia
+
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano - Computador, Editora Elsevier, Rio de Janeiro, 2010.
+
 
 
 ## Histórico de versões

@@ -45,14 +45,14 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 | 2   | Há a referencia/bibliografia?                                                                                             |        Sim                                                                                     |
 | 3   | O artefato possui um histórico de versões padronizado?                                                                    |          Sim                                                                                   |
 | 4   | As imagens e tabelas são chamadas no texto?                                                                               |  Sim                                                                                           |
-| 5   | As imagens e tabelas possuem titulo e fonte?                                                                              |                                                                                         |
+| 5   | As imagens e tabelas possuem titulo e fonte?                                                                              |     Sim                                                                                    |
 | 6   | São citados os princípios da autonomia, da beneficência, da não maleficência e da justiça e equidade?      | Sim              |
 | 7   | Existe um modelo de termo de consentimento livre e esclarecido que será disponibilizado aos participantes? |  Sim             |
 | 8   | É citado que os avaliadores irão solicitar a permissão para gravar a pessoa, antes de começar a gravação?  |Sim               |
 | 9   | No TCLE é explicado o objetivo da pesquisa e como ela será realizada aos participantes?                    |  Sim             |
 
 
-<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)  </p></font>
+<font size="2"><p style="text-align: center">Fonte:  [Harryson Martins](https://github.com/harry-cmartin)  </p></font>
 
 </center>
 
@@ -62,6 +62,31 @@ Nessa verificação não foram encontrados problemas a serem corrigidos.
 
 ## Verificação
 
+
+<center>
+
+<font size="2"><p style="text-align: center">Video 2: Gravação da verificação Cronograma Executado</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rX7WKL8bQR0?si=s3cdsILmr2wz3zST" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte:  [Harryson Martins](https://github.com/harry-cmartin)</p></font>
+
+
+</center>
+
+## Resultados 
+
+Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gráfica sobre o artefato Aspectos Éticos verificado, com as opções "Sim", "Não" e "Não se aplica". No Gráfico 1 é possível ver os resultados:
+
+<center>
+
+<font size="2"><p style="text-align: center">Gráfico 1: Resultados da verificação dos Aspectos Éticos</p></font>
+
+![Aspectos Éticos](../../assets/verificacao/aspEticos.jpg)
+
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
+
+</center>
 
 ## Bibliografia 
 

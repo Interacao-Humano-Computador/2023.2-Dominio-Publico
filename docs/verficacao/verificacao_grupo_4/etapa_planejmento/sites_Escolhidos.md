@@ -37,11 +37,11 @@ O checklist feito apos a verificação pode ser visualizado a seguir na tabela 2
 
 <font size="2"><p style="text-align: center">Tabela 1: Execução da verificação do Site escolhido</p></font>
 
-| Verificação | Avaliação | Sugestões |
+| ID | Critério | Resultados |
 |:--------:|:--------:|:--------:|
 |1|O artefato possui introdução?| Sim      |       
 |2|O artefato possui histórico de versão atualizado?|   Sim           |
-|3|Os textos estão em norma padrão e sem erros?|  Sim      |        
+|3|Os textos estão em norma padrão e sem erros?|  Não      |        
 |4|O artefato possui Bibliografia?|   Sim      |          
 |5|O site escolhido foi determinado dentre os sites individuais?|Sim |
 |6|O motivo da escolha foi justificado?| Sim |
@@ -55,9 +55,31 @@ O checklist feito apos a verificação pode ser visualizado a seguir na tabela 2
 
 ## Problemas Encontrados
 
-Nessa verificação não foram encontrados problemas a serem corrigidos.
+Na questão de ID 2, foi constatado que o vídeo da avaliação do site não estava devidamente inserido, sendo definido como um erro a ser corrigido.
 
 ## Verificação
+
+<center>
+
+<font size="2"><p style="text-align: center">Video 1: Gravação da verificação do artefato Site Escolhido</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TRtaH8SiYE0?si=BRNY2HE66gjKthbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
+
+## Resultados 
+
+Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gráfica sobre o artefato Site Escolhido verificado, com as opções "Sim", "Não" e "Não se aplica". No Gráfico 1 é possível ver os resultados:
+
+<center>
+
+<font size="2"><p style="text-align: center">Gráfico 1: Resultados da verificação do Perfil de usuário</p></font>
+
+![Site Escolhido](../../assets/verificacao/siteEscolhido.jpg)
+
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
+
+</center>
 
 ## Bibliografia 
 
