@@ -9,7 +9,7 @@ O checklist elaborado para a verificação pode ser visualizado na Tabela 1.
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 1: Execução da verificação do Cenários</p></font>
+<font size="2"><p style="text-align: center">Tabela 1: Execução da verificação dos Princípios Gerais do Projeto</p></font>
 
 | ID  | Critério                                                | Resultado |
 | -- | ------------------------------------------------------- | --------- |
@@ -71,4 +71,4 @@ A gravação da verificação está presente no vídeo 1.
 
 | Versão | Data       | Descrição                        | Autor(es)                                                                                  | Revisor(es)                                    |
 | ------ | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
-| 1.0 | 03/12 | Elaboração das perguntas da verificação  |[Maria Alice](https://github.com/gustavofbs)| [Ana Catarina](https://github.com/an4catarina)  |
+| 1.0 | 03/12/2023 | Elaboração das perguntas da verificação  |[Maria Alice](https://github.com/gustavofbs)| [Ana Catarina](https://github.com/an4catarina)  |
