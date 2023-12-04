@@ -82,7 +82,7 @@ Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gr�
 
 <font size="2"><p style="text-align: center">Gráfico 1: Resultados da verificação da Metodologia</p></font>
 
-![Metodologia](../../assets/verificacao/metodologia.jpg)
+![Metodologia](../../../assets/verificacao/metodologia.jpg)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 

@@ -101,7 +101,7 @@ Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gr�
 
 <font size="2"><p style="text-align: center">Gráfico 1: Resultados da verificação das Personas</p></font>
 
-![Personas](../../assets/verificacao/personas.jpg)
+![Personas](../../../assets/verificacao/personas.jpg)
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 

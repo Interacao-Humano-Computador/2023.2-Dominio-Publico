@@ -86,7 +86,7 @@ Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gr�
 
 <font size="2"><p style="text-align: center">Gráfico 1: Resultados da verificação dos Cenários</p></font>
 
-![Cenarios](../../assets/verificacao/cenarios.jpg)
+![Cenarios](../../../assets/verificacao/cenarios.jpg)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 

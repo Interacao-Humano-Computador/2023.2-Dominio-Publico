@@ -66,6 +66,8 @@ Nessa verificação não foram encontrados problemas a serem corrigidos.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PivHyW_ViDk?si=CvwBUvgiolv-YSTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
+
+</center>
  
 
 ## Resultados 
@@ -76,7 +78,7 @@ Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gr�
 
 <font size="2"><p style="text-align: center">Gráfico 1: Resultados da verificação do Perfil de usuário</p></font>
 
-![PSites Avaliados](../../assets/verificacao/sitesAvaliados.jpg)
+![PSites Avaliados](../../../assets/verificacao/sitesAvaliados.jpg)
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
