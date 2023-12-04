@@ -206,3 +206,4 @@ Na Tabela 7 é apresentada a lista de perguntas utilizadas na verificação dos 
 | ------ | ----- | ------------------------------------ | -------------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 02/12/2023 | Construção e elaboração do documento | [Gustavo França](https://github.com/harry-cmartin) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.1    | 03/12/2023 | Elaboração das perguntas dos princípios e diretrizes e correção de erros | [Maria Alice](https://github.com/Maliz30) | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.2    | 03/12/2023 | Alteração tabela de Princípios Gerais          | [Maria Alice](https://github.com/Maliz30)                                                         | [Victor Hugo](https://github.com/ViictorHugoo)   |
