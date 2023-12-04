@@ -2,7 +2,7 @@
 
 # Introdução
 
-Este documento visa verificar se o artefato de [Planejamento da Avaliação do Protótipo de Alta Fidelidade](designAvaliacao/storyboard/planejamentoAvaliacao/) segue os critérios da Disciplina de Interação Humano-Computador e ajudar os integrantes a identificar possíveis erros e correções. Esta etapa está dividida entre Checklist de Verificação e Conclusão.
+Este documento visa verificar se o artefato de [Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/design_avalaiacao_desenvolvimento/nivel3/prototipo_alta_fidelidade/planejamento_avaliacao/) segue os critérios da Disciplina de Interação Humano-Computador e ajudar os integrantes a identificar possíveis erros e correções. Esta etapa está dividida entre Checklist de Verificação e Conclusão.
 
 
 ## Checklist de Verificação
@@ -54,7 +54,6 @@ Segue o Video 1 com a gravação da verificação.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6KloZnkIDW4?si=01fscFgFBYuoG-C1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte:  [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
-
 
 </center>
 

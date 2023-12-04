@@ -1,8 +1,8 @@
-# Verificação do artefato "Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel"
+# Verificação do artefato "Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade"
 
 # Introdução
 
-Este documento visa verificar se o artefato de [XXXXXXXXXXXXXXXXXXXXXXX](YYYYYYYYYYYYYYYYYYYYYYYyyy) segue os critérios da Disciplina de Interação Humano-Computador e ajudar os integrantes a identificar possíveis erros e correções. Esta etapa está dividida entre Checklist de Verificação e Conclusão.
+Este documento visa verificar se o artefato de [Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/design_avalaiacao_desenvolvimento/nivel3/prototipo_alta_fidelidade/planejamento_relato/) segue os critérios da Disciplina de Interação Humano-Computador e ajudar os integrantes a identificar possíveis erros e correções. Esta etapa está dividida entre Checklist de Verificação e Conclusão.
 
 
 ## Checklist de Verificação
@@ -28,7 +28,8 @@ Na tabela 1, estão listados os critérios que devem ser verificados no Planejam
 | 13  | O artefato inclui o modelo do cronograma executado durante a avaliação?                                          |           |
 | 14  | O artefato fornece a estrutura do relatório a ser utilizada no relato dos resultados?                            |           |
 
-<font size="2"><p style="text-align: center">Fonte: [xxxxxxxxxxxxxxxxx](https://github.com/xxxxxxxxxxxxxx), 2023</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) </p></font>
+
 
 ## Conclusão
 
@@ -38,6 +39,21 @@ Após a avaliação, foi feita uma análise geral sobre os artefatos que tiveram
 - **ID 04:** Foi definido como "Incompleto" pois ..........
 - **ID 05:** Foi definido como "não" ............
 - **ID 14**: Foi definido como "incompleto" ............
+
+
+## Registro da Verificação
+
+Segue o Video 1 com a gravação da verificação.
+
+<center>
+
+<font size="2"><p style="text-align: center">Video 1: Gravação da verificação</p></font>
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte:  [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
+
+</center>
 
 
 ## Histórico de Versões
