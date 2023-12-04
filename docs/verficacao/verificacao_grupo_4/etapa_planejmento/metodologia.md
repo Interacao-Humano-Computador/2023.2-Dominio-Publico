@@ -74,7 +74,19 @@ Nessa verificação não foram encontrados problemas a serem corrigidos.
 
 </center>
 
+## Resultados 
 
+Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gráfica sobre o artefato Metodologia verificado, com as opções "Sim", "Não" e "Não se aplica". No Gráfico 1 é possível ver os resultados:
+
+<center>
+
+<font size="2"><p style="text-align: center">Gráfico 1: Resultados da verificação da Metodologia</p></font>
+
+![Metodologia](../../assets/verificacao/metodologia.jpg)
+
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
+
+</center>
 
 
 ## Bibliografia 

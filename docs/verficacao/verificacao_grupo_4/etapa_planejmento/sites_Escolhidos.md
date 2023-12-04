@@ -67,6 +67,18 @@ Na questão de ID 2, foi constatado que o vídeo da avaliação do site não est
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
 
+## Resultados 
+
+Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gráfica sobre o artefato Site Escolhido verificado, com as opções "Sim", "Não" e "Não se aplica". No Gráfico 1 é possível ver os resultados:
+
+<center>
+
+<font size="2"><p style="text-align: center">Gráfico 1: Resultados da verificação do Perfil de usuário</p></font>
+
+![Site Escolhido](../../assets/verificacao/siteEscolhido.jpg)
+
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
+
 </center>
 
 ## Bibliografia 

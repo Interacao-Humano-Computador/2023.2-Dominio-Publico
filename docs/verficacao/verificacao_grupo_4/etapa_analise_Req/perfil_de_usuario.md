@@ -76,6 +76,21 @@ Não foi listado uma bibliografia no artefato, além de não possui tarefas prim
 
 </center>
 
+## Resultados 
+
+Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gráfica sobre o artefato Perfil de usuário verificado, com as opções "Sim", "Não" e "Não se aplica". No Gráfico 1 é possível ver os resultados:
+
+<center>
+
+<font size="2"><p style="text-align: center">Gráfico 1: Resultados da verificação do Perfil de usuário</p></font>
+
+![Perfil de Usuários](../../assets/verificacao/perfil.jpg)
+
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
+
+</center>
+
+
 ## Bibliografia 
 
 > Verificação. Repositório do Grupo Domínio Público da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_planejamento/cronograma_planejado/>>. Acesso em: 2 de nov de 2023.
