@@ -52,15 +52,15 @@ A tabela 2 a seguir contempla o cronograma planejado para as verificações da f
 | 03/12/2023 |               [Planejamento da Avaliação dos Storyboards](designAvaliacao/storyboard/planejamentoAvaliacao/)                | [Victor Hugo](https://github.com/ViictorHugoo)  |
 | 03/12/2023 |         [Planejamento do Relato dos Resultados dos Storyboards](designAvaliacao/storyboard/planejamentoResultados/)         | [Victor Hugo](https://github.com/ViictorHugoo)  |
 | 03/12/2023 |                        [Relato dos Resultados dos Storyboards](designAvaliacao/resultadoStoryBoard/)                        | [Victor Hugo](https://github.com/ViictorHugoo)  |
-| 03/12/2023 |          [Planejamento da Avaliação da Análise de Tarefas](designAvaliacao/Análisedearefas/planejamentoAvaliacao/)          | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 03/12/2023 |          [Planejamento da Avaliação da Análise de Tarefas](designAvaliacao/Análisedearefas/planejamentoAvaliacao/)          |                                                 |
 | 03/12/2023 |    [Planejamento do Relato dos Resultados da Análise de Tarefas](designAvaliacao/Análisdearefas/planejamentoResultados/)    |                                                 |
 | 03/12/2023 |                     [Relato dos Resultados da Análise de Tarefas](designAvaliacao/resultadoStoryBoard/)                     |                                                 |
-| 03/12/2023 |            [Planejamento da Avaliação do Protótipo de Papel](designAvaliacao/storyboard/planejamentoAvaliacao/)             | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 03/12/2023 |            [Planejamento da Avaliação do Protótipo de Papel](designAvaliacao/storyboard/planejamentoAvaliacao/)             |                                                 |
 | 03/12/2023 |      [Planejamento do Relato dos Resultados do Protótipo de Papel](designAvaliacao/storyboard/planejamentoResultados/)      |                                                 |
 | 03/12/2023 |                     [Relato dos Resultados do Protótipo de Papel](designAvaliacao/resultadoStoryBoard/)                     |                                                 |
 | 03/12/2023 |       [Planejamento da Avaliação do Protótipo de Alta Fidelidade](designAvaliacao/storyboard/planejamentoAvaliacao/)        | [Luciano Ricardo](https://github.com/l-ricardo) |
-| 03/12/2023 | [Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade](designAvaliacao/storyboard/planejamentoResultados/) |                                                 |
-| 03/12/2023 |                [Relato dos Resultados do Protótipo de Alta Fidelidade](designAvaliacao/resultadoStoryBoard/)                |                                                 |
+| 03/12/2023 | [Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade](designAvaliacao/storyboard/planejamentoResultados/) | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 03/12/2023 |                [Relato dos Resultados do Protótipo de Alta Fidelidade](designAvaliacao/resultadoStoryBoard/)                | [Luciano Ricardo](https://github.com/l-ricardo) |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) </p></font>
 
@@ -343,16 +343,16 @@ Na tabela 13, estão listados os critérios que devem ser verificados no Planeja
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 13</b> - Checklist do artefato "Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade". </p></font>
 
-| ID  | Critério                                                                                                    |     |
-| --- | ----------------------------------------------------------------------------------------------------------- | --- |
-| 07  | O artefato descreve os objetivos do relato dos resultados da avaliação?                                     |     |
-| 08  | O artefato descreve os métodos utilizados?                                                                  |     |
-| 09  | O artefato descreve como devem ser apresentados os aspectos práticos do relato dos resultados da avaliação? |     |
-| 10  | O artefato descreve como devem ser apresentados os aspectos éticos do relato dos resultados da avaliação?   |     |
-| 11  | O artefato descreve como devem ser apresentados os resultados da avaliação?                                 |     |
-| 12  | O artefato descreve como devem ser apresentadas as conclusões da avaliação?                                 |     |
-| 13  | O artefato apresenta o modelo do cronograma executado da avaliação?                                         |     |
-| 14  | O artefato apresenta a estrutura do relatório a ser utilizado no relato dos resultados?                     |     |
+| ID  | Critério                                                                                                    |
+| --- | ----------------------------------------------------------------------------------------------------------- |
+| 07  | O artefato descreve os objetivos do relato dos resultados da avaliação?                                     |
+| 08  | O artefato descreve os métodos utilizados?                                                                  |
+| 09  | O artefato descreve como devem ser apresentados os aspectos práticos do relato dos resultados da avaliação? |
+| 10  | O artefato descreve como devem ser apresentados os aspectos éticos do relato dos resultados da avaliação?   |
+| 11  | O artefato descreve como devem ser apresentados os resultados da avaliação?                                 |
+| 12  | O artefato descreve como devem ser apresentadas as conclusões da avaliação?                                 |
+| 13  | O artefato apresenta o modelo do cronograma executado da avaliação?                                         |
+| 14  | O artefato apresenta a estrutura do relatório a ser utilizado no relato dos resultados?                     |
 
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina) </p></font>
 
@@ -373,5 +373,5 @@ Na tabela 13, estão listados os critérios que devem ser verificados no Planeja
 | Versão | Data       | Descrição                                   | Autor(es)                                       | Revisor(es)                                    |
 | ------ | ---------- | ------------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 03/12/2023 | Estruturação do arquivo                     | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.2    | 03/12/2023 | Criação das perguntas do storyboard         | [Victor Hugo](https://github.com/ViictorHugoo | [Ana Catarina](https://github.com/an4catarina) |
-| 1.3    | 03/12/2023 | Criação das perguntas do protótipo de papel | [Ana Catarina](https://github.com/an4catarina) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.2    | 03/12/2023 | Criação das perguntas do storyboard         | [Victor Hugo](https://github.com/ViictorHugoo)  | [Ana Catarina](https://github.com/an4catarina) |
+| 1.3    | 03/12/2023 | Criação das perguntas do protótipo de papel | [Ana Catarina](https://github.com/an4catarina)  | [Victor Hugo](https://github.com/ViictorHugoo) |
