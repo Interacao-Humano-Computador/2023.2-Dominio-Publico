@@ -27,19 +27,28 @@ Na tabela 1, estão listados os critérios específicos para a avaliação do ar
 
 ## Conclusão
 
+No gráfico 1 é possível verificar os resultados obtidos na avaliação do artefato "Ferramentas".
+
+<center>
+<font size="3"><p style="text-align: center"> Gráfico 1: Resultados da verificação do artefato</p></font>
+
+![Gráfico de Resultados](../../../assets/verificacao/checklist-ferramentas.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
+</center>
+
 Após a avaliação, realizou-se uma análise geral dos artefatos que receberam avaliação 'não' ou 'incompleto', visando uma melhor descrição do respectivo ID. Esta análise inclui a listagem dos problemas identificados durante a inspeção, sua localização, gravidade, justificativa e/ou recomendações de solução, quando aplicáveis.
 
 - **ID 03:** Foi definido como "não".
-  - Problema: Erro na escrita de Edição na forma de "Editação";
-  - Local: Tabela 1, descrição da ferramente Google Planilhas;
-  - Gravidade: Problema pequeno;
-  - Solução: Correção da palavra "Editação" para "Edição".
- 
+    - Problema: Erro na escrita de Edição na forma de "Editação";
+    - Local: Tabela 1, descrição da ferramente Google Planilhas;
+    - Gravidade: Problema pequeno;
+    - Solução: Correção da palavra "Editação" para "Edição".
 - **ID 08:** Foi definido como "não".
-  - Problema: A ferramenta "Miro" não foi utilizada para o desenvolvimento do projeto;
-  - Local: Tabela 1;
-  - Gravidade: Problema pequeno;
-  - Solução: Remoção da ferramenta "Miro" da tabela 1.
+    - Problema: A ferramenta "Miro" não foi utilizada para o desenvolvimento do projeto;
+    - Local: Tabela 1;
+    - Gravidade: Problema pequeno;
+    - Solução: Remoção da ferramenta "Miro" da tabela 1.
 
 
 ## Gravação da Verificação
@@ -71,4 +80,5 @@ Após a avaliação, realizou-se uma análise geral dos artefatos que receberam 
 | ------ | ---------- | --------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 03/12/2023 | Relato da inspeção          | [Victor Hugo](https://github.com/ViictorHugoo)  | [Maria Alice](https://github.com/Maliz30)      |
 | 1.1    | 03/12/2023 | Concertando pergunta        | [Victor Hugo](https://github.com/ViictorHugoo)  | [Maria Alice](https://github.com/Maliz30)      |
+| 1.2    | 04/12/2023 | Incluindo Gráficos          | [Victor Hugo](https://github.com/ViictorHugoo)  | [Pedro Henrique](https://github.com/pedro-hsf) |
 

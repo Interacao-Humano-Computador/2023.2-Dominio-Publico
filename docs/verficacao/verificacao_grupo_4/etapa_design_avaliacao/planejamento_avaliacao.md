@@ -92,6 +92,10 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 
 </center>
 
+#### Embasamento Teórico
+
+<!-- Ricardo fala de onde tirou -->
+
 ### Checklist de Planejamento da Avaliação do Storyboard
 
 Na tabela 2, estão listados os critérios que devem ser verificados no Planejamento da Avaliação do Storyboard do Grupo 4.
@@ -117,6 +121,11 @@ Na tabela 2, estão listados os critérios que devem ser verificados no Planejam
 
 </center>
 
+#### Embasamento Teórico
+
+As perguntas dos checklists específicos foram elaboradas com base nos Capítulos 9 e 10, "Planejamento da Avaliação de IHC" e "Métodos de Avaliação de IHC" respectivamente. Ambos os capítulos fazem parte do livro "Interação Humano-Computador" de Barbosa e Silva[1]. Dos referidos capítulos, foram extraídas informações pertinentes ao funcionamento e à compreensão dos termos utilizados, para isso foram usados como embasamento os subitens "9.2 O que Avaliar?", "9.3  Quando Avaliar o Uso de um Sistema?", "9.7.2 Preparação", "9.7.5 Consolidação e Relato dos Resultados", "10.1 Avaliação de IHC através de Inspeção", "10.1.1 Avaliação Heurística".
+
+
 ### Checklist de Planejamento do Relato dos Resultados da Avaliação do Storyboard
 
 Na tabela 3, estão listados os critérios que devem ser verificados no Planejamento do Relato dos Resultados da Avaliação do Storyboard do Grupo 4.
@@ -138,6 +147,10 @@ Na tabela 3, estão listados os critérios que devem ser verificados no Planejam
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) </p></font>
 
 </center>
+
+#### Embasamento Teórico
+
+As perguntas dos checklists específicos foram elaboradas com base nos Capítulos 9 e 10, "Planejamento da Avaliação de IHC" e "Métodos de Avaliação de IHC" respectivamente. Ambos os capítulos fazem parte do livro "Interação Humano-Computador" de Barbosa e Silva[1]. Dos referidos capítulos, foram extraídas informações pertinentes ao funcionamento e à compreensão dos termos utilizados, para isso foram usados como embasamento os subitens "9.2 O que Avaliar?", "9.3  Quando Avaliar o Uso de um Sistema?", "9.7.2 Preparação", "9.7.5 Consolidação e Relato dos Resultados", "10.1 Avaliação de IHC através de Inspeção", "10.1.1 Avaliação Heurística".
 
 ### Checklist dos Storyboards
 
@@ -162,6 +175,10 @@ Na tabela 4, estão listados os critérios que devem ser verificados nos Storybo
 
 </center>
 
+#### Embasamento Teórico
+
+As perguntas dos checklists específicos foram elaboradas com base nos Capítulos 9 e 10, "Planejamento da Avaliação de IHC" e "Métodos de Avaliação de IHC" respectivamente. Ambos os capítulos fazem parte do livro "Interação Humano-Computador" de Barbosa e Silva[1]. Dos referidos capítulos, foram extraídas informações pertinentes ao funcionamento e à compreensão dos termos utilizados, para isso foram usados como embasamento os subitens "9.2 O que Avaliar?", "9.3  Quando Avaliar o Uso de um Sistema?", "9.7.2 Preparação", "9.7.5 Consolidação e Relato dos Resultados", "10.1 Avaliação de IHC através de Inspeção", "10.1.1 Avaliação Heurística".
+
 ### Resultado da Avaliação do Storyboard
 
 A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
@@ -183,6 +200,11 @@ A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o re
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) </p></font>
 
 </center>
+
+#### Embasamento Teórico
+
+As perguntas dos checklists específicos foram elaboradas com base nos Capítulos 9 e 10, "Planejamento da Avaliação de IHC" e "Métodos de Avaliação de IHC" respectivamente. Ambos os capítulos fazem parte do livro "Interação Humano-Computador" de Barbosa e Silva[1]. Dos referidos capítulos, foram extraídas informações pertinentes ao funcionamento e à compreensão dos termos utilizados, para isso foram usados como embasamento os subitens "9.2 O que Avaliar?", "9.3  Quando Avaliar o Uso de um Sistema?", "9.7.2 Preparação", "9.7.5 Consolidação e Relato dos Resultados", "10.1 Avaliação de IHC através de Inspeção", "10.1.1 Avaliação Heurística".
+
 
 ### Checklist de Planejamento da Avaliação da Análise de Tarefas
 
@@ -358,20 +380,21 @@ Na tabela 13, estão listados os critérios que devem ser verificados no Planeja
 
 </center>
 
-## Bibliografia
+## Referencias Bibliograficas
 
 > [1] BARROS, André. Plano de ensino da disciplina Interação Humano Computador no semestre 02/2023, FGA, Gama, 2023. Acesso em: 14 de nov. de 2023.
 
-## Referencias Bibliograficas
+## Bibliografia
 
 > 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 > 2. Planejamento da Verificação da Etapa 4 do Grupo 2- Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa4/planejamento-verificacao-etapa4-grupo/>>. Acesso em 14 de nov. de 2023.
 > 3. FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976. Acesso em: 14 de nov. de 2021
+> 4. Planejamento da Verificação das Etapas do Grupo + 1 - Plataforma Lattes. Disponível em: <<https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Verificação/Grupo%20%2B%201/01%20-%20planejamento-verificacao-grupo-04/>. Acesso em 02 de dezembro de 2023.
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                   | Autor(es)                                       | Revisor(es)                                    |
 | ------ | ---------- | ------------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 03/12/2023 | Estruturação do arquivo                     | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.2    | 03/12/2023 | Criação das perguntas do storyboard         | [Victor Hugo](https://github.com/ViictorHugoo | [Ana Catarina](https://github.com/an4catarina) |
+| 1.2    | 03/12/2023 | Criação das perguntas do storyboard         | [Victor Hugo](https://github.com/ViictorHugoo) | [Ana Catarina](https://github.com/an4catarina) |
 | 1.3    | 03/12/2023 | Criação das perguntas do protótipo de papel | [Ana Catarina](https://github.com/an4catarina) | [Victor Hugo](https://github.com/ViictorHugoo) |
