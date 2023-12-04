@@ -85,6 +85,10 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)  </p></font>
 </center>
 
+#### Embasamento Teórico
+
+As perguntas dos checklists foram elaboradas com base na Norma Padrão da ABNT, no Plano de Ensino da disciplina, no livro "Interação Humano-Computador" de Barbosa e Silva[1] e nos projetos de semestres anteriores da disciplina de Interação Humano Computador.
+
 ### Cronograma Planejado
 
 <center>
@@ -202,7 +206,11 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 
 ## Bibliografia 
 
-> Verificação. Repositório do Grupo Domínio Público da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_planejamento/planejamento_avaliacao/>>. Acesso em: 2 de dez de 2023.
+> 1. Verificação. Repositório do Grupo Domínio Público da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_planejamento/planejamento_avaliacao/>>. Acesso em: 2 de dez de 2023.
+> 2. BARROS, André. Plano de ensino da disciplina Interação Humano Computador no semestre 02/2023, FGA, Gama, 2023. Acesso em: 03 de dezembro de 2023.
+> 3. Planejamento da Verificação da Etapa 4 do Grupo 2- Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa4/planejamento-verificacao-etapa4-grupo>>. Acesso em 03 de dezembro de 2023.
+> 4. FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976. Acesso em: 03 de dezembro de 2023
+> 5. Planejamento da Verificação das Etapas do Grupo + 1 - Plataforma Lattes. Disponível em: <<https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Verificação/Grupo%20%2B%201/01%20-%20planejamento-verificacao-grupo-04/>>. Acesso em 02 de dezembro de 2023.
 
 ## Referencias Bibliograficas
 
