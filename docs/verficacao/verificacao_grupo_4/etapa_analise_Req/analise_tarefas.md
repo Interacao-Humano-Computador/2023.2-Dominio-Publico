@@ -22,17 +22,17 @@ A tabela 1 a seguir apresenta a checklist com os dados obtidos a partir da verif
 | ID  | Critério                                                                                                   | Resultado |
 | --- | ---------------------------------------------------------------------------------------------------------- | --------- |
 |**Geral**        |                                                                                                |           |
-| 1   | Há um texto introdutório sobre o artefato?                                                                 |  Sim      |
-| 2   | Há a referencia/bibliografia?                                                                              |  Sim      |
-| 3   | O artefato possui um histórico de versões padronizado?                                                     |  Sim      |
-| 4   | As imagens e tabelas são chamadas no texto?                                                                | Incompleto|
-| 5   | As imagens e tabelas possuem titulo e fonte?                                                               |  Sim      |
+| 1   | Há um texto introdutório sobre o artefato?                                                                 |           |
+| 2   | Há a referencia/bibliografia?                                                                              |           |
+| 3   | O artefato possui um histórico de versões padronizado?                                                     |           |
+| 4   | As imagens e tabelas são chamadas no texto?                                                                |           |
+| 5   | As imagens e tabelas possuem titulo e fonte?                                                               |           |
 |**Específico**  |                                                                                                 |           |
-| 6   | As tarefas foram identificadas de maneira clara e abrangente?                                              |  Sim      |
-| 7   | Os diagramas HTA são claros e concisos?                                                                    |  Sim      |
-| 8   | Os subobjetivos do HTA são suficientes para alcançar o objetivo definido?                                  |  Sim      |
-| 9   | Os HTAs possuem tabelas para representar as tarefas descritas?                                             | Incompleto|
-| 10  | As tarefas presentes nos HTAs são decompostas?                                                             |  Sim      |
+| 6   | As tarefas foram identificadas de maneira clara e abrangente?                                              |           |
+| 7   | Os diagramas HTA são claros e concisos?                                                                    |           |
+| 8   | Os subobjetivos do HTA são suficientes para alcançar o objetivo definido?                                  |           |
+| 9   | Os HTAs possuem tabelas para representar as tarefas descritas?                                             |           |
+| 10  | As tarefas presentes nos HTAs são decompostas?                                                             |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf) </p></font>
 </center>
@@ -45,17 +45,17 @@ A tabela 2 a seguir apresenta a checklist com os dados obtidos a partir da verif
 | ID  | Critério                                                                                                   | Resultado |
 | --- | ---------------------------------------------------------------------------------------------------------- | --------- |
 |**Geral**        |                                                                                                |           |
-| 1   | Há um texto introdutório sobre o artefato?                                                                 |  Sim      |
-| 2   | Há a referencia/bibliografia?                                                                              |  Sim      |
-| 3   | O artefato possui um histórico de versões padronizado?                                                     |  Sim      |
-| 4   | As imagens e tabelas são chamadas no texto?                                                                | Incompleto|
-| 5   | As imagens e tabelas possuem titulo e fonte?                                                               |  Sim      |
+| 1   | Há um texto introdutório sobre o artefato?                                                                 |           |
+| 2   | Há a referencia/bibliografia?                                                                              |           |
+| 3   | O artefato possui um histórico de versões padronizado?                                                     |           |
+| 4   | As imagens e tabelas são chamadas no texto?                                                                |           |
+| 5   | As imagens e tabelas possuem titulo e fonte?                                                               |           |
 |**Específico**  |                                                                                                 |           |
-| 6   |Os objetivos das tarefas estão organizados seguindo uma hierarquia clara?                                                                                                             |  Sim      |
-| 7   |As ações necessárias para realizar as tarefas são executadas uma após a outra?                                                                                                             |  Sim      |
-| 8   | Os métodos GOMS são descritos usando uma linguagem semelhante a uma linguagem de programação?                                                                                                       |  Sim      |
-| 9   |   Os métodos GOMS incluem os quatro elementos principais: objetivos, operadores, métodos e regras de seleção?                                                                                                           | Incompleto|
-| 10  |     As análises de tarefas GOMS foram todas baseadas nas tarefas identificadas no HTA?                                                                                                               |  Sim      |
+| 6   |Os objetivos das tarefas estão organizados seguindo uma hierarquia clara?                                                                                                                                                                       |           |
+| 7   |As ações necessárias para realizar as tarefas são executadas uma após a outra?                                                                                                                                                                  |           |
+| 8   | Os métodos GOMS são descritos usando uma linguagem semelhante a uma linguagem de programação?                                                                                                                                                  |           |
+| 9   |   Os métodos GOMS incluem os quatro elementos principais: objetivos, operadores, métodos e regras de seleção?                                                                                                                                  |           |
+| 10  |     As análises de tarefas GOMS foram todas baseadas nas tarefas identificadas no HTA?                                                                                                                                                         |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf) </p></font>
 </center>
