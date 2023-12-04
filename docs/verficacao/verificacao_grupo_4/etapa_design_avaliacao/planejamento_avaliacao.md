@@ -373,5 +373,5 @@ Na tabela 13, estão listados os critérios que devem ser verificados no Planeja
 | Versão | Data       | Descrição                                   | Autor(es)                                       | Revisor(es)                                    |
 | ------ | ---------- | ------------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 03/12/2023 | Estruturação do arquivo                     | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.2    | 03/12/2023 | Criação das perguntas do storyboard         | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.3    | 03/12/2023 | Criação das perguntas do protótipo de papel | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.2    | 03/12/2023 | Criação das perguntas do storyboard         | [Victor Hugo](https://github.com/ViictorHugoo | [Ana Catarina](https://github.com/an4catarina) |
+| 1.3    | 03/12/2023 | Criação das perguntas do protótipo de papel | [Ana Catarina](https://github.com/an4catarina) | [Victor Hugo](https://github.com/ViictorHugoo) |
