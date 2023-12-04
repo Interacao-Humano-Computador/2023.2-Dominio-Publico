@@ -6,7 +6,9 @@ Depois de planejar o que verificar, é hora de fazer a inspeção. Este document
 
 ### Checklist de Verificação
 
-A tabela 1 a seguir apresenta a checklist com os dados obtidos a partir da verificação das Metas de Usabilidade. 
+As questões do checklist específico foram elaboradas com base no Capítulo 4, intitulado "Processos de Design de IHC", presente no livro "Interação Humano-Computador" de Barbosa e Silva. Nesse contexto, foram extraídas informações essenciais relacionadas ao funcionamento das metas de usabilidade, visando a formulação de perguntas específicas baseadas neste artefato, conforme abordado no referido capítulo.
+
+A tabela 1 a seguir apresenta a checklist com os dados obtidos a partir da verificação das Metas de Usabilidade.
 
 <center>
 <font size="2"><p style="text-align: center">Tabela 1: Checklist Verificação das Metas de Usabilidade</p></font>
@@ -14,25 +16,39 @@ A tabela 1 a seguir apresenta a checklist com os dados obtidos a partir da verif
 | ID  | Critério                                                                                                   | Resultado |
 | --- | ---------------------------------------------------------------------------------------------------------- | --------- |
 |**Geral**        |                                                                                                |           |
-| 1   | Há um texto introdutório sobre o artefato?                                                                 |           |
-| 2   | Há a referencia/bibliografia?                                                                              |           |
-| 3   | O artefato possui um histórico de versões padronizado?                                                     |           |
-| 4   | As imagens e tabelas são chamadas no texto?                                                                |           |
-| 5   | As imagens e tabelas possuem titulo e fonte?                                                               |           |
+| 1   | Há um texto introdutório sobre o artefato?                                                                 |     Sim      |
+| 2   | Há a referencia/bibliografia?                                                                              |     Sim      |
+| 3   | O artefato possui um histórico de versões padronizado?                                                     |     Sim      |
+| 4   | As imagens e tabelas são chamadas no texto?                                                                |     Sim      |
+| 5   | As imagens e tabelas possuem titulo e fonte?                                                               |     Sim      |
 |**Específico**  |                                                                                                 |           |
-| 6   | As metas de usabilidade são baseadas nas necessidades dos usuários?                                                                                                          |           |
-| 7   | As metas de usabilidade são relevantes para o contexto de uso do sistema?                                                                                                           |           |
-| 8   |  As metas de usabilidade são comunicadas de forma clara e concisa?                                                                                                           |           |
-| 9  |  As metas de usabilidade sao representadas como guias de estilo?                                                                                                            |           |
+| 6   | As metas de usabilidade são baseadas nas necessidades dos usuários?                                                                                                          |     Sim      |
+| 7   | As metas de usabilidade são relevantes para o contexto de uso do sistema?                                                                                                           |     Sim      |
+| 8   |  As metas de usabilidade são comunicadas de forma clara e concisa?                                                                                                           |     Sim      |
+| 9  |  É descrito de forma abrangente como as metas de usabilidade serão instauradas no projeto?                                                                                                          |      Não        |
 
 <font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf) </p></font>
 </center>
 
 ## Conclusão
 
+No gráfico 1 é possível verificar os resultados obtidos na avaliação do artefato "Metas de Usabilidade"
+
+<center>
+<font size="2"><p style="text-align: center">Gráfico 1: Resultado da Verificação do artefato</p></font>
+
+![graficometas](../../../assets/verificacao/metasdeusabilidade.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf) </p></font>
+</center>
+
 ### Problemas Encontrados e Análise dos Dados
 
+**ID9**: A escolha pela opção "não" se deu pelo fato de que, embora os seis tópicos fundamentais sejam descritos na introdução, a apresentação no site não oferece uma análise mais aprofundada sobre como serão efetivamente integrados ao projeto. 
+
 ### Sugestões de Correção
+
+**ID9**: Poderia ser adicionado em cada um dos tópicos uma parte mesmo que breve falando como isso será direcionado para o projeto final, desse modo ficaria visualmente descritivo e enriqueceria ainda mais o artefato "Metas de Usabilidade".
 
 ## Gravação da Verificação
 
