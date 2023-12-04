@@ -70,7 +70,7 @@ Com base nessa análise, foi possível gerar o Gráfico 1, que apresenta de form
 
 <font size="2"><p style="text-align: center">Gráfico 1: Resultado da verificação do artefato "Princípios e Diretrizes"</p></font>
 
-![Contagem de Princípios e Diretrizes](image-1.png)
+![Contagem de Princípios e Diretrizes](./assets/principios_diretrizes.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 
