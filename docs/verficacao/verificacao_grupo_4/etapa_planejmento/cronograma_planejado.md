@@ -71,7 +71,19 @@ A partir do checklist foi constatado que é necessario colocar fontes nas tabela
 
 </center>
 
+## Resultados 
 
+Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gráfica sobre o artefato Cronograma, para aprte Planejada, verificado, com as opções "Sim", "Não" e "Não se aplica". No Gráfico 1 é possível ver os resultados:
+
+<center>
+
+<font size="2"><p style="text-align: center">Gráfico 1: Resultados da verificação dos Cronogramas Planejados</p></font>
+
+![CronPlan](../../../assets/verificacao/cronplan.jpg)
+
+<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
+
+</center>
 
 ## Bibliografia 
 
