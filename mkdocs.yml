@@ -158,11 +158,11 @@ nav:
         - Personas: verficacao/verificacao_grupo_4/etapa_analise_Req/personas.md
         - Cenários: verficacao/verificacao_grupo_4/etapa_analise_Req/cenarios.md
         - Aspectos Éticos: verficacao/verificacao_grupo_4/etapa_analise_Req/aspectos_eticos.md
-        - Análise de Tarefas: verficacao/verificacao_grupo_4/etapa_analise_req/analise_tarefas.md
-        - Principios e Diretrizes Gerais: verficacao/verificacao_grupo_4/etapa_analise_req/principios_diretrizes.md
-        - Metas de Usabilidade: verficacao/verificacao_grupo_4/etapa_analise_req/metas_usabilidade.md
-        - Caracteristicas Gerais: verficacao/verificacao_grupo_4/etapa_analise_req/caracteristicas_gerais.md
-        - Guia de Estilo: verficacao/verificacao_grupo_4/etapa_analise_req/guia_estilo.md
+        - Análise de Tarefas: verficacao/verificacao_grupo_4/etapa_analise_Req/analise_tarefas.md
+        - Principios e Diretrizes Gerais: verficacao/verificacao_grupo_4/etapa_analise_Req/principios_diretrizes.md
+        - Metas de Usabilidade: verficacao/verificacao_grupo_4/etapa_analise_Req/metas_usabilidade.md
+        - Caracteristicas da Plataforma: verficacao/verificacao_grupo_4/etapa_analise_Req/caracteristicas_gerais.md
+        - Guia de Estilo: verficacao/verificacao_grupo_4/etapa_analise_Req/guia_estilo.md
       - Etapa de Design, Avaliação e Desenvolvimento:
         - Planejamento da Verificação: verficacao/verificacao_grupo_4/etapa_design_avaliacao/planejamento_avaliacao.md
         - Storyboard:

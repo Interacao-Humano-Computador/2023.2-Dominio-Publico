@@ -53,6 +53,17 @@ A tabela a seguir contempla o cronograma planejado para as verificações da fas
 
 A seguir será evidenciado, as listas de verificação para cada artefato citado acima. Tais listas foram construidas a partir da observação dos padrões desejaveis definidos para cada artefato e a partir das listas de detalhes evidenciados no plano de ensino da matéria.
 
+
+### Checklist Geral 
+
+| ID  | Critério                                                                                                   | Resultado |
+| --- | ---------------------------------------------------------------------------------------------------------- | --------- |
+| 1   | Há um texto introdutório sobre o artefato?                                                                 |           |
+| 2   | Há a referencia/bibliografia?                                                                              |           |
+| 3   | O artefato possui um histórico de versões padronizado?                                                     |           |
+| 4   | As imagens e tabelas são chamadas no texto?                                                                |           |
+| 5   | As imagens e tabelas possuem titulo e fonte?                                                               |           |
+
 ### Aspectos Éticos
 
 <center>
