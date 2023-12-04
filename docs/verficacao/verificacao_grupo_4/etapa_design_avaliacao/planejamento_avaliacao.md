@@ -332,7 +332,7 @@ Na tabela 12, estão listados os critérios que devem ser verificados no Planeja
 | 13  | Existe um cronograma planejado para a execução da avaliação no artefato? |
 | 14  | O artefato inclui o teste piloto do planejamento da avaliação?           |
 
-<font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) </p></font>
 
 </center>
 
@@ -343,20 +343,36 @@ Na tabela 13, estão listados os critérios que devem ser verificados no Planeja
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 13</b> - Checklist do artefato "Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade". </p></font>
 
-| ID  | Critério                                                                                                    |
-| --- | ----------------------------------------------------------------------------------------------------------- |
-| 07  | O artefato descreve os objetivos do relato dos resultados da avaliação?                                     |
-| 08  | O artefato descreve os métodos utilizados?                                                                  |
-| 09  | O artefato descreve como devem ser apresentados os aspectos práticos do relato dos resultados da avaliação? |
-| 10  | O artefato descreve como devem ser apresentados os aspectos éticos do relato dos resultados da avaliação?   |
-| 11  | O artefato descreve como devem ser apresentados os resultados da avaliação?                                 |
-| 12  | O artefato descreve como devem ser apresentadas as conclusões da avaliação?                                 |
-| 13  | O artefato apresenta o modelo do cronograma executado da avaliação?                                         |
-| 14  | O artefato apresenta a estrutura do relatório a ser utilizado no relato dos resultados?                     |
+| ID  | Critério                                                                              |
+| --- | ------------------------------------------------------------------------------------- |
+| 07  | O artefato delineia os objetivos do relato dos resultados da avaliação?               |
+| 08  | Os método utilizado é descrito no artefato?                                           |
+| 09  | O artefato fornece a estrutura do relatório a ser utilizada no relato dos resultados? |
 
-<font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) </p></font>
 
 </center>
+
+### Checklist do Relato dos resultados do Protótipo de Alta Fidelidade
+
+A tabela 14 a seguir apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
+
+<center>
+<font size="3"><p style="text-align: center"><b>Tabela 14</b> - Checklist do artefato "Relato dos resultados do Protótipo de Alta Fidelidade". </p></font>
+
+| ID  | Critério                                                          |
+| --- | ----------------------------------------------------------------- |
+| 07  | Os objetivos do relato são apresentados?                          |
+| 08  | A metodologia do relato é apresentada?                            |
+| 09  | Os participantes estão documentados?                              |
+| 10  | Existe uma análise e interpretação dos dados?                     |
+| 11  | Os problemas encontrados estão listados?                          |
+| 12  | Existe sugestões e/ou planejamento de correção para os problemas? |
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) </p></font>
+
+</center>
+
 
 ## Bibliografia
 
@@ -370,8 +386,9 @@ Na tabela 13, estão listados os critérios que devem ser verificados no Planeja
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                   | Autor(es)                                       | Revisor(es)                                    |
-| ------ | ---------- | ------------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 03/12/2023 | Estruturação do arquivo                     | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.2    | 03/12/2023 | Criação das perguntas do storyboard         | [Victor Hugo](https://github.com/ViictorHugoo)  | [Ana Catarina](https://github.com/an4catarina) |
-| 1.3    | 03/12/2023 | Criação das perguntas do protótipo de papel | [Ana Catarina](https://github.com/an4catarina)  | [Victor Hugo](https://github.com/ViictorHugoo) |
+| Versão | Data       | Descrição                                   | Autor(es)                                       | Revisor(es)                                     |
+| ------ | ---------- | ------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 03/12/2023 | Estruturação do arquivo                     | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.2    | 03/12/2023 | Criação das perguntas do storyboard         | [Victor Hugo](https://github.com/ViictorHugoo)  | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.3    | 03/12/2023 | Criação das perguntas do protótipo de papel | [Ana Catarina](https://github.com/an4catarina)  | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.4    | 0/12/2023  | Criação das perguntas do protótipo de alta  | [Luciano Ricardo](https://github.com/l-ricardo) | [Gustavo França](https://github.com/gustavofbs) |

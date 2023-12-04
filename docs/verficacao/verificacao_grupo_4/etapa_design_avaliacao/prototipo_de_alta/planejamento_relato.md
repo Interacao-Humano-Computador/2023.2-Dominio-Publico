@@ -19,14 +19,9 @@ Na tabela 1, estão listados os critérios que devem ser verificados no Planejam
 | 04  | Todas as chamadas para tabelas e figuras estão incorporadas ao texto?                                            |           |
 | 05  | Há uma consistência na apresentação de tabelas e figuras?                                                        |           |
 | 06  | A estrutura do documento está claramente definida e se mantem consistente durante todo artefato?                 |           |
-| 07  | O artefato delineia os objetivos para o relato dos resultados da avaliação?                                      |           |
-| 08  | Os métodos utilizados são detalhadamente descritos no artefato?                                                  |           |
-| 09  | O artefato aborda os aspectos práticos relacionados ao relato dos resultados da avaliação?                       |           |
-| 10  | O artefato aborda os aspectos éticos envolvidos no relato dos resultados da avaliação?                           |           |
-| 11  | O artefato apresenta uma descrição dos resultados obtidos na avaliação?                                          |           |
-| 12  | O artefato fornece uma explicação das conclusões alcançadas na avaliação?                                        |           |
-| 13  | O artefato inclui o modelo do cronograma executado durante a avaliação?                                          |           |
-| 14  | O artefato fornece a estrutura do relatório a ser utilizada no relato dos resultados?                            |           |
+| 07  | O artefato delineia os objetivos do relato dos resultados da avaliação?                                          |           |
+| 08  | Os método utilizado é descrito no artefato?                                                                      |           |
+| 09  | O artefato fornece a estrutura do relatório a ser utilizada no relato dos resultados?                            |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) </p></font>
 
