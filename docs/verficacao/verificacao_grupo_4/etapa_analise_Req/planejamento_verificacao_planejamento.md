@@ -153,7 +153,7 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 
 ## Princípios Gerais do Projeto
 
-Na Tabela 7 é apresentada a lista de perguntas utilizadas na verificação dos princípios gerais do projeto.
+As perguntas do checklist específico foram elaboradas a partir do capítulo 8, Princípios e Diretrizes para o Design de IHC,  do livro "Interação Humano-Computador" de Barbosa e Silva. Serão utilizados 2 checklists, um geral, para todos os artefatos verificados, e outro específico, utilizado somente neste artefato de "Princípios Gerais do Projeto". Os checklists elaborados para a verificação pode ser visualizado na Tabela 7.
 
 <center>
 
