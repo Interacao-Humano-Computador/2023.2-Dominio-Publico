@@ -55,11 +55,20 @@ Adotando as Heurísticas de Nilsen (Nilsen, 1993), identificamos os principais d
 
 [Avaliação Completa](../assets/avaliacoes/DominioPublico.pdf)
 
-<iframe text-align="center" width="560" height="315" src="https://youtu.be/49GJdbYHexc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>
+
+<font size="2"><p style="text-align: center">Vídeo 1: Avaliação individual</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/49GJdbYHexc?si=7RUEw3Vr19P3HYqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
+
+</center>
 
 ## Bibliografia
 
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano - Computador, Editora Elsevier, Rio de Janeiro, 2010.
+
 > Ministério da Educação. Domínio Público. Disponível em: http://www.dominiopublico.gov.br/. Acesso em: 01 de out. de 2023.
 
 
@@ -72,5 +81,6 @@ Adotando as Heurísticas de Nilsen (Nilsen, 1993), identificamos os principais d
 | 1.1    | 01/10/2023 | Descreve tópicos            | [Gustavo](https://github.com/gustavofbs)        | [Ana Catarina](https://github.com/an4catarina) |
 |1.2     | 04/10/2023 | Adiciona usuários comuns do site| [Harryson](https://github.com/harry-cmartin) |[Gustavo](https://github.com/gustavofbs)|
 |1.3     | 15/10/2023 | Correção de bug e colocação do vídeo como iframe| [Maria Alice](https://github.com/Maliz30) |[Victor Hugo](https://github.com/ViictorHugoo)|
+|1.4     | 04/12/2023 | Correção do artefato                            | [Gustavo França](https://github.com/gustavofbs) |[Victor Hugo](https://github.com/ViictorHugoo)|
 
 

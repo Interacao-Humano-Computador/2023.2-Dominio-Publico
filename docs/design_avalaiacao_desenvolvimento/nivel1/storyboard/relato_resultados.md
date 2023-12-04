@@ -496,7 +496,7 @@ O storyboard apresentado se fez legível ao entrevistado, demonstrando durante a
 
 A partir das sugestões coletadas, sera realizada uma reoganização e reconstrução do storyboard em questão, para que as melhorias aclamadas possam ser resolvidas, além disso a clareza do artefato também será melhorada.
 
-#### Tarefa: Avaliar mídia
+##### Tarefa: Avaliar mídia
 
 A avaliação de mídia não é uma função fornecida pelo sistema, por isso no reprojeto será feita a criação dessa tarefa de forma a atender as necessidades dos usuários.
 

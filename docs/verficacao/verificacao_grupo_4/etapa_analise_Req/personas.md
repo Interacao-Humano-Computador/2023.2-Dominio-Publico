@@ -58,17 +58,17 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 | 6   | As personas foram criadas baseadas nos dados do perfil do usuário?                                    |         Não                                                                                           |
 | 7   | A razão da quantidade de personas é justificada?                                                      |         Sim                                                                                           |
 | 8   | As personas possuem nome e sobrenome?                                                                 |         Sim                                                                                           |
-| 9   | As personas possuem idade e dados demográficos?                                                       |         Possuem idade, mas não possuem dados demográficos                                             |
+| 9   | As personas possuem idade e dados demográficos?                                                       |         Sim                                                                                           |
 | 10  | As personas possuem foto?                                                                             |         Sim                                                                                           |
 | 11  | As personas são identificadas entre primaria, secundaria ou antipersona?                              |         Sim                                                                                           |
 | 12  | As personas possuem seu objetivos específicos claramente definidos?                                   |         Sim                                                                                           |
 | 13  | As personas possuem suas especialidades claramente definidas?                                         |         Sim                                                                                           |
 | 14  | As personas possuem sua educação definida?                                                            |         Sim                                                                                           |
 | 15  | As personas possuem seu nivel de treinamento definido?                                                |         Sim                                                                                           |
-| 16  | As personas possuem suas tarefas básicas ou críticas definidas com frequência, importância e duração? |         Possuem tarefas, mas não deixa claro as suas tarefas básicas ou críticas                      |
-| 16  | As personas possuem seus relacionamentos com outros explicados?                                       |         Sim                                                                                           |
-| 17  | Os requisitos necessários para atender às necessidades das personas são abordados?                    |         Sim                                                                                           |
-| 18  | As expectativas das personas sobre o produto estão documentadas?                                      |         Sim                                                                                           |
+| 16  | As personas possuem suas tarefas básicas ou críticas definidas com frequência, importância e duração? |         Sim                                                                                           |
+| 17  | As personas possuem seus relacionamentos com outros explicados?                                       |         Sim                                                                                           |
+| 18  | Os requisitos necessários para atender às necessidades das personas são abordados?                    |         Sim                                                                                           |
+| 19  | As expectativas das personas sobre o produto estão documentadas?                                      |         Sim                                                                                           |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)  </p></font>
@@ -78,6 +78,20 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 ## Problemas Encontrados
 
 As personas não estão seguindo o perfil de usuário declarado no projeto, não estão possuindo dados demográficos e as suas tarefas não estão claras no escopo de básicas ou críticas.
+
+Na questão de ID 6, As personas não estão seguindo o perfil de usuário declarado no projeto, sendo definido como um erro a ser corrigido.
+
+# Verificação
+
+<center>
+
+<font size="2"><p style="text-align: center">Video 1: Gravação da verificação do artefato Personas</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GRzbFIuKgXM?si=YtRXYyyvJkWd0z1C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
+
+</center>
 
 ## Resultados 
 
@@ -93,8 +107,6 @@ Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gr�
 
 </center>
 
-# Verificação
-
 
 ## Bibliografia 
 
@@ -109,3 +121,4 @@ Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gr�
 | Versão | Data       | Descrição                        | Autor(es)                                                                                  | Revisor(es)                                    |
 | ------ | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
 | 1.0 | 02/21 | Construção e elaboração do documento  |[Gustavo França](https://github.com/gustavofbs)| [Luciano Ricardo](https://github.com/l-ricardo) |
+|1.4     | 04/12/2023 | Correção de checklist                            | [Gustavo França](https://github.com/gustavofbs) |[Victor Hugo](https://github.com/ViictorHugoo)|
