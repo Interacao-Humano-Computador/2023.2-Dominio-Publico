@@ -60,6 +60,16 @@ A partir do checklist foi constatado que é necessario colocar fontes nas tabela
 
 ## Verificações
 
+<center>
+
+<font size="2"><p style="text-align: center">Video 2: Gravação da verificação Cronograma Executado</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CKiNMJjk4Rg?si=Avw3kmFjzBwWCqxF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte:  [Harryson Martins](https://github.com/harry-cmartin)</p></font>
+
+
+</center>
 
 
 ## Bibliografia 

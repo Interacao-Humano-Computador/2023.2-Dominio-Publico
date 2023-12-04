@@ -106,7 +106,7 @@ nav:
           - Planejamento do Relato dos Resultados: design_avalaiacao_desenvolvimento/nivel3/prototipo_alta_fidelidade/planejamento_relato.md
           - Relato dos resultados: design_avalaiacao_desenvolvimento/nivel3/prototipo_alta_fidelidade/relato_resultados.md          
   - Verificação:
-    - Grupo 5:
+    - Grupo 5 (BRB Mobilidade):
       - Etapa de Planejamento:
         - Planejamento da Verificação: verficacao/verificacao_grupo_5/etapa_planejamento/planejamento_avaliacao.md
         - Ferramentas: verficacao/verificacao_grupo_5/etapa_planejamento/ferramentas.md
@@ -142,7 +142,7 @@ nav:
           - Planejamento da Avaliação: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao.md
           - Planejamento do Relato dos Resultados: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato.md
           - Relato dos resultados: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_2/prototipo_de_papel/relato_resultados.md
-    - Grupo 4:
+    - Grupo 4 (Domínio Público):
       - Etapa de Planejamento:
         - Planejamento da Verificação: verficacao/verificacao_grupo_4/etapa_planejmento/planejamento_verficacao_planejamento.md
         - Ferramentas: verficacao/verificacao_grupo_4/etapa_planejmento/ferramentas.md
@@ -165,15 +165,15 @@ nav:
         - Guia de Estilo: verficacao/verificacao_grupo_4/etapa_analise_Req/guia_estilo.md
       - Etapa de Design, Avaliação e Desenvolvimento:
         - Planejamento da Verificação: verficacao/verificacao_grupo_4/etapa_design_avaliacao/planejamento_avaliacao.md
+        - Análise de Tarefas: 
+          - Planejamento da Avaliação: verficacao/verificacao_grupo_4/etapa_design_avaliacao/analise_tarefas/planejamento_avaliacao.md
+          - Planejamento do Relato dos Resultados: verficacao/verificacao_grupo_4/etapa_design_avaliacao/analise_tarefas/planejamento_relato.md
+          - Relato dos resultados: verficacao/verificacao_grupo_4/etapa_design_avaliacao/analise_tarefas/relato_resultados.md
         - Storyboard:
           - Planejamento da Avaliação: verficacao/verificacao_grupo_4/etapa_design_avaliacao/storyboard/planejamento_avaliacao.md
           - Planejamento do Relato dos Resultados: verficacao/verificacao_grupo_4/etapa_design_avaliacao/storyboard/planejamento_relato.md
           - Relato dos resultados: verficacao/verificacao_grupo_4/etapa_design_avaliacao/storyboard/relato_resultados.md
           - Storyboards: verficacao/verificacao_grupo_4/etapa_design_avaliacao/storyboard/storyboards.md
-        - Análise de Tarefas: 
-          - Planejamento da Avaliação: verficacao/verificacao_grupo_4/etapa_design_avaliacao/analise_tarefas/planejamento_avaliacao.md
-          - Planejamento do Relato dos Resultados: verficacao/verificacao_grupo_4/etapa_design_avaliacao/analise_tarefas/planejamento_relato.md
-          - Relato dos resultados: verficacao/verificacao_grupo_4/etapa_design_avaliacao/analise_tarefas/relato_resultados.md
         - Protótipo de Papel: 
           - Planejamento da Avaliação: verficacao/verificacao_grupo_4/etapa_design_avaliacao/prototipo_de_papel/planejamento_avaliacao.md
           - Planejamento do Relato dos Resultados: verficacao/verificacao_grupo_4/etapa_design_avaliacao/prototipo_de_papel/planejamento_relato.md

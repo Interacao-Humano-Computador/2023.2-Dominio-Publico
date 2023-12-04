@@ -49,7 +49,7 @@ A tabela a seguir contempla o cronograma planejado para as verificações da fas
 
 |    Data    |       Artefato       |    Responsável     |
 | :--------: | :------------------: | :----------------: |
-| 02/12/2023 |     Ferramentas      |                    |
+| 02/12/2023 |     Ferramentas      |     Victor Hugo    |
 | 02/12/2023 | Cronograma planejado | Harryson e Gustavo |
 | 02/12/2023 | Cronograma executado | Harryson e Gustavo |
 | 02/12/2023 |     Metodologia      | Harryson e Gustavo |
@@ -80,8 +80,9 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 |   6   |        Na descrição é dito para que será usada a ferramenta?        |            |
 |   7   |   Todas as ferramentas utilizadas no processo estão no artefato?    |            |
 |   8   | Há alguma ferramenta que não foi utilizada e não está sendo citada? |            |
+|   9   | O artefato apresenta uma forma de acessar as ferramentas?           |            |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)  </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)  </p></font>
 </center>
 
 ### Cronograma Planejado
@@ -215,3 +216,4 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 | Versão | Data  | Descrição                            | Autor(es)                                                                                              | Revisor(es)                                    |
 | ------ | ----- | ------------------------------------ | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------- |
 | 1.0    | 02/12 | Construção e elaboração do documento | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.1    | 03/12 | Alteração tabela de Ferramenras      | [Victor Hugo](https://github.com/ViictorHugoo)                                                         | [Maria Alice](https://github.com/Maliz30)      |  
