@@ -26,8 +26,7 @@ A metodologia a ser utilizada será a Inspeção por meio do uso de Checklists, 
 | 8   | O perfil do usuário possui idade, sexo, status socioeconômico e grau de escolaridade definidos?                           |                                                                                         |
 | 9   | O perfil do usuário possui sua experiência com tecnologia definida?                                                       |                                                                                         |
 | 10  | O perfil do usuário é definido entre tecnófilos ou tecnófobos?                                                            |                                                                                         |
-| 11  | O perfil do usuário possui suas tarefas primárias definidas?                                                              |                                                                                         |
-| 12  | O perfil do usuário possui a experiência com o produto ou semelhantes definidos?                                          |                                                                                         |
+| 11  | O perfil do usuário possui a experiência com o produto ou semelhantes definidos?                                          |                                                                                         |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)  </p></font>
@@ -45,7 +44,7 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 | ID  | Critério                                                                                                                  | Resultado                                                                               |
 | --- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | 1   | Há um texto introdutório sobre o artefato?                                                                                |         Sim                                                                             |
-| 2   | Há a referencia/bibliografia?                                                                                             |         Não possui uma bibliografia                                                     |
+| 2   | Há a referencia/bibliografia?                                                                                             |         Sim                                                                             |
 | 3   | O artefato possui um histórico de versões padronizado?                                                                    |         Sim                                                                             |
 | 4   | As imagens e tabelas são chamadas no texto?                                                                               |         Sim                                                                             |
 | 5   | As imagens e tabelas possuem titulo e fonte?                                                                              |         Sim                                                                             |
@@ -54,8 +53,7 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 | 8   | O perfil do usuário possui idade, sexo, status socioeconômico e grau de escolaridade definidos?                           |         Sim                                                                                |
 | 9   | O perfil do usuário possui sua experiência com tecnologia definida?                                                       |         Sim                                                                                |
 | 10  | O perfil do usuário é definido entre tecnófilos ou tecnófobos?                                                            |         Sim                                                                                |
-| 11  | O perfil do usuário possui suas tarefas primárias definidas?                                                              |         Não                                                                                |
-| 12  | O perfil do usuário possui a experiência com o produto ou semelhantes definidos?                                          |         Não                                                                                |
+| 11  | O perfil do usuário possui a experiência com o produto ou semelhantes definidos?                                          |         Sim                                                                                |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)  </p></font>
@@ -65,6 +63,33 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 ## Problemas Encontrados
 
 Não foi listado uma bibliografia no artefato, além de não possui tarefas primárias e experiência com produtos ou semelhantes definidos.
+
+## Verificação
+
+<center>
+
+<font size="2"><p style="text-align: center">Video 1: Gravação da verificação do artefato Perfil de Usuário</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NPngckI_3lA?si=-dyxGkucDSElEmNv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
+
+</center>
+
+## Resultados 
+
+Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gráfica sobre o artefato Perfil de usuário verificado, com as opções "Sim", "Não" e "Não se aplica". No Gráfico 1 é possível ver os resultados:
+
+<center>
+
+<font size="2"><p style="text-align: center">Gráfico 1: Resultados da verificação do Perfil de usuário</p></font>
+
+![Perfil de Usuários](../../../assets/verificacao/perfil.jpg)
+
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
+
+</center>
+
 
 ## Bibliografia 
 

@@ -56,6 +56,17 @@ A tabela a seguir contempla o cronograma planejado para as verificações da fas
 
 A seguir será evidenciado, as listas de verificação para cada artefato citado acima. Tais listas foram construidas a partir da observação dos padrões desejaveis definidos para cada artefato e a partir das listas de detalhes evidenciados no plano de ensino da matéria.
 
+
+### Checklist Geral 
+
+| ID  | Critério                                                                                                   | Resultado |
+| --- | ---------------------------------------------------------------------------------------------------------- | --------- |
+| 1   | Há um texto introdutório sobre o artefato?                                                                 |           |
+| 2   | Há a referencia/bibliografia?                                                                              |           |
+| 3   | O artefato possui um histórico de versões padronizado?                                                     |           |
+| 4   | As imagens e tabelas são chamadas no texto?                                                                |           |
+| 5   | As imagens e tabelas possuem titulo e fonte?                                                               |           |
+
 ### Aspectos Éticos
 
 <center>
@@ -207,3 +218,4 @@ As perguntas do checklist específico foram elaboradas a partir do capítulo 8, 
 | 1.0    | 02/12/2023 | Construção e elaboração do documento | [Gustavo França](https://github.com/harry-cmartin) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.1    | 03/12/2023 | Elaboração das perguntas dos princípios e diretrizes e correção de erros | [Maria Alice](https://github.com/Maliz30) | [Ana Catarina](https://github.com/an4catarina)  |
 | 1.2    | 03/12/2023 | Alteração tabela de Princípios Gerais          | [Maria Alice](https://github.com/Maliz30)                                                         | [Victor Hugo](https://github.com/ViictorHugoo)   |
+| 1.3     | 04/12/2023 | Correção de checklist                            | [Gustavo França](https://github.com/gustavofbs) |[Victor Hugo](https://github.com/ViictorHugoo)|
