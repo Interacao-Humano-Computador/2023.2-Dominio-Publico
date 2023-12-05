@@ -509,8 +509,6 @@ A avaliação de mídia não é uma função fornecida pelo sistema, por isso no
 Não há necessidade de reprojeto para essa tarefa.
 
 
-## Referências Bibliográficas
-
 ## Bibliografia
 
 > 1. BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
