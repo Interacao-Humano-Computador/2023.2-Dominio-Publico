@@ -52,10 +52,27 @@ No gráfico 1 é possível verificar os resultados obtidos na avaliação do art
 
 ## Gravação da Verificação
 
+É possível ver a gravação da verificação do artefato "Metas de Usabilidade" no vídeo 1.
+
+
+<center>
+<font size="2"><p style="text-align: center">Vídeo 1: Verificação Metas de Usabilidade</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNTVxYYAcWM?si=k6QuQaTNR_-QoVxe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf) </p></font>
+</center>
+
+
 ## Bibliografia
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador.** Rio de Janeiro: Elsevier, 2011.
 
+>  Planejamento da Verificação da Etapa 4 do Grupo 2- Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa4/planejamento-verificacao-etapa4-grupo>>. Acesso em 03 de dezembro de 2023.
+
+
+
 | Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ---------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | 1.0    | 03/12/2023 | Criação da página e adição de conteúdo     | [Pedro Henrique](https://github.com/pedro-hsf) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.1    | 04/12/2023 | Adicionando Vídeos e Gráficos     | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina) |

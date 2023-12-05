@@ -72,7 +72,7 @@ No gráfico 2 é possível verificar os resultados obtidos na avaliação do art
 <center>
 <font size="2"><p style="text-align: center">Gráfico 2: Resultado da Verificação do artefato GOMS</p></font>
 
-![graficoGOMS](../../../assets/verificacao/GOMS.png)
+![graficoGOMS](../../../assets/verificacao/goms.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf) </p></font>
 </center>
@@ -101,14 +101,28 @@ No gráfico 2 é possível verificar os resultados obtidos na avaliação do art
 
 ## Gravação da Verificação
 
-## Gráficos
+É possível ver a gravação da verificação do artefato  "Análise de Tarefas" no vídeo 1.
+
+<center>
+<font size="2"><p style="text-align: center">Vídeo 1: Verificação Análise de Tarefas</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wpOZvQCsYog?si=kMA5F0RHsf3ZVMms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf) </p></font>
+</center>
+
 
 ## Bibliografia
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador.** Rio de Janeiro: Elsevier, 2011.
 
+> Planejamento da Verificação da Etapa 4 do Grupo 2- Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa4/planejamento-verificacao-etapa4-grupo>>. Acesso em 03 de dezembro de 2023.
+
+
 | Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ---------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | 1.0    | 03/12/2023 | Criação da página e adição do conteúdo     | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina) |
+| 1.1    | 04/12/2023 | Adicionando Vídeos e Gráficos     | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina) |
+
 
 
