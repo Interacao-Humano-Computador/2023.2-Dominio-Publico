@@ -402,6 +402,18 @@ Na tabela 14, estão listados os critérios que devem ser verificados no Planeja
 
 </center>
 
+#### Embasamento Teórico
+
+As perguntas do checklist específico da Tabela 14 foram elaboradas a partir de três fontes principais: o "Plano de ensino da disciplina Interação Humano-Computador no semestre 02/2023" de Barros [1], o "Planejamento da Verificação da Etapa 4 do Grupo 2- Bilheteria Digital" [3] e os Capítulos 9 e 10 do livro "Interação Humano-Computador" de Barbosa e Silva[ 2].
+Os Capítulos 9 e 10 tratam, respectivamente, do planejamento e dos métodos de avaliação de IHC. Os subitens usados como embasamento foram:
+
+- **9.2 O que Avaliar?**
+- **9.3 Quando Avaliar o Uso de um Sistema?**
+- **9.7.2 Preparação**
+- **9.7.5 Consolidação e Relato dos Resultados**
+- **10.1 Avaliação de IHC através de Inspeção**
+- **10.1.1 Avaliação Heurística**
+
 ### Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade
 
 Na tabela 15, estão listados os critérios que devem ser verificados no Planejamento da Avaliação da Análise do Protótipo de Alta Fidelidade do Grupo 4.
@@ -419,7 +431,19 @@ Na tabela 15, estão listados os critérios que devem ser verificados no Planeja
 
 </center>
 
-### Checklist do Relato dos resultados do Protótipo de Alta Fidelidade
+#### Embasamento teórico
+
+As perguntas do checklist específico da Tabela 15 foram elaboradas a partir de três fontes principais: o "Plano de ensino da disciplina Interação Humano-Computador no semestre 02/2023" de Barros [1], o "Planejamento da Verificação da Etapa 4 do Grupo 2- Bilheteria Digital" [3] e os Capítulos 9 e 10 do livro "Interação Humano-Computador" de Barbosa e Silva [2].
+Os Capítulos 9 e 10 tratam, respectivamente, do planejamento e dos métodos de avaliação de IHC. Os subitens usados como embasamento foram:
+
+- **9.2 O que Avaliar?**
+- **9.3 Quando Avaliar o Uso de um Sistema?**
+- **9.7.2 Preparação**
+- **9.7.5 Consolidação e Relato dos Resultados**
+- **10.1 Avaliação de IHC através de Inspeção**
+- **10.1.1 Avaliação Heurística**
+
+### Relato dos resultados do Protótipo de Alta Fidelidade
 
 A tabela 16 a seguir apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
 
@@ -438,6 +462,19 @@ A tabela 16 a seguir apresenta a checklist referente aos itens exigidos para o r
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) </p></font>
 
 </center>
+
+#### Embasamento teórico
+
+As perguntas do checklist específico da Tabela 16 foram elaboradas a partir de três fontes principais: o "Plano de ensino da disciplina Interação Humano-Computador no semestre 02/2023" de Barros [1], o "Planejamento da Verificação da Etapa 4 do Grupo 2- Bilheteria Digital" [3] e os Capítulos 9 e 10 do livro "Interação Humano-Computador" de Barbosa e Silva [2].
+Os Capítulos 9 e 10 tratam, respectivamente, do planejamento e dos métodos de avaliação de IHC. Os subitens usados como embasamento foram:
+
+- **9.2 O que Avaliar?**
+- **9.3 Quando Avaliar o Uso de um Sistema?**
+- **9.7.2 Preparação**
+- **9.7.5 Consolidação e Relato dos Resultados**
+- **10.1 Avaliação de IHC através de Inspeção**
+- **10.1.1 Avaliação Heurística**
+
 
 ## Referencias Bibliograficas
 
