@@ -20,6 +20,7 @@ A metodologia escolhida para desenvolvimento da verificação foi a de Inspeçã
 - [Sites avaliados](docs/planejamento/sites_avaliados.md) ultima versão.
 
 <center>
+
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma de verificação</p></font>
 
 |      Artefato      | Versão | Autor                                                                                                                                                                                                                                                                                                                                             |
@@ -32,6 +33,7 @@ A metodologia escolhida para desenvolvimento da verificação foi a de Inspeçã
 |   Site escolhido   |  1.3   | [Gustavo França](https://github.com/gustavofbs), [Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin)                                                                                                                                                                                                  |
 
 </center>
+
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
 
 ## Cronograma
@@ -39,6 +41,7 @@ A metodologia escolhida para desenvolvimento da verificação foi a de Inspeçã
 A tabela a seguir contempla o cronograma planejado para as verificações da fase de planejamento:
 
 <center>
+
 <font size="2"><p style="text-align: center">Tabela 2: Checklist Ferramentas</p></font>
 
 |    Data    |       Artefato       |                  Responsável                   |
@@ -52,6 +55,7 @@ A tabela a seguir contempla o cronograma planejado para as verificações da fas
 | 02/12/2023 |   Sites avaliados    |               Harryson e Gustavo               |
 
 </center>
+
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
 
 ## Checklist
@@ -61,23 +65,25 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 ### Ferramentas
 
 <center>
+
 <font size="2"><p style="text-align: center">Tabela 3: Checklist Ferramentas</p></font>
 
-| ID  |                              Critério                               | Resultados |
-| :-: | :-----------------------------------------------------------------: | :--------: |
-|  1  |                    O artefato possui introdução?                    |            |
-|  2  |          O artefato possui histórico de versão atualizado?          |            |
-|  3  |            Os textos estão em norma padrão e sem erros?             |            |
-|  4  |                   O artefato possui Bibliografia?                   |            |
-|  5  |                  As ferramentas possuem descrição?                  |            |
-|  6  |        Na descrição é dito para que será usada a ferramenta?        |            |
-|  7  |   Todas as ferramentas utilizadas no processo estão no artefato?    |            |
-|  8  | Há alguma ferramenta que não foi utilizada e não está sendo citada? |            |
-|  9  |      O artefato apresenta uma forma de acessar as ferramentas?      |            |
+|  ID   |                              Critério                               | Resultados |
+| :---: | :-----------------------------------------------------------------: | :--------: |
+|   1   |                    O artefato possui introdução?                    |            |
+|   2   |          O artefato possui histórico de versão atualizado?          |            |
+|   3   |            Os textos estão em norma padrão e sem erros?             |            |
+|   4   |                   O artefato possui Bibliografia?                   |            |
+|   5   |                  As ferramentas possuem descrição?                  |            |
+|   6   |        Na descrição é dito para que será usada a ferramenta?        |            |
+|   7   |   Todas as ferramentas utilizadas no processo estão no artefato?    |            |
+|   8   | Há alguma ferramenta que não foi utilizada e não está sendo citada? |            |
+|   9   |      O artefato apresenta uma forma de acessar as ferramentas?      |            |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) </p></font>
 
 </center>
+
 #### Embasamento Teórico
 
 As perguntas dos checklists foram elaboradas com base na Norma Padrão da ABNT [6], no Plano de Ensino da disciplina [2], no livro "Interação Humano-Computador" de Barbosa e Silva[1] e nos projetos de semestres anteriores da disciplina de Interação Humano Computador.
@@ -87,19 +93,20 @@ As perguntas dos checklists foram elaboradas com base na Norma Padrão da ABNT [
 <center>
 <font size="2"><p style="text-align: center">Tabela 4: Checklist Cronograma Planejado</p></font>
 
-| ID  |                          Critério                          | Resultados |
-| :-: | :--------------------------------------------------------: | :--------: |
-|  1  |               O artefato possui introdução?                |            |
-|  2  |     O artefato possui histórico de versão atualizado?      |            |
-|  3  |        Os textos estão em norma padrão e sem erros?        |            |
-|  4  |              O artefato possui Bibliografia?               |            |
-|  5  | Todas as tarefas que serão realizadas estão no cronograma? |            |
-|  6  |             As tarefas estão bem subdivididas              |            |
-|  7  |                A tabela é chamada no texto?                |            |
-|  8  |               A tabela possui fonte e nome?                |            |
-|  9  |             Todas as tarefas possuem revisor?              |            |
+|  ID   |                          Critério                          | Resultados |
+| :---: | :--------------------------------------------------------: | :--------: |
+|   1   |               O artefato possui introdução?                |            |
+|   2   |     O artefato possui histórico de versão atualizado?      |            |
+|   3   |        Os textos estão em norma padrão e sem erros?        |            |
+|   4   |              O artefato possui Bibliografia?               |            |
+|   5   | Todas as tarefas que serão realizadas estão no cronograma? |            |
+|   6   |             As tarefas estão bem subdivididas              |            |
+|   7   |                A tabela é chamada no texto?                |            |
+|   8   |               A tabela possui fonte e nome?                |            |
+|   9   |             Todas as tarefas possuem revisor?              |            |
 
 </center>
+
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
 
 ### Cronograma Executado
@@ -107,63 +114,65 @@ As perguntas dos checklists foram elaboradas com base na Norma Padrão da ABNT [
 ### Cronograma Executado
 
 <center>
-<div align="center">
+
 <font size="2"><p>Tabela 5: Checklist Cronograma Executado</p></font>
 
-| ID  |                          Critério                          | Resultado |
-| :-: | :--------------------------------------------------------: | :-------: |
-|  1  |               O artefato possui introdução?                |           |
-|  2  |     O artefato possui histórico de versão atualizado?      |           |
-|  3  |        Os textos estão em norma padrão e sem erros?        |           |
-|  4  |              O artefato possui Bibliografia?               |           |
-|  5  | Todas as tarefas que foram realizadas estão no cronograma? |           |
-|  6  |                A tabela é chamada no texto?                |           |
-|  7  |               A tabela possui fonte e nome?                |           |
-|  8  |             Todas as tarefas possuem revisor?              |           |
-|  9  |  As tarefas realizadas foram feitas nas datas planejadas?  |           |
+|  ID   |                          Critério                          | Resultado |
+| :---: | :--------------------------------------------------------: | :-------: |
+|   1   |               O artefato possui introdução?                |           |
+|   2   |     O artefato possui histórico de versão atualizado?      |           |
+|   3   |        Os textos estão em norma padrão e sem erros?        |           |
+|   4   |              O artefato possui Bibliografia?               |           |
+|   5   | Todas as tarefas que foram realizadas estão no cronograma? |           |
+|   6   |                A tabela é chamada no texto?                |           |
+|   7   |               A tabela possui fonte e nome?                |           |
+|   8   |             Todas as tarefas possuem revisor?              |           |
+|   9   |  As tarefas realizadas foram feitas nas datas planejadas?  |           |
 
 <font size="2"><p>Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 
 </center>
-</div>
 
 ### Metodologia
 
 <center>
+
 <font size="2"><p style="text-align: center">Tabela 6: Checklist Metodologia</p></font>
 
-| ID  |                        Critério                         | Resultado |
-| :-: | :-----------------------------------------------------: | :-------: |
-|  1  |              O artefato possui introdução?              |           |
-|  2  |    O artefato possui histórico de versão atualizado?    |           |
-|  3  |      Os textos estão em norma padrão e sem erros?       |           |
-|  4  |             O artefato possui Bibliografia?             |           |
-|  5  | É evidenciada a metodologia a ser utilizada no projeto? |           |
-|  6  |  A metodologia escolhida é descrita e contextualizada?  |           |
-|  7  |     É explicado o porquê da escolha da metodologia?     |           |
-|  8  | É evidenciada a metodologia de avaliação a ser seguida? |           |
-|  9  |    É descrito como funciona esse tipo de avaliação?     |           |
+|  ID   |                        Critério                         | Resultado |
+| :---: | :-----------------------------------------------------: | :-------: |
+|   1   |              O artefato possui introdução?              |           |
+|   2   |    O artefato possui histórico de versão atualizado?    |           |
+|   3   |      Os textos estão em norma padrão e sem erros?       |           |
+|   4   |             O artefato possui Bibliografia?             |           |
+|   5   | É evidenciada a metodologia a ser utilizada no projeto? |           |
+|   6   |  A metodologia escolhida é descrita e contextualizada?  |           |
+|   7   |     É explicado o porquê da escolha da metodologia?     |           |
+|   8   | É evidenciada a metodologia de avaliação a ser seguida? |           |
+|   9   |    É descrito como funciona esse tipo de avaliação?     |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
 
 </center>
+
 ### Processo Design
 
 <center>
+
 <font size="2"><p style="text-align: center">Tabela 7: Checklist Processo Design</p></font>
 
-| ID  |                                     Critério                                      |
-| :-: | :-------------------------------------------------------------------------------: |
-|  1  |                           O artefato possui introdução?                           |
-|  2  |                 O artefato possui histórico de versão atualizado?                 |
-|  3  |                   Os textos estão em norma padrão e sem erros?                    |
-|  4  |                          O artefato possui Bibliografia?                          |
-|  5  |         As atividades do processo de design são claras e bem delineadas?          |
-|  6  |           Os ciclos de vida foram apresentados de forma compreensível?            |
-|  7  |                    A escolha do ciclo de vida foi justificada?                    |
-|  8  |               O ciclo de vida escolhido tem suas etapas detalhadas?               |
-|  9  |             A forma como o ciclo de vida será executado é detalhada?              |
-| 10  | O ciclo de vida selecionado faz sentido quando comparado com o escopo do projeto? |
+|  ID   |                                     Critério                                      |
+| :---: | :-------------------------------------------------------------------------------: |
+|   1   |                           O artefato possui introdução?                           |
+|   2   |                 O artefato possui histórico de versão atualizado?                 |
+|   3   |                   Os textos estão em norma padrão e sem erros?                    |
+|   4   |                          O artefato possui Bibliografia?                          |
+|   5   |         As atividades do processo de design são claras e bem delineadas?          |
+|   6   |           Os ciclos de vida foram apresentados de forma compreensível?            |
+|   7   |                    A escolha do ciclo de vida foi justificada?                    |
+|   8   |               O ciclo de vida escolhido tem suas etapas detalhadas?               |
+|   9   |             A forma como o ciclo de vida será executado é detalhada?              |
+|  10   | O ciclo de vida selecionado faz sentido quando comparado com o escopo do projeto? |
 
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina) </p></font>
 
@@ -176,18 +185,19 @@ As perguntas dos checklists foram elaboradas com base na Norma Padrão da ABNT [
 ### Site escolhido
 
 <center>
+
 <font size="2"><p style="text-align: center">Tabela 8: Checklist Site escolhido</p></font>
 
-| ID  |                            Critério                            | Resultados |
-| :-: | :------------------------------------------------------------: | :--------: |
-|  1  |                 O artefato possui introdução?                  |            |
-|  2  |       O artefato possui histórico de versão atualizado?        |            |
-|  3  |          Os textos estão em norma padrão e sem erros?          |            |
-|  4  |                O artefato possui Bibliografia?                 |            |
-|  5  | O site escolhido foi determinado dentre os sites individuais?  |            |
-|  6  |              O motivo da escolha foi justificado?              |            |
-|  7  |   Foi detalhado os problemas encontrados no site escolhido?    |            |
-|  8  | São citadas as heuristicas usadas para encontrar os problemas? |            |
+|  ID   |                            Critério                            | Resultados |
+| :---: | :------------------------------------------------------------: | :--------: |
+|   1   |                 O artefato possui introdução?                  |            |
+|   2   |       O artefato possui histórico de versão atualizado?        |            |
+|   3   |          Os textos estão em norma padrão e sem erros?          |            |
+|   4   |                O artefato possui Bibliografia?                 |            |
+|   5   | O site escolhido foi determinado dentre os sites individuais?  |            |
+|   6   |              O motivo da escolha foi justificado?              |            |
+|   7   |   Foi detalhado os problemas encontrados no site escolhido?    |            |
+|   8   | São citadas as heuristicas usadas para encontrar os problemas? |            |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
 
@@ -196,17 +206,18 @@ As perguntas dos checklists foram elaboradas com base na Norma Padrão da ABNT [
 ### Sites avaliados
 
 <center>
+
 <font size="2"><p style="text-align: center">Tabela 9: Checklist Sites avaliados</p></font>
 
-| ID  |                          Critério                           | Resultados |
-| :-: | :---------------------------------------------------------: | :--------: |
-|  1  |                O artefato possui introdução?                |            |
-|  2  |      O artefato possui histórico de versão atualizado?      |            |
-|  3  |        Os textos estão em norma padrão e sem erros?         |            |
-|  4  |               O artefato possui Bibliografia?               |            |
-|  5  | São evidenciados todos os sites escolhidos por cada membro? |            |
-|  6  |          Cada site avaliado possui uma descrição?           |            |
-|  7  |     São evidenciados os problemas de cada site exposto?     |            |
+|  ID   |                          Critério                           | Resultados |
+| :---: | :---------------------------------------------------------: | :--------: |
+|   1   |                O artefato possui introdução?                |            |
+|   2   |      O artefato possui histórico de versão atualizado?      |            |
+|   3   |        Os textos estão em norma padrão e sem erros?         |            |
+|   4   |               O artefato possui Bibliografia?               |            |
+|   5   | São evidenciados todos os sites escolhidos por cada membro? |            |
+|   6   |          Cada site avaliado possui uma descrição?           |            |
+|   7   |     São evidenciados os problemas de cada site exposto?     |            |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
 
