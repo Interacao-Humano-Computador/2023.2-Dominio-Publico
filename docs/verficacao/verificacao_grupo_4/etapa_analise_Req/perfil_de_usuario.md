@@ -84,7 +84,7 @@ Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gr�
 
 <font size="2"><p style="text-align: center">Gráfico 1: Resultados da verificação do Perfil de usuário</p></font>
 
-![Perfil de Usuários](../../assets/verificacao/perfil.jpg)
+![Perfil de Usuários](../../../assets/verificacao/perfil.jpg)
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 

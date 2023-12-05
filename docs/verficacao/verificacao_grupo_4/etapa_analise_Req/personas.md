@@ -83,11 +83,23 @@ Na questão de ID 6, As personas não estão seguindo o perfil de usuário decla
 
 # Verificação
 
+Nos videos 1 e 2 abaixo podem ser vistos a fase de verificação e correção dos erros encontrados:
+
 <center>
 
 <font size="2"><p style="text-align: center">Video 1: Gravação da verificação do artefato Personas</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GRzbFIuKgXM?si=YtRXYyyvJkWd0z1C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Video 2: Correção</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c4mb9Fa0hK8?si=pnhf1Fio5LWxv473" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
 
@@ -101,7 +113,7 @@ Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gr�
 
 <font size="2"><p style="text-align: center">Gráfico 1: Resultados da verificação das Personas</p></font>
 
-![Personas](../../assets/verificacao/personas.jpg)
+![Personas](../../../assets/verificacao/personas.jpg)
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
