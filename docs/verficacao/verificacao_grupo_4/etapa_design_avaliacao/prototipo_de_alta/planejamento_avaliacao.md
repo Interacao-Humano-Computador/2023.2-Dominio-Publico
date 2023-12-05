@@ -9,7 +9,7 @@ Este documento visa verificar se o artefato de [Planejamento da Avaliação do P
 
 Na tabela 1, estão listados os critérios que devem ser verificados no artefato Planejamento da Avaliação do Protótipo de Alta Fidelidade do Grupo 4.
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do artefato "Planejamento de Avaliação dos Protótipos de papel". </p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do artefato "Planejamento de Avaliação do Protótipo de Alta Fidelidade". </p></font>
 
 | ID  | Critério                                                                                                         | Avaliação  |
 | --- | ---------------------------------------------------------------------------------------------------------------- | ---------- |
