@@ -79,6 +79,7 @@ No vídeo 2 podemos conferir a avaliação junto dos autores do artefato.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nsCF9ZhdS0Q?si=KA-iYj6_nvPRHk-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </center>
+
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
