@@ -82,7 +82,7 @@ Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gr�
 
 <font size="2"><p style="text-align: center">Gráfico 1: Resultados da verificação dos Aspectos Éticos</p></font>
 
-![Aspectos Éticos](../../assets/verificacao/aspEticos.jpg)
+![Aspectos Éticos](../../../assets/verificacao/aspEticos.jpg)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 

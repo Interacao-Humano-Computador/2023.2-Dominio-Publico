@@ -94,7 +94,7 @@ Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gr�
 
 <font size="2"><p style="text-align: center">Gráfico 1: Resultados da verificação dos Cronogramas Executados</p></font>
 
-![CronExex](../../assets/verificacao/cronexec.jpg)
+![CronExex](../../../assets/verificacao/cronexec.jpg)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 
