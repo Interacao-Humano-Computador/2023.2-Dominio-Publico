@@ -11,24 +11,24 @@ As perguntas do checklist específico foram elaboradas a partir do capítulo 9, 
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do artefato "Planejamento da Avaliação de Tarefas" . </p></font>
 
-| ID  | Critério                                                                                                         | Resultado |
-| --- | ---------------------------------------------------------------------------------------------------------------- | --------- |
-|**Geral**| | |
-| 01  | O artefato conta com um registro padronizado de suas versões?                                                    | Sim |
-| 02  | O artefato inclui uma seção de introdução?                                                                       | Sim |
-| 03  | As referências bibliográficas e a bibliografia estão corretamente utilizadas no artefato, seguindo a norma ABNT? | Sim |
-| 04  | Todas as chamadas para tabelas e figuras estão incorporadas ao texto?                                            | Incompleto |
-| 05  | Há uma consistência na apresentação de tabelas e figuras?                                                        | Sim |
-| 06  | A estrutura do documento está claramente definida e se mantem consistente durante todo artefato?                 | Sim |
-|**Específico**| | |
-| 07  | O planejamento da avaliação segue o Framework DECIDE?                    | Sim | 
-| 08  | São delineados no artefato os objetivos da avaliação?                    | Sim |
-| 09  | O artefato explica os métodos que serão empregados na avaliação?         | Sim |
-| 10  | O artefato detalha os aspectos práticos envolvidos na avaliação?         | Sim |
-| 11  | O artefato aborda os aspectos éticos relacionados à avaliação?           | Sim |
-| 12  | O artefato identifica as perguntas que serão feitas durante a avaliação? | Sim |
-| 13  | Existe um cronograma planejado para a execução da avaliação no artefato? | Sim |
-| 14  | O artefato inclui o teste piloto do planejamento da avaliação?           | Sim |
+| ID             | Critério                                                                                                         | Resultado  |
+| -------------- | ---------------------------------------------------------------------------------------------------------------- | ---------- |
+| **Geral**      |                                                                                                                  |            |
+| 01             | O artefato conta com um registro padronizado de suas versões?                                                    | Sim        |
+| 02             | O artefato inclui uma seção de introdução?                                                                       | Sim        |
+| 03             | As referências bibliográficas e a bibliografia estão corretamente utilizadas no artefato, seguindo a norma ABNT? | Sim        |
+| 04             | Todas as chamadas para tabelas e figuras estão incorporadas ao texto?                                            | Incompleto |
+| 05             | Há uma consistência na apresentação de tabelas e figuras?                                                        | Sim        |
+| 06             | A estrutura do documento está claramente definida e se mantem consistente durante todo artefato?                 | Sim        |
+| **Específico** |                                                                                                                  |            |
+| 07             | O planejamento da avaliação segue o Framework DECIDE?                                                            | Sim        |
+| 08             | São delineados no artefato os objetivos da avaliação?                                                            | Sim        |
+| 09             | O artefato explica os métodos que serão empregados na avaliação?                                                 | Sim        |
+| 10             | O artefato detalha os aspectos práticos envolvidos na avaliação?                                                 | Sim        |
+| 11             | O artefato aborda os aspectos éticos relacionados à avaliação?                                                   | Sim        |
+| 12             | O artefato identifica as perguntas que serão feitas durante a avaliação?                                         | Sim        |
+| 13             | Existe um cronograma planejado para a execução da avaliação no artefato?                                         | Sim        |
+| 14             | O artefato inclui o teste piloto do planejamento da avaliação?                                                   | Sim        |
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30), 2023</p></font>
 
@@ -76,6 +76,6 @@ Com base nessa análise, foi possível gerar o Gráfico 1, que apresenta de form
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                   | Autor(es)                                       | Revisor(es)                                    |
-| ------ | ---------- | --------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 03/12/2023 | Elaboração das perguntas da verificação  |[Maria Alice](https://github.com/gustavofbs)| [Pedro Henrique](https://github.com/pedro-hsf)  |
+| Versão | Data       | Descrição                               | Autor(es)                                    | Revisor(es)                                    |
+| ------ | ---------- | --------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 03/12/2023 | Elaboração das perguntas da verificação | [Maria Alice](https://github.com/gustavofbs) | [Pedro Henrique](https://github.com/pedro-hsf) |
