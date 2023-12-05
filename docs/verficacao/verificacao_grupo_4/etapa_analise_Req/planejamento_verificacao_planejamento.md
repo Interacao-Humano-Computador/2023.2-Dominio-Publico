@@ -19,6 +19,7 @@ A metodologia escolhida para desenvolvimento da verificação foi a de Inspeçã
 - [Princípios Gerais do Projeto](../../../analise_de_requisitos/principios_gerais.md) última versão.
 
 <center>
+
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma de verificação</p></font>
 
 |     Artefato      | Versão |                                              Autor                                               |
@@ -30,6 +31,7 @@ A metodologia escolhida para desenvolvimento da verificação foi a de Inspeçã
 | Princípios Gerais do Projeto | 1.0 | [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf)|
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
+
 </center>
 
 
@@ -38,6 +40,7 @@ A metodologia escolhida para desenvolvimento da verificação foi a de Inspeçã
 A tabela a seguir contempla o cronograma planejado para as verificações da fase de planejamento, documentada na página do projeto do Grupo de número 6:
 
 <center>
+
 <font size="2"><p style="text-align: center">Tabela 2: Checklist Aspectos Éticos</p></font>
 
 |    Data    |     Artefato      |            Responsável            |
@@ -49,6 +52,7 @@ A tabela a seguir contempla o cronograma planejado para as verificações da fas
 | 03/12/2023 | Princípios Gerais do Projeto | Maria Alice            |
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
+
 </center>
 
 
@@ -70,6 +74,7 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 ### Aspectos Éticos
 
 <center>
+
 <font size="2"><p style="text-align: center">Tabela 3: Checklist Aspectos Éticos</p></font>
 
 | ID  | Critério                                                                                                   | Resultado |
@@ -86,11 +91,13 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
+
 </center>
 
 ### Perfil de Usuário
 
 <center>
+
 <font size="2"><p style="text-align: center">Tabela 4: Checklist Perfil do Usuário </p></font>
 
 | ID  | Critério                                                                                                                  | Resultado |
@@ -108,11 +115,13 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 | 11  | O perfil do usuário possui a experiência com o produto ou semelhantes definidos?                                          |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs).</p></font>
+
 </center>
 
 ### Personas
 
 <center>
+
 <font size="2"><p style="text-align: center">Tabela 5: Checklist Personas</p></font>
 
 | ID  | Critério                                                                                              | Resultado |
@@ -138,11 +147,13 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 | 19  | As expectativas das personas sobre o produto estão documentadas?                                      |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs).</p></font>
+
 </center>
 
 ### Cenários
 
 <center>
+
 <font size="2"><p style="text-align: center">Tabela 6: Checklist Cenários</p></font>
 
 | ID  | Critério                                                | Resultado |
@@ -159,6 +170,7 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 | 10  | Os cenarios possuem avaliação definida?                 |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
+
 </center>
 
 ## Princípios Gerais do Projeto
