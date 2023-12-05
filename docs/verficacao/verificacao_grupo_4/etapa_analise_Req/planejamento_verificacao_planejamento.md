@@ -66,7 +66,10 @@ A tabela a seguir contempla o cronograma planejado para as verificações da fas
 A seguir será evidenciado, as listas de verificação para cada artefato citado acima. Tais listas foram construidas a partir da observação dos padrões desejaveis definidos para cada artefato e a partir das listas de detalhes evidenciados no plano de ensino da matéria.
 
 
-### Checklist Geral 
+## Checklist Geral 
+
+<center>
+<font size="2"><p style="text-align: center">Tabela 3: Checklist Geral</p></font>
 
 | ID  | Critério                                                                                                   | Resultado |
 | --- | ---------------------------------------------------------------------------------------------------------- | --------- |
@@ -76,10 +79,13 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 | 4   | As imagens e tabelas são chamadas no texto?                                                                |           |
 | 5   | As imagens e tabelas possuem titulo e fonte?                                                               |           |
 
-### Aspectos Éticos
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
+</center>
+
+## Aspectos Éticos
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 3: Checklist Aspectos Éticos</p></font>
+<font size="2"><p style="text-align: center">Tabela 4: Checklist Aspectos Éticos</p></font>
 
 | ID  | Critério                                                                                                   | Resultado | 
 | --- | ---------------------------------------------------------------------------------------------------------- | --------- | 
@@ -100,10 +106,10 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
 </center>
 
-### Perfil de Usuário
+## Perfil de Usuário
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 4: Checklist Perfil do Usuário </p></font>
+<font size="2"><p style="text-align: center">Tabela 5: Checklist Perfil do Usuário </p></font>
 
 | ID  | Critério                                                                                                                  |
 | --- | ------------------------------------------------------------------------------------------------------------------------- | 
@@ -125,10 +131,10 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs).</p></font>
 </center>
 
-### Personas
+## Personas
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 5: Checklist Personas</p></font>
+<font size="2"><p style="text-align: center">Tabela 6: Checklist Personas</p></font>
 
 | ID  | Critério                                                                                              | Resultado | 
 | --- | ----------------------------------------------------------------------------------------------------- | --------- | 
@@ -158,10 +164,10 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs).</p></font>
 </center>
 
-### Cenários
+## Cenários
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 6: Checklist Cenários</p></font>
+<font size="2"><p style="text-align: center">Tabela 7: Checklist Cenários</p></font>
 
 | ID  | Critério                                                | Resultado | 
 | --- | ------------------------------------------------------- | --------- | 
@@ -188,7 +194,7 @@ As perguntas do checklist específico foram elaboradas a partir do capítulo 8, 
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 7: Execução da verificação do Cenários</p></font>
+<font size="2"><p style="text-align: center">Tabela 8: Execução da verificação do Cenários</p></font>
 
 | ID  | Critério                                               | Resultado | 
 | --- | ------------------------------------------------------- | --------- | 
@@ -224,7 +230,7 @@ As perguntas do checklist específico foram elaboradas a partir do capítulo 8, 
 A tabela 8 a seguir apresenta a checklist com as perguntas gerais e específicas para a verificação do HTA. 
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 8: Checklist do HTA</p></font>
+<font size="2"><p style="text-align: center">Tabela 9: Checklist do HTA</p></font>
 
 | ID  | Critério                                               | Resultado | 
 | --- | ------------------------------------------------------- | --------- | 
@@ -247,7 +253,7 @@ A tabela 8 a seguir apresenta a checklist com as perguntas gerais e específicas
 A tabela 9 a seguir apresenta a checklist com asperguntas gerais e específicas para a verificação do GOMS. 
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 9: Checklist GOMS</p></font>
+<font size="2"><p style="text-align: center">Tabela 10: Checklist GOMS</p></font>
 
 | ID  | Critério                                               | Resultado | 
 | --- | ------------------------------------------------------- | --------- | 
@@ -272,7 +278,7 @@ A tabela 9 a seguir apresenta a checklist com asperguntas gerais e específicas 
 A tabela 10 a seguir apresenta a checklist para verificação do Guia de Estilo. 
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 10: Checklist Verificação do Guia de Estilo</p></font>
+<font size="2"><p style="text-align: center">Tabela 11: Checklist Verificação do Guia de Estilo</p></font>
 
 | ID  | Critério                                               | Resultado | 
 | --- | ------------------------------------------------------- | --------- | 
@@ -297,7 +303,7 @@ A tabela 10 a seguir apresenta a checklist para verificação do Guia de Estilo.
 A tabela 11 a seguir apresenta a checklist para a verificação das Características da plataforma. 
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 11: Checklist das Características da plataforma</p></font>
+<font size="2"><p style="text-align: center">Tabela 12: Checklist das Características da plataforma</p></font>
 
 | ID  | Critério                                               | Resultado | 
 | --- | ------------------------------------------------------- | --------- | 
@@ -321,7 +327,7 @@ A tabela 11 a seguir apresenta a checklist para a verificação das Característ
 A tabela 12 a seguir apresenta a checklist para a verificação das Metas de Usabilidade. 
 
 <center>
-<font size="2"><p style="text-align: center">Tabela 12: Checklist Verificação das Metas de Usabilidade</p></font>
+<font size="2"><p style="text-align: center">Tabela 13: Checklist Verificação das Metas de Usabilidade</p></font>
 
 | ID  | Critério                                               | Resultado | 
 | --- | ------------------------------------------------------- | --------- | 
