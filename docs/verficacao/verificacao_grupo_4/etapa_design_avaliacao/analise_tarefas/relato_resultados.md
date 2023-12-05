@@ -72,11 +72,13 @@ A gravação da verificação está presente no vídeo 1. É importante menciona
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 
-</center>
+
 
 No vídeo 2 podemos conferir a avaliação junto dos autores do artefato.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nsCF9ZhdS0Q?si=KA-iYj6_nvPRHk-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
 
 ## Bibliografia
 
