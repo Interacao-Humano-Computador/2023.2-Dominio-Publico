@@ -111,8 +111,6 @@ As perguntas dos checklists foram elaboradas com base na Norma Padrão da ABNT [
 
 ### Cronograma Executado
 
-### Cronograma Executado
-
 <center>
 
 <font size="2"><p>Tabela 5: Checklist Cronograma Executado</p></font>
