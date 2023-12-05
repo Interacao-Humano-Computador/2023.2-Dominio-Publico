@@ -30,6 +30,16 @@ Na tabela 1, estão listados os critérios que devem ser verificados no artefato
 
 ## Conclusão
 
+No Gráfico 1 é possível verificar os resultados obtidos na avaliação do artefato  "Relato dos Resultados do Protótipo de Alta Fidelidade".
+
+<center>
+<font size="3"><p style="text-align: center"> Gráfico 1: Resultados da verificação do artefato</p></font>
+
+![Gráfico de Resultados](../../../../assets/verificacao/Checklist-RelatodosResultadosdoProtótipodeAltaFidelidade.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
+</center>
+
 Após a avaliação, foi feita uma análise geral sobre os artefatos que tiveram a sua avaliação como "não" ou "incompleto" para haja uma melhor descrição do respectivo ID.
 
 - **ID 02:** Foi definido como "sim" porém foi encontrado no tópico de Introdução um erro de digitação onde ele se refere ao Protótipo de Papel ao inves de Protótipo de Alta Fidelidade
