@@ -179,30 +179,31 @@ As perguntas do checklist específico foram elaboradas a partir do capítulo 8, 
 
 <font size="2"><p style="text-align: center">Tabela 7: Execução da verificação do Cenários</p></font>
 
-| ID  | Critério                                               | 
-| -- | ------------------------------------------------------- | 
-|**Geral**| | |
-| 1  | Há um texto introdutório sobre o artefato?  | 
-| 2  | Há a referencia/bibliografia?               | 
-| 3  | O artefato possui um histórico de versões padronizado? | 
-| 4  | As imagens e tabelas são chamadas no texto? | 
-| 5  | As imagens e tabelas possuem titulo e fonte? | 
-|**Específico**| | 
-| 6  | É apresentado como o Princípios Gerais do Projeto será utilizado no projeto ? |   
-| 7  | O documento demonstra como aplicar os princípios na prática ? |  
-| 8  | Os princípios gerais do projeto apresentam embasamento teórico? Por exemplo: Norman, 1988; Tognazzini, online; Nielsen, 1993; Shneiderman, 1998; Cooper, 1999; | 
-| 9  |O topico "Correspondência com as expectativas dos usuários" foi abordado nos princípios e diretrizes? |
-| 10 |O tópico "Simplicidade nas estruturas das tarefas" foi abordado nos princípios e diretrizes?		|
-| 11 |O tópico "Equilíbrio entre controle e liberdade do usuário" foi abordado nos princípios e diretrizes? |		
-| 12 |O tópico "Consistência e padronização" foi abordado nos princípios e diretrizes?		|
-| 13 |O tópico "Promoção da eficiência do usuário" foi abordado nos princípios e diretrizes?	|	
-| 14 |O tópico "Antecipação das necessidades do usuário" foi abordado nos princípios e diretrizes? |		
-| 15 |O tópico "Visibilidade e reconhecimento" foi abordado nos princípios e diretrizes?		|
-| 16 |O tópico "Conteúdo relevante e expressão adequada" foi abordado nos princípios e diretrizes? |		
-| 17 |O tópico "Projeto para erros" foi abordado nos princípios e diretrizes? |
-| 18 |Há descrição para cada um dos princípios ?   |
-| 19 |Foram identificadas violações dos princípios gerais definidos no projeto? Caso sim, essas violações foram explicitadas? |
+| ID  | Critério                                               | Resultado | 
+| --- | ------------------------------------------------------- | --------- | 
+| **Geral** | | |
+| 1   | Há um texto introdutório sobre o artefato?  |       | 
+| 2   | Há a referência/bibliografia?               |       | 
+| 3   | O artefato possui um histórico de versões padronizado? |       | 
+| 4   | As imagens e tabelas são chamadas no texto? |       | 
+| 5   | As imagens e tabelas possuem título e fonte? |       | 
+| **Específico** | | 
+| 6   | É apresentado como os Princípios Gerais do Projeto serão utilizados no projeto? |       |   
+| 7   | O documento demonstra como aplicar os princípios na prática? |       |  
+| 8   | Os princípios gerais do projeto apresentam embasamento teórico? Por exemplo: Norman, 1988; Tognazzini, online; Nielsen, 1993; Shneiderman, 1998; Cooper, 1999; |       | 
+| 9   | O tópico "Correspondência com as expectativas dos usuários" foi abordado nos princípios e diretrizes? |       |
+| 10  | O tópico "Simplicidade nas estruturas das tarefas" foi abordado nos princípios e diretrizes? |       |		
+| 11  | O tópico "Equilíbrio entre controle e liberdade do usuário" foi abordado nos princípios e diretrizes? |       |		
+| 12  | O tópico "Consistência e padronização" foi abordado nos princípios e diretrizes? |       |		
+| 13  | O tópico "Promoção da eficiência do usuário" foi abordado nos princípios e diretrizes? |       |	
+| 14  | O tópico "Antecipação das necessidades do usuário" foi abordado nos princípios e diretrizes? |       |		
+| 15  | O tópico "Visibilidade e reconhecimento" foi abordado nos princípios e diretrizes? |       |		
+| 16  | O tópico "Conteúdo relevante e expressão adequada" foi abordado nos princípios e diretrizes? |       |		
+| 17  | O tópico "Projeto para erros" foi abordado nos princípios e diretrizes? |       |
+| 18  | Há descrição para cada um dos princípios?   |       |
+| 19  | Foram identificadas violações dos princípios gerais definidos no projeto? Caso sim, essas violações foram explicitadas? |       |
 
+</center>
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)  </p></font>
 
@@ -214,9 +215,14 @@ A tabela 8 a seguir apresenta a checklist com as perguntas gerais e específicas
 <center>
 <font size="2"><p style="text-align: center">Tabela 8: Checklist do HTA</p></font>
 
-| ID  | Critério                                                                                                   | Resultado |
-| --- | ---------------------------------------------------------------------------------------------------------- | --------- |
-|**Específico**  |                                                                                                 |           |
+| ID  | Critério                                               | Resultado | 
+| --- | ------------------------------------------------------- | --------- | 
+| **Geral** | | |
+| 1   | Há um texto introdutório sobre o artefato?  |       | 
+| 2   | Há a referência/bibliografia?               |       | 
+| 3   | O artefato possui um histórico de versões padronizado? |       | 
+| 4   | As imagens e tabelas são chamadas no texto? |       | 
+| 5   | As imagens e tabelas possuem título e fonte? |       |                                                                                                |           |
 | 6   | As tarefas foram identificadas de maneira clara e abrangente?                                              |           |
 | 7   | Os diagramas HTA são claros e concisos?                                                                    |           |
 | 8   | Os subobjetivos do HTA são suficientes para alcançar o objetivo definido?                                  |           |
@@ -231,9 +237,14 @@ A tabela 9 a seguir apresenta a checklist com asperguntas gerais e específicas 
 <center>
 <font size="2"><p style="text-align: center">Tabela 9: Checklist GOMS</p></font>
 
-| ID  | Critério                                                                                                   | Resultado |
-| --- | ---------------------------------------------------------------------------------------------------------- | --------- |
-|**Específico**  |                                                                                                 |           |
+| ID  | Critério                                               | Resultado | 
+| --- | ------------------------------------------------------- | --------- | 
+| **Geral** | | |
+| 1   | Há um texto introdutório sobre o artefato?  |       | 
+| 2   | Há a referência/bibliografia?               |       | 
+| 3   | O artefato possui um histórico de versões padronizado? |       | 
+| 4   | As imagens e tabelas são chamadas no texto? |       | 
+| 5   | As imagens e tabelas possuem título e fonte? |       |                                                                                                  |           |
 | 6   |  Os métodos GOMS incluem os quatro elementos principais: objetivos, operadores, métodos e regras de seleção?                                                                                                                                                                                                                                                                            |           |
 | 7   |O modelo GOMS inclui regras e descrições claras sobre como o usuário decide entre diferentes métodos ou operadores?                                                                                                                                                                                                                                                                         |           |
 | 8   | Os métodos GOMS são descritos usando uma linguagem semelhante a uma linguagem de programação?                                                                                                                                                                                                                                                                     |           |
@@ -250,9 +261,14 @@ A tabela 10 a seguir apresenta a checklist para verificação do Guia de Estilo.
 <center>
 <font size="2"><p style="text-align: center">Tabela 10: Checklist Verificação do Guia de Estilo</p></font>
 
-| ID  | Critério                                                                                                   | Resultado |
-| --- | ---------------------------------------------------------------------------------------------------------- | --------- |
-|**Específico**  |                                                                                                 |           |
+| ID  | Critério                                               | Resultado | 
+| --- | ------------------------------------------------------- | --------- | 
+| **Geral** | | |
+| 1   | Há um texto introdutório sobre o artefato?  |       | 
+| 2   | Há a referência/bibliografia?               |       | 
+| 3   | O artefato possui um histórico de versões padronizado? |       | 
+| 4   | As imagens e tabelas são chamadas no texto? |       | 
+| 5   | As imagens e tabelas possuem título e fonte? |       |                                                                                                |           |
 | 6   | O guia de estilo está organizado de acordo com uma estrutura comum?                                                                                                          |           |
 | 7   | O guia de estilo inclui os principais elementos e considerações de design de interface?                                                                                                     |           |
 | 8   | O guia de estilo fornece recomendações específicas sobre como alcançar as metas do projeto?                                                                                                           |           |
@@ -269,9 +285,14 @@ A tabela 11 a seguir apresenta a checklist para a verificação das Característ
 <center>
 <font size="2"><p style="text-align: center">Tabela 11: Checklist das Características da plataforma</p></font>
 
-| ID  | Critério                                                                                                   | Resultado |
-| --- | ---------------------------------------------------------------------------------------------------------- | --------- |
-|**Específico**  |                                                                                                 |           |
+| ID  | Critério                                               | Resultado | 
+| --- | ------------------------------------------------------- | --------- | 
+| **Geral** | | |
+| 1   | Há um texto introdutório sobre o artefato?  |       | 
+| 2   | Há a referência/bibliografia?               |       | 
+| 3   | O artefato possui um histórico de versões padronizado? |       | 
+| 4   | As imagens e tabelas são chamadas no texto? |       | 
+| 5   | As imagens e tabelas possuem título e fonte? |       |                                                                                                  |           |
 | 6   | Houve a identificação clara das tecnologias empregadas no desenvolvimento da plataforma?                                                                                                        |           |
 | 7   | As características específicas da plataforma foram devidamente reconhecidas para o desenvolvimento do projeto?                                                                                                           |           |
 | 8   | As características positivas da plataforma foram devidamente elencadas?                                                                                                         |           |
@@ -288,9 +309,14 @@ A tabela 12 a seguir apresenta a checklist para a verificação das Metas de Usa
 <center>
 <font size="2"><p style="text-align: center">Tabela 12: Checklist Verificação das Metas de Usabilidade</p></font>
 
-| ID  | Critério                                                                                                   | Resultado |
-| --- | ---------------------------------------------------------------------------------------------------------- | --------- |
-|**Específico**  |                                                                                                 |           |
+| ID  | Critério                                               | Resultado | 
+| --- | ------------------------------------------------------- | --------- | 
+| **Geral** | | |
+| 1   | Há um texto introdutório sobre o artefato?  |       | 
+| 2   | Há a referência/bibliografia?               |       | 
+| 3   | O artefato possui um histórico de versões padronizado? |       | 
+| 4   | As imagens e tabelas são chamadas no texto? |       | 
+| 5   | As imagens e tabelas possuem título e fonte? |       |                                                                                                 |           |
 | 6   | As metas de usabilidade são baseadas nas necessidades dos usuários?                                                                                                          |           |
 | 7   | As metas de usabilidade são relevantes para o contexto de uso do sistema?                                                                                                           |           |
 | 8   |  As metas de usabilidade são comunicadas de forma clara e concisa?                                                                                                           |           |
