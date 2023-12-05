@@ -51,7 +51,7 @@ Após a avaliação, foi feita uma análise geral sobre os artefatos que tiveram
 
 ## Registro da Verificação
 
-Segue o Video 1 com a gravação da verificação.
+É possível ver a gravação da verificação do artefato no Vídeo 1 e a gravação da validação com os autores do artefato no Vídeo 2.
 
 <center>
 
@@ -59,7 +59,18 @@ Segue o Video 1 com a gravação da verificação.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XstVu3tEnco?si=V2R7As_mHO8HJP_1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte:  [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
+
+</center>
+
+
+<center>
+
+<font size="3"><p style="text-align: center">Vídeo 2: Gravação da validação da verificação do artefato </p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5GZyEFowmQM?si=Rxo7pBdBzcMe16oC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 
