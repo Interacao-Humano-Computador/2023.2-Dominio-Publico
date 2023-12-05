@@ -24,4 +24,4 @@ Esta página é destinada à apresentação da etapa 6.1 do projeto de Interaç�
 
 | Versão |    Data    | Descrição                         | Autor(es)                                                                                      | Revisor(es)                                    |
 | ------ | :--------: | --------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 14/11/2023 | Criação e estruturação do arquivo | [Victor Hugo](https://github.com/ViictorHugoo) e [Ana Catarina](https://github.com/an4catarina | [Pedro Henrique](https://github.com/pedro-hsf) |
+| 1.0    | 14/11/2023 | Criação e estruturação do arquivo | [Victor Hugo](https://github.com/ViictorHugoo) e [Ana Catarina](https://github.com/an4catarina) | [Pedro Henrique](https://github.com/pedro-hsf) |
