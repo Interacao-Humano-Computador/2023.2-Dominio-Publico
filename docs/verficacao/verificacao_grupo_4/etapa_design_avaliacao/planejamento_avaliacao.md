@@ -21,19 +21,19 @@ Os artefatos a serem verificados são descritos na Tabela 1.
 
 | Artefato                                                                                                                    | Versão |                                                                                                                                                                      Autores                                                                                                                                                                      |
 | :-------------------------------------------------------------------------------------------------------------------------- | :----: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [Stoyboards](designAvaliacao/storyboard/storyboards/#historico-de-versao)                                                   |  1.4   |                                                                      [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Harryson Martins](https://github.com/harry-cmartin) e [Pedro Henrique](https://github.com/pedro-hsf)                                                                       |
-| [Planejamento da Avaliação dos Storyboards](designAvaliacao/storyboard/planejamentoAvaliacao/)                              |  1.7   |                                              [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf) e [Ana Catarina](https://github.com/an4catarina)                                               |
-| [Planejamento do Relato dos Resultados dos Storyboards](designAvaliacao/storyboard/planejamentoResultados/)                 |  1.1   |                                                                                                                         [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)                                                                                                                          |
-| [Relato dos Resultados dos Storyboards](designAvaliacao/resultadoStoryBoard/)                                               |  1.6   |                           [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Pedro Henrique](https://github.com/pedro-hsf) e [Ana Catarina](https://github.com/an4catarina)                            |
-| [Planejamento da Avaliação da Análise de Tarefas](designAvaliacao/Análisedearefas/planejamentoAvaliacao/)                   |  1.3   |                                                                             [Victor Hugo](https://github.com/ViictorHugoo), [Maria Alice](https://github.com/Maliz30), [Pedro Henrique](https://github.com/pedro-hsf), [Ana Catarina](https://github.com/an4catarina)                                                                             |
-| [Planejamento do Relato dos Resultados da Análise de Tarefas](designAvaliacao/Análisdearefas/planejamentoResultados/)       |  1.2   |                                                                                                                         [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)                                                                                                                          |
-| [Relato dos Resultados da Análise de Tarefas](designAvaliacao/resultadoStoryBoard/)                                         |  1.6   |                         [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf) e [Ana Catarina](https://github.com/an4catarina)                         |
-| [Planejamento da Avaliação do Protótipo de Papel](designAvaliacao/storyboard/planejamentoAvaliacao/)                        |  1.2   |                                                                      [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo) e [Harryson Martins](https://github.com/harry-cmartin)                                                                      |
-| [Planejamento do Relato dos Resultados do Protótipo de Papel](designAvaliacao/storyboard/planejamentoResultados/)           |  1.1   |                                                                                                                         [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)                                                                                                                          |
-| [Relato dos Resultados do Protótipo de Papel](designAvaliacao/resultadoStoryBoard/)                                         |  1.7   |                                                   [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30) e [Pedro Henrique](https://github.com/pedro-hsf)                                                    |
-| [Planejamento da Avaliação do Protótipo de Alta Fidelidade](designAvaliacao/storyboard/planejamentoAvaliacao/)              |  1.0   |                                                                                                                                               [Harryson Martins](https://github.com/harry-cmartin)                                                                                                                                                |
-| [Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade](designAvaliacao/storyboard/planejamentoResultados/) |  1.0   |                                                                                                                                                  [Gustavo França](https://github.com/gustavofbs)                                                                                                                                                  |
-| [Relato dos Resultados do Protótipo de Alta Fidelidade](designAvaliacao/resultadoStoryBoard/)                               |  1.6   | [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf), [Ana Catarina](https://github.com/an4catarina) |
+| [Stoyboards]()                                                   |  1.4   |                                                                      [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Harryson Martins](https://github.com/harry-cmartin) e [Pedro Henrique](https://github.com/pedro-hsf)                                                                       |
+| [Planejamento da Avaliação dos Storyboards]()                              |  1.7   |                                              [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf) e [Ana Catarina](https://github.com/an4catarina)                                               |
+| [Planejamento do Relato dos Resultados dos Storyboards]()                 |  1.1   |                                                                                                                         [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)                                                                                                                          |
+| [Relato dos Resultados dos Storyboards]()                                               |  1.6   |                           [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Pedro Henrique](https://github.com/pedro-hsf) e [Ana Catarina](https://github.com/an4catarina)                            |
+| [Planejamento da Avaliação da Análise de Tarefas]()                   |  1.3   |                                                                             [Victor Hugo](https://github.com/ViictorHugoo), [Maria Alice](https://github.com/Maliz30), [Pedro Henrique](https://github.com/pedro-hsf), [Ana Catarina](https://github.com/an4catarina)                                                                             |
+| [Planejamento do Relato dos Resultados da Análise de Tarefas]()       |  1.2   |                                                                                                                         [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)                                                                                                                          |
+| [Relato dos Resultados da Análise de Tarefas]()                                         |  1.6   |                         [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf) e [Ana Catarina](https://github.com/an4catarina)                         |
+| [Planejamento da Avaliação do Protótipo de Papel]()                        |  1.2   |                                                                      [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo) e [Harryson Martins](https://github.com/harry-cmartin)                                                                      |
+| [Planejamento do Relato dos Resultados do Protótipo de Papel]()           |  1.1   |                                                                                                                         [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)                                                                                                                          |
+| [Relato dos Resultados do Protótipo de Papel]()                                         |  1.7   |                                                   [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30) e [Pedro Henrique](https://github.com/pedro-hsf)                                                    |
+| [Planejamento da Avaliação do Protótipo de Alta Fidelidade]()              |  1.0   |                                                                                                                                               [Harryson Martins](https://github.com/harry-cmartin)                                                                                                                                                |
+| [Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade]() |  1.0   |                                                                                                                                                  [Gustavo França](https://github.com/gustavofbs)                                                                                                                                                  |
+| [Relato dos Resultados do Protótipo de Alta Fidelidade]()                               |  1.6   | [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf), [Ana Catarina](https://github.com/an4catarina) |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) </p></font>
 
@@ -48,19 +48,19 @@ A tabela 2 a seguir contempla o cronograma planejado para as verificações da f
 
 |    Data    |                                                          Artefato                                                           |          Responsável pela verificação           |
 | :--------: | :-------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------: |
-| 03/12/2023 |                          [Stoyboards](designAvaliacao/storyboard/storyboards/#historico-de-versao)                          | [Victor Hugo](https://github.com/ViictorHugoo)  |
-| 03/12/2023 |               [Planejamento da Avaliação dos Storyboards](designAvaliacao/storyboard/planejamentoAvaliacao/)                | [Victor Hugo](https://github.com/ViictorHugoo)  |
-| 03/12/2023 |         [Planejamento do Relato dos Resultados dos Storyboards](designAvaliacao/storyboard/planejamentoResultados/)         | [Victor Hugo](https://github.com/ViictorHugoo)  |
-| 03/12/2023 |                        [Relato dos Resultados dos Storyboards](designAvaliacao/resultadoStoryBoard/)                        | [Victor Hugo](https://github.com/ViictorHugoo)  |
-| 03/12/2023 |          [Planejamento da Avaliação da Análise de Tarefas](./analise_tarefas/planejamento_avaliacao.md)          | [Maria Alice](https://github.com/Maliz30) |
-| 03/12/2023 |    [Planejamento do Relato dos Resultados da Análise de Tarefas](./analise_tarefas/planejamento_relato.md)    |  [Maria Alice](https://github.com/Maliz30)                                               |
-| 03/12/2023 |                     [Relato dos Resultados da Análise de Tarefas](./analise_tarefas/relato_resultados.md)                     |     [Maria Alice](https://github.com/Maliz30) |
-| 03/12/2023 |            [Planejamento da Avaliação do Protótipo de Papel](designAvaliacao/storyboard/planejamentoAvaliacao/)             | [Luciano Ricardo](https://github.com/l-ricardo) |
-| 03/12/2023 |      [Planejamento do Relato dos Resultados do Protótipo de Papel](designAvaliacao/storyboard/planejamentoResultados/)      |                                                 |
-| 03/12/2023 |                     [Relato dos Resultados do Protótipo de Papel](designAvaliacao/resultadoStoryBoard/)                     |                                                 |
-| 03/12/2023 |       [Planejamento da Avaliação do Protótipo de Alta Fidelidade](designAvaliacao/storyboard/planejamentoAvaliacao/)        | [Luciano Ricardo](https://github.com/l-ricardo) |
-| 03/12/2023 | [Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade](designAvaliacao/storyboard/planejamentoResultados/) |                                                 |
-| 03/12/2023 |                [Relato dos Resultados do Protótipo de Alta Fidelidade](designAvaliacao/resultadoStoryBoard/)                |                                                 |
+| 03/12/2023 |                          [Stoyboards]()                                                     | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 03/12/2023 |               [Planejamento da Avaliação dos Storyboards]()                      | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 03/12/2023 |         [Planejamento do Relato dos Resultados dos Storyboards]()         | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 03/12/2023 |                        [Relato dos Resultados dos Storyboards]()                        | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 03/12/2023 |          [Planejamento da Avaliação da Análise de Tarefas](./analise_tarefas/planejamento_avaliacao.md)                     | [Maria Alice](https://github.com/Maliz30)       |
+| 03/12/2023 |    [Planejamento do Relato dos Resultados da Análise de Tarefas](./analise_tarefas/planejamento_relato.md)                  |  [Maria Alice](https://github.com/Maliz30)      |
+| 03/12/2023 |                     [Relato dos Resultados da Análise de Tarefas](./analise_tarefas/relato_resultados.md)                   |     [Maria Alice](https://github.com/Maliz30)   |
+| 03/12/2023 |          [Planejamento da Avaliação do Protótipo de Papel]()                     | [Maria Alice](https://github.com/Maliz30)       |
+| 03/12/2023 |      [Planejamento do Relato dos Resultados do Protótipo de Papel]()             |                                                 |
+| 03/12/2023 |                     [Relato dos Resultados do Protótipo de Papel]()                     |                                                 |
+| 03/12/2023 |       [Planejamento da Avaliação do Protótipo de Alta Fidelidade]()        | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 03/12/2023 | [Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade]() | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 03/12/2023 |                [Relato dos Resultados do Protótipo de Alta Fidelidade]()                | [Luciano Ricardo](https://github.com/l-ricardo) |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo), [Victor Hugo](https://github.com/ViictorHugoo) e [Maria Alice](https://github.com/Maliz30)</p></font>
 
@@ -365,7 +365,7 @@ Na tabela 14, estão listados os critérios que devem ser verificados no Planeja
 | 13  | Existe um cronograma planejado para a execução da avaliação no artefato? |
 | 14  | O artefato inclui o teste piloto do planejamento da avaliação?           |
 
-<font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) </p></font>
 
 </center>
 
@@ -376,20 +376,36 @@ Na tabela 15, estão listados os critérios que devem ser verificados no Planeja
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 15</b> - Checklist do artefato "Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade". </p></font>
 
-| ID  | Critério                                                                                                    |     |
-| --- | ----------------------------------------------------------------------------------------------------------- | --- |
-| 07  | O artefato descreve os objetivos do relato dos resultados da avaliação?                                     |     |
-| 08  | O artefato descreve os métodos utilizados?                                                                  |     |
-| 09  | O artefato descreve como devem ser apresentados os aspectos práticos do relato dos resultados da avaliação? |     |
-| 10  | O artefato descreve como devem ser apresentados os aspectos éticos do relato dos resultados da avaliação?   |     |
-| 11  | O artefato descreve como devem ser apresentados os resultados da avaliação?                                 |     |
-| 12  | O artefato descreve como devem ser apresentadas as conclusões da avaliação?                                 |     |
-| 13  | O artefato apresenta o modelo do cronograma executado da avaliação?                                         |     |
-| 14  | O artefato apresenta a estrutura do relatório a ser utilizado no relato dos resultados?                     |     |
+| ID  | Critério                                                                              |
+| --- | ------------------------------------------------------------------------------------- |
+| 07  | O artefato delineia os objetivos do relato dos resultados da avaliação?               |
+| 08  | Os método utilizado é descrito no artefato?                                           |
+| 09  | O artefato fornece a estrutura do relatório a ser utilizada no relato dos resultados? |
 
-<font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) </p></font>
 
 </center>
+
+### Checklist do Relato dos resultados do Protótipo de Alta Fidelidade
+
+A tabela 14 a seguir apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
+
+<center>
+<font size="3"><p style="text-align: center"><b>Tabela 14</b> - Checklist do artefato "Relato dos resultados do Protótipo de Alta Fidelidade". </p></font>
+
+| ID  | Critério                                                          |
+| --- | ----------------------------------------------------------------- |
+| 07  | Os objetivos do relato são apresentados?                          |
+| 08  | A metodologia do relato é apresentada?                            |
+| 09  | Os participantes estão documentados?                              |
+| 10  | Existe uma análise e interpretação dos dados?                     |
+| 11  | Os problemas encontrados estão listados?                          |
+| 12  | Existe sugestões e/ou planejamento de correção para os problemas? |
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) </p></font>
+
+</center>
+
 
 ## Referencias Bibliograficas
 
@@ -404,10 +420,11 @@ Na tabela 15, estão listados os critérios que devem ser verificados no Planeja
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                   | Autor(es)                                       | Revisor(es)                                    |
-| ------ | ---------- | ------------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 03/12/2023 | Estruturação do arquivo                     | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.1    | 03/12/2023 | Criação das perguntas do storyboard         | [Victor Hugo](https://github.com/ViictorHugoo) | [Ana Catarina](https://github.com/an4catarina) |
-| 1.2    | 03/12/2023 | Criação das perguntas do protótipo de papel | [Ana Catarina](https://github.com/an4catarina) | [Victor Hugo](https://github.com/ViictorHugoo) |
-| 1.3    | 03/12/2023 | Elaboração das perguntas da verificação od Planejamento da Avaliação da Análise de Tarefas  |[Maria Alice](https://github.com/gustavofbs)| [Pedro Henrique](https://github.com/pedro-hsf)  |
+| Versão | Data       | Descrição                                   | Autor(es)                                       | Revisor(es)                                     |
+| ------ | ---------- | ------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 03/12/2023 | Estruturação do arquivo                     | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.1    | 03/12/2023 | Criação das perguntas do storyboard         | [Victor Hugo](https://github.com/ViictorHugoo)  | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.2    | 03/12/2023 | Criação das perguntas do protótipo de papel | [Ana Catarina](https://github.com/an4catarina)  | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.3    | 03/12/2023 | Criação das perguntas do protótipo de alta  | [Luciano Ricardo](https://github.com/l-ricardo) | [Gustavo França](https://github.com/gustavofbs) |
+| 1.4    | 03/12/2023 | Elaboração das perguntas da verificação do Planejamento da Avaliação da Análise de Tarefas  |[Maria Alice](https://github.com/gustavofbs)| [Pedro Henrique](https://github.com/pedro-hsf)  |
 
