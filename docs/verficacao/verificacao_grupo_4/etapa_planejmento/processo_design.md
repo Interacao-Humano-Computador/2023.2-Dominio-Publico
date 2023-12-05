@@ -48,14 +48,23 @@ Na Figura 1, encontra-se um gráfico com o resultado da checklist da verificaç�
 
 ## Gravação de Verificação
 
-O vídeo 1 contém a gravação da verificação individual.
+É possível ver a gravação da verificação do artefato "Avaliação do Processo de Design" no vídeo 1 e a gravação da validação com os autores do artefato no vídeo 2.
 
 <center>
 
-<font size="2"><p style="text-align: center">Vídeo 1: Verificação individual</p></font>
+<font size="2"><p style="text-align: center">Vídeo 2: Verificação com o autor</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/leglY79A1bM?si=VfiCgthVEXSVvrtZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina)</p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Vídeo 2: Verificação com o autor</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eQcXfDA2NNU?si=eQQySXX8uijOWpc-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina) e [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 

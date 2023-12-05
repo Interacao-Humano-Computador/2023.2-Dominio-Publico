@@ -19,23 +19,26 @@ A metodologia escolhida para desenvolvimento da verificação foi a de Inspeçã
 - [Site escolhido](docs/planejamento/site_escolhido.md) ultima versão.
 - [Sites avaliados](docs/planejamento/sites_avaliados.md) ultima versão.
 
+<center>
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma de verificação</p></font>
 
-|      Artefato      | Versão |                                                                                                                                                                      Autor                                                                                                                                                                       |
-| :----------------: | :----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|     Cronograma     |  1.7   |                                                                                                    [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo),[Maria Alice](https://github.com/Maliz30)                                                                                                     |
-|    Ferramentas     |  1.3   | [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo) ,[Luciano Ricardo](https://github.com/l-ricardo),[Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf), [Ana Catarina](https://github.com/an4catarina) |
-|    Metodologia     |  1.3   |                                                                            [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo) ,[Luciano Ricardo](https://github.com/l-ricardo),[Maria Alice](https://github.com/Maliz30)                                                                            |
-| Processo de design |  1.1   |                                                                                                 [Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf)                                                                                                  |
-|  Sites avaliados   |  1.7   | [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo) ,[Luciano Ricardo](https://github.com/l-ricardo),[Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf), [Ana Catarina](https://github.com/an4catarina) |
-|   Site escolhido   |  1.3   |                                                                                                 [Gustavo França](https://github.com/gustavofbs),[Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin)                                                                                                  |
+|      Artefato      | Versão | Autor                                                                                                                                                                                                                                                                                                                                             |
+| :----------------: | :----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|     Cronograma     |  1.7   | [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Maria Alice](https://github.com/Maliz30)                                                                                                                                                                                                        |
+|    Ferramentas     |  1.3   | [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf), [Ana Catarina](https://github.com/an4catarina) |
+|    Metodologia     |  1.3   | [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30)                                                                                                                                                       |
+| Processo de design |  1.1   | [Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf)                                                                                                                                                                                                   |
+|  Sites avaliados   |  1.7   | [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf), [Ana Catarina](https://github.com/an4catarina) |
+|   Site escolhido   |  1.3   | [Gustavo França](https://github.com/gustavofbs), [Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin)                                                                                                                                                                                                  |
 
+</center>
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
 
 ## Cronograma
 
 A tabela a seguir contempla o cronograma planejado para as verificações da fase de planejamento:
 
+<center>
 <font size="2"><p style="text-align: center">Tabela 2: Checklist Ferramentas</p></font>
 
 |    Data    |       Artefato       |                  Responsável                   |
@@ -48,6 +51,7 @@ A tabela a seguir contempla o cronograma planejado para as verificações da fas
 | 02/12/2023 |    Site escolhido    |               Harryson e Gustavo               |
 | 02/12/2023 |   Sites avaliados    |               Harryson e Gustavo               |
 
+</center>
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
 
 ## Checklist
@@ -56,6 +60,7 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 
 ### Ferramentas
 
+<center>
 <font size="2"><p style="text-align: center">Tabela 3: Checklist Ferramentas</p></font>
 
 | ID  |                              Critério                               | Resultados |
@@ -72,12 +77,14 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) </p></font>
 
+</center>
 #### Embasamento Teórico
 
 As perguntas dos checklists foram elaboradas com base na Norma Padrão da ABNT [6], no Plano de Ensino da disciplina [2], no livro "Interação Humano-Computador" de Barbosa e Silva[1] e nos projetos de semestres anteriores da disciplina de Interação Humano Computador.
 
 ### Cronograma Planejado
 
+<center>
 <font size="2"><p style="text-align: center">Tabela 4: Checklist Cronograma Planejado</p></font>
 
 | ID  |                          Critério                          | Resultados |
@@ -92,12 +99,14 @@ As perguntas dos checklists foram elaboradas com base na Norma Padrão da ABNT [
 |  8  |               A tabela possui fonte e nome?                |            |
 |  9  |             Todas as tarefas possuem revisor?              |            |
 
+</center>
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
 
 ### Cronograma Executado
 
 ### Cronograma Executado
 
+<center>
 <div align="center">
 <font size="2"><p>Tabela 5: Checklist Cronograma Executado</p></font>
 
@@ -115,28 +124,32 @@ As perguntas dos checklists foram elaboradas com base na Norma Padrão da ABNT [
 
 <font size="2"><p>Fonte: [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 
+</center>
 </div>
 
 ### Metodologia
 
+<center>
 <font size="2"><p style="text-align: center">Tabela 6: Checklist Metodologia</p></font>
 
 | ID  |                        Critério                         | Resultado |
 | :-: | :-----------------------------------------------------: | :-------: |
 |  1  |              O artefato possui introdução?              |           |
-|  2  |    O artefato possui histórico de versão atualizado?    |
+|  2  |    O artefato possui histórico de versão atualizado?    |           |
 |  3  |      Os textos estão em norma padrão e sem erros?       |           |
 |  4  |             O artefato possui Bibliografia?             |           |
-|  5  | É evidenciado a metodologia a ser utilizada no projeto? |           |
+|  5  | É evidenciada a metodologia a ser utilizada no projeto? |           |
 |  6  |  A metodologia escolhida é descrita e contextualizada?  |           |
-|  7  |    É explicado o por que da escolha da metodologia?     |           |
-|  8  | É evidenciado a metodologia de avaliaçã a ser seguida?  |           |
+|  7  |     É explicado o porquê da escolha da metodologia?     |           |
+|  8  | É evidenciada a metodologia de avaliação a ser seguida? |           |
 |  9  |    É descrito como funciona esse tipo de avaliação?     |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
 
+</center>
 ### Processo Design
 
+<center>
 <font size="2"><p style="text-align: center">Tabela 7: Checklist Processo Design</p></font>
 
 | ID  |                                     Critério                                      |
@@ -154,12 +167,15 @@ As perguntas dos checklists foram elaboradas com base na Norma Padrão da ABNT [
 
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina) </p></font>
 
+</center>
+
 #### Embasamento Teórico
 
 As perguntas dos checklists foram elaboradas com base na Norma Padrão da ABNT [6], no Plano de Ensino da disciplina [2], no livro "Interação Humano-Computador" de Barbosa e Silva[1] e no "Planejamento da Verificação da Etapa 4 do Grupo 2- Bilheteria Digital"[3].
 
 ### Site escolhido
 
+<center>
 <font size="2"><p style="text-align: center">Tabela 8: Checklist Site escolhido</p></font>
 
 | ID  |                            Critério                            | Resultados |
@@ -175,8 +191,11 @@ As perguntas dos checklists foram elaboradas com base na Norma Padrão da ABNT [
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
 
+</center>
+
 ### Sites avaliados
 
+<center>
 <font size="2"><p style="text-align: center">Tabela 9: Checklist Sites avaliados</p></font>
 
 | ID  |                          Critério                           | Resultados |
@@ -190,6 +209,8 @@ As perguntas dos checklists foram elaboradas com base na Norma Padrão da ABNT [
 |  7  |     São evidenciados os problemas de cada site exposto?     |            |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
+
+</center>
 
 ## Referencias Bibliográficas
 
