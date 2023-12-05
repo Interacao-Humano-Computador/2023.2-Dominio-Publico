@@ -60,9 +60,11 @@ A partir do checklist foi constatado que é necessario colocar fontes nas tabela
 
 ## Verificações
 
+Nos videos 1 e 2 abaixo podem ser vistos a fase de verificação e correção dos erros encontrados:
+
 <center>
 
-<font size="2"><p style="text-align: center">Video 2: Gravação da verificação Cronograma Executado</p></font>
+<font size="2"><p style="text-align: center">Video 1: Gravação da verificação Cronograma Executado</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CKiNMJjk4Rg?si=Avw3kmFjzBwWCqxF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -70,6 +72,19 @@ A partir do checklist foi constatado que é necessario colocar fontes nas tabela
 
 
 </center>
+
+
+<center>
+
+<font size="2"><p style="text-align: center">Video 2: Correção</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rrW3F5g_WIE?si=VoHegJBYcaGJFYNq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte:  [Harryson Martins](https://github.com/harry-cmartin)</p></font>
+
+
+</center>
+
 
 ## Resultados 
 
