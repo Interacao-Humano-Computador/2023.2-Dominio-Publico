@@ -253,21 +253,11 @@ Na Tabela 12, tem-se o <b>cronograma planejado</b> para todas as atividades da e
 
 <font size="2"><p style="text-align: center">Tabela 12: Cronograma planejado de Atividades da Entrega 6.1.</p></font>
 
-| Atividade                              | Período de desenvolvimento   | Responsáveis     | Periodo de Revisão           | Revisores        |
-| -------------------------------------- | ---------------------------- | ---------------- | ---------------------------- | ---------------- |
-| Verificação e Relato artefatos etapa 1 | Inicio: 10/11 <br>Fim: 11/11 | Ana Catarina     | Inicio: 11/11 <br>Fim: 11/11 | Pedro Henrique   |
-| Verificação e Relato artefatos etapa 2 | Inicio: 10/11 <br>Fim: 10/11 | Gustavo França   | Inicio: 10/11 <br>Fim: 11/11 | Harryson Martins |
-| Verificação e Relato artefatos etapa 3 | Inicio: 10/11 <br>Fim: 11/11 | Harryson Martins | Inicio: 11/11 <br>Fim: 11/11 | Gustavo França   |
-| Verificação e Relato artefatos etapa 4 | Início: 12/11 <br>Fim: 13/11 | Luciano Ricardo  | Inicio: 13/11 <br>Fim: 13/11 | Victor           |
-| Verificação e Relato artefatos etapa 5 | Início: 10/11 <br>Fim: 14/11 | Victor           | Inicio: 14/11 <br>Fim: 14/11 | Maria Alice      |
-| Ajustes artefatos etapa 1              | Inicio: 11/11 <br>Fim: 12/11 | Maria Alice      | Inicio: 12/11 <br>Fim: 12/11 | Luciano Ricardo  |
-| Ajustes artefatos etapa 2              | Inicio: 11/11 <br>Fim: 11/11 | Ana Catarina     | Inicio: 11/11 <br>Fim: 11/11 | Pedro Henrique   |
-| Ajustes artefatos etapa 3              | Inicio: 11/11 <br>Fim: 12/11 | Luciano Ricardo  | Inicio: 12/11 <br>Fim: 12/11 | Victor           |
-| Ajustes artefatos etapa 4              | Inicio: 12/11 <br>Fim: 14/11 | Harryson Martins | Inicio: 14/11 <br>Fim: 14/11 | Gustavo França   |
-| Ajustes artefatos etapa 5              | Inicio: 12/11 <br>Fim: 14/11 | Pedro Henrique   | Inicio: 14/11 <br>Fim: 14/11 | Ana Catarina     |
-| Gravar apresentação                    | Inicio: 14/11 <br>Fim: 14/11 | Pedro Henrique   | Inicio: 14/11 <br>Fim: 14/11 | Ana Catarina     |
-| Edição da gravação                     | Inicio: 15/11 <br>Fim: 15/11 | Ana Catarina     | Inicio: 15/11 <br>Fim: 15/11 | Pedro Henrique   |
-| Correção pós apresentação              | Inicio: 16/11 <br>Fim: 16/11 | Gustavo França   | Inicio: 16/11 <br>Fim: 16/11 | Harryson Martins |
+| Atividade                                     | Período de desenvolvimento   | Responsáveis    | Periodo de Revisão           | Revisores        |
+| --------------------------------------------- | ---------------------------- | --------------- | ---------------------------- | ---------------- |
+| Verificação e Relato artefatos etapa 1, 2 e 3 | Inicio: 13/11 <br>Fim: 14/11 | Victor          | Inicio: 15/11 <br>Fim: 15/11 | Harryson Martins |
+| Verificação e Relato artefatos etapa 4, 5 | Inicio: 13/11 <br>Fim: 14/11 | Maria Alice     | Inicio: 15/11 <br>Fim: 15/11 | Gustavo França   |
+
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
 
@@ -279,21 +269,10 @@ Na Tabela 13, tem-se o <b>cronograma executado</b> para todas as atividades da e
 
 <font size="2"><p style="text-align: center">Tabela 13: Cronograma executado de Atividades da Entrega 6.1.</p></font>
 
-| Atividade                              | Período de desenvolvimento                | Responsáveis | Periodo de Revisão                          | Revisores |
-| -------------------------------------- | ----------------------------------------- | ------------ | ------------------------------------------- | --------- |
-| Verificação e Relato artefatos etapa 1 |  Inicio:          <br>Fim:                |              |    Inicio:          <br>Fim:                |           |
-| Verificação e Relato artefatos etapa 2 |  Inicio:          <br>Fim:                |              |    Inicio:          <br>Fim:                |           |
-| Verificação e Relato artefatos etapa 3 |  Inicio:          <br>Fim:                |              |    Inicio:          <br>Fim:                |           |
-| Verificação e Relato artefatos etapa 4 |  Inicio:          <br>Fim:                |              |    Inicio:          <br>Fim:                |           |
-| Verificação e Relato artefatos etapa 5 |  Inicio:          <br>Fim:                |              |    Inicio:          <br>Fim:                |           |
-| Ajustes artefatos etapa 1              |  Inicio:          <br>Fim:                |              |    Inicio:          <br>Fim:                |           |
-| Ajustes artefatos etapa 2              |  Inicio:          <br>Fim:                |              |    Inicio:          <br>Fim:                |           |
-| Ajustes artefatos etapa 3              |  Inicio:          <br>Fim:                |              |    Inicio:          <br>Fim:                |           |
-| Ajustes artefatos etapa 4              |  Inicio:          <br>Fim:                |              |    Inicio:          <br>Fim:                |           |
-| Ajustes artefatos etapa 5              |  Inicio:          <br>Fim:                |              |    Inicio:          <br>Fim:                |           |
-| Gravar apresentação                    |  Inicio:          <br>Fim:                |              |    Inicio:          <br>Fim:                |           |
-| Edição da gravação                     |  Inicio:          <br>Fim:                |              |    Inicio:          <br>Fim:                |           |
-| Correção pós apresentação              |  Inicio:          <br>Fim:                |              |    Inicio:          <br>Fim:                |           |
+| Atividade                                     | Período de desenvolvimento | Responsáveis | Periodo de Revisão | Revisores |
+| --------------------------------------------- | -------------------------- | ------------ | ------------------ | --------- |
+| Verificação e Relato artefatos etapa 1, 2 e 3 | Inicio:14/11<br>Fim:15/11| Harryson, Victor e Gustavo                    | Inicio: 15/11 <br>Fim: 15/11|Pedro Henrique            |
+| Verificação e Relato artefatos etapa 4, 5 | Inicio:14/11<br>Fim:15/11| Maria Alice, Ana Catarina e Pedro             | Inicio: 15/11 <br>Fim: 15/11|Gustavo França           |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
 
@@ -307,11 +286,17 @@ Na Tabela 14, tem-se o <b>cronograma planejado</b> para todas as atividades da e
 
 <font size="2"><p style="text-align: center">Tabela 14: Cronograma planejado de Atividades da Entrega 6.2.</p></font>
 
-| Atividade                                     | Período de desenvolvimento   | Responsáveis    | Periodo de Revisão           | Revisores        |
-| --------------------------------------------- | ---------------------------- | --------------- | ---------------------------- | ---------------- |
-| Verificação e Relato artefatos etapa 1, 2 e 3 | Inicio: 24/11 <br>Fim: 26/11 | Victor          | Inicio: 28/11 <br>Fim: 29/11 | Harryson Martins |
-| Verificação e Relato artefatos etapa 4, 5 e 6 | Inicio: 24/11 <br>Fim: 26/11 | Maria Alice     | Inicio: 28/11 <br>Fim: 29/11 | Gustavo França   |
-| Execução do protótipo de alta fidelidade      | Inicio: 24/11 <br>Fim: 29/11 | Luciano Ricardo | Inicio: 28/11 <br>Fim: 28/11 | Pedro Henrique   |
+
+| Atividade                              | Período de desenvolvimento   | Responsáveis     | Periodo de Revisão           | Revisores        |
+| -------------------------------------- | ---------------------------- | ---------------- | ---------------------------- | ---------------- |
+| Verificação e Relato artefatos etapa 1 | Inicio: 10/11 <br>Fim: 11/11 | Ana Catarina     | Inicio: 11/11 <br>Fim: 11/11 | Pedro Henrique   |
+| Verificação e Relato artefatos etapa 2 | Inicio: 10/11 <br>Fim: 10/11 | Gustavo França   | Inicio: 10/11 <br>Fim: 11/11 | Harryson Martins |
+| Verificação e Relato artefatos etapa 3 | Inicio: 10/11 <br>Fim: 11/11 | Harryson Martins | Inicio: 11/11 <br>Fim: 11/11 | Gustavo França   |
+| Verificação e Relato artefatos etapa 4 | Início: 12/11 <br>Fim: 13/11 | Luciano Ricardo  | Inicio: 13/11 <br>Fim: 13/11 | Victor           |
+| Verificação e Relato artefatos etapa 5 | Início: 10/11 <br>Fim: 14/11 | Victor           | Inicio: 14/11 <br>Fim: 14/11 | Maria Alice      |
+| Gravar apresentação                    | Inicio: 14/11 <br>Fim: 14/11 | Pedro Henrique   | Inicio: 14/11 <br>Fim: 14/11 | Ana Catarina     |
+| Edição da gravação                     | Inicio: 15/11 <br>Fim: 15/11 | Ana Catarina     | Inicio: 15/11 <br>Fim: 15/11 | Pedro Henrique   |
+| Correção pós apresentação              | Inicio: 16/11 <br>Fim: 16/11 | Gustavo França   | Inicio: 16/11 <br>Fim: 16/11 | Harryson Martins |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
 
@@ -323,11 +308,17 @@ Na Tabela 15, tem-se o <b>cronograma executado</b> para todas as atividades da e
 
 <font size="2"><p style="text-align: center">Tabela 15: Cronograma executado de Atividades da Entrega 6.2.</p></font>
 
-| Atividade                                     | Período de desenvolvimento | Responsáveis | Periodo de Revisão | Revisores |
-| --------------------------------------------- | -------------------------- | ------------ | ------------------ | --------- |
-| Verificação e Relato artefatos etapa 1, 2 e 3 | Inicio:24/11<br>Fim:26/11| Harryson, Victor e Gustavo                    | Inicio: 28/11 <br>Fim: 29/11|Pedro Henrique            |
-| Verificação e Relato artefatos etapa 4, 5 e 6 | Inicio:24/11<br>Fim:26/11| Maria Alice, Ana Catarina e Pedro             | Inicio: 28/11 <br>Fim: 29/11|Gustavo França           |
-| Execução do protótipo de alta fidelidade      | Inicio:24/11<br>Fim:29/11| Luciano Ricardo                               | Inicio: 28/11 <br>Fim: 29/11|Ana Catarina|
+| Atividade                              | Período de desenvolvimento                | Responsáveis | Periodo de Revisão                          | Revisores |
+| -------------------------------------- | ----------------------------------------- | ------------ | ------------------------------------------- | --------- |
+| Verificação e Relato artefatos etapa 1 |  Inicio: 02/12    <br>Fim:  04/12         | Harryson Martins, Gustavo França, Victor Hugo e Ana Catarina    |   Inicio: 02/12    <br>Fim:  04/12          | Maria Alice, Gustavo França, Harryson Martins, Pedro Henrique |
+| Verificação e Relato artefatos etapa 2 |  Inicio: 02/12    <br>Fim:  04/12         | Harryson Martins, Gustavo França, Pedro Henrique e Maria Alice  |   Inicio: 02/12    <br>Fim:  04/12          | Victor Hugo, Ana Catarina, Harryson Martins, Gustavo França |
+| Verificação e Relato artefatos etapa 3 |  Inicio: 02/12    <br>Fim:  04/12         | Harryson Martins, Gustavo França, Pedro Henrique e Maria Alice  |   Inicio: 02/12    <br>Fim:  04/12          | Victor Hugo, Ana Catarina, Harryson Martins, Gustavo França |
+| Verificação e Relato artefatos etapa 4 |  Inicio: 02/12    <br>Fim:  04/12         | Victor Hugo, Luciano Ricardo e Maria Alice                      |   Inicio: 02/12    <br>Fim:  04/12          | Ana Catarina e Pedro Henrique|
+| Verificação e Relato artefatos etapa 5 |  Inicio: 02/12    <br>Fim:  04/12         | Luciano Ricardo, Ana Catarina                                   |   Inicio: 02/12    <br>Fim:  04/12          | Maria Alice, Victor Hugo e Pedro Henrique |
+| Verificação e Relato artefatos etapa 7 |  Inicio: 02/12    <br>Fim:  04/12         | Luciano Ricardo                                                 |   Inicio: 02/12    <br>Fim:  04/12          | Gustavo França |
+| Gravar apresentação                    |  Inicio: 04/12    <br>Fim:  04/12         | Ana Catarina |   Inicio: 02/12    <br>Fim:  04/12          | Victor Hugo |
+| Edição da gravação                     |  Inicio: 04/12    <br>Fim:  04/12         | Ana Catarina |   Inicio: 02/12    <br>Fim:  04/12          | Victor Hugo |
+| Correção pós apresentação              |  Inicio:          <br>Fim:                |              |    Inicio:          <br>Fim:                |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
 
