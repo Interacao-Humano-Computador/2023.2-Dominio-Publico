@@ -64,8 +64,6 @@ A tabela 2 a seguir contempla o cronograma planejado para as verificações da f
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo), [Victor Hugo](https://github.com/ViictorHugoo) e [Maria Alice](https://github.com/Maliz30)</p></font>
 
-> > > > > > > 57f61edd556133081eea276698a1dd2ae314dee0
-
 </center>
 
 ## Checklist
