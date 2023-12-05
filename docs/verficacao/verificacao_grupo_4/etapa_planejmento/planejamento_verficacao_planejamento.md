@@ -38,15 +38,15 @@ A tabela a seguir contempla o cronograma planejado para as verificações da fas
 
 <font size="2"><p style="text-align: center">Tabela 2: Checklist Ferramentas</p></font>
 
-|    Data    |       Artefato       |    Responsável     |
-| :--------: | :------------------: | :----------------: |
-| 02/12/2023 |     Ferramentas      |    Victor Hugo     |
-| 02/12/2023 | Cronograma planejado | Harryson e Gustavo |
-| 02/12/2023 | Cronograma executado | Harryson e Gustavo |
-| 02/12/2023 |     Metodologia      | Harryson e Gustavo |
-| 02/12/2023 |  Processo de design  |                    |
-| 02/12/2023 |    Site escolhido    | Harryson e Gustavo |
-| 02/12/2023 |   Sites avaliados    | Harryson e Gustavo |
+|    Data    |       Artefato       |                  Responsável                   |
+| :--------: | :------------------: | :--------------------------------------------: |
+| 02/12/2023 |     Ferramentas      |                  Victor Hugo                   |
+| 02/12/2023 | Cronograma planejado |               Harryson e Gustavo               |
+| 02/12/2023 | Cronograma executado |               Harryson e Gustavo               |
+| 02/12/2023 |     Metodologia      |               Harryson e Gustavo               |
+| 02/12/2023 |  Processo de design  | [Ana Catarina](https://github.com/an4catarina) |
+| 02/12/2023 |    Site escolhido    |               Harryson e Gustavo               |
+| 02/12/2023 |   Sites avaliados    |               Harryson e Gustavo               |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
 
@@ -74,7 +74,7 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 
 #### Embasamento Teórico
 
-As perguntas dos checklists foram elaboradas com base na Norma Padrão da ABNT, no Plano de Ensino da disciplina, no livro "Interação Humano-Computador" de Barbosa e Silva[1] e nos projetos de semestres anteriores da disciplina de Interação Humano Computador.
+As perguntas dos checklists foram elaboradas com base na Norma Padrão da ABNT [6], no Plano de Ensino da disciplina [2], no livro "Interação Humano-Computador" de Barbosa e Silva[1] e nos projetos de semestres anteriores da disciplina de Interação Humano Computador.
 
 ### Cronograma Planejado
 
@@ -154,6 +154,10 @@ As perguntas dos checklists foram elaboradas com base na Norma Padrão da ABNT, 
 
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina) </p></font>
 
+#### Embasamento Teórico
+
+As perguntas dos checklists foram elaboradas com base na Norma Padrão da ABNT [6], no Plano de Ensino da disciplina [2], no livro "Interação Humano-Computador" de Barbosa e Silva[1] e no "Planejamento da Verificação da Etapa 4 do Grupo 2- Bilheteria Digital"[3].
+
 ### Site escolhido
 
 <font size="2"><p style="text-align: center">Tabela 8: Checklist Site escolhido</p></font>
@@ -187,15 +191,16 @@ As perguntas dos checklists foram elaboradas com base na Norma Padrão da ABNT, 
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
 
+## Referencias Bibliográficas
+
+> [1] Verificação. Repositório do Grupo Domínio Público da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_planejamento/planejamento_avaliacao/>>. Acesso em: 2 de dez de 2023.
+> [2] BARROS, André. Plano de ensino da disciplina Interação Humano Computador no semestre 02/2023, FGA, Gama, 2023. Acesso em: 03 de dezembro de 2023.
+> [3] Planejamento da Verificação da Etapa 4 do Grupo 2- Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa4/planejamento-verificacao-etapa4-grupo>>. Acesso em 03 de dezembro de 2023.
+> [4] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976. Acesso em: 03 de dezembro de 2023
+> [5] Planejamento da Verificação das Etapas do Grupo + 1 - Plataforma Lattes. Disponível em: <<https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Verificação/Grupo%20%2B%201/01%20-%20planejamento-verificacao-grupo-04/>>. Acesso em 02 de dezembro de 2023.
+> [6] Normas ABNT: 2023. Disponível em: https://www.normasabnt.org/normas-abnt-2023/. Acesso em: 20 de novembro de 2023.
+
 ## Bibliografia
-
-> 1. Verificação. Repositório do Grupo Domínio Público da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_planejamento/planejamento_avaliacao/>>. Acesso em: 2 de dez de 2023.
-> 2. BARROS, André. Plano de ensino da disciplina Interação Humano Computador no semestre 02/2023, FGA, Gama, 2023. Acesso em: 03 de dezembro de 2023.
-> 3. Planejamento da Verificação da Etapa 4 do Grupo 2- Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa4/planejamento-verificacao-etapa4-grupo>>. Acesso em 03 de dezembro de 2023.
-> 4. FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976. Acesso em: 03 de dezembro de 2023
-> 5. Planejamento da Verificação das Etapas do Grupo + 1 - Plataforma Lattes. Disponível em: <<https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Verificação/Grupo%20%2B%201/01%20-%20planejamento-verificacao-grupo-04/>>. Acesso em 02 de dezembro de 2023.
-
-## Referencias Bibliograficas
 
 <a id="FRM3" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 

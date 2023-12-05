@@ -28,16 +28,45 @@ Na tabela 1, estão listados os critérios que devem ser verificados no Planejam
 
 ## Conclusão
 
-Após a avaliação, foi feita uma análise geral sobre os artefatos que tiveram a sua avaliação 
+Após a avaliação, foi feita uma análise geral sobre os artefatos. Como todos foram classificados como "Sim", não terão explicações sobre a situação do critério.
+
+Na Figura 1, encontra-se um gráfico com o resultado da checklist da verificação do artefato.
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 1: Resultado da verificação do artefato</p></font>
+
+![Verificação](../../../../assets/verificacao/planejResultProtPapel.jpeg)
+
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina)</p></font>
+
+</center>
 
 ## Gravação de Verificação
 
+O vídeo 1 contém a gravação da verificação individual.
+
+<center>
+
+<font size="2"><p style="text-align: center">Vídeo 1: Verificação individual</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SUPm2dBX3ww?si=SYJd-dOyN7eSvIrI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina)</p></font>
+
+</center>
+
 ## Bibliografia
 
-## Referencias Bibliograficas
+> 1. BARROS, André. Plano de ensino da disciplina Interação Humano Computador no semestre 02/2023, FGA, Gama, 2023. Acesso em: 03 de dezembro de 2023.
+> 2. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> 3. Planejamento da Verificação da Etapa 4 do Grupo 2- Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa4/planejamento-verificacao-etapa4-grupo>>. Acesso em 03 de dezembro de 2023.
+> 4. FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976. Acesso em: 03 de dezembro de 2023
+> 5. Planejamento da Verificação das Etapas do Grupo + 1 - Plataforma Lattes. Disponível em: <<https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Verificação/Grupo%20%2B%201/01%20-%20planejamento-verificacao-grupo-04/>>. Acesso em 02 de dezembro de 2023.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição         | Autor(es)                                             | Revisor(es)                                    |
-| ------ | ---------- | ----------------- | ----------------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 03/12/2023 | Criação do Relato | [Ana Catarina Santos](https://github.com/an4catarina) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| Versão | Data  | Descrição                  | Autor(es)                                             | Revisor(es)                                    |
+| ------ | ----- | -------------------------- | ----------------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 03/12 | Criação da avaliação       | [Ana Catarina Santos](https://github.com/an4catarina) | [Pedro Henrique](https://github.com/pedro-hsf) |
+| 1.1    | 04/12 | Preenchimento da avaliação | [Ana Catarina Santos](https://github.com/an4catarina) | [Pedro Henrique](https://github.com/pedro-hsf) |
