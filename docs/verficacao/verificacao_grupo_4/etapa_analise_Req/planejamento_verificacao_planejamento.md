@@ -81,17 +81,18 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 <center>
 <font size="2"><p style="text-align: center">Tabela 3: Checklist Aspectos Éticos</p></font>
 
-| ID  | Critério                                                                                                   | 
-| --- | ---------------------------------------------------------------------------------------------------------- | 
-| 1   | Há um texto introdutório sobre o artefato?                                                                 |      
-| 2   | Há a referencia/bibliografia?                                                                              |           
-| 3   | O artefato possui um histórico de versões padronizado?                                                     |           
-| 4   | As imagens e tabelas são chamadas no texto?                                                                |           
-| 5   | As imagens e tabelas possuem titulo e fonte?                                                               |          
-| 6   | São citados os princípios da autonomia, da beneficência, da não maleficência e da justiça e equidade?      |           
-| 7   | Existe um modelo de termo de consentimento livre e esclarecido que será disponibilizado aos participantes? |          
-| 8   | É citado que os avaliadores irão solicitar a permissão para gravar a pessoa, antes de começar a gravação?  |           
-| 9   | No TCLE é explicado o objetivo da pesquisa e como ela será realizada aos participantes?                    |           
+| ID  | Critério                                                                                                   | Resultado | 
+| --- | ---------------------------------------------------------------------------------------------------------- | --------- | 
+| 1   | Há um texto introdutório sobre o artefato?                                                                |           | 
+| 2   | Há a referencia/bibliografia?                                                                             |           | 
+| 3   | O artefato possui um histórico de versões padronizado?                                                     |           | 
+| 4   | As imagens e tabelas são chamadas no texto?                                                                |           | 
+| 5   | As imagens e tabelas possuem titulo e fonte?                                                               |           | 
+| 6   | São citados os princípios da autonomia, da beneficência, da não maleficência e da justiça e equidade?      |           | 
+| 7   | Existe um modelo de termo de consentimento livre e esclarecido que será disponibilizado aos participantes? |           | 
+| 8   | É citado que os avaliadores irão solicitar a permissão para gravar a pessoa, antes de começar a gravação?  |           | 
+| 9   | No TCLE é explicado o objetivo da pesquisa e como ela será realizada aos participantes?                    |           |
+
 
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
@@ -125,27 +126,28 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 <center>
 <font size="2"><p style="text-align: center">Tabela 5: Checklist Personas</p></font>
 
-| ID  | Critério                                                                                              |
-| --- | ----------------------------------------------------------------------------------------------------- |
-| 1   | Há um texto introdutório sobre o artefato?                                                            |           
-| 2   | Há a referencia/bibliografia?                                                                         |           
-| 3   | O artefato possui um histórico de versões padronizado?                                                |           
-| 4   | As imagens e tabelas são chamadas no texto?                                                           |           
-| 5   | As imagens e tabelas possuem titulo e fonte?                                                          |           
-| 6   | As personas foram criadas baseadas nos dados do perfil do usuário?                                    |           
-| 7   | A razão da quantidade de personas é justificada?                                                      |           
-| 8   | As personas possuem nome e sobrenome?                                                                 |           
-| 9   | As personas possuem idade e dados demográficos?                                                       |           
-| 10  | As personas possuem foto?                                                                             |           
-| 11  | As personas são identificadas entre primaria, secundaria ou antipersona?                              |           
-| 12  | As personas possuem seu objetivos específicos claramente definidos?                                   |           
-| 13  | As personas possuem suas especialidades claramente definidas?                                         |           
-| 14  | As personas possuem sua educação definida?                                                            |           
-| 15  | As personas possuem seu nivel de treinamento definido?                                                |           
-| 16  | As personas possuem suas tarefas básicas ou críticas definidas com frequência, importância e duração? |           
-| 16  | As personas possuem seus relacionamentos com outros explicados?                                       |           
-| 17  | Os requisitos necessários para atender às necessidades das personas são abordados?                    |           
-| 18  | As expectativas das personas sobre o produto estão documentadas?                                      |           
+| ID  | Critério                                                                                              | Resultado | 
+| --- | ----------------------------------------------------------------------------------------------------- | --------- | 
+| 1   | Há um texto introdutório sobre o artefato?                                                            |           | 
+| 2   | Há a referencia/bibliografia?                                                                         |           | 
+| 3   | O artefato possui um histórico de versões padronizado?                                                |           | 
+| 4   | As imagens e tabelas são chamadas no texto?                                                           |           | 
+| 5   | As imagens e tabelas possuem titulo e fonte?                                                          |           | 
+| 6   | As personas foram criadas baseadas nos dados do perfil do usuário?                                    |           | 
+| 7   | A razão da quantidade de personas é justificada?                                                      |           | 
+| 8   | As personas possuem nome e sobrenome?                                                                 |           | 
+| 9   | As personas possuem idade e dados demográficos?                                                       |           | 
+| 10  | As personas possuem foto?                                                                             |           | 
+| 11  | As personas são identificadas entre primaria, secundaria ou antipersona?                              |           | 
+| 12  | As personas possuem seus objetivos específicos claramente definidos?                                  |           | 
+| 13  | As personas possuem suas especialidades claramente definidas?                                         |           | 
+| 14  | As personas possuem sua educação definida?                                                            |           | 
+| 15  | As personas possuem seu nivel de treinamento definido?                                                |           | 
+| 16  | As personas possuem suas tarefas básicas ou críticas definidas com frequência, importância e duração? |           | 
+| 16  | As personas possuem seus relacionamentos com outros explicados?                                       |           | 
+| 17  | Os requisitos necessários para atender às necessidades das personas são abordados?                    |           | 
+| 18  | As expectativas das personas sobre o produto estão documentadas?                                      |           |
+           
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs).</p></font>
 </center>
@@ -155,18 +157,19 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 <center>
 <font size="2"><p style="text-align: center">Tabela 6: Checklist Cenários</p></font>
 
-| ID  | Critério                                                | 
-| --- | ------------------------------------------------------- | 
-| 1   | Há um texto introdutório sobre o artefato?              |           
-| 2   | Há a referencia/bibliografia?                           |           
-| 3   | O artefato possui um histórico de versões padronizado?  |           
-| 4   | As imagens e tabelas são chamadas no texto?             |           
-| 5   | As imagens e tabelas possuem titulo e fonte?            |           
-| 6   | Os cenarios possuem contexto definido?                  |           
-| 7   | Os cenarios possuem o(s) ator(es) envolvidos definidos? |           
-| 8   | Os cenarios possuem objetivos definidos?                |           
-| 9   | Os cenarios possuem ações definidas?                    |           
-| 10  | Os cenarios possuem avaliação definida?                 |           
+| ID  | Critério                                                | Resultado | 
+| --- | ------------------------------------------------------- | --------- | 
+| 1   | Há um texto introdutório sobre o artefato?              |           | 
+| 2   | Há a referencia/bibliografia?                           |           | 
+| 3   | O artefato possui um histórico de versões padronizado?  |           | 
+| 4   | As imagens e tabelas são chamadas no texto?             |           | 
+| 5   | As imagens e tabelas possuem titulo e fonte?            |           | 
+| 6   | Os cenários possuem contexto definido?                  |           | 
+| 7   | Os cenários possuem o(s) ator(es) envolvidos definidos? |           | 
+| 8   | Os cenários possuem objetivos definidos?                |           | 
+| 9   | Os cenários possuem ações definidas?                    |           | 
+| 10  | Os cenários possuem avaliação definida?                 |           |
+           
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 </center>
