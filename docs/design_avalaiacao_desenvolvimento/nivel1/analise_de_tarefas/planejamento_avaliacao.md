@@ -1,12 +1,8 @@
 # Planejamento da Avaliação da Análise de Tarefas
 
-
-
 ## Introdução
 
-Para realizar uma entrega de qualidade, é necessário avaliar se o produto resultante atende aos critérios de qualidade desejados, desta forma conseguimos corrigir os problemas antes que eles cheguem ao consumidor. Avaliar a qualidade de uso de um sistema apresenta diversas vantagens, dentre elas a correção rápida de problemas, a equipe de desenvolvimento pode se concentrar em solucionar problemas reais, redução no tempo de mercado e a identificação e correção de problemas mais robustos de IHC. Entretanto, estaremos avaliando um site que já está no ar, como forma de propor soluções aos problemas existentes. Serão analisados critérios de qualidade na perspectiva do usuário, avaliando usabilidade, experiência do usuário, acessibilidade e comunicabilidade. 
-
-
+Para realizar uma entrega de qualidade, é necessário avaliar se o produto resultante atende aos critérios de qualidade desejados, desta forma conseguimos corrigir os problemas antes que eles cheguem ao consumidor. Avaliar a qualidade de uso de um sistema apresenta diversas vantagens, dentre elas a correção rápida de problemas, a equipe de desenvolvimento pode se concentrar em solucionar problemas reais, redução no tempo de mercado e a identificação e correção de problemas mais robustos de IHC. Entretanto, estaremos avaliando um site que já está no ar, como forma de propor soluções aos problemas existentes. Serão analisados critérios de qualidade na perspectiva do usuário, avaliando usabilidade, experiência do usuário, acessibilidade e comunicabilidade. Vale ressaltar o teste piloto não está incluso no framework DECIDE, mas será realizado para validar o planejamento da avaliação.
 
 ## Metodologia
 
@@ -117,7 +113,7 @@ Como definido anteriormente a entrevista seá realizada por meio de ferramentas 
 
 ### Prazos
 
-O cronograma das entrevistas com os usuários estão documentadas na tabela 1 com os seguintes tópicos:
+O cronograma das entrevistas com os usuários estão documentadas na tabela 2 com os seguintes tópicos:
 
 - Entrevistador;
 - Entrevistado;
