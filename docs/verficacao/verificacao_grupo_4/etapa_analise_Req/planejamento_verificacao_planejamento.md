@@ -83,11 +83,13 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 
 | ID  | Critério                                                                                                   | Resultado | 
 | --- | ---------------------------------------------------------------------------------------------------------- | --------- | 
+| **Geral** | | |
 | 1   | Há um texto introdutório sobre o artefato?                                                                |           | 
 | 2   | Há a referencia/bibliografia?                                                                             |           | 
 | 3   | O artefato possui um histórico de versões padronizado?                                                     |           | 
 | 4   | As imagens e tabelas são chamadas no texto?                                                                |           | 
 | 5   | As imagens e tabelas possuem titulo e fonte?                                                               |           | 
+| **Específico** | | 
 | 6   | São citados os princípios da autonomia, da beneficência, da não maleficência e da justiça e equidade?      |           | 
 | 7   | Existe um modelo de termo de consentimento livre e esclarecido que será disponibilizado aos participantes? |           | 
 | 8   | É citado que os avaliadores irão solicitar a permissão para gravar a pessoa, antes de começar a gravação?  |           | 
@@ -105,11 +107,13 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 
 | ID  | Critério                                                                                                                  |
 | --- | ------------------------------------------------------------------------------------------------------------------------- | 
+| **Geral** | | |
 | 1   | Há um texto introdutório sobre o artefato?                                                                                |           
 | 2   | Há a referencia/bibliografia?                                                                                             |           
 | 3   | O artefato possui um histórico de versões padronizado?                                                                    |           
 | 4   | As imagens e tabelas são chamadas no texto?                                                                               |           
-| 5   | As imagens e tabelas possuem titulo e fonte?                                                                              |           
+| 5   | As imagens e tabelas possuem titulo e fonte?                                                                              |   
+| **Específico** | |         
 | 6   | O perfil de usuário foi definido com base em dados coletados por meio de algum estudo, como entrevistas ou questionários? |           
 | 7   | O percentual de usuários em cada faixa de características foi determinado?                                                |           
 | 8   | O perfil do usuário possui idade, sexo, status socioeconômico e grau de escolaridade definidos?                           |           
@@ -128,11 +132,13 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 
 | ID  | Critério                                                                                              | Resultado | 
 | --- | ----------------------------------------------------------------------------------------------------- | --------- | 
+| **Geral** | | |
 | 1   | Há um texto introdutório sobre o artefato?                                                            |           | 
 | 2   | Há a referencia/bibliografia?                                                                         |           | 
 | 3   | O artefato possui um histórico de versões padronizado?                                                |           | 
 | 4   | As imagens e tabelas são chamadas no texto?                                                           |           | 
 | 5   | As imagens e tabelas possuem titulo e fonte?                                                          |           | 
+| **Específico** | | 
 | 6   | As personas foram criadas baseadas nos dados do perfil do usuário?                                    |           | 
 | 7   | A razão da quantidade de personas é justificada?                                                      |           | 
 | 8   | As personas possuem nome e sobrenome?                                                                 |           | 
@@ -159,11 +165,13 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 
 | ID  | Critério                                                | Resultado | 
 | --- | ------------------------------------------------------- | --------- | 
+| **Geral** | | |
 | 1   | Há um texto introdutório sobre o artefato?              |           | 
 | 2   | Há a referencia/bibliografia?                           |           | 
 | 3   | O artefato possui um histórico de versões padronizado?  |           | 
 | 4   | As imagens e tabelas são chamadas no texto?             |           | 
 | 5   | As imagens e tabelas possuem titulo e fonte?            |           | 
+| **Específico** | | 
 | 6   | Os cenários possuem contexto definido?                  |           | 
 | 7   | Os cenários possuem o(s) ator(es) envolvidos definidos? |           | 
 | 8   | Os cenários possuem objetivos definidos?                |           | 
@@ -226,6 +234,7 @@ A tabela 8 a seguir apresenta a checklist com as perguntas gerais e específicas
 | 3   | O artefato possui um histórico de versões padronizado? |       | 
 | 4   | As imagens e tabelas são chamadas no texto? |       | 
 | 5   | As imagens e tabelas possuem título e fonte? |       |                                                                                                |           |
+| **Específico** | |
 | 6   | As tarefas foram identificadas de maneira clara e abrangente?                                              |           |
 | 7   | Os diagramas HTA são claros e concisos?                                                                    |           |
 | 8   | Os subobjetivos do HTA são suficientes para alcançar o objetivo definido?                                  |           |
@@ -247,6 +256,7 @@ A tabela 9 a seguir apresenta a checklist com asperguntas gerais e específicas 
 | 2   | Há a referência/bibliografia?               |       | 
 | 3   | O artefato possui um histórico de versões padronizado? |       | 
 | 4   | As imagens e tabelas são chamadas no texto? |       | 
+| **Específico** | |
 | 5   | As imagens e tabelas possuem título e fonte? |       |                                                                                                  |           |
 | 6   |  Os métodos GOMS incluem os quatro elementos principais: objetivos, operadores, métodos e regras de seleção?                                                                                                                                                                                                                                                                            |           |
 | 7   |O modelo GOMS inclui regras e descrições claras sobre como o usuário decide entre diferentes métodos ou operadores?                                                                                                                                                                                                                                                                         |           |
@@ -272,6 +282,7 @@ A tabela 10 a seguir apresenta a checklist para verificação do Guia de Estilo.
 | 3   | O artefato possui um histórico de versões padronizado? |       | 
 | 4   | As imagens e tabelas são chamadas no texto? |       | 
 | 5   | As imagens e tabelas possuem título e fonte? |       |                                                                                                |           |
+| **Específico** | |
 | 6   | O guia de estilo está organizado de acordo com uma estrutura comum?                                                                                                          |           |
 | 7   | O guia de estilo inclui os principais elementos e considerações de design de interface?                                                                                                     |           |
 | 8   | O guia de estilo fornece recomendações específicas sobre como alcançar as metas do projeto?                                                                                                           |           |
@@ -320,6 +331,7 @@ A tabela 12 a seguir apresenta a checklist para a verificação das Metas de Usa
 | 3   | O artefato possui um histórico de versões padronizado? |       | 
 | 4   | As imagens e tabelas são chamadas no texto? |       | 
 | 5   | As imagens e tabelas possuem título e fonte? |       |                                                                                                 |           |
+| **Específico** | |
 | 6   | As metas de usabilidade são baseadas nas necessidades dos usuários?                                                                                                          |           |
 | 7   | As metas de usabilidade são relevantes para o contexto de uso do sistema?                                                                                                           |           |
 | 8   |  As metas de usabilidade são comunicadas de forma clara e concisa?                                                                                                           |           |
