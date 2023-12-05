@@ -59,6 +59,8 @@ Na questão de ID 2, foi constatado que o vídeo da avaliação do site não est
 
 ## Verificação
 
+Nos videos 1 e 2 abaixo podem ser vistos a fase de verificação e correção dos erros encontrados:
+
 <center>
 
 <font size="2"><p style="text-align: center">Video 1: Gravação da verificação do artefato Site Escolhido</p></font>
@@ -66,6 +68,14 @@ Na questão de ID 2, foi constatado que o vídeo da avaliação do site não est
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TRtaH8SiYE0?si=BRNY2HE66gjKthbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
+
+
+<font size="2"><p style="text-align: center">Video 2: Correção</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U8CrAGf-aGo?si=dp7Cu4TVnVPiHor1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
+
 
 ## Resultados 
 

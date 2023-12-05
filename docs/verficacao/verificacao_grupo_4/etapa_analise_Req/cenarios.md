@@ -66,11 +66,24 @@ A partir do checklist foi identificado que é necessário alterar os cenários c
 
 ## Verificação
 
+Nos videos 1 e 2 abaixo podem ser vistos a fase de verificação e correção dos erros encontrados:
+
 <center>
 
-<font size="2"><p style="text-align: center">Video 2: Gravação da verificação Cronograma Executado</p></font>
+<font size="2"><p style="text-align: center">Video 1: Gravação da verificação Cronograma Executado</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z_H7IrNpm2E?si=RW-Q0TRv2uUAG_FL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte:  [Harryson Martins](https://github.com/harry-cmartin)</p></font>
+
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Video 2: Correção</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5kkqMkJC624?si=3XwxG7mQOlB9oAV5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte:  [Harryson Martins](https://github.com/harry-cmartin)</p></font>
 
