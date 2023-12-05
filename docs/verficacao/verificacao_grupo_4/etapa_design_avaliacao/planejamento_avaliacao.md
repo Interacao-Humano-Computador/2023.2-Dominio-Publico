@@ -19,21 +19,21 @@ Os artefatos a serem verificados são descritos na Tabela 1.
 <center>
 <font size="2"><p style="text-align: center">Tabela 1: Artefatos á serem verificados</p></font>
 
-| Artefato                                                                                                                    | Versão |                                                                                                                                                                      Autores                                                                                                                                                                      |
-| :-------------------------------------------------------------------------------------------------------------------------- | :----: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [Stoyboards]()                                                   |  1.4   |                                                                      [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Harryson Martins](https://github.com/harry-cmartin) e [Pedro Henrique](https://github.com/pedro-hsf)                                                                       |
-| [Planejamento da Avaliação dos Storyboards]()                              |  1.7   |                                              [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf) e [Ana Catarina](https://github.com/an4catarina)                                               |
+| Artefato                                                                  | Versão |                                                                                                                                                                      Autores                                                                                                                                                                      |
+| :------------------------------------------------------------------------ | :----: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [Stoyboards]()                                                            |  1.4   |                                                                      [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Harryson Martins](https://github.com/harry-cmartin) e [Pedro Henrique](https://github.com/pedro-hsf)                                                                       |
+| [Planejamento da Avaliação dos Storyboards]()                             |  1.7   |                                              [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf) e [Ana Catarina](https://github.com/an4catarina)                                               |
 | [Planejamento do Relato dos Resultados dos Storyboards]()                 |  1.1   |                                                                                                                         [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)                                                                                                                          |
-| [Relato dos Resultados dos Storyboards]()                                               |  1.6   |                           [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Pedro Henrique](https://github.com/pedro-hsf) e [Ana Catarina](https://github.com/an4catarina)                            |
-| [Planejamento da Avaliação da Análise de Tarefas]()                   |  1.3   |                                                                             [Victor Hugo](https://github.com/ViictorHugoo), [Maria Alice](https://github.com/Maliz30), [Pedro Henrique](https://github.com/pedro-hsf), [Ana Catarina](https://github.com/an4catarina)                                                                             |
-| [Planejamento do Relato dos Resultados da Análise de Tarefas]()       |  1.2   |                                                                                                                         [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)                                                                                                                          |
-| [Relato dos Resultados da Análise de Tarefas]()                                         |  1.6   |                         [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf) e [Ana Catarina](https://github.com/an4catarina)                         |
-| [Planejamento da Avaliação do Protótipo de Papel]()                        |  1.2   |                                                                      [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo) e [Harryson Martins](https://github.com/harry-cmartin)                                                                      |
+| [Relato dos Resultados dos Storyboards]()                                 |  1.6   |                           [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Pedro Henrique](https://github.com/pedro-hsf) e [Ana Catarina](https://github.com/an4catarina)                            |
+| [Planejamento da Avaliação da Análise de Tarefas]()                       |  1.3   |                                                                             [Victor Hugo](https://github.com/ViictorHugoo), [Maria Alice](https://github.com/Maliz30), [Pedro Henrique](https://github.com/pedro-hsf), [Ana Catarina](https://github.com/an4catarina)                                                                             |
+| [Planejamento do Relato dos Resultados da Análise de Tarefas]()           |  1.2   |                                                                                                                         [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)                                                                                                                          |
+| [Relato dos Resultados da Análise de Tarefas]()                           |  1.6   |                         [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf) e [Ana Catarina](https://github.com/an4catarina)                         |
+| [Planejamento da Avaliação do Protótipo de Papel]()                       |  1.2   |                                                                      [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo) e [Harryson Martins](https://github.com/harry-cmartin)                                                                      |
 | [Planejamento do Relato dos Resultados do Protótipo de Papel]()           |  1.1   |                                                                                                                         [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)                                                                                                                          |
-| [Relato dos Resultados do Protótipo de Papel]()                                         |  1.7   |                                                   [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30) e [Pedro Henrique](https://github.com/pedro-hsf)                                                    |
-| [Planejamento da Avaliação do Protótipo de Alta Fidelidade]()              |  1.0   |                                                                                                                                               [Harryson Martins](https://github.com/harry-cmartin)                                                                                                                                                |
+| [Relato dos Resultados do Protótipo de Papel]()                           |  1.7   |                                                   [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30) e [Pedro Henrique](https://github.com/pedro-hsf)                                                    |
+| [Planejamento da Avaliação do Protótipo de Alta Fidelidade]()             |  1.0   |                                                                                                                                               [Harryson Martins](https://github.com/harry-cmartin)                                                                                                                                                |
 | [Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade]() |  1.0   |                                                                                                                                                  [Gustavo França](https://github.com/gustavofbs)                                                                                                                                                  |
-| [Relato dos Resultados do Protótipo de Alta Fidelidade]()                               |  1.6   | [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf), [Ana Catarina](https://github.com/an4catarina) |
+| [Relato dos Resultados do Protótipo de Alta Fidelidade]()                 |  1.6   | [Gustavo França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf), [Ana Catarina](https://github.com/an4catarina) |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) </p></font>
 
@@ -46,23 +46,25 @@ A tabela 2 a seguir contempla o cronograma planejado para as verificações da f
 <center>
 <font size="2"><p style="text-align: center">Tabela 2: Cronograma e verificadores</p></font>
 
-|    Data    |                                                          Artefato                                                           |          Responsável pela verificação           |
-| :--------: | :-------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------: |
-| 03/12/2023 |                          [Stoyboards]()                                                     | [Victor Hugo](https://github.com/ViictorHugoo)  |
-| 03/12/2023 |               [Planejamento da Avaliação dos Storyboards]()                      | [Victor Hugo](https://github.com/ViictorHugoo)  |
-| 03/12/2023 |         [Planejamento do Relato dos Resultados dos Storyboards]()         | [Victor Hugo](https://github.com/ViictorHugoo)  |
-| 03/12/2023 |                        [Relato dos Resultados dos Storyboards]()                        | [Victor Hugo](https://github.com/ViictorHugoo)  |
-| 03/12/2023 |          [Planejamento da Avaliação da Análise de Tarefas](./analise_tarefas/planejamento_avaliacao.md)                     | [Maria Alice](https://github.com/Maliz30)       |
-| 03/12/2023 |    [Planejamento do Relato dos Resultados da Análise de Tarefas](./analise_tarefas/planejamento_relato.md)                  |  [Maria Alice](https://github.com/Maliz30)      |
-| 03/12/2023 |                     [Relato dos Resultados da Análise de Tarefas](./analise_tarefas/relato_resultados.md)                   |     [Maria Alice](https://github.com/Maliz30)   |
-| 03/12/2023 |          [Planejamento da Avaliação do Protótipo de Papel]()                     | [Maria Alice](https://github.com/Maliz30)       |
-| 03/12/2023 |      [Planejamento do Relato dos Resultados do Protótipo de Papel]()             |                                                 |
-| 03/12/2023 |                     [Relato dos Resultados do Protótipo de Papel]()                     |                                                 |
-| 03/12/2023 |       [Planejamento da Avaliação do Protótipo de Alta Fidelidade]()        | [Luciano Ricardo](https://github.com/l-ricardo) |
-| 03/12/2023 | [Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade]() | [Luciano Ricardo](https://github.com/l-ricardo) |
-| 03/12/2023 |                [Relato dos Resultados do Protótipo de Alta Fidelidade]()                | [Luciano Ricardo](https://github.com/l-ricardo) |
+|    Data    |                                                Artefato                                                 |          Responsável pela verificação           |
+| :--------: | :-----------------------------------------------------------------------------------------------------: | :---------------------------------------------: |
+| 03/12/2023 |                                             [Stoyboards]()                                              | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 03/12/2023 |                              [Planejamento da Avaliação dos Storyboards]()                              | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 03/12/2023 |                        [Planejamento do Relato dos Resultados dos Storyboards]()                        | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 03/12/2023 |                                [Relato dos Resultados dos Storyboards]()                                | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 03/12/2023 |     [Planejamento da Avaliação da Análise de Tarefas](./analise_tarefas/planejamento_avaliacao.md)      |    [Maria Alice](https://github.com/Maliz30)    |
+| 03/12/2023 | [Planejamento do Relato dos Resultados da Análise de Tarefas](./analise_tarefas/planejamento_relato.md) |    [Maria Alice](https://github.com/Maliz30)    |
+| 03/12/2023 |          [Relato dos Resultados da Análise de Tarefas](./analise_tarefas/relato_resultados.md)          |    [Maria Alice](https://github.com/Maliz30)    |
+| 03/12/2023 |                           [Planejamento da Avaliação do Protótipo de Papel]()                           | [Ana Catarina](https://github.com/an4catarina)  |
+| 03/12/2023 |                     [Planejamento do Relato dos Resultados do Protótipo de Papel]()                     | [Ana Catarina](https://github.com/an4catarina)  |
+| 03/12/2023 |                             [Relato dos Resultados do Protótipo de Papel]()                             | [Ana Catarina](https://github.com/an4catarina)  |
+| 03/12/2023 |                      [Planejamento da Avaliação do Protótipo de Alta Fidelidade]()                      | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 03/12/2023 |                [Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade]()                | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 03/12/2023 |                        [Relato dos Resultados do Protótipo de Alta Fidelidade]()                        | [Luciano Ricardo](https://github.com/l-ricardo) |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo), [Victor Hugo](https://github.com/ViictorHugoo) e [Maria Alice](https://github.com/Maliz30)</p></font>
+
+> > > > > > > 57f61edd556133081eea276698a1dd2ae314dee0
 
 </center>
 
@@ -123,8 +125,7 @@ Na tabela 4, estão listados os critérios que devem ser verificados no Planejam
 
 #### Embasamento Teórico
 
-As perguntas dos checklists específicos foram elaboradas com base nos Capítulos 9 e 10, "Planejamento da Avaliação de IHC" e "Métodos de Avaliação de IHC" respectivamente. Ambos os capítulos fazem parte do livro "Interação Humano-Computador" de Barbosa e Silva[1]. Dos referidos capítulos, foram extraídas informações pertinentes ao funcionamento e à compreensão dos termos utilizados, para isso foram usados como embasamento os subitens "9.2 O que Avaliar?", "9.3  Quando Avaliar o Uso de um Sistema?", "9.7.2 Preparação", "9.7.5 Consolidação e Relato dos Resultados", "10.1 Avaliação de IHC através de Inspeção", "10.1.1 Avaliação Heurística".
-
+As perguntas dos checklists específicos foram elaboradas com base nos Capítulos 9 e 10, "Planejamento da Avaliação de IHC" e "Métodos de Avaliação de IHC" respectivamente. Ambos os capítulos fazem parte do livro "Interação Humano-Computador" de Barbosa e Silva[2]. Dos referidos capítulos, foram extraídas informações pertinentes ao funcionamento e à compreensão dos termos utilizados, para isso foram usados como embasamento os subitens "9.2 O que Avaliar?", "9.3 Quando Avaliar o Uso de um Sistema?", "9.7.2 Preparação", "9.7.5 Consolidação e Relato dos Resultados", "10.1 Avaliação de IHC através de Inspeção", "10.1.1 Avaliação Heurística".
 
 ### Planejamento do Relato dos Resultados da Avaliação do Storyboard
 
@@ -150,9 +151,9 @@ Na tabela 5, estão listados os critérios que devem ser verificados no Planejam
 
 #### Embasamento Teórico
 
-As perguntas dos checklists específicos foram elaboradas com base nos Capítulos 9 e 10, "Planejamento da Avaliação de IHC" e "Métodos de Avaliação de IHC" respectivamente. Ambos os capítulos fazem parte do livro "Interação Humano-Computador" de Barbosa e Silva[1]. Dos referidos capítulos, foram extraídas informações pertinentes ao funcionamento e à compreensão dos termos utilizados, para isso foram usados como embasamento os subitens "9.2 O que Avaliar?", "9.3  Quando Avaliar o Uso de um Sistema?", "9.7.2 Preparação", "9.7.5 Consolidação e Relato dos Resultados", "10.1 Avaliação de IHC através de Inspeção", "10.1.1 Avaliação Heurística".
+As perguntas dos checklists específicos foram elaboradas com base nos Capítulos 9 e 10, "Planejamento da Avaliação de IHC" e "Métodos de Avaliação de IHC" respectivamente. Ambos os capítulos fazem parte do livro "Interação Humano-Computador" de Barbosa e Silva[2]. Dos referidos capítulos, foram extraídas informações pertinentes ao funcionamento e à compreensão dos termos utilizados, para isso foram usados como embasamento os subitens "9.2 O que Avaliar?", "9.3 Quando Avaliar o Uso de um Sistema?", "9.7.2 Preparação", "9.7.5 Consolidação e Relato dos Resultados", "10.1 Avaliação de IHC através de Inspeção", "10.1.1 Avaliação Heurística".
 
-###  Storyboards
+### Storyboards
 
 Na tabela 6, estão listados os critérios que devem ser verificados nos Storyboards do Grupo 4.
 
@@ -177,7 +178,7 @@ Na tabela 6, estão listados os critérios que devem ser verificados nos Storybo
 
 #### Embasamento Teórico
 
-As perguntas dos checklists específicos foram elaboradas com base nos Capítulos 9 e 10, "Planejamento da Avaliação de IHC" e "Métodos de Avaliação de IHC" respectivamente. Ambos os capítulos fazem parte do livro "Interação Humano-Computador" de Barbosa e Silva[1]. Dos referidos capítulos, foram extraídas informações pertinentes ao funcionamento e à compreensão dos termos utilizados, para isso foram usados como embasamento os subitens "9.2 O que Avaliar?", "9.3  Quando Avaliar o Uso de um Sistema?", "9.7.2 Preparação", "9.7.5 Consolidação e Relato dos Resultados", "10.1 Avaliação de IHC através de Inspeção", "10.1.1 Avaliação Heurística".
+As perguntas dos checklists específicos foram elaboradas com base nos Capítulos 9 e 10, "Planejamento da Avaliação de IHC" e "Métodos de Avaliação de IHC" respectivamente. Ambos os capítulos fazem parte do livro "Interação Humano-Computador" de Barbosa e Silva[2]. Dos referidos capítulos, foram extraídas informações pertinentes ao funcionamento e à compreensão dos termos utilizados, para isso foram usados como embasamento os subitens "9.2 O que Avaliar?", "9.3 Quando Avaliar o Uso de um Sistema?", "9.7.2 Preparação", "9.7.5 Consolidação e Relato dos Resultados", "10.1 Avaliação de IHC através de Inspeção", "10.1.1 Avaliação Heurística".
 
 ### Resultado da Avaliação do Storyboard
 
@@ -203,12 +204,11 @@ A tabela 7 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 #### Embasamento Teórico
 
-As perguntas dos checklists específicos foram elaboradas com base nos Capítulos 9 e 10, "Planejamento da Avaliação de IHC" e "Métodos de Avaliação de IHC" respectivamente. Ambos os capítulos fazem parte do livro "Interação Humano-Computador" de Barbosa e Silva[1]. Dos referidos capítulos, foram extraídas informações pertinentes ao funcionamento e à compreensão dos termos utilizados, para isso foram usados como embasamento os subitens "9.2 O que Avaliar?", "9.3  Quando Avaliar o Uso de um Sistema?", "9.7.2 Preparação", "9.7.5 Consolidação e Relato dos Resultados", "10.1 Avaliação de IHC através de Inspeção", "10.1.1 Avaliação Heurística".
+As perguntas dos checklists específicos foram elaboradas com base nos Capítulos 9 e 10, "Planejamento da Avaliação de IHC" e "Métodos de Avaliação de IHC" respectivamente. Ambos os capítulos fazem parte do livro "Interação Humano-Computador" de Barbosa e Silva[2]. Dos referidos capítulos, foram extraídas informações pertinentes ao funcionamento e à compreensão dos termos utilizados, para isso foram usados como embasamento os subitens "9.2 O que Avaliar?", "9.3 Quando Avaliar o Uso de um Sistema?", "9.7.2 Preparação", "9.7.5 Consolidação e Relato dos Resultados", "10.1 Avaliação de IHC através de Inspeção", "10.1.1 Avaliação Heurística".
 
+### Planejamento da Avaliação da Análise de Tarefas
 
-###  Planejamento da Avaliação da Análise de Tarefas
-
-As perguntas do checklist específico foram elaboradas a partir do capítulo 9, Planejamento da Avaliação de IHC, do livro "Interação Humano-Computador" de Barbosa e Silva. Serão utilizados 2 checklists, um geral, a ser utilizado em todos os artefatos verificados, e outro específico, utilizado somente neste artefato. Na tabela 8, estão listados os critérios  específicos que devem ser verificados no Planejamento da Avaliação da Análise de Tarefas do Grupo 4.
+As perguntas do checklist específico foram elaboradas a partir do capítulo 9, Planejamento da Avaliação de IHC, do livro "Interação Humano-Computador" de Barbosa e Silva. Serão utilizados 2 checklists, um geral, a ser utilizado em todos os artefatos verificados, e outro específico, utilizado somente neste artefato. Na tabela 8, estão listados os critérios específicos que devem ser verificados no Planejamento da Avaliação da Análise de Tarefas do Grupo 4.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 8</b> - Checklist do artefato "Planejamento da Avaliação da Análise de Tarefas". </p></font>
@@ -225,29 +225,30 @@ As perguntas do checklist específico foram elaboradas a partir do capítulo 9, 
 | 14  | O artefato inclui o teste piloto do planejamento da avaliação?           |
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30) </p></font>
+
 </center>
 
-###  Planejamento do Relato dos Resultados da Análise de Tarefas
+### Planejamento do Relato dos Resultados da Análise de Tarefas
 
 As perguntas do checklist específico foram elaboradas a partir do capítulo 9, Planejamento da Avaliação de IHC, do livro "Interação Humano-Computador" de Barbosa e Silva. Serão utilizados 2 checklists, um geral, a ser utilizado em todos os artefatos verificados, e outro específico, utilizado somente neste artefato. Na tabela 9, estão listados os critérios que devem ser verificados no Planejamento do Relato dos Resultados da Análise de Tarefas do Grupo 4.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 9</b> - Checklist do artefato "Planejamento do Relato dos Resultados da Análise de Tarefas". </p></font>
 
-| ID  | Critério                                                                                   |
-| --- | ------------------------------------------------------------------------------------------ |
-| 07  | O artefato delineia os objetivos para o relato dos resultados da avaliação? |           |
-| 08  | O artefato inclui o modelo do cronograma executado durante a avaliação?                                          |           |
-| 09  | Os métodos utilizados são descritos no artefato?                                                                 |           |
-| 10  | O artefato aborda os aspectos éticos envolvidos no relato dos resultados da avaliação?                           |           |
-| 11 | O planejamento apresenta os participantes selecionados? ||	
-| 12 | O artefato menciona a apresentação da quantidade de entrevistados e sua justificativa ? ||		
-| 13 | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário? ||	
-| 14 | O artefato menciona a apresentação da quantidade de avaliadores e sua justificativa ?	||	
-| 15 | O artefato menciona a apresentação das perguntas e/ou tarefas exploradas durante a Avaliação da Análise de tarefas ? ||		
-| 16 | O artefato menciona a apresentação do termo de consentimento utilizado na Avaliação da Análise de tarefas ? ||		
-| 17 | O artefato apresenta uma descrição dos resultados obtidos na avaliação?                                          |           |
-| 18 | O artefato fornece uma explicação das conclusões alcançadas na avaliação? ||
+| ID  | Critério                                                                                                             |     |
+| --- | -------------------------------------------------------------------------------------------------------------------- | --- |
+| 07  | O artefato delineia os objetivos para o relato dos resultados da avaliação?                                          |     |
+| 08  | O artefato inclui o modelo do cronograma executado durante a avaliação?                                              |     |
+| 09  | Os métodos utilizados são descritos no artefato?                                                                     |     |
+| 10  | O artefato aborda os aspectos éticos envolvidos no relato dos resultados da avaliação?                               |     |
+| 11  | O planejamento apresenta os participantes selecionados?                                                              |     |
+| 12  | O artefato menciona a apresentação da quantidade de entrevistados e sua justificativa ?                              |     |
+| 13  | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?                                |     |
+| 14  | O artefato menciona a apresentação da quantidade de avaliadores e sua justificativa ?                                |     |
+| 15  | O artefato menciona a apresentação das perguntas e/ou tarefas exploradas durante a Avaliação da Análise de tarefas ? |     |
+| 16  | O artefato menciona a apresentação do termo de consentimento utilizado na Avaliação da Análise de tarefas ?          |     |
+| 17  | O artefato apresenta uma descrição dos resultados obtidos na avaliação?                                              |     |
+| 18  | O artefato fornece uma explicação das conclusões alcançadas na avaliação?                                            |     |
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30) </p></font>
 
@@ -260,27 +261,27 @@ As perguntas do checklist específico foram elaboradas a partir dos capítulos 9
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 10</b> - Checklist do artefato "Relato dos resultados da Análise de Tarefas". </p></font>
 
-| ID  | Critério                                                          |
-| --- | ----------------------------------------------------------------- |
-| 07 | O artefato segue o planejamento proposto?|
-| 08 | Os objetivos do relato são apresentados? | 
-| 09 | A metodologia do relato é apresentada? | 
-| 10 | O artefato apresenta as perguntas a serem respondidas com a avaliação? |
-| 11 | Os participantes estão documentados?   |
-| 12 | O artefato apresenta um teste piloto antes de ser feito a entrevista? |
-| 13 | O artefato possui uma definição de teste piloto?		|
-| 14 | O artefato apresenta a entrevista da avaliação gravada? |
-| 15 | O participante da entrevista leu ou assinou e concordou com o termo de consentimento? | 
-| 16 | As tarefas foram apresentados ao usuário? |
-| 17 | Existe uma análise e interpretação dos dados? |
-| 18 | Os problemas encontrados estão listados? |
-| 19  | Existe sugestões e/ou planejamento de correção para os problemas? |
+| ID  | Critério                                                                              |
+| --- | ------------------------------------------------------------------------------------- |
+| 07  | O artefato segue o planejamento proposto?                                             |
+| 08  | Os objetivos do relato são apresentados?                                              |
+| 09  | A metodologia do relato é apresentada?                                                |
+| 10  | O artefato apresenta as perguntas a serem respondidas com a avaliação?                |
+| 11  | Os participantes estão documentados?                                                  |
+| 12  | O artefato apresenta um teste piloto antes de ser feito a entrevista?                 |
+| 13  | O artefato possui uma definição de teste piloto?                                      |
+| 14  | O artefato apresenta a entrevista da avaliação gravada?                               |
+| 15  | O participante da entrevista leu ou assinou e concordou com o termo de consentimento? |
+| 16  | As tarefas foram apresentados ao usuário?                                             |
+| 17  | Existe uma análise e interpretação dos dados?                                         |
+| 18  | Os problemas encontrados estão listados?                                              |
+| 19  | Existe sugestões e/ou planejamento de correção para os problemas?                     |
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30) </p></font>
 
 </center>
 
-###  Planejamento de Avaliação do Protótipo de Papel
+### Planejamento de Avaliação do Protótipo de Papel
 
 Na tabela 11, estão listados os critérios que devem ser verificados no Planejamento da Avaliação da Análise do protótipo de papel do Grupo 4.
 
@@ -301,9 +302,21 @@ Na tabela 11, estão listados os critérios que devem ser verificados no Planeja
 | 16  | Existe um cronograma planejado para a execução da avaliação no artefato?               |
 | 17  | O artefato inclui um teste piloto do planejamento da avaliação?                        |
 
-<font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina) e [Victor Hugo](https://github.com/ViictorHugoo) </p></font>
 
 </center>
+
+#### Embasamento Teórico
+
+As perguntas do checklist específico da Tabela 11 foram elaboradas a partir de três fontes principais: o "Plano de ensino da disciplina Interação Humano-Computador no semestre 02/2023" de Barros [1], o "Planejamento da Verificação da Etapa 4 do Grupo 2- Bilheteria Digital" [3] e os Capítulos 9 e 10 do livro "Interação Humano-Computador" de Barbosa e Silva[ 2].
+Os Capítulos 9 e 10 tratam, respectivamente, do planejamento e dos métodos de avaliação de IHC. Os subitens usados como embasamento foram:
+
+- **9.2 O que Avaliar?**
+- **9.3 Quando Avaliar o Uso de um Sistema?**
+- **9.7.2 Preparação**
+- **9.7.5 Consolidação e Relato dos Resultados**
+- **10.1 Avaliação de IHC através de Inspeção**
+- **10.1.1 Avaliação Heurística**
 
 ### Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel
 
@@ -312,20 +325,29 @@ Na tabela 12, estão listados os critérios que devem ser verificados no Planeja
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 12</b> - Checklist do artefato "Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel". </p></font>
 
-| ID  | Critério                                                                                   |
-| --- | ------------------------------------------------------------------------------------------ |
-| 07  | O artefato delineia os objetivos para o relato dos resultados da avaliação?                |
-| 08  | Os métodos utilizados são detalhadamente descritos no artefato?                            |
-| 09  | O artefato aborda os aspectos práticos relacionados ao relato dos resultados da avaliação? |
-| 10  | O artefato aborda os aspectos éticos envolvidos no relato dos resultados da avaliação?     |
-| 11  | O artefato apresenta uma descrição dos resultados obtidos na avaliação?                    |
-| 12  | O artefato fornece uma explicação das conclusões alcançadas na avaliação?                  |
-| 13  | O artefato inclui o modelo do cronograma executado durante a avaliação?                    |
-| 14  | O artefato fornece a estrutura do relatório a ser utilizada no relato dos resultados?      |
+| ID  | Critério                                                                              |
+| --- | ------------------------------------------------------------------------------------- |
+| 07  | Os métodos utilizados são detalhadamente descritos no artefato?                       |
+| 08  | O artefato apresenta uma descrição dos resultados obtidos na avaliação?               |
+| 09  | O artefato fornece uma explicação das conclusões alcançadas na avaliação?             |
+| 10  | O artefato inclui o modelo do cronograma executado durante a avaliação?               |
+| 11  | O artefato fornece a estrutura do relatório a ser utilizada no relato dos resultados? |
 
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina) </p></font>
 
 </center>
+
+#### Embasamento teórico
+
+As perguntas do checklist específico da Tabela 12 foram elaboradas a partir de três fontes principais: o "Plano de ensino da disciplina Interação Humano-Computador no semestre 02/2023" de Barros [1], o "Planejamento da Verificação da Etapa 4 do Grupo 2- Bilheteria Digital" [3] e os Capítulos 9 e 10 do livro "Interação Humano-Computador" de Barbosa e Silva [2].
+Os Capítulos 9 e 10 tratam, respectivamente, do planejamento e dos métodos de avaliação de IHC. Os subitens usados como embasamento foram:
+
+- **9.2 O que Avaliar?**
+- **9.3 Quando Avaliar o Uso de um Sistema?**
+- **9.7.2 Preparação**
+- **9.7.5 Consolidação e Relato dos Resultados**
+- **10.1 Avaliação de IHC através de Inspeção**
+- **10.1.1 Avaliação Heurística**
 
 ### Relato dos resultados do Protótipo de Papel
 
@@ -334,18 +356,31 @@ A tabela 13 a seguir apresenta a checklist referente aos itens exigidos para o r
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 13</b> - Checklist do artefato "Relato dos resultados do Protótipo de Papel". </p></font>
 
-| ID  | Critério                                                          |
-| --- | ----------------------------------------------------------------- |
-| 07  | Os objetivos do relato são apresentados?                          |
-| 08  | A metodologia do relato é apresentada?                            |
-| 09  | Os participantes estão documentados?                              |
-| 10  | Existe uma análise e interpretação dos dados?                     |
-| 11  | Os problemas encontrados estão listados?                          |
-| 12  | Existe sugestões e/ou planejamento de correção para os problemas? |
+| ID  | Critério                                                                         |
+| --- | -------------------------------------------------------------------------------- |
+| 07  | Os objetivos do relato são descritos no documento?                               |
+| 08  | A metodologia do relato é apresentada?                                           |
+| 09  | Os participantes estão documentados?                                             |
+| 10  | Existe uma análise e interpretação dos dados?                                    |
+| 11  | Os problemas encontrados estão listados?                                         |
+| 12  | Existe sugestões e/ou planejamento de correção para os problemas?                |
+| 13  | O artefato segue o modelo pré definido no planejamento do relato dos resultados? |
 
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina) </p></font>
 
 </center>
+
+#### Embasamento teórico
+
+As perguntas do checklist específico da Tabela 13 foram elaboradas a partir de três fontes principais: o "Plano de ensino da disciplina Interação Humano-Computador no semestre 02/2023" de Barros [1], o "Planejamento da Verificação da Etapa 4 do Grupo 2- Bilheteria Digital" [3] e os Capítulos 9 e 10 do livro "Interação Humano-Computador" de Barbosa e Silva [2].
+Os Capítulos 9 e 10 tratam, respectivamente, do planejamento e dos métodos de avaliação de IHC. Os subitens usados como embasamento foram:
+
+- **9.2 O que Avaliar?**
+- **9.3 Quando Avaliar o Uso de um Sistema?**
+- **9.7.2 Preparação**
+- **9.7.5 Consolidação e Relato dos Resultados**
+- **10.1 Avaliação de IHC através de Inspeção**
+- **10.1.1 Avaliação Heurística**
 
 ### Planejamento de Avaliação do Protótipo de Alta Fidelidade
 
@@ -388,10 +423,10 @@ Na tabela 15, estão listados os critérios que devem ser verificados no Planeja
 
 ### Checklist do Relato dos resultados do Protótipo de Alta Fidelidade
 
-A tabela 14 a seguir apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
+A tabela 16 a seguir apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
 
 <center>
-<font size="3"><p style="text-align: center"><b>Tabela 14</b> - Checklist do artefato "Relato dos resultados do Protótipo de Alta Fidelidade". </p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 16</b> - Checklist do artefato "Relato dos resultados do Protótipo de Alta Fidelidade". </p></font>
 
 | ID  | Critério                                                          |
 | --- | ----------------------------------------------------------------- |
@@ -406,7 +441,6 @@ A tabela 14 a seguir apresenta a checklist referente aos itens exigidos para o r
 
 </center>
 
-
 ## Referencias Bibliograficas
 
 > [1] BARROS, André. Plano de ensino da disciplina Interação Humano Computador no semestre 02/2023, FGA, Gama, 2023. Acesso em: 14 de nov. de 2023.
@@ -420,11 +454,11 @@ A tabela 14 a seguir apresenta a checklist referente aos itens exigidos para o r
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                   | Autor(es)                                       | Revisor(es)                                     |
-| ------ | ---------- | ------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| 1.0    | 03/12/2023 | Estruturação do arquivo                     | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
-| 1.1    | 03/12/2023 | Criação das perguntas do storyboard         | [Victor Hugo](https://github.com/ViictorHugoo)  | [Ana Catarina](https://github.com/an4catarina)  |
-| 1.2    | 03/12/2023 | Criação das perguntas do protótipo de papel | [Ana Catarina](https://github.com/an4catarina)  | [Victor Hugo](https://github.com/ViictorHugoo)  |
-| 1.3    | 03/12/2023 | Criação das perguntas do protótipo de alta  | [Luciano Ricardo](https://github.com/l-ricardo) | [Gustavo França](https://github.com/gustavofbs) |
-| 1.4    | 03/12/2023 | Elaboração das perguntas da verificação do Planejamento da Avaliação da Análise de Tarefas  |[Maria Alice](https://github.com/gustavofbs)| [Pedro Henrique](https://github.com/pedro-hsf)  |
-
+| Versão | Data       | Descrição                                                                                  | Autor(es)                                       | Revisor(es)                                     |
+| ------ | ---------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 03/12/2023 | Estruturação do arquivo                                                                    | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.1    | 03/12/2023 | Criação das perguntas do storyboard                                                        | [Victor Hugo](https://github.com/ViictorHugoo)  | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.2    | 03/12/2023 | Criação das perguntas do protótipo de papel                                                | [Ana Catarina](https://github.com/an4catarina)  | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.3    | 03/12/2023 | Criação das perguntas do protótipo de alta                                                 | [Luciano Ricardo](https://github.com/l-ricardo) | [Gustavo França](https://github.com/gustavofbs) |
+| 1.4    | 03/12/2023 | Elaboração das perguntas da verificação do Planejamento da Avaliação da Análise de Tarefas | [Maria Alice](https://github.com/gustavofbs)    | [Pedro Henrique](https://github.com/pedro-hsf)  |
+| 1.5    | 04/12/2023 | Adição das referências das perguntas do protótipo de papel                                 | [Ana Catarina](https://github.com/an4catarina)  | [Victor Hugo](https://github.com/ViictorHugoo)  |
