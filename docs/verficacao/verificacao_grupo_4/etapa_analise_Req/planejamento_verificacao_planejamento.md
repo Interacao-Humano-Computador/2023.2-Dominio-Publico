@@ -66,7 +66,7 @@ A tabela a seguir contempla o cronograma planejado para as verificações da fas
 A seguir será evidenciado, as listas de verificação para cada artefato citado acima. Tais listas foram construidas a partir da observação dos padrões desejaveis definidos para cada artefato e a partir das listas de detalhes evidenciados no plano de ensino da matéria.
 
 
-### Checklist Geral 
+## Checklist Geral 
 
 | ID  | Critério                                                                                                   | Resultado |
 | --- | ---------------------------------------------------------------------------------------------------------- | --------- |
@@ -76,7 +76,7 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 | 4   | As imagens e tabelas são chamadas no texto?                                                                |           |
 | 5   | As imagens e tabelas possuem titulo e fonte?                                                               |           |
 
-### Aspectos Éticos
+## Aspectos Éticos
 
 <center>
 <font size="2"><p style="text-align: center">Tabela 3: Checklist Aspectos Éticos</p></font>
@@ -100,7 +100,7 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs) </p></font>
 </center>
 
-### Perfil de Usuário
+## Perfil de Usuário
 
 <center>
 <font size="2"><p style="text-align: center">Tabela 4: Checklist Perfil do Usuário </p></font>
@@ -125,7 +125,7 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs).</p></font>
 </center>
 
-### Personas
+## Personas
 
 <center>
 <font size="2"><p style="text-align: center">Tabela 5: Checklist Personas</p></font>
@@ -158,7 +158,7 @@ A seguir será evidenciado, as listas de verificação para cada artefato citado
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs).</p></font>
 </center>
 
-### Cenários
+## Cenários
 
 <center>
 <font size="2"><p style="text-align: center">Tabela 6: Checklist Cenários</p></font>
