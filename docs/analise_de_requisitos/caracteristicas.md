@@ -4,7 +4,7 @@
 
 ## Introdução
 
-O objetivo desse artefato é proporcionar uma visão abrangente das características da plataforma, permitindo uma compreensão sólida de seu funcionamento e capacidades, o que é essencial para o desenvolvimento eficaz de sistemas de IHC no âmbito do Ciclo de Mayhew.
+O objetivo desse artefato é fornecer uma visão abrangente das características da plataforma, permitindo uma compreensão profunda de seu funcionamento e capacidades. Essa compreensão é essencial para o desenvolvimento eficaz de sistemas de interação humano-computador no âmbito do Ciclo de Mayhew, um modelo de desenvolvimento de IHC que enfatiza a importância da compreensão das necessidades dos usuários, da análise das capacidades da plataforma e da iteração entre esses dois aspectos.
 
 
 
@@ -26,6 +26,12 @@ Abaixo uma lista das principais funcionalidades disponíveis na plataforma:
 - Pesquisar obra
 - Fazer download de obra
 - Se tornar colaborador
+
+# Principais Características do Site
+
+- Acesso livre: O site é gratuito e não requer cadastro para ser utilizado.
+- Obras diversificadas: O site oferece obras de diferentes épocas, gêneros e autores. As obras literárias incluem romances, contos, poemas, peças teatrais, ensaios e outros. As obras artísticas incluem pinturas, esculturas, fotografias, músicas e outras. As obras científicas incluem livros, artigos, relatórios e outras.
+- Busca avançada: A ferramenta de busca avançada permite aos usuários encontrar obras específicas por meio de critérios como título, autor, gênero, data de publicação e outros.
 
 
 
@@ -72,3 +78,4 @@ Utilizando o atalho "Ctrl + U" na tela inicial do site do Domínio Público, foi
 | Versão | Data       | Descrição           | Autor(es)                                       | Revisor(es)                               |
 | ------ | ---------- | ------------------- | ----------------------------------------------- | ----------------------------------------- |
 | 1.0    | 21/10/2023 | Criação do artefato | [Luciano Ricardo](https://github.com/l-ricardo) | [Maria Alice](https://github.com/Maliz30) |
+| 1.1    | 06/12/23 | Correção do Artefato | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina) |
