@@ -182,6 +182,14 @@ nav:
           - Planejamento da Avaliação: verficacao/verificacao_grupo_4/etapa_design_avaliacao/prototipo_de_alta/planejamento_avaliacao.md
           - Planejamento do Relato dos Resultados: verficacao/verificacao_grupo_4/etapa_design_avaliacao/prototipo_de_alta/planejamento_relato.md
           - Relato dos resultados: verficacao/verificacao_grupo_4/etapa_design_avaliacao/prototipo_de_alta/relato_resultados.md
+  - Entrega Final:
+    - Site Selecionado: entrega_final/site_selecionado.md
+    - Ferramentas Utilizadas: entrega_final/ferramentas_utlizadas.md
+    - Apresentações: entrega_final/sintese_apresentacoes.md
+    - Ciclo de vida utilizado: entrega_final/ciclo_de_vida.md
+    - Técnicas utilizadas: entrega_final/tecnicas_utilizadas.md
+    
+    
 
 # Extensions
 markdown_extensions:
