@@ -85,17 +85,21 @@ Nessa tarefa o usuário tem por objetivo acessar a parte de ajuda ao usuário de
 
 <font size="2"><p style="text-align: center">Figura 4: Diagrama da representação HTA da tarefa "Receber ajuda" </p></font>
 
-![Acessa ajuda](../../assets/analise_de_requisitos/HTAAcessarAjuda.png)
+![Acessa ajuda](../../assets/analise_de_requisitos/HTAReceberAjuda.png)
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo), 2023</p></font>
 
 <font size="2"><p style="text-align: center">Tabela 3: Diagrama da representação HTA da tarefa "Receber ajuda" </p></font>
 
-| Objetivos / Operações                   | Relações | Problemas e Recomendações                                                                                                                 |
-| --------------------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 0. Acessar página de ajuda              | 1 / 2    |                                                                                                                                           |
-| 1. Selecionar "ajuda" na tela principal | 1 > 2    | feedback: o usuário é redirecionado a página correspondente <br> plano: o usúario deve acessar a página e encontrar a ajuda que necessita |
-| 2. Selecionar a opção de ajuda desejada |          | feedback: é mostrado as opções relacionadas a seleção do usuário                                                                          |
+| Objetivos / Operações                                                      | Relações    | Problemas e Recomendações                                                                                                                 |
+| -------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 0. Receber ajuda                                                           |             |                                                                                                                                           |
+| 1. Clicar em "Ajuda" na barra de navegação                                 | 1.1/1.2     | feedback: o usuário é redirecionado a página correspondente <br> plano: o usúario deve acessar a página e encontrar a ajuda que necessita |
+| 1.1. Visualizar listagem de problemas comuns                               |             |                                                                                                                                           |
+| 1.1.1. Visualizar passo a passo da solução do problema                     |             | feedback: é mostrado ao usuario uma confirmação de sucesso                                                                                |
+| 1.2. Clicar em receber ajuda de Inteligência Artificial                    | 1.2.1/1.2.2 | feedback: o usuario ve um menu lateral de chat                                                                                            |
+| 1.2.1. Iniciar conversa com Inteligência Artificial via prompt recomendado |             |                                                                                                                                           |
+| 1.2.2. Iniciar conversa com Inteligência Artificial via chat               |             |                                                                                                                                           |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
 
@@ -235,3 +239,4 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para enviar uma men
 | 1.5    | 23/10/2023 | Adição de Contatar Administradores              | [Gustavo França](https://github.com/gustavofbs)                                                        | [Victor Hugo](https://github.com/ViictorHugoo)  |
 | 1.6    | 23/10/2023 | Correção na HTA da ação "Se tornar colaborador" | [Maria Alice](https://github.com/Maliz30)                                                              | [Gustavo França](https://github.com/gustavofbs) |
 | 1.7    | 06/12/23   | Correção do Artefato                            | [Pedro Henrique](https://github.com/pedro-hsf)                                                         | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.7    | 06/12/23   | Correção do Artefato                            | [Luciano Ricardo](https://github.com/l-ricardo)                                                        | [Gustavo França](https://github.com/gustavofbs) |
