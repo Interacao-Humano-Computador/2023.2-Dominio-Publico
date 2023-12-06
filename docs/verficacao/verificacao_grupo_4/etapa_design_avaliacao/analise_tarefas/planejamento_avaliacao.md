@@ -34,7 +34,7 @@ As perguntas do checklist específico foram elaboradas a partir do capítulo 9, 
 
 ## Gravação de Verificação
 
-A gravação da verificação está presente no vídeo 1.
+A gravação da verificação está presente no Vídeo 1.
 <center>
 
 <font size="2"><p style="text-align: center">Vídeo 1: Gravação da verificação</p></font>

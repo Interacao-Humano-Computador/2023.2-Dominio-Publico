@@ -52,7 +52,7 @@ No gráfico 1 é possível verificar os resultados obtidos na avaliação do art
 
 ## Gravação da Verificação
 
-É possível ver a gravação da verificação do artefato "Metas de Usabilidade" no vídeo 1.
+É possível ver a gravação da verificação do artefato "Metas de Usabilidade" no Vídeo 1.
 
 
 <center>

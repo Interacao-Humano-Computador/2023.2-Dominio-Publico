@@ -48,7 +48,7 @@ Na Figura 1, encontra-se um gráfico com o resultado da checklist da verificaç�
 
 ## Gravação de Verificação
 
-É possível ver a gravação da verificação do artefato "Avaliação do Processo de Design" no vídeo 1 e a gravação da validação com os autores do artefato no vídeo 2.
+É possível ver a gravação da verificação do artefato "Avaliação do Processo de Design" no Vídeo 1 e a gravação da validação com os autores do artefato no Vídeo 2.
 
 <center>
 

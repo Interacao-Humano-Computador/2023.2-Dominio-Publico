@@ -184,7 +184,7 @@ De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamen
 
 </center>
 
-No vídeo 1, pode-se conferir a gravação do teste piloto realizado.
+No Vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 
 <center>
 

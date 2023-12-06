@@ -61,7 +61,7 @@ Após a avaliação, realizou-se uma análise geral dos artefatos que receberam 
 
 ## Gravação da Verificação
 
-É possível ver a gravação da verificação do artefato "Planejamento da Avaliação dos Storyboards" no vídeo 1.
+É possível ver a gravação da verificação do artefato "Planejamento da Avaliação dos Storyboards" no Vídeo 1.
 
 <center>
 

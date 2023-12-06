@@ -57,7 +57,7 @@ No gráfico 1 é possível verificar os resultados obtidos na avaliação do art
 
 ## Gravação da Verificação
 
-É possível ver a gravação da verificação do artefato "Guia de Estilo" no vídeo 1 e a "Validação com os autores do artefato" no vídeo 2.
+É possível ver a gravação da verificação do artefato "Guia de Estilo" no Vídeo 1 e a "Validação com os autores do artefato" no Vídeo 2.
 
 
 <center>

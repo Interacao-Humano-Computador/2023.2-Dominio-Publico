@@ -101,7 +101,7 @@ No gráfico 2 é possível verificar os resultados obtidos na avaliação do art
 
 ## Gravação da Verificação
 
-É possível ver a gravação da verificação do artefato  "Análise de Tarefas" no vídeo 1.
+É possível ver a gravação da verificação do artefato  "Análise de Tarefas" no Vídeo 1.
 
 <center>
 <font size="2"><p style="text-align: center">Vídeo 1: Verificação Análise de Tarefas</p></font>

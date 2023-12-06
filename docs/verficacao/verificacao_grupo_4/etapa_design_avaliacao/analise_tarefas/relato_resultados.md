@@ -62,7 +62,7 @@ Com base nessa análise, foi possível gerar o Gráfico 1, que apresenta de form
 
 ## Gravação de Verificação
 
-A gravação da verificação está presente no vídeo 1. É importante mencionar que durante a gravação desta verificação ocorreu um erro, de forma que a tela da avaliadora não foi transmitida. Apesar disso, a verificação não foi completamente comprometida, uma vez que a avaliadora mecionou em todos os elementos no momento que estavam sendo verificados.
+A gravação da verificação está presente no Vídeo 1. É importante mencionar que durante a gravação desta verificação ocorreu um erro, de forma que a tela da avaliadora não foi transmitida. Apesar disso, a verificação não foi completamente comprometida, uma vez que a avaliadora mecionou em todos os elementos no momento que estavam sendo verificados.
 
 <center>
 
@@ -74,7 +74,7 @@ A gravação da verificação está presente no vídeo 1. É importante menciona
 
 
 
-No vídeo 2 podemos conferir a avaliação junto dos autores do artefato.
+No Vídeo 2 podemos conferir a avaliação junto dos autores do artefato.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nsCF9ZhdS0Q?si=KA-iYj6_nvPRHk-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

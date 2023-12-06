@@ -73,7 +73,7 @@ Após a avaliação, realizou-se uma análise geral dos artefatos que receberam 
 
 ## Gravação da Verificação
 
-É possível ver a gravação da verificação do artefato "Relato dos resultados do Storyboard" no vídeo 1 e a gravação da validação com os autores do artefato no vídeo 2.
+É possível ver a gravação da verificação do artefato "Relato dos resultados do Storyboard" no Vídeo 1 e a gravação da validação com os autores do artefato no Vídeo 2.
 
 <center>
 

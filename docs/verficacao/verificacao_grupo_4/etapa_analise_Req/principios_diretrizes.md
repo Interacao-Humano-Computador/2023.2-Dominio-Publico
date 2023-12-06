@@ -43,9 +43,9 @@ As perguntas do checklist específico foram elaboradas a partir do capítulo 8, 
 
 ## Gravação de Verificação
 
-A gravação da verificação está presente no vídeo 1. 
+A gravação da verificação está presente no Vídeo 1. 
 
-**Errata:** No minuto 13 do vídeo, é afirmado que não foram identificadas violações dos princípios gerais do projeto e que elas não foram explicitadas, porém é possivel encontrar estes itens nos tópicos de análise de cada item, onde são aprensentadas as violações encontradas no site "Domínio Público", assim como uma Figura que específica onde esta violação pode ser encontrada.
+**Errata:** No minuto 13 do Vídeo, é afirmado que não foram identificadas violações dos princípios gerais do projeto e que elas não foram explicitadas, porém é possivel encontrar estes itens nos tópicos de análise de cada item, onde são aprensentadas as violações encontradas no site "Domínio Público", assim como uma Figura que específica onde esta violação pode ser encontrada.
 
 <center>
 

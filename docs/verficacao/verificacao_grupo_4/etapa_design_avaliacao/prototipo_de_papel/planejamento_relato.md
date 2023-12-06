@@ -44,7 +44,7 @@ Na Figura 1, encontra-se um gráfico com o resultado da checklist da verificaç�
 
 ## Gravação de Verificação
 
-O vídeo 1 contém a gravação da verificação individual.
+O Vídeo 1 contém a gravação da verificação individual.
 
 <center>
 
