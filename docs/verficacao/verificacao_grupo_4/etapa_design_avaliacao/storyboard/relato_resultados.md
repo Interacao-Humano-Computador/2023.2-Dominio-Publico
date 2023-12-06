@@ -66,7 +66,7 @@ Após a avaliação, realizou-se uma análise geral dos artefatos que receberam 
     - Solução: Inclusão de numerção das tabelas e vídeos.
 - **ID 06:** Foi definido como "incompleto".
     - Problema: Repetição desnecessária de "Sugestões de Melhoria";
-    - Local: "Tarefa: Download de Midia" e "Tarefa: Acessar Ajuda";
+    - Local: "Tarefa: Download de Midia" e "Tarefa: Receber ajuda";
     - Gravidade: Problema pequeno;
     - Solução: Exclusão do texto em excesso.
 

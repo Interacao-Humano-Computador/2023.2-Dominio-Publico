@@ -260,7 +260,7 @@ O usuário não encontrou dificuldades ao utilizar a funcionalidade de acessar e
 
 O usuário não apenas teve uma experiência livre de problemas ao utilizar a funcionalidade de acessar estatísticas, mas também não apresentou quaisquer sugestões para aprimoramentos. Isso reflete positivamente na eficiência e na qualidade percebida dessa funcionalidade.
 
-### Tarefas: Acessar ajuda
+### Tarefas: Receber ajuda
 
 ##### Objetivo e âmbito da avaliação
 

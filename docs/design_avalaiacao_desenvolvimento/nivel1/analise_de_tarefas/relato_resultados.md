@@ -144,7 +144,7 @@ Nesta seção, não foram identificados problemas significativos, e o participan
 
 O participante expressou conforto na seção de Downloads e afirmou que não seriam necessárias mudanças significativas nessa área.
 
-### Tarefa: Acessar ajuda
+### Tarefa: Receber ajuda
 
 ##### Objetivo e âmbito da avaliação
 
@@ -220,11 +220,11 @@ No Video 3 e Tabela 6 é possível verificar os registros feitos durante a avali
 
 ##### Listagem de problemas encontrados
 
-Os principais problemas identificados pelo esntrevistado se relacionaram com a pesquisa de midias, esses dados serão utilizados na respectiva tarefa. No que se diz respeito a tarefa de acessar ajuda o entrevistado nunca utilizou a funcionalidade por não saber que existia e por nunca ter sido necessário.
+Os principais problemas identificados pelo esntrevistado se relacionaram com a pesquisa de midias, esses dados serão utilizados na respectiva tarefa. No que se diz respeito a tarefa de Receber ajuda o entrevistado nunca utilizou a funcionalidade por não saber que existia e por nunca ter sido necessário.
 
 ##### Sugestões de melhoria
 
-Em relação a tarefa de acessar ajuda nenhuma sugestão foi dada.
+Em relação a tarefa de Receber ajuda nenhuma sugestão foi dada.
 
 ### Tarefa: Se tornar um colaborador
 
@@ -623,7 +623,7 @@ A avaliação de mídia não é uma função fornecida pelo sistema, por isso no
 
 Conforme com o que foi listado de problemas pelo entrevistado, o novo mapeamento de reprojeto sugere melhorias na visibilidade da opção "Fale Conosco", a inserção do email próprio do Domínio Público em um local específico na página devida, além de corrigir os botões relacionados ao envio do email.
 
-#### Tarefa: Acessar Ajuda
+#### Tarefa: Receber ajuda
 
 O entrevistado não citou problemas relacionados a essa tarefa. Por isso, não haverá mudanças no reprojeto.
 
@@ -645,7 +645,7 @@ O entrevistado sugeriu botões mais claros ao invés de hipelinks, um formulári
 | ------ | ---------- | --------------------------------- | ----------------------------------------------------- | ------------------------------------------------------ |
 | 1.0    | 01/11/2023 | Criação do documento              | [Luciano Ricardo](https://github.com/l-ricardo)       | [Victor Hugo](https://github.com/ViictorHugoo)         |
 | 1.1    | 01/11/2023 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo)        | [Luciano Ricardo](https://github.com/l-ricardo)        |
-| 1.2    | 08/11/2023 | Relato Acessar Ajuda              | [Luciano Ricardo](https://github.com/l-ricardo)       | [Ana Catarina](https://github.com/an4catarina)         |
+| 1.2    | 08/11/2023 | Relato Receber ajuda              | [Luciano Ricardo](https://github.com/l-ricardo)       | [Ana Catarina](https://github.com/an4catarina)         |
 | 1.3    | 08/11/2023 | Relato Download de Mídia          | [Pedro Henrique](https://github.com/pedro-hsf)        | [Ana Catarina](https://github.com/an4catarina)         |
 | 1.4    | 08/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina Santos](https://github.com/an4catarina) | [Pedro Henrique](https://github.com/pedro-hsf)         |
 | 1.5    | 08/11/2021 | Relato Avaliar Midia              | [Victor Hugo](https://github.com/ViictorHugoo)        | [Pedro Henrique](https://github.com/pedro-hsf)         |

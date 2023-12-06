@@ -69,11 +69,11 @@ Clicar no botão "Baixar". O usuário deve clicar no botão "Baixar" para inicia
 
 
 
-### Acessar ajuda
+### Receber ajuda
 
 Para acessar o painel de ajuda, o usuário deve acessar a área de ajuda do site e clicar na opção "Ajuda". Em seguida, deve selecionar a opção de ajuda desejada.
 
-<font size="2"><p style="text-align: center">Figura 3: Descrição GOMS da tarefa "Acessar ajuda"</p></font>
+<font size="2"><p style="text-align: center">Figura 3: Descrição GOMS da tarefa "Receber ajuda"</p></font>
 
 ![GOMSAjuda](../../assets/analise_de_requisitos/GOMSAcessarAjuda.png)
 

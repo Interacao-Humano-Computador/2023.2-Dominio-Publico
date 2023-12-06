@@ -55,7 +55,7 @@ Para realizar as entrevistas e observação das ações dos usuários seram util
 
 - Pesquisar por mídia
 - Download de mídia
-- Acessar ajuda
+- Receber ajuda
 - Se tornar colaborador
 - Acessar estatísticas
 - Avaliar mídias
