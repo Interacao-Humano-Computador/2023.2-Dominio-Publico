@@ -6,8 +6,6 @@
 
 O documento em questão tem como referência o [Planejamento da Avaliação do Storyboard](./planejamento_avaliacao.md) e tem como principal objetivo estabelecer a estrutura e a disposição dos dados coletados durante a avaliação dos storyboards. O resultado desse planejamento será detalhado no relatório de resultados, onde serão destacados aspectos passíveis de aprimoramento no sistema e sugestões de redesign identificadas pelo grupo.
 
-
-
 ## Metodologia
 
 O relato dos resultados será construido com base no documento [Planejamento da Avaliação do Storyboard](./planejamento_avaliacao.md) e nos elementos de avaliação citados por Barbosa [1], que são:
@@ -49,7 +47,7 @@ Além disso os entrevistadores deverão seguir o cronograma planejado explicitad
 | [Harryson Martins](https://github.com/harry-cmartin) |    Luma Maia    |       22:30       |     22:40      |     31/10      |     Pesquisar por mídia     | Plataforma Microsoft Teams |
 |   [Luciano Ricardo](https://github.com/l-ricardo)    |      Pedro      |       22:30       |     22:40      |     03/11      |         Pedir Ajuda         | Plataforma Microsoft Teams |
 |      [Maria Alice](https://github.com/Maliz30)       |     Camila      |       13:50       |     14:00      |     03/11      | Cadidatura para Colaborador | Plataforma Microsoft Teams |
-|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       17:50       |     18:00    |     08/11     |      Download de Mídia      | Pessoalmente |
+|    [Pedro Henrique](https://github.com/pedro-hsf)    |     Nicolas     |       17:50       |     18:00    |     03/11     |      Download de Mídia      | Pessoalmente |
 |    [Victor Hugo](https://github.com/ViictorHugoo)    |  Douglas Alves  |       18:00       |     18:10      |     31/10      |        Avaliar Midia        | Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
@@ -60,11 +58,11 @@ Por fim, esse tópico do relato da avaliação deve conter uma tabela com o cron
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 2: Cronograma executado</p></font>
+<font size="2"><p style="text-align: center">Tabela 2: Modelo de cronograma executado</p></font>
 
 | Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
 | ------------- | ------------ | ----------------- | -------------- | ---- | ---------------- |
-| ----          | ----         | ----              | ----           | ---- | ----             |
+| Fulano        | Ciclano      | 13:50             | 14:10          | 02/11| FGA-UnB          |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
@@ -85,7 +83,7 @@ Nesse topico, o entrevistador deve incluir a gravação da avaliação bem como 
 
 <font size="2"><p style="text-align: center">Video 1: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![placeholder](../../../assets/placeholder-video-editado.jpg)
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
@@ -98,11 +96,11 @@ Nesse topico, o entrevistador deve incluir a gravação da avaliação bem como 
 
 | Pergunta                                                                                                      | Resposta |
 | ------------------------------------------------------------------------------------------------------------- | :------- |
-| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |          |
-| Você acha que as ações do storyboard levam para o objetivo final?                                             |          |
-| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |          |
-| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |          |
-| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |          |
+| Os atores envolvidos no storyboard são condizentes com a realidade?                                           |    -     |
+| Você acha que as ações do storyboard levam para o objetivo final?                                             |    -     |
+| O storyboard pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |    -     |
+| Os storyboard representa fielmente a respectiva tarefa a qual ele esta relacionado ?                          |    -     |
+| As ações presentes no storyboard seguem uma ordem identificável e fluida?                                     |    -     |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
@@ -143,3 +141,4 @@ Os problemas encontrados, sugestões de melhorias e quaisquer outros pontos enco
 | ------ | ---------- | -------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 29/10/2021 | Criação do documento | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.1    | 01/11/2021 | Correções cronograma | [Victor Hugo](https://github.com/ViictorHugoo)  | [Ana Catarina](https://github.com/an4catarina) |
+| 1.2    | 06/12/2023 | Correções Verificação| [Victor Hugo](https://github.com/ViictorHugoo)  | [Pedro Henrique](https://github.com/pedro-hsf) |

@@ -45,7 +45,7 @@ No gráfico 1 é possível verificar os resultados obtidos na avaliação do art
 Após a avaliação, realizou-se uma análise geral dos artefatos que receberam avaliação 'não' ou 'incompleto', visando uma melhor descrição do respectivo ID. Esta análise inclui a listagem dos problemas identificados durante a inspeção, sua localização, gravidade, justificativa e/ou recomendações de solução, quando aplicáveis.
 
 - **ID 01:** Foi definido como "incompleto".
-    - Problema: Item com número de versão incorretor;
+    - Problema: Item com número de versão incorreto;
     - Local: Tabela de Histórico de Versões;
     - Gravidade: Problema cosmético;
     - Solução: Correção do número de versão para "1.7".

@@ -84,6 +84,5 @@ No decorrer deste projeto, adotamos um conjunto estratégico de ferramentas para
 | 1.1    | 28/09/2023 | Atualização do formato das ferramentas | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.2    | 04/10/2023 | Correção de Erros                      | [Maria Alice](https://github.com/Maliz30)       | [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.3    | 16/10/2023 | Adição de ferramenta                   | [Victor Hugo](https://github.com/ViictorHugoo)  | [Maria Alice](https://github.com/Maliz30)      |
-| 1.3    | 06/12/2023 | Adição e correção de ferramentas       | [Gustavo França](https://github.com/gustavofbs) | [Maria Alice](https://github.com/Maliz30)      |
-| 1.4    | 06/12/2023 | Finalização do artefato                | [Victor Hugo](https://github.com/ViictorHugoo)  | [Maria Alice](https://github.com/Maliz30)      |
-
+| 1.4    | 06/12/2023 | Adição e correção de ferramentas       | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.5    | 06/12/2023 | Finalização do artefato                | [Victor Hugo](https://github.com/ViictorHugoo)  | [Pedro Henrique](https://github.com/pedro-hsf) |
