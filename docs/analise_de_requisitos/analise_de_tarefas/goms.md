@@ -44,7 +44,8 @@ As figuras de 1 a 6 explicitam os modelos GOMS detalhados de suas respectivas ta
 
 ### Pesquisar por mídia
 
-Nessa tarefa, o usuário tem como objetivo pesquisar uma midia desejada.
+Nesta tarefa, o usuário tem como objetivo pesquisar uma mídia desejada. Para que o usuário consiga concluir a tarefa, ele deve ter em mente que ele deve encontrar uma mídia desejada. Em seguida, ele irá localizar essa mídia de duas formas. Caso a mídia esteja na tela, ele irá clicar com o cursor nela.
+Caso seja necessário realizar uma pesquisa, ele irá digitar o nome da mídia no campo específico e, em seguida, clicar no botão "Pesquisar". Por fim, ele irá selecionar a mídia desejada nos resultados da pesquisa.
 
 <font size="2"><p style="text-align: center">Figura 1: Descrição GOMS da tarefa "Pesquisar por mídia"</p></font>
 
@@ -56,7 +57,9 @@ Nessa tarefa, o usuário tem como objetivo pesquisar uma midia desejada.
 
 ### Fazer download da mídia
 
-Nessa tarefa, o usuário tem como objetivo realizar um download da mídia escolhida.
+Nesta tarefa, o usuário tem como objetivo baixar uma mídia escolhida. Para isso, o usuário deve. Localizar a mídia desejada. Se a mídia já estiver aberta na tela, o usuário deve clicar nela. Se não, o usuário deve pesquisar pela mídia usando os campos de pesquisa.
+Selecionar a mídia desejada. O usuário deve clicar na mídia desejada para selecioná-la.
+Clicar no botão "Baixar". O usuário deve clicar no botão "Baixar" para iniciar o download da mídia.
 
 <font size="2"><p style="text-align: center">Figura 2: Descrição GOMS da tarefa "Fazer download da mídia"</p></font>
 
@@ -68,7 +71,7 @@ Nessa tarefa, o usuário tem como objetivo realizar um download da mídia escolh
 
 ### Acessar ajuda
 
-Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar ajuda.
+Para acessar o painel de ajuda, o usuário deve acessar a área de ajuda do site e clicar na opção "Ajuda". Em seguida, deve selecionar a opção de ajuda desejada.
 
 <font size="2"><p style="text-align: center">Figura 3: Descrição GOMS da tarefa "Acessar ajuda"</p></font>
 
@@ -80,7 +83,7 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar ajuda.
 
 ### Se tornar um colaborador
 
-Nessa tarefa, o usuário tem como objetivo acessar um painel para colaborar com o site.
+Para acessar o painel de colaboração, o usuário deve acessar a aba "Autores e colaboradores", clicar na opção "Quero colaborar" e, em seguida, na imagem "Você é autor do domínio público". Para realizar a tarefa como autor ou colaborador, o usuário deve acessar um meio de colaboração, informar o CPF e selecionar o tipo de colaborador desejado.
 
 <font size="2"><p style="text-align: center">Figura 4: Descrição GOMS da tarefa "Acessar aba para autores/colaboradores"</p></font>
 
@@ -92,7 +95,9 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para colaborar com 
 
 ### Acessar estatísticas
 
-Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar estatísticas sobre o site.
+NNessa tarefa, o usuário tem como objetivo acessar um painel para buscar estatísticas sobre o site. Para isso, o usuário deve. Acessar a aba "Estatísticas".
+Localizar a opção de estatísticas desejada.
+Clique na opção de estatísticas desejada.
 
 <font size="2"><p style="text-align: center">Figura 5: Descrição GOMS da tarefa "Acessar estatísticas"</p></font>
 
@@ -103,7 +108,7 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para buscar estatí
 
 ### Avaliar Midia
 
-Nessa tarefa, o usuário tem como objetivo avaliar a midia escolhida. 
+Para avaliar uma mídia, o usuário deve primeiro encontrá-la. Para isso, ele pode navegar até a mídia desejada ou pesquisá-la. Em seguida, o usuário deve informar seus dados, avaliar a mídia em todos os tópicos e fornecer um comentário. Por fim, o usuário deve enviar a avaliação. 
 
 <font size="2"><p style="text-align: center">Figura 6: Descrição GOMS da tarefa "Avaliar midia"</p></font>
 
@@ -115,7 +120,9 @@ Nessa tarefa, o usuário tem como objetivo avaliar a midia escolhida.
 
 ### Contatar administradores
 
-Nessa tarefa, o usuário tem como objetivo acessar um painel para solicitar uma resposta a um administrador do site referente a uma dúvida que não tenha resposta no próprio site.
+Para solicitar uma resposta a um administrador do site referente a uma dúvida que não tenha resposta no próprio site, o usuário deve seguir alguns passos. Como acessar a página "Fale conosco" clicando na opção de mesmo nome.
+Preencher o formulário de informações de contato, incluindo seu nome, e-mail e dúvida.
+Enviar a dúvida.
 
 <font size="2"><p style="text-align: center">Figura 7: Descrição GOMS da tarefa "Contatar administrador sobre dúvidas"</p></font>
 
@@ -150,3 +157,4 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para solicitar uma 
 | 1.2    | 16/10/2023 | Conserto das imagens GOMS          | [Harryson Martins](https://github.com/harry-cmartin)                                                   | [Pedro Henrique](https://github.com/pedro-hsf)                                                                                                  |
 | 1.3    | 16/10/2023 | Adição de Avaliar midia            | [Victor Hugo](https://github.com/ViictorHugoo)                                                         | [Maria Alice](https://github.com/Maliz-30)                                                                                                      |
 | 1.4    | 23/10/2023 | Adição de Contatar Administradores | [Gustavo França](https://github.com/gustavofbs)                                                        | [Victor Hugo](https://github.com/ViictorHugoo)                                                                                                  |
+| 1.5    | 06/12/23 | Correção do Artefato | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina) |
