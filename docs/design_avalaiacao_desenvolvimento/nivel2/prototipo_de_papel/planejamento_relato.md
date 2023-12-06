@@ -70,13 +70,15 @@ Seguinte ao preenchimento do cronograma, se fará necessário a justificativa do
 
 Nesse topico, o entrevistador deve incluir a gravação da avaliação bem como uma tabela que sumarize as perguntas e respostas da entrevista, da forma disposta na Tabela 3 e Video 1:
 
+_Obs_: O vídeo abaixo é apenas um placeholder de exemplo. Não há nenhum vídeo neste local.
+
 <center>
 
 <font size="2"><p style="text-align: center">Video 1: Gravação da avaliação</p></font>
 
 <iframe width="560" height="315" src="" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo) </p></font>
 
 </center>
 
@@ -116,7 +118,8 @@ Os problemas encontrados, sugestões de melhorias e quaisquer outros pontos enco
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição              | Autor(es)                                       | Revisor(es)                                    |
-| ------ | ---------- | ---------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 01/11/2021 | Criação do documento   | [Victor Hugo](https://github.com/ViictorHugoo)  | [Ana Catarina](https://github.com/an4catarina) |
-| 1.1    | 07/11/2021 | Planejamento do relato | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| Versão | Data       | Descrição                          | Autor(es)                                             | Revisor(es)                                    |
+| ------ | ---------- | ---------------------------------- | ----------------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 01/11/2021 | Criação do documento               | [Victor Hugo](https://github.com/ViictorHugoo)        | [Ana Catarina](https://github.com/an4catarina) |
+| 1.1    | 07/11/2021 | Planejamento do relato             | [Luciano Ricardo](https://github.com/l-ricardo)       | [Victor Hugo](https://github.com/ViictorHugoo) |
+| 1.2    | 06/12/2023 | Verificação e correção do artefato | [Ana Catarina Santos](https://github.com/an4catarina) | [Victor Hugo](https://github.com/ViictorHugoo) |

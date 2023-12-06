@@ -88,11 +88,13 @@ Dessa maneira, foi decidido optar pelo ciclo de Mayhew, já que o mesmo possui f
 ## Referências Bibliográficas
 
 > [1] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+>
 > [2] Nielsen, J. Usability Engineering. Chestnut Hill, MA, Academic Press, 1993.
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição            | Autor(es)                                                                                             | Revisor(es)                                     |
-| ------ | ---------- | -------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| 1.0    | 28/09/2023 | Criação do Documento | [Harryson Martins](https://github.com/harry-cmartin) e [Pedro Henrique](https://github.com/pedro-hsf) | [Gustavo França](https://github.com/gustavofbs) |
-| 1.1    | 04/10/2023 | Correção de Erros    | [Maria Alice](https://github.com/Maliz30)                                                             | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| Versão | Data       | Descrição                          | Autor(es)                                                                                             | Revisor(es)                                     |
+| ------ | ---------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 28/09/2023 | Criação do Documento               | [Harryson Martins](https://github.com/harry-cmartin) e [Pedro Henrique](https://github.com/pedro-hsf) | [Gustavo França](https://github.com/gustavofbs) |
+| 1.1    | 04/10/2023 | Correção de Erros                  | [Maria Alice](https://github.com/Maliz30)                                                             | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.2    | 06/12/2023 | Verificação e correção do artefato | [Ana Catarina Santos](https://github.com/an4catarina)                                                 | [Victor Hugo](https://github.com/ViictorHugoo)  |
