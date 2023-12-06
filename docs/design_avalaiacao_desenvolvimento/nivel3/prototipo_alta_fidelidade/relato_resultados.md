@@ -1284,3 +1284,4 @@ Os participantes não forneceram propostas de melhoria para o protótipo.
 | 1.4    | 29/11/2021 | Relato se Tornar Colaborador  | [Maria Alice](https://github.com/Maliz30)            | [Luciano Ricardo](https://github.com/l-ricardo)      |
 | 1.5    | 29/11/2021 | Relato Pesquisar mídia        | [Harryson Martins](https://github.com/harry-cmartin) | [Luciano Ricardo](https://github.com/l-ricardo)      |
 | 1.6    | 29/11/2021 | Relato Contatar Administrador | [Gustavo França](https://github.com/gustavofbs)      | [Harryson Martins](https://github.com/harry-cmartin) |
+| 1.7    | 06/12/2023 | Correções                     | [Luciano Ricardo](https://github.com/l-ricardo)      | [Gustavo França](https://github.com/gustavofbs)      |

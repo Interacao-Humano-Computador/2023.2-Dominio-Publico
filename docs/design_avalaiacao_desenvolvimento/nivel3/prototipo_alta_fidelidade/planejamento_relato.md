@@ -113,6 +113,7 @@ Os problemas encontrados, sugestões de melhorias e quaisquer outros pontos enco
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor(es)                                       | Revisor(es)                                    |
-| ------ | ---------- | -------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 01/11/2021 | Criação do documento | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| Versão | Data       | Descrição            | Autor(es)                                       | Revisor(es)                                     |
+| ------ | ---------- | -------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 01/11/2021 | Criação do documento | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.1    | 06/12/2023 | Correções            | [Luciano Ricardo](https://github.com/l-ricardo) | [Gustavo França](https://github.com/gustavofbs) |
