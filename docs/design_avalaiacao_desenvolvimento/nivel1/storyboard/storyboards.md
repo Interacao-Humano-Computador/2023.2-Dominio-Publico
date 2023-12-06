@@ -66,11 +66,11 @@ A figura 2 representa o storyboard relacionado a tarefa de Contatar Administrado
 
 ## Tarefa 3: Pesquisar por mídia
 
-A figura 1 representa o storyboard relacionado a tarefa de Pesquisar por Mídia.
+A figura 3 representa o storyboard relacionado a tarefa de Pesquisar por Mídia.
 
 <center>
 
-<font size="2"><p style="text-align: center">Figura 1: Storyboard pesquisar por mídia.</p></font>
+<font size="2"><p style="text-align: center">Figura 3: Storyboard pesquisar por mídia.</p></font>
 
 ![Pesquisar](../../../assets/storyboards/PESQUISAR.jpeg)
 
@@ -159,3 +159,4 @@ A figura 7 representa o storyboard relacionado a tarefa de Avaliar Midia.
 | 1.2    | 28/10/2023 | Tarefa avaliar midia                                                           | [Victor Hugo](https://github.com/ViictorHugoo)       | [Luciano Ricardo](https://github.com/l-ricardo)      |
 | 1.3    | 30/10/2023 | Tarefa Download de mídia, Acessar as Estátisticas, Cadidatura para Colaborador | [Pedro Henrique](https://github.com/pedro-hsf)       | [Victor Hugo](https://github.com/ViictorHugoo)       |
 | 1.4    | 30/10/2023 | Tarefa Baixando leitor de PDF                                                  | [Pedro Henrique](https://github.com/pedro-hsf)       | [Maria Alice](https://github.com/maliz30)            |
+| 1.5    | 06/12/2023 | Correções Verificação| [Victor Hugo](https://github.com/ViictorHugoo)  | [Pedro Henrique](https://github.com/pedro-hsf) |

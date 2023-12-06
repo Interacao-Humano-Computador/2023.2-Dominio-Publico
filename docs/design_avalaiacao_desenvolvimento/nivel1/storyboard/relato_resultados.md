@@ -2,6 +2,8 @@
 
 ## Introdução
 
+Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela avaliação dos Storyboards. Com isso, serão abordados os tópicos referidos no [Planejamento do Relato dos Resultados dos Storyboards](./planejamento_relato.md).
+
 ### Tarefa: Pesquisar por mídia
 
 ##### Objetivo e âmbito da avaliação
@@ -10,7 +12,7 @@ A finalidade da avaliação foi verificar a concordância entre a Storyboard de 
 
 ##### Método de avaliação
 
-Conforme sugerido pelo [planejamento da avaliação](planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
+Conforme sugerido pelo [planejamento da avaliação](./planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
 
 A Tabela 1 exibe as datas da realização da avaliação.
 
@@ -77,7 +79,7 @@ A finalidade da avaliação foi verificar a concordância entre a Storyboard de 
 
 ##### Método de avaliação
 
-Conforme sugerido pelo [planejamento da avaliação](planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
+Conforme sugerido pelo [planejamento da avaliação](./planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
 
 A Tabela 3 exibe as datas da realização da avaliação.
 
@@ -135,8 +137,6 @@ Nesta etapa do Storyboard, nenhum problema foi identificado.
 
 O entrevistado observou que existem potenciais oportunidades para tornar a realização dos objetivos dos usuários mais eficiente. No entanto, dada a natureza relativamente simples da tarefa, ele também destacou que a seção de Downloads se apresenta de forma coerente e descomplicada.
 
-##### Sugestões de melhoria
-
 ### Tarefa: Acessar ajuda
 
 ##### Objetivo e âmbito da avaliação
@@ -145,7 +145,7 @@ A finalidade da avaliação foi verificar a concordância entre a Storyboard de 
 
 ##### Método de avaliação
 
-Conforme sugerido pelo [planejamento da avaliação](planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
+Conforme sugerido pelo [planejamento da avaliação](./planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
 
 A Tabela 5 exibe as datas da realização da avaliação.
 
@@ -203,8 +203,6 @@ O entrevistado não declarou nenhum problema no storyboard, porém foi possível
 
 O entrevistado não deu nenhuma sugestão de melhoria no storyboard, porém com base nos problemas observados algo que deve ser feito é reescrever os textos do storyboard de maneira mais legivel.
 
-##### Sugestões de melhoria
-
 ### Tarefa: Se tornar um colaborador
 
 ##### Objetivo e âmbito da avaliação
@@ -213,7 +211,7 @@ A finalidade da avaliação foi verificar a concordância entre a Storyboard de 
 
 ##### Método de avaliação
 
-Conforme sugerido pelo [planejamento da avaliação](planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
+Conforme sugerido pelo [planejamento da avaliação](./planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
 
 A Tabela 7 exibe as datas da realização da avaliação.
 
@@ -279,7 +277,7 @@ A finalidade da avaliação foi verificar a concordância entre a Storyboard de 
 
 ##### Método de avaliação
 
-Conforme sugerido pelo [planejamento da avaliação](planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
+Conforme sugerido pelo [planejamento da avaliação](./planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
 
 A Tabela 9 exibe as datas da realização da avaliação.
 
@@ -343,11 +341,11 @@ Não houveram sugestões de melhorias
 
 ##### Objetivo e âmbito da avaliação
 
-A avaliação tem como objetivo principal avaliar se o [Storyboard de Avaliar Midia](storyboards.md) está em concordancia com as ações tomadas durante o uso real da interface.
+A avaliação tem como objetivo principal avaliar se o [Storyboard de Avaliar Midia](./storyboards.md) está em concordancia com as ações tomadas durante o uso real da interface.
 
 ##### Método de avaliação
 
-Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação do Storyboard](planejamento_avaliacao.md). Além disso foi utilizado um questionário de X questões para guiar a entrevista. A tabela X e Y representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
+Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação do Storyboard](./planejamento_avaliacao.md). Além disso foi utilizado um questionário para guiar a entrevista. A tabela 11 e 12 representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
 
 <center>
 
@@ -422,7 +420,7 @@ A finalidade da avaliação foi verificar a concordância entre a Storyboard de 
 
 ##### Método de avaliação
 
-Conforme sugerido pelo [planejamento da avaliação](planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
+Conforme sugerido pelo [planejamento da avaliação](./planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
 
 A Tabela 13 exibe as datas da realização da avaliação.
 
@@ -484,25 +482,37 @@ Para esse storyboard, não foram listados qualquer tipo de problema ou melhorias
 
 ##### Tarefa: Pesquisar por mídia
 
-A partir das sugestões coletadas, sera realizada uma reoganização e reconstrução do storyboard em questão, para que as melhorias aclamadas possam ser resolvidas, além disso a clareza do artefato também será melhorada.
+A partir das sugestões coletadas, sugere-se que sejam incluídos ações contínuas no storyboard, de modo a tornar a ordem de atividades identificável e fluida.
+
+##### Tarefa: Fazer download da mídia
+
+Não há necessidade de reprojeto para essa tarefa.
 
 ##### Tarefa: Acessar ajuda
 
-A partir dos problemas observados será realizada a reescrita de alguns trechos do storyboard de modo á deixar os dialogos mais legiveis.
+A partir das sugestões coletadas, sugere-se que sejam feitas melhorias no dialogo do storyboard, de modo a torna-los mais legiveis.
 
-##### Tarefa: Contatar Administradores
+##### Tarefa: Se tornar um colaborador
 
-O storyboard apresentado se fez legível ao entrevistado, demonstrando durante a entrevista nenhum tipo correção.
+A partir das sugestões coletadas, sugere-se que sejam incluídos mais detalhes sobre a tarefa no storyboard, de modo a tornar o artefato mais claro.
 
-A partir das sugestões coletadas, sera realizada uma reoganização e reconstrução do storyboard em questão, para que as melhorias aclamadas possam ser resolvidas, além disso a clareza do artefato também será melhorada.
+##### Tarefa: Acessar estatísticas
 
-##### Tarefa: Avaliar mídia
+Não há necessidade de reprojeto para essa tarefa.
+
+##### Tarefa: Avaliar Midia
 
 A avaliação de mídia não é uma função fornecida pelo sistema, por isso no reprojeto será feita a criação dessa tarefa de forma a atender as necessidades dos usuários.
 
-## Referências Bibliográficas
+##### Tarefa: Contatar administradores
+
+Não há necessidade de reprojeto para essa tarefa.
+
 
 ## Bibliografia
+
+> 1. BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
+> 2. MACHADO, Maurício; Planejamento do relato de resultados. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas/>. Acesso em: 05 de dezembro 2023.
 
 ## Histórico de Versões
 
@@ -513,6 +523,7 @@ A avaliação de mídia não é uma função fornecida pelo sistema, por isso no
 | 1.2    | 08/11/2021 | Relato Acessar Ajuda              | [Luciano Ricardo](https://github.com/l-ricardo)        | [Ana Catarina](https://github.com/an4catarina)         |
 | 1.3    | 08/11/2021 | Relato Download de Mídia          | [Pedro Henrique](https://github.com/pedro-hsf)         | [Ana Catatrina](https://github.com/an4catarina)        |
 | 1.4    | 08/11/2023 | Relato Contatar Admin             | [Gustavo França](https://github.com/gustavofbs)        | [Ana Catarina](https://github.com/an4catarina)         |
-| 1.5    | 08/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina Santos](https://github.com/an4catarinna) | [Pedro Henrique](https://github.com/pedro-hsf)         |
+| 1.5    | 08/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina](https://github.com/an4catarinna)        | [Pedro Henrique](https://github.com/pedro-hsf)         |
 | 1.6    | 08/11/2021 | Relato Avaliar Midia              | [Victor Hugo](https://github.com/ViictorHugoo)         | [Pedro Henrique](https://github.com/pedro-hsf)         |
-| 1.6    | 08/11/2021 | Relato Se tornar um colaborador   | [Maria Alice](https://github.com/Maliz30)              | [Ana Catarina Santos](https://github.com/an4catarinna) |
+| 1.7    | 08/11/2021 | Relato Se tornar um colaborador   | [Maria Alice](https://github.com/Maliz30)              | [Ana Catarina](https://github.com/an4catarinna)        |
+| 1.8    | 05/12/2023 | Correções Verificação             | [Victor Hugo](https://github.com/ViictorHugoo)         | [Maria Alice](https://github.com/Maliz30)              |
