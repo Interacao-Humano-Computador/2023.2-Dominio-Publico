@@ -6,7 +6,7 @@ Para realizar uma entrega de qualidade, é necessário avaliar se o produto resu
 
 ## Metodologia
 
-Para a realização do planejamento da avaliação, utilizaremos o framework DECIDE, proposto por Sharp, Rogers e Preece, onde cada letra é uma etapa a ser seguida. Como pode ser visto na figura 1:
+Para a realização do planejamento da avaliação, utilizaremos o framework DECIDE, proposto por Sharp, Rogers e Preece, onde cada letra é uma etapa a ser seguida. Como pode ser visto na Figura 1:
 
 <center>
 
@@ -75,7 +75,7 @@ A Tabela 1 apresenta o roteiro de perguntas, que tem como base a "Tabela 11.1: E
 |   18   | As estatísticas do site são claras, completas e úteis? Por que?                         | Resposta discursiva                                                                                                                                                                                                                                        |
 |   19   | O processo de contatar os administradores é fácil e rápido?                             | Resposta discursiva                                                                                                                                                                                                                                        |
 |   20   | Quais são as suas sugestões para melhorar esse contato com os administradores?          | Resposta discursiva                                                                                                                                                                                                                                        |
-|   21   | Qual é o seu nível de satisfação com o domínio público?                                 | - Alto. Gosto de como está e não desejo que sejam feitas alterações; <br> - Médio. Gosto do formato do site, mas gostaria que fossem feitas algumas alterações; <br> - Baixo. Não gosto do formato do site e gostaria que fossem feitas muitas alterações. |                                                                                                                                                                                                                                    |
+|   21   | Qual é o seu nível de satisfação com o domínio público?                                 | - Alto. Gosto de como está e não desejo que sejam feitas alterações; <br> - Médio. Gosto do formato do site, mas gostaria que fossem feitas algumas alterações; <br> - Baixo. Não gosto do formato do site e gostaria que fossem feitas muitas alterações. |  |
 |   22   | Você tem alguma outra fonte legal para acessar conteúdo gratuito ou de domínio público? | Resposta discursiva                                                                                                                                                                                                                                        |
 |   23   | Você tem alguma outra sugestão ou melhoria para o site do Domínio Público?              | Resposta discursiva                                                                                                                                                                                                                                        |
  

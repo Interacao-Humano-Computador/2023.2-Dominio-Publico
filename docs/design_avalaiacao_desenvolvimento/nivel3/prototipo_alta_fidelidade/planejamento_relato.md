@@ -6,7 +6,7 @@ O documento em questão tem como referência o [Planejamento da Avaliação do P
 
 ## Metodologia
 
-O relato dos resultados será construido com base no documento [Planejamento da Avaliação do Protótipo de Papel](./planejamento_avaliacao.md) e nos elementos de avaliação citados por Barbosa <a id="anchor_1" href="#FRM1">¹</a>, que são:
+O relato dos resultados será construido com base no documento [Planejamento da Avaliação do Protótipo de Alta Fidelidade](./planejamento_avaliacao.md) e nos elementos de avaliação citados por Barbosa <a id="anchor_1" href="#FRM1">¹</a>, que são:
 
 1. Objetivo e âmbito da avaliação;
 2. Método de avaliação;

@@ -34,7 +34,7 @@ Para a realização dos storyboards, segue na Tabela 1 quais foram realizadas:
 
 ## Tarefa 1: Acessar as Estátisticas 
 
-A figura 1 representa o storyboard relacionado a Acessar as Estátisticas.
+A Figura 1 representa o storyboard relacionado a Acessar as Estátisticas.
 
 <center>
 
@@ -50,7 +50,7 @@ A figura 1 representa o storyboard relacionado a Acessar as Estátisticas.
 
 ## Tarefa 2: Contatar administradores
 
-A figura 2 representa o storyboard relacionado a tarefa de Contatar Administradores.
+A Figura 2 representa o storyboard relacionado a tarefa de Contatar Administradores.
 
 <center>
 
@@ -66,7 +66,7 @@ A figura 2 representa o storyboard relacionado a tarefa de Contatar Administrado
 
 ## Tarefa 3: Pesquisar por mídia
 
-A figura 3 representa o storyboard relacionado a tarefa de Pesquisar por Mídia.
+A Figura 3 representa o storyboard relacionado a tarefa de Pesquisar por Mídia.
 
 <center>
 
@@ -82,7 +82,7 @@ A figura 3 representa o storyboard relacionado a tarefa de Pesquisar por Mídia.
 
 ## Tarefa 4: Pedir Ajuda 
 
-A figura 4 representa o storyboard relacionado a Pedir Ajuda.
+A Figura 4 representa o storyboard relacionado a Pedir Ajuda.
 
 <center>
 
@@ -98,7 +98,7 @@ A figura 4 representa o storyboard relacionado a Pedir Ajuda.
 
 ## Tarefa 5: Cadidatura para Colaborador
 
-A figura 5 representa o storyboard relacionado a Cadidatura para Colaborador.
+A Figura 5 representa o storyboard relacionado a Cadidatura para Colaborador.
 
 <center>
 
@@ -114,7 +114,7 @@ A figura 5 representa o storyboard relacionado a Cadidatura para Colaborador.
 
 ## Tarefa 6: Download de mídia
 
-A figura 6 representa o storyboard relacionado ao Download de Midia.
+A Figura 6 representa o storyboard relacionado ao Download de Midia.
 
 <center>
 
@@ -130,7 +130,7 @@ A figura 6 representa o storyboard relacionado ao Download de Midia.
 
 ## Tarefa 7: Avaliar mídia
 
-A figura 7 representa o storyboard relacionado a tarefa de Avaliar Midia.
+A Figura 7 representa o storyboard relacionado a tarefa de Avaliar Midia.
 
 <center>
 
@@ -159,4 +159,4 @@ A figura 7 representa o storyboard relacionado a tarefa de Avaliar Midia.
 | 1.2    | 28/10/2023 | Tarefa avaliar midia                                                           | [Victor Hugo](https://github.com/ViictorHugoo)       | [Luciano Ricardo](https://github.com/l-ricardo)      |
 | 1.3    | 30/10/2023 | Tarefa Download de mídia, Acessar as Estátisticas, Cadidatura para Colaborador | [Pedro Henrique](https://github.com/pedro-hsf)       | [Victor Hugo](https://github.com/ViictorHugoo)       |
 | 1.4    | 30/10/2023 | Tarefa Baixando leitor de PDF                                                  | [Pedro Henrique](https://github.com/pedro-hsf)       | [Maria Alice](https://github.com/maliz30)            |
-| 1.5    | 06/12/2023 | Correções Verificação| [Victor Hugo](https://github.com/ViictorHugoo)  | [Pedro Henrique](https://github.com/pedro-hsf) |
+| 1.5    | 06/12/2023 | Correções Verificação                                                          | [Victor Hugo](https://github.com/ViictorHugoo)       | [Pedro Henrique](https://github.com/pedro-hsf)       |

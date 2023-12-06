@@ -6,7 +6,7 @@ As avaliações e verificações são uma parte essencial no processo de desenvo
 
 ## Metodologia
 
-Para a realização do planejamento da avaliação, utilizaremos o framework DECIDE, proposto por Sharp, Rogers e Preece, onde cada letra e uma etapa a ser seguida. Como pode ser visto na figura 1:
+Para a realização do planejamento da avaliação, utilizaremos o framework DECIDE, proposto por Sharp, Rogers e Preece, onde cada letra e uma etapa a ser seguida. Como pode ser visto na Figura 1:
 
 <center>
 
@@ -91,7 +91,7 @@ O cronograma das entrevistas com os usuários estão documentadas na Tabela 1 co
 | ---------------------------------------------------- | --------------- | ----------------- | -------------- | -------------- | -------------- | ---------------------------- | -------------------------- |
 | [Ana Catarina](https://github.com/an4catarina)       | Gustavo         | 15:00             | 15:15          | 20/11          |                | Acessar as Estatísticas      | Plataforma Microsoft Teams |
 | [Gustavo França](https://github.com/gustavofbs)      | Flávio Augusto  | 12:00             | 12:15          | 20/11          |                | Contatar Admin               | Plataforma Microsoft Teams |
-| [Harryson Martins](https://github.com/harry-cmartin) | Kelven Cunha    |   14:30                |14:50                | 23/11   |                | Pesquisar por Mídia          | FGA                        |
+| [Harryson Martins](https://github.com/harry-cmartin) | Kelven Cunha    | 14:30             | 14:50          | 23/11          |                | Pesquisar por Mídia          | FGA                        |
 | [Luciano Ricardo](https://github.com/l-ricardo)      | Bruno           | 16:00             | 16:15          | 17/11          |                | Pedir Ajuda                  | Plataforma Microsoft Teams |
 | [Maria Alice](https://github.com/Maliz30)            | Maria Abritta   | 16:30             | 16:45          | 21/11          |                | Candidatura para Colaborador | Plataforma Microsoft Teams |
 | [Pedro Henrique](https://github.com/pedro-hsf)       | Nicolas         | 14:00             | 14:15          | 21/11          |                | Download de Mídia            | Plataforma Microsoft Teams |

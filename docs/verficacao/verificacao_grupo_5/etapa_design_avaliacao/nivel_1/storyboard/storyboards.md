@@ -35,7 +35,7 @@ Na tabela 1, estão listados os critérios que devem ser verificados nos Storybo
 Após a avaliação, foi feita uma análise geral sobre os artefatos que tiveram a sua avaliação como "não" ou "incompleto" para haja uma melhor descrição do respectivo ID.
 
 - **ID 03:** Foi definido como "Não" pois não há referências ou bibliografia no artefato.
-- **ID 05:** Foi definido como "Incompleto" pois a figura 6 está numerada errada e a imagem não está bem disponibilizada
+- **ID 05:** Foi definido como "Incompleto" pois a Figura 6 está numerada errada e a imagem não está bem disponibilizada
 
 ## Bibliografia
 

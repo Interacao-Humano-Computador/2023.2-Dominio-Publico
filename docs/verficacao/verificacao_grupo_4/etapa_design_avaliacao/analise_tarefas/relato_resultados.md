@@ -41,7 +41,7 @@ As perguntas do checklist específico foram elaboradas a partir dos capítulos 9
 Após a avaliação, foi feita uma análise geral sobre os artefatos que tiveram a sua avaliação como "não" ou "incompleto" para haja uma melhor descrição do respectivo ID.
 
 - **ID 02:** Foi definido como "Não" pois o artefato apresenta uma área separada para a introdução, porém ela não está preenchida.
-- **ID 05:** Foi definido como "Incompleto" pois o artefato apresenta apresenta título e fonte na maioria de suas tabelas e figuras, porém da figura 01 a 04 não há o título e a fonte, além de um erro de chamada na tabela 12, que se refere a outra tabela.
+- **ID 05:** Foi definido como "Incompleto" pois o artefato apresenta apresenta título e fonte na maioria de suas tabelas e figuras, porém das Figuras 01 a 04 não há o título e a fonte, além de um erro de chamada na tabela 12, que se refere a outra tabela.
 - **ID 06:** Foi definido como "Não" pois o artefato não apresenta a seção "Seleção dos participantes" preenchida na tarefa Acessar ajuda; a seção ""Sugestões de melhorias" está duplicada nas tarefas: Acessar ajuda e Se tornar um colaborador, e a tarefa Avaliar Midia apresenta imagens referentes a página analisada pelo entrevistado, o que não ocorre para as outras tarefas.
 - **ID 07:** Foi definido como "Incompleto" pois o artefato não apresenta a seção "Planejamento do Reprojeto" preenchida para as tarefa Acessar ajuda, Se tornar um colaborador, Contatar administradores e Fazer download da mídia.
 - **ID 12:** Foi definido como "Não" pois o artefato não apresenta a seção um teste piloto.

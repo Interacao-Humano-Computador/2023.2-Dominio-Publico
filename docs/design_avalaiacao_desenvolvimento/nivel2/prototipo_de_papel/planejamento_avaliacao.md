@@ -10,7 +10,7 @@ Com isso, serão analisados critérios de qualidade na perspectiva do usuário, 
 
 ## Metodologia
 
-Para a realização do planejamento da avaliação, será utilizado o framework DECIDE, proposto por Sharp, Rogers e Preece [1], onde cada letra representa uma etapa a ser seguida. Como pode ser visto na figura 1:
+Para a realização do planejamento da avaliação, será utilizado o framework DECIDE, proposto por Sharp, Rogers e Preece [1], onde cada letra representa uma etapa a ser seguida. Como pode ser visto na Figura 1:
 
 <center>
 

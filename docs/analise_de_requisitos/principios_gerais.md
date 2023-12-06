@@ -91,7 +91,7 @@ Antes de realizar uma ação, o sistema deve indicar claramente o que pode ser f
 
 #### Análise
 
-O sistema demonstra eficiência ao fornecer feedback claro e imediato durante as operações. Esses procedimentos estão ilustrados na figura 5.
+O sistema demonstra eficiência ao fornecer feedback claro e imediato durante as operações. Esses procedimentos estão ilustrados na Figura 5.
 
 <font size="2"><p style="text-align: center">Figura 5: Visibilidade e Reconhecimento</p></font>
 
