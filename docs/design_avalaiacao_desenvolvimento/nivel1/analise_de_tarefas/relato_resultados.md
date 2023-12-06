@@ -2,6 +2,8 @@
 
 ## Introdução
 
+Foram realizadas avaliações do artefato Análise de Tarefas nos modelos [Goms](../../../analise_de_requisitos/analise_de_tarefas/goms.md) e [HTA](../../../analise_de_requisitos/analise_de_tarefas/hta.md), a fim de verificar se os artefatos estão em concordância com as ações tomadas durante o uso real da interface.
+
 ### Tarefa: Pesquisar por mídia
 
 ##### Objetivo e âmbito da avaliação
@@ -224,8 +226,6 @@ Os principais problemas identificados pelo esntrevistado se relacionaram com a p
 
 Em relação a tarefa de acessar ajuda nenhuma sugestão foi dada.
 
-##### Sugestões de melhoria
-
 ### Tarefa: Se tornar um colaborador
 
 ##### Objetivo e âmbito da avaliação
@@ -252,7 +252,7 @@ A Tabela 7 exibe as datas da realização da avaliação.
 
 ##### Seleção dos participantes
 
-A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que a entrevistada tem idade entre 18-34 anos, ensino superior incompleto e grau intermediário em conhecimento tecnológico
+A seleção da participante foi direcionada a partir do Perfil de usuário anteriormente desenvolvido, sendo que o entrevistado tem idade entre 18-34 anos, ensino superior incompleto e grau avançado em conhecimento tecnológico.
 
 ##### Registro da avaliação
 
@@ -290,6 +290,15 @@ No Video 4 e Tabela 8 é possível verificar os registros feitos durante a avali
 
 </center>
 
+##### Termo de Consentimento Livre e Esclarecido
+Durante a entrevista, o entrevistador não leu ou assinou o termo de consentimento livre e esclarecido, porém o termo foi assinado pelo entrevistado e está presente no link abaixo.
+
+<center>
+
+[Termo de Consentimento](../../../assets/termos_de_consentimento/TermoDeConsentimento-AnaliseDeTarefas-seTornarColaborador[assinado].pdf)
+
+</center>
+
 ##### Listagem de problemas encontrados
 
 Ao utilizar o site, o entrevistado encontrou problemas ao navegar pela funcionalidades, não entendendo em alguns momentos como poderia realizar a inscrição para se tornar um colaborador e também o motivo do site apresentar informações de forma crua sobre os dados a serem enviados para a equipe do Domínio Público. Isso tornou seu uso desgastante e desinteressante.
@@ -297,8 +306,6 @@ Ao utilizar o site, o entrevistado encontrou problemas ao navegar pela funcional
 ##### Sugestões de melhoria
 
 O entrevistado sugeriu botões mais claros ao invés de hipelinks, um formulário no site, pedindo as informações de cada tipo de colaborador e um botão de enviar ao final do formulário
-
-##### Sugestões de melhoria
 
 ### Tarefa: Acessar estatísticas
 
@@ -450,45 +457,45 @@ No Video 6 e Tabela 12 é possível verificar os registros feitos durante a aval
 
 </center>
 
-Para que a avaliação pudesse ser conduzida, foi necessário criar cenários em que a tarefa de Avaliar Mídia estivesse presente no sistema. Para isso foram construidas etapas suficientes para que a tarefa fosse executada. As figuras de 1 a 4 representam as etapas criadas.
+Para que a avaliação pudesse ser conduzida, foi necessário criar cenários em que a tarefa de Avaliar Mídia estivesse presente no sistema. Para isso foram construidas etapas suficientes para que a tarefa fosse executada. As figuras de 2 a 5 representam as etapas criadas.
 
 <center>
 
-<font size="2"><p style="text-align: center">Figura 1: Etapa 1 de Avaliar Mídia</p></font>
+<font size="2"><p style="text-align: center">Figura 2: Etapa 1 de Avaliar Mídia</p></font>
 
 ![Etapa 1](<../../../assets/etapas_avaliar_midia/etapa 1.png>)
 
-<font size="2"><p style="text-align: center">[Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
 <center>
 
-<font size="2"><p style="text-align: center">Figura 2: Etapa 2 de Avaliar Mídia</p></font>
+<font size="2"><p style="text-align: center">Figura 3: Etapa 2 de Avaliar Mídia</p></font>
 
 ![Etapa 2](<../../../assets/etapas_avaliar_midia/etapa 2.png>)
 
-<font size="2"><p style="text-align: center">[Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
 <center>
 
-<font size="2"><p style="text-align: center">Figura 3: Etapa 3 de Avaliar Mídia</p></font>
+<font size="2"><p style="text-align: center">Figura 4: Etapa 3 de Avaliar Mídia</p></font>
 
 ![Etapa 3](<../../../assets/etapas_avaliar_midia/etapa 3.png>)
 
-<font size="2"><p style="text-align: center">[Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
 <center>
 
-<font size="2"><p style="text-align: center">Figura 4: Etapa 4 de Avaliar Mídia</p></font>
+<font size="2"><p style="text-align: center">Figura 5: Etapa 4 de Avaliar Mídia</p></font>
 
 ![Etapa 4](<../../../assets/etapas_avaliar_midia/etapa 4.png>)
 
-<font size="2"><p style="text-align: center">[Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
@@ -616,9 +623,21 @@ A avaliação de mídia não é uma função fornecida pelo sistema, por isso no
 
 Conforme com o que foi listado de problemas pelo entrevistado, o novo mapeamento de reprojeto sugere melhorias na visibilidade da opção "Fale Conosco", a inserção do email próprio do Domínio Público em um local específico na página devida, além de corrigir os botões relacionados ao envio do email.
 
-## Referências Bibliográficas
+#### Tarefa: Acessar Ajuda
 
-## Bibliografia
+O entrevistado não citou problemas relacionados a essa tarefa. Por isso, não haverá mudanças no reprojeto.
+
+#### Tarefa: Se tornar um colaborador
+
+
+
+Ao utilizar o site, o entrevistado encontrou problemas ao navegar pela funcionalidades, não entendendo em alguns momentos como poderia realizar a inscrição para se tornar um colaborador e também o motivo do site apresentar informações de forma crua sobre os dados a serem enviados para a equipe do Domínio Público. Isso tornou seu uso desgastante e desinteressante.
+
+O entrevistado sugeriu botões mais claros ao invés de hipelinks, um formulário no site, pedindo as informações de cada tipo de colaborador e um botão de enviar ao final do formulário
+
+#### Tarefa: Contatar administradores
+
+#### Tarefa: Fazer download de mídia
 
 ## Histórico de Versões
 
