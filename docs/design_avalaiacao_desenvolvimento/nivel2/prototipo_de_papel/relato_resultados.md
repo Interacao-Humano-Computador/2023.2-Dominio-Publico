@@ -124,9 +124,9 @@ A Tabela 4 exibe as informações da avaliação executada.
 
 <font size="2"><p style="text-align: center">Tabela 4: Cronograma executado</p></font>
 
-| Entrevistador                                  | Entrevistado     | Horário de Início | Horário de Fim | Data  | Local/Plataforma                                    |
-| ---------------------------------------------- | ---------------- | ----------------- | -------------- | ----- | --------------------------------------------------- |
-| [Pedro Henrique](https://github.com/pedro-hsf) | Gustavo Linhares | 11:00             | 11:00          | 21/11 | Universidade de Brasília - Campus Gama (Presencial) |
+| Entrevistador                                                                                          | Entrevistado     | Horário de Início | Horário de Fim | Data  | Local/Plataforma                                    |
+| ------------------------------------------------------------------------------------------------------ | ---------------- | ----------------- | -------------- | ----- | --------------------------------------------------- |
+| [Pedro Henrique](https://github.com/pedro-hsf) e [Ana Catarina Santos](https://github.com/an4catarina) | Gustavo Linhares | 11:00             | 11:00          | 21/11 | Universidade de Brasília - Campus Gama (Presencial) |
 
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina Santos](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf)</p></font>
 
@@ -224,11 +224,11 @@ Na figura 3 é possível visualizar o protótipo de papel utilizado para a avali
 
 ##### Registro da avaliação
 
-A avaliação foi feita logo após a Avaliação do Download de Mídia, sendo que, previamente, foi explicado para o entrevistado como a entrevista iria funcionar e foi lido o termo de consentimento para o mesmo. No Vídeo 6 e na Tabela 7 é possível verificar os registros feitos durante a avaliação.
+A avaliação foi feita logo após a Avaliação do Download de Mídia, sendo que, previamente, foi explicado para o entrevistado como a entrevista iria funcionar e foi lido o termo de consentimento para o mesmo. No Vídeo 5 e na Tabela 7 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 6: Gravação da avaliação</p></font>
+<font size="2"><p style="text-align: center">Video 5: Gravação da avaliação</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1QsF89zGuNk?si=KJ0PASi6lsBszBwN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -270,7 +270,7 @@ A avaliação tem como objetivo identificar problemas no Protótipo de papel par
 
 Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação do Protótipo de Papel](planejamento_avaliacao.md). Além disso foi utilizado um questionário de 4 questões para guiar a entrevista. A Tabela 8 apresenta as perguntas feitas durante a entrevista com suas respectivas respostas.
 
-A Tabela 7 exibe as datas da realização da avaliação.
+A Tabela 8 exibe as datas da realização da avaliação.
 
 <center>
 
@@ -291,17 +291,17 @@ Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o
 
 ##### Registro da avaliação
 
-Nos Videos 3 e 4, e na Tabela 6 é possível verificar os registros feitos durante a avaliação.
+Nos Videos 6 e 7, e na Tabela 9 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 5: Gravação da avaliação com Bruno</p></font>
+<font size="2"><p style="text-align: center">Video 6: Gravação da avaliação com Bruno</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fSARhlI9ygc?si=eNzUcaNxOHALAEzK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30) e [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
-<font size="2"><p style="text-align: center">Video 6: Gravação da avaliação com Maria Abritta</p></font>
+<font size="2"><p style="text-align: center">Video 7: Gravação da avaliação com Maria Abritta</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BcIXcSJNe5A?si=ArC_m1XU0IVvUV8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -311,7 +311,7 @@ Nos Videos 3 e 4, e na Tabela 6 é possível verificar os registros feitos duran
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 6: Sumario de perguntas</p></font>
+<font size="2"><p style="text-align: center">Tabela 9: Sumario de perguntas</p></font>
 
 | Perguntas                                                                                                           | Tipo de pergunta | Respostas                                                 |
 | ------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------------------------------------------------- |
@@ -345,7 +345,7 @@ A Tabela 7 exibe as datas da realização da avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 7: Cronograma executado</p></font>
+<font size="2"><p style="text-align: center">Tabela 10: Cronograma executado</p></font>
 
 | Entrevistadores                             | Entrevistado  | Horário de Início | Horário de Fim | Data  | Local/Plataforma                                    |
 | ------------------------------------------- | ------------- | ----------------- | -------------- | ----- | --------------------------------------------------- |
@@ -372,17 +372,17 @@ Na figura 4 é possível visualizar o protótipo de papel utilizado para a avali
 
 ##### Registro da avaliação
 
-Foram realizado 2 entrevistas com 2 usuários diferentes, Bruno e Maria Abritta, visando realizar uma avaliação mais precisa. A partir disso, é possível encontrar no Video 4 e Tabela 8 os registros da primeira entrevista.
+Foram realizado 2 entrevistas com 2 usuários diferentes, Bruno e Maria Abritta, visando realizar uma avaliação mais precisa. A partir disso, é possível encontrar no Video 8 e Tabela 11 os registros da primeira entrevista.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 7: Gravação da avaliação 1 - Bruno Medeiros</p></font>
+<font size="2"><p style="text-align: center">Video 8: Gravação da avaliação 1 - Bruno Medeiros</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fSARhlI9ygc?si=eNzUcaNxOHALAEzK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 
-<font size="2"><p style="text-align: center">Tabela 8: Respostas entrevista 1 - Bruno Medeiros</p></font>
+<font size="2"><p style="text-align: center">Tabela 11: Respostas entrevista 1 - Bruno Medeiros</p></font>
 
 | Pergunta                                                                                                            | Resposta                                                                                                                                                                                           |
 | :------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -394,17 +394,17 @@ Foram realizado 2 entrevistas com 2 usuários diferentes, Bruno e Maria Abritta,
 
 </center>
 
-E no Video 5 e Tabela 9 os registros da segunda entrevista feitos durante a avaliação.
+E no Video 9 e Tabela 12 os registros da segunda entrevista feitos durante a avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 8: Gravação da avaliação 2 - Maria Abritta</p></font>
+<font size="2"><p style="text-align: center">Video 9: Gravação da avaliação 2 - Maria Abritta</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BcIXcSJNe5A?si=ArC_m1XU0IVvUV8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 
-<font size="2"><p style="text-align: center">Tabela 9: Respostas entrevista 2 - Maria Abritta</p></font>
+<font size="2"><p style="text-align: center">Tabela 12: Respostas entrevista 2 - Maria Abritta</p></font>
 
 | Pergunta                                                                                                            | Resposta                                                                                                             |
 | :------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------- |
@@ -440,11 +440,11 @@ A avaliação tem como objetivo identificar problemas no Protótipo de papel par
 
 ##### Método de avaliação
 
-Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação do Protótipo de Papel](planejamento_avaliacao.md). Além disso foi utilizado um questionário de 4 questões para guiar a entrevista. As Tabelas 10 e 111 representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
+Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação do Protótipo de Papel](planejamento_avaliacao.md). Além disso foi utilizado um questionário de 4 questões para guiar a entrevista. A Tabela 13 representa o cronograma de avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 11: Cronograma executado</p></font>
+<font size="2"><p style="text-align: center">Tabela 13: Cronograma executado</p></font>
 
 | Entrevistadores                             | Entrevistado  | Horário de Início | Horário de Fim | Data  | Local/Plataforma      |
 | ------------------------------------------- | ------------- | ----------------- | -------------- | ----- | --------------------- |
@@ -461,9 +461,9 @@ Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o
 
 ##### Protótipo de papel
 
-Na figura X é possível visualizar o protótipo de papel utilizado para a avaliação da intervenção da tarefa "avaliar midia".
+Na figura 5 é possível visualizar o protótipo de papel utilizado para a avaliação da intervenção da tarefa "avaliar midia".
 
-<font size="2"><p style="text-align: center">Figura X: Protótipo de papel de "avaliar midia"</p></font>
+<font size="2"><p style="text-align: center">Figura 5: Protótipo de papel de "avaliar midia"</p></font>
 
 ![Protótipo de Papel](../../../assets/prototipo_de_papel/avaliarMidia.jpg)
 
@@ -471,17 +471,17 @@ Na figura X é possível visualizar o protótipo de papel utilizado para a avali
 
 ##### Registro da avaliação
 
-Nos Videos 7 e 8, e na Tabela 13 é possível verificar os registros feitos durante a avaliação.
+Nos Videos 10 e 11, e na Tabela 14 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video9: Gravação da avaliação com Bruno</p></font>
+<font size="2"><p style="text-align: center">Video 10: Gravação da avaliação com Bruno</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fSARhlI9ygc?si=eNzUcaNxOHALAEzK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30) e [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
-<font size="2"><p style="text-align: center">Video 10: Gravação da avaliação com Maria Abritta</p></font>
+<font size="2"><p style="text-align: center">Video 11: Gravação da avaliação com Maria Abritta</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BcIXcSJNe5A?si=ArC_m1XU0IVvUV8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -491,7 +491,7 @@ Nos Videos 7 e 8, e na Tabela 13 é possível verificar os registros feitos dura
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 12: Sumario de perguntas</p></font>
+<font size="2"><p style="text-align: center">Tabela 14: Sumario de perguntas</p></font>
 
 | Perguntas                                                                                                           | Tipo de pergunta | Respostas                                                 |
 | ------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------------------------------------------------- |
@@ -521,13 +521,13 @@ A finalidade da avaliação foi verificar a concordância entre a Protoripo de P
 
 ##### Método de avaliação
 
-Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação do Protótipo de Papel](planejamento_avaliacao.md). Além disso foi utilizado um questionário de 4 questões para guiar a entrevista. As Tabelas 13 e 14 representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
+Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação do Protótipo de Papel](planejamento_avaliacao.md). Além disso foi utilizado um questionário de 4 questões para guiar a entrevista.
 
-A Tabela 13 exibe as datas da realização da avaliação.
+A Tabela 15 exibe as datas da realização da avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 13: Cronograma executado</p></font>
+<font size="2"><p style="text-align: center">Tabela 15: Cronograma executado</p></font>
 
 | Entrevistador  | Entrevistado   | Horário de Início | Horário de Fim | Data  | Local/Plataforma      |
 | -------------- | -------------- | ----------------- | -------------- | ----- | --------------------- |
@@ -544,11 +544,11 @@ Os usuários entrevistados possuem entre 18 e 34 anos; é experiente com tecnolo
 
 ##### Registro da avaliação
 
-No Video 11 e Tabela 14 é possível verificar os registros feitos durante a avaliação.
+No Video 12 e Tabela 16 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 11: Gravação da avaliação</p></font>
+<font size="2"><p style="text-align: center">Video 12: Gravação da avaliação</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xOvv3SnBEe4?si=5MWSNbccC3wPehtp" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -558,7 +558,7 @@ No Video 11 e Tabela 14 é possível verificar os registros feitos durante a ava
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 14: Sumario de perguntas</p></font>
+<font size="2"><p style="text-align: center">Tabela 16: Sumario de perguntas</p></font>
 
 | Pergunta                                                                                                                            | Resposta |
 | ----------------------------------------------------------------------------------------------------------------------------------- | :------- |
@@ -571,11 +571,11 @@ No Video 11 e Tabela 14 é possível verificar os registros feitos durante a ava
 
 </center>
 
-No Video 12 e Tabela 15 é possível verificar os registros feitos durante a avaliação.
+No Video 13 e Tabela 17 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 12: Gravação da avaliação</p></font>
+<font size="2"><p style="text-align: center">Video 13: Gravação da avaliação</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XSwB3Ov9KdQ?si=yMW2OXNrFQuQ6tba" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -585,7 +585,7 @@ No Video 12 e Tabela 15 é possível verificar os registros feitos durante a ava
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 15: Sumario de perguntas</p></font>
+<font size="2"><p style="text-align: center">Tabela 17: Sumario de perguntas</p></font>
 
 |                                                              Pergunta                                                               | Resposta |
 | :---------------------------------------------------------------------------------------------------------------------------------: | :------: |
@@ -606,19 +606,20 @@ Durante a entrevista e durante a análise dos resultados após a entrevista, nã
 
 Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram sugestões de melhoria
 
-## Referências Bibliográficas
+## Bibliografia
 
-> 1. BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                  | Autor(es)                                       | Revisor(es)                                           |
-| ------ | ---------- | -------------------------- | ----------------------------------------------- | ----------------------------------------------------- |
-| 1.0    | 07/11/2023 | Criação do documento       | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)        |
-| 1.1    | 21/11/2023 | Avaliar midia - Preliminar | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo)       |
-| 1.2    | 21/11/2023 | Avaliar midia - Final      | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo)       |
-| 1.3    | 21/11/2023 | Pedir ajuda                | [Luciano Ricardo](https://github.com/l-ricardo) | [Gustavo França](https://github.com/gustavofbs)       |
-| 1.4    | 22/11/2023 | Se tornar colaborador      | [Maria Alice](https://github.com/Maliz30)       | [Victor Hugo](https://github.com/ViictorHugoo)        |
-| 1.5    | 22/11/2023 | Contatar Administradores   | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo)        |
-| 1.6    | 22/11/2023 | Fazer Download             | [Pedro Henrique](https://github.com/pedro-hsf)  | [Ana Catarina Santos](https://github.com/an4catarina) |
-| 1.7    | 22/11/2023 | Acessar estatísticas       | [Pedro Henrique](https://github.com/pedro-hsf)  | [Ana Catarina Santos](https://github.com/an4catarina) |
+| Versão | Data       | Descrição                          | Autor(es)                                             | Revisor(es)                                           |
+| ------ | ---------- | ---------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
+| 1.0    | 07/11/2023 | Criação do documento               | [Luciano Ricardo](https://github.com/l-ricardo)       | [Victor Hugo](https://github.com/ViictorHugoo)        |
+| 1.1    | 21/11/2023 | Avaliar midia - Preliminar         | [Victor Hugo](https://github.com/ViictorHugoo)        | [Luciano Ricardo](https://github.com/l-ricardo)       |
+| 1.2    | 21/11/2023 | Avaliar midia - Final              | [Victor Hugo](https://github.com/ViictorHugoo)        | [Luciano Ricardo](https://github.com/l-ricardo)       |
+| 1.3    | 21/11/2023 | Pedir ajuda                        | [Luciano Ricardo](https://github.com/l-ricardo)       | [Gustavo França](https://github.com/gustavofbs)       |
+| 1.4    | 22/11/2023 | Se tornar colaborador              | [Maria Alice](https://github.com/Maliz30)             | [Victor Hugo](https://github.com/ViictorHugoo)        |
+| 1.5    | 22/11/2023 | Contatar Administradores           | [Gustavo França](https://github.com/gustavofbs)       | [Victor Hugo](https://github.com/ViictorHugoo)        |
+| 1.6    | 22/11/2023 | Fazer Download                     | [Pedro Henrique](https://github.com/pedro-hsf)        | [Ana Catarina Santos](https://github.com/an4catarina) |
+| 1.7    | 22/11/2023 | Acessar estatísticas               | [Ana Catarina Santos](https://github.com/an4catarina) | [Pedro Henrique](https://github.com/pedro-hsf)        |
+| 1.8    | 06/12/2023 | Verificação e correção do artefato | [Ana Catarina Santos](https://github.com/an4catarina) | [Victor Hugo](https://github.com/ViictorHugoo)        |
