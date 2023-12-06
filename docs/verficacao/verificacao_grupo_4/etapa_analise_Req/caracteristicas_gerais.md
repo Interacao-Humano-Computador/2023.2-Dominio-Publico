@@ -8,25 +8,25 @@ Depois de planejar o que verificar, é hora de fazer a inspeção. Este document
 
 As perguntas do checklist específico foram formuladas com base no Capítulo 4, intitulado "Processos de Design de IHC" do livro "Interação Humano-Computador" de Barbosa e Silva. Deste capítulo, foram extraídas informações cruciais relacionadas ao funcionamento das metas de usabilidade e aos princípios gerais. Essa abordagem visa possibilitar o desenvolvimento de perguntas direcionadas ao artefato, características da plataforma.
 
-A tabela 1 a seguir apresenta a checklist com os dados obtidos a partir da verificação das Características da plataforma. 
+A Tabela 1 a seguir apresenta a checklist com os dados obtidos a partir da verificação das Características da plataforma. 
 
 <center>
 <font size="2"><p style="text-align: center">Tabela 1: Checklist Verificação das Características da plataforma</p></font>
 
-| ID  | Critério                                                                                                   | Resultado |
-| --- | ---------------------------------------------------------------------------------------------------------- | --------- |
-|**Geral**        |                                                                                                |           |
-| 1   | Há um texto introdutório sobre o artefato?                                                                 |Sim           |
-| 2   | Há a referencia/bibliografia?                                                                              |Sim           |
-| 3   | O artefato possui um histórico de versões padronizado?                                                     |Sim           |
-| 4   | As imagens e tabelas são chamadas no texto?                                                                |Não se aplica           |
-| 5   | As imagens e tabelas possuem titulo e fonte?                                                               |Não se aplica           |
-|**Específico**  |                                                                                                 |           |
-| 6   | Houve a identificação clara das tecnologias empregadas no desenvolvimento da plataforma?                                                                                                        | Sim          |
-| 7   | As características específicas da plataforma foram devidamente reconhecidas para o desenvolvimento do projeto?                                                                                                           |  Não        |
-| 8   | As características positivas da plataforma foram devidamente elencadas?                                                                                                         |   Sim     |
-| 9   |  Foi identificada a gama de navegadores ou dispositivos capazes de acessar a plataforma?                                                                                                        |   Sim       |
-| 10  |  Foram destacadas as restrições ou limitações inerentes à plataforma?                                                                                                        |   Sim        |
+| ID             | Critério                                                                                                       | Resultado     |
+| -------------- | -------------------------------------------------------------------------------------------------------------- | ------------- |
+| **Geral**      |                                                                                                                |               |
+| 1              | Há um texto introdutório sobre o artefato?                                                                     | Sim           |
+| 2              | Há a referencia/bibliografia?                                                                                  | Sim           |
+| 3              | O artefato possui um histórico de versões padronizado?                                                         | Sim           |
+| 4              | As imagens e tabelas são chamadas no texto?                                                                    | Não se aplica |
+| 5              | As imagens e tabelas possuem titulo e fonte?                                                                   | Não se aplica |
+| **Específico** |                                                                                                                |               |
+| 6              | Houve a identificação clara das tecnologias empregadas no desenvolvimento da plataforma?                       | Sim           |
+| 7              | As características específicas da plataforma foram devidamente reconhecidas para o desenvolvimento do projeto? | Não           |
+| 8              | As características positivas da plataforma foram devidamente elencadas?                                        | Sim           |
+| 9              | Foi identificada a gama de navegadores ou dispositivos capazes de acessar a plataforma?                        | Sim           |
+| 10             | Foram destacadas as restrições ou limitações inerentes à plataforma?                                           | Sim           |
 
 <font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf) </p></font>
 </center>
@@ -70,7 +70,7 @@ No gráfico 1 é possível verificar os resultados obtidos na avaliação do art
 > Planejamento da Verificação da Etapa 4 do Grupo 2- Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa4/planejamento-verificacao-etapa4-grupo>>. Acesso em 03 de dezembro de 2023.
 
 
-| Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                      |
-| ------ | ---------- | ---------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| 1.0    | 03/12/2023 | Criação da página e adição de conteúdo     | [Pedro Henrique](https://github.com/pedro-hsf) | [Maria Alice](https://github.com/Maliz30) |
-| 1.1    | 04/12/2023 | Adicionando Vídeos e Gráficos     | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina) |
+| Versão | Data       | Descrição                              | Autor(es)                                      | Revisor(es)                                    |
+| ------ | ---------- | -------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 03/12/2023 | Criação da página e adição de conteúdo | [Pedro Henrique](https://github.com/pedro-hsf) | [Maria Alice](https://github.com/Maliz30)      |
+| 1.1    | 04/12/2023 | Adicionando Vídeos e Gráficos          | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina) |

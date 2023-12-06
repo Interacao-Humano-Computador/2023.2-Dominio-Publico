@@ -6,7 +6,7 @@ Este documento visa verificar se o artefato [Planejamento de avaliação dos pro
 
 ## Checklist de Verificação
 
-Na tabela 1, estão listados os critérios que devem ser verificados no artefato Planejamento de Avaliação dos Protótipos de papel do Grupo 4.
+Na Tabela 1, estão listados os critérios que devem ser verificados no artefato Planejamento de Avaliação dos Protótipos de papel do Grupo 4.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do artefato "Planejamento de Avaliação dos Protótipos de papel". </p></font>
 

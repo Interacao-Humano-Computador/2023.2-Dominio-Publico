@@ -101,7 +101,7 @@ O cronograma das entrevistas com os usuários estão documentadas na Tabela 1 co
 
 ### Perguntas desenvolvidas
 
-A seguir, tabela 2, podem ser vistas as perguntas que serão propostas aos usuários após o término das entrevistas, para coletagem de informações. Na tabela 3, podem ser vistas as diretrizes a serem observadas pelos entrevistadores ao decorrer da avaliação. Ambos os artefatos foram baseados na Fase E - Perguntas a serem exploradas.
+A seguir, Tabela 2, podem ser vistas as perguntas que serão propostas aos usuários após o término das entrevistas, para coletagem de informações. Na Tabela 3, podem ser vistas as diretrizes a serem observadas pelos entrevistadores ao decorrer da avaliação. Ambos os artefatos foram baseados na Fase E - Perguntas a serem exploradas.
 
 <center>
 

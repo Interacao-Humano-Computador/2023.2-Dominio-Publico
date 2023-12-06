@@ -6,7 +6,7 @@ Este documento visa verificar se o artefato de [Relato de resultados da análise
 
 ## Checklist
 
-Na tabela 1, estão listados os critérios que devem ser verificados no artefato Relato dos Resultados da Análise de Tarefas do Grupo 5.
+Na Tabela 1, estão listados os critérios que devem ser verificados no artefato Relato dos Resultados da Análise de Tarefas do Grupo 5.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do artefato "Relato dos Resultados da Análise de Tarefas" . </p></font>
 

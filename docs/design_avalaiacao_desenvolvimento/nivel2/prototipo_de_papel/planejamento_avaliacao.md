@@ -135,7 +135,7 @@ Por fim, as informações adquiridas serão validadas novamente, e assim poderã
 
 ## Planejamento do Teste Piloto
 
-De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamento com o objetivo de validar e conferir se o mesmo produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve fazer o teste piloto como se estivesse fazendo uma simulação real. A tabela 3 contém as informações do teste piloto.
+De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamento com o objetivo de validar e conferir se o mesmo produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve fazer o teste piloto como se estivesse fazendo uma simulação real. A Tabela 3 contém as informações do teste piloto.
 
 <center>
 

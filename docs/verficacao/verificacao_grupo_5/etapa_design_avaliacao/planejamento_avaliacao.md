@@ -59,7 +59,7 @@ Os checklists são baseados nos critérios definidos no Plano de Ensino da disci
 
 ## Checklist Geral
 
-Na tabela 1, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 4 do Grupo 5.
+Na Tabela 1, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 4 do Grupo 5.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist Geral. </p></font>
 
@@ -76,7 +76,7 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 
 ## Checklist de Planejamento da Avaliação do Storyboard
 
-Na tabela 2, estão listados os critérios que devem ser verificados no Planejamento da Avaliação do Storyboard do Grupo 5.
+Na Tabela 2, estão listados os critérios que devem ser verificados no Planejamento da Avaliação do Storyboard do Grupo 5.
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist do artefato "Planejamento da Avaliação do Storyboard". </p></font>
 
@@ -95,7 +95,7 @@ Na tabela 2, estão listados os critérios que devem ser verificados no Planejam
 
 ## Checklist de Planejamento do Relato dos Resultados da Avaliação do Storyboard
 
-Na tabela 3, estão listados os critérios que devem ser verificados no Planejamento do Relato dos Resultados da Avaliação do Storyboard do Grupo 5.
+Na Tabela 3, estão listados os critérios que devem ser verificados no Planejamento do Relato dos Resultados da Avaliação do Storyboard do Grupo 5.
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist do artefato "Planejamento do Relato dos Resultados da Avaliação do Storyboard". </p></font>
 
@@ -114,7 +114,7 @@ Na tabela 3, estão listados os critérios que devem ser verificados no Planejam
 
 ## Checklist de Nossos Storyboards
 
-Na tabela 4, estão listados os critérios que devem ser verificados nos Storyboards do Grupo 5.
+Na Tabela 4, estão listados os critérios que devem ser verificados nos Storyboards do Grupo 5.
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist do artefato "Nossos Storyboards" . </p></font>
 
@@ -134,7 +134,7 @@ Na tabela 4, estão listados os critérios que devem ser verificados nos Storybo
 
 ## Resultado da Avaliação do Storyboard
 
-A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
+A Tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Checklist do artefato "Resultado da Avaliação do Storyboard". </p></font>
 
@@ -151,7 +151,7 @@ A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 ## Checklist de Planejamento da Avaliação da Análise de Tarefas
 
-Na tabela 6, estão listados os critérios que devem ser verificados no Planejamento da Avaliação da Análise de Tarefas do Grupo 5.
+Na Tabela 6, estão listados os critérios que devem ser verificados no Planejamento da Avaliação da Análise de Tarefas do Grupo 5.
 
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Checklist do artefato "Planejamento da Avaliação da Análise de Tarefas". </p></font>
 
@@ -170,7 +170,7 @@ Na tabela 6, estão listados os critérios que devem ser verificados no Planejam
 
 ## Checklist de Planejamento do Relato dos Resultados da Análise de Tarefas
 
-Na tabela 7, estão listados os critérios que devem ser verificados no Planejamento do Relato dos Resultados da Análise de Tarefas do Grupo 5.
+Na Tabela 7, estão listados os critérios que devem ser verificados no Planejamento do Relato dos Resultados da Análise de Tarefas do Grupo 5.
 
 <font size="3"><p style="text-align: center"><b>Tabela 7</b> - Checklist do artefato "Planejamento do Relato dos Resultados da Análise de Tarefas". </p></font>
 
@@ -188,7 +188,7 @@ Na tabela 7, estão listados os critérios que devem ser verificados no Planejam
 
 ## Checklist do Relato dos resultados da Análise de Tarefas
 
-A tabela 8 a seguir apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
+A Tabela 8 a seguir apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
 
 <font size="3"><p style="text-align: center"><b>Tabela 8</b> - Checklist do artefato "Relato dos resultados da Análise de Tarefas". </p></font>
 
@@ -205,7 +205,7 @@ A tabela 8 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 ## Checklist de Planejamento de Avaliação dos Protótipos de papel
 
-Na tabela 9, estão listados os critérios que devem ser verificados no Planejamento da Avaliação da Análise do protótipo de papel do Grupo 5.
+Na Tabela 9, estão listados os critérios que devem ser verificados no Planejamento da Avaliação da Análise do protótipo de papel do Grupo 5.
 
 <font size="3"><p style="text-align: center"><b>Tabela 9</b> - Checklist do artefato "Planejamento de Avaliação dos Protótipos de papel". </p></font>
 
@@ -224,7 +224,7 @@ Na tabela 9, estão listados os critérios que devem ser verificados no Planejam
 
 ## Checklist de Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel
 
-Na tabela 10, estão listados os critérios que devem ser verificados no Planejamento da Avaliação da Análise do protótipo de papel do Grupo 5.
+Na Tabela 10, estão listados os critérios que devem ser verificados no Planejamento da Avaliação da Análise do protótipo de papel do Grupo 5.
 
 <font size="3"><p style="text-align: center"><b>Tabela 10</b> - Checklist do artefato "Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel". </p></font>
 

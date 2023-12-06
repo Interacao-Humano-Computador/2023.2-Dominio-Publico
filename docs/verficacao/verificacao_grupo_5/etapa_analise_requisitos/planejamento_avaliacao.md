@@ -38,7 +38,7 @@ Os artefatos desta etapa serão verificados pelos integrantes [Luciano Ricardo](
 
 ### Cronograma
 
-As verificações devem ser realizadas no perído de 14 de novembro de 2023 até 15 de novembro de 2023, com seus resultados relatados nas respectivas páginas durante o mesmo período de tempo. A tabela 1 apresenta o cronograma de atividades.
+As verificações devem ser realizadas no perído de 14 de novembro de 2023 até 15 de novembro de 2023, com seus resultados relatados nas respectivas páginas durante o mesmo período de tempo. A Tabela 1 apresenta o cronograma de atividades.
 
 <center>
 
@@ -63,7 +63,7 @@ As verificações devem ser realizadas no perído de 14 de novembro de 2023 até
 
 ## Checklist 
 
-Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Simone Barbosa, os itens de verificação listados no plano de ensino da disciplina e as principais tarefas realizadas na elaboração de cada artefato, foram construidas checklists que buscam melhor organizar e guiar a verificação. As checklists foram dividas em Checklist geral, representada pela tabela 2, contendo verificações que deverão ser feitas em cada um dos artefatos; e checklist especificas, com checagens voltadas para o artefato especifico a qual se refere, as tabelas de 3 a 11 representam, respectivamente, cada um dos artefatos listado em **Artefatos para Verificação**.
+Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Simone Barbosa, os itens de verificação listados no plano de ensino da disciplina e as principais tarefas realizadas na elaboração de cada artefato, foram construidas checklists que buscam melhor organizar e guiar a verificação. As checklists foram dividas em Checklist geral, representada pela Tabela 2, contendo verificações que deverão ser feitas em cada um dos artefatos; e checklist especificas, com checagens voltadas para o artefato especifico a qual se refere, as Tabelas de 3 a 11 representam, respectivamente, cada um dos artefatos listado em **Artefatos para Verificação**.
 
 ### Geral
 
@@ -136,7 +136,7 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 | 2   | Os cenarios possuem o(s) ator(es) envolvidos definidos? |           |
 | 3   | Os cenarios possuem objetivos definidos?                |           |
 | 4   | Os cenarios possuem ações definidas?                    |           |
-| 5  | Os cenarios possuem avaliação definida?                 |           |
+| 5   | Os cenarios possuem avaliação definida?                 |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 </center>
@@ -163,13 +163,13 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 <center>
 <font size="2"><p style="text-align: center">Tabela 7: Checklist de Análise de Tarefas</p></font>
 
-| N° | Descrição | Resultado |
-| -- | --------- | --------- |
-| 6 | O objetivo da análise de tarefas é apresentado? ||
-| 7 | 	As tarefas são descritas de forma clara e concisa? |
-| 8 | Há ao menos duas técnicas para especificar as tarefas? ||
-| 9 | O HTA apresenta diagrama, legenda e representaçãoem tabela? ||
-| 10 | O GOMS foi representado pelos modelos: KLM, CMN-GOMS, CPM-GOMS, CTT | |
+| N°  | Descrição                                                           | Resultado |
+| --- | ------------------------------------------------------------------- | --------- |
+| 6   | O objetivo da análise de tarefas é apresentado?                     |           |
+| 7   | As tarefas são descritas de forma clara e concisa?                  |
+| 8   | Há ao menos duas técnicas para especificar as tarefas?              |           |
+| 9   | O HTA apresenta diagrama, legenda e representaçãoem tabela?         |           |
+| 10  | O GOMS foi representado pelos modelos: KLM, CMN-GOMS, CPM-GOMS, CTT |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 </center>
@@ -180,18 +180,18 @@ Usando como referencia o livro Interação Humano-Computador de Bruno Silva e Si
 <center>
 <font size="2"><p style="text-align: center">Tabela 8: Checklist dos Principios e Diretrizes Gerais</p></font>
 
-| N° | Descrição | Resultado |
-| -- | --------- | --------- |
-| 6 | Os princípios gerais do projeto são claramente definidos e documentados? ||
-| 7 | Os princípios gerais do projeto são consistentes com as expectativas dos usuários?||
-| 8 | Os princípios gerais do projeto promovem a simplicidade nas estruturas das tarefas? ||
-| 9 | Os princípios gerais do projeto promovem o equilíbrio entre controle e liberdade do usuário? ||
-| 10 | 	Os princípios gerais do projeto contém consistência e padronização ? ||
-| 11 | Os princípios gerais do projeto promovem a eficiência do usuário? ||
-| 12 | Os princípios gerais do projeto antecipam as necessidades do usuário? ||
-| 13 | Os princípios gerais do projeto promovem a visibilidade e o reconhecimento? ||
-| 14 | Os princípios gerais do projeto promovem o conteúdo relevante e a expressão adequada? ||
-| 15 | Os princípios gerais do projeto promovem o projeto para erros? | |
+| N°  | Descrição                                                                                    | Resultado |
+| --- | -------------------------------------------------------------------------------------------- | --------- |
+| 6   | Os princípios gerais do projeto são claramente definidos e documentados?                     |           |
+| 7   | Os princípios gerais do projeto são consistentes com as expectativas dos usuários?           |           |
+| 8   | Os princípios gerais do projeto promovem a simplicidade nas estruturas das tarefas?          |           |
+| 9   | Os princípios gerais do projeto promovem o equilíbrio entre controle e liberdade do usuário? |           |
+| 10  | Os princípios gerais do projeto contém consistência e padronização ?                         |           |
+| 11  | Os princípios gerais do projeto promovem a eficiência do usuário?                            |           |
+| 12  | Os princípios gerais do projeto antecipam as necessidades do usuário?                        |           |
+| 13  | Os princípios gerais do projeto promovem a visibilidade e o reconhecimento?                  |           |
+| 14  | Os princípios gerais do projeto promovem o conteúdo relevante e a expressão adequada?        |           |
+| 15  | Os princípios gerais do projeto promovem o projeto para erros?                               |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30)</p></font>
 </center>

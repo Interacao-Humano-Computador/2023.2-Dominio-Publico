@@ -3,7 +3,7 @@
 
 
 ## Introdução
-Os cenários são basicamente histórias sobre pessoas realizando uma atividade. Como forma de elaborar cenários mais completos, utilizamos a técnica do **questionamento sistemático**. Nessa técnica, segmentamos os cenários em proposições e investigamos cada uma delas, a partir de um conjunto de perguntas, que as respostam geram mais proposições. Repetimos esse ciclo até que tudo esteja completo. As perguntas sugeridas são: Por quê? Como? O que é? X pode ser feito da forma y? X faz parte de y? Conforme podemos ver nas figuras 1 e 2.
+Os cenários são basicamente histórias sobre pessoas realizando uma atividade. Como forma de elaborar cenários mais completos, utilizamos a técnica do **questionamento sistemático**. Nessa técnica, segmentamos os cenários em proposições e investigamos cada uma delas, a partir de um conjunto de perguntas, que as respostam geram mais proposições. Repetimos esse ciclo até que tudo esteja completo. As perguntas sugeridas são: Por quê? Como? O que é? X pode ser feito da forma y? X faz parte de y? Conforme podemos ver nas Figuras 1 e 2.
 
 ### Questões exploratórias
 
@@ -68,7 +68,7 @@ Lucas conclui uma obra recém obtida no Domínio Público, e com afinco de propo
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição            | Autor(es)                                 | Revisor(es)                                    |
-| ------ | ---------- | -------------------- | ----------------------------------------- | ---------------------------------------------- |
-| 1.0    | 15/10/2023 | Criação dos cenários | [Maria Alice](https://github.com/Maliz30) | [Ana Catarina](https://github.com/an4catarina) |
-| 1.1    | 04/12/2023 | Correção de erros    |[Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)| [Maria Alice](https://github.com/Maliz30)|
+| Versão | Data       | Descrição            | Autor(es)                                                                                              | Revisor(es)                                    |
+| ------ | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------- |
+| 1.0    | 15/10/2023 | Criação dos cenários | [Maria Alice](https://github.com/Maliz30)                                                              | [Ana Catarina](https://github.com/an4catarina) |
+| 1.1    | 04/12/2023 | Correção de erros    | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Maria Alice](https://github.com/Maliz30)      |

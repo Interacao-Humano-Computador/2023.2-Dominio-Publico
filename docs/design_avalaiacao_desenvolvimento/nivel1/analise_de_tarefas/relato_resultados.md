@@ -395,7 +395,7 @@ A avaliação tem como objetivo principal avaliar se a [Análise de tarefas de A
 
 ##### Método de avaliação
 
-Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação da Analise de Tarefas](planejamento_avaliacao.md). Além disso foi utilizado um questionário de X questões para guiar a entrevista. A tabela 11 e 12 representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
+Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação da Analise de Tarefas](planejamento_avaliacao.md). Além disso foi utilizado um questionário de X questões para guiar a entrevista. As Tabelas 11 e 12 representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
 
 <center>
 
@@ -457,7 +457,7 @@ No Video 6 e Tabela 12 é possível verificar os registros feitos durante a aval
 
 </center>
 
-Para que a avaliação pudesse ser conduzida, foi necessário criar cenários em que a tarefa de Avaliar Mídia estivesse presente no sistema. Para isso foram construidas etapas suficientes para que a tarefa fosse executada. As figuras de 2 a 5 representam as etapas criadas.
+Para que a avaliação pudesse ser conduzida, foi necessário criar cenários em que a tarefa de Avaliar Mídia estivesse presente no sistema. Para isso foram construidas etapas suficientes para que a tarefa fosse executada. As Figuras de 2 a 5 representam as etapas criadas.
 
 <center>
 
@@ -503,7 +503,7 @@ Para que a avaliação pudesse ser conduzida, foi necessário criar cenários em
 
 <!-- Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram problemas-->
 
-Na tabela 13 é possível encontar os problemas relatados.
+Na Tabela 13 é possível encontar os problemas relatados.
 
 <center>
 
@@ -523,7 +523,7 @@ Na tabela 13 é possível encontar os problemas relatados.
 
 <!-- Durante a entrevista e durante a análise dos resultados após a entrevista, não houveram sugestões de melhoria-->
 
-Na tabela 14 é possível encontar as sugestões de melhoria, assim como o problema que a sugestão resolve.
+Na Tabela 14 é possível encontar as sugestões de melhoria, assim como o problema que a sugestão resolve.
 
 <center>
 

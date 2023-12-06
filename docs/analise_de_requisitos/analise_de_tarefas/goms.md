@@ -38,7 +38,7 @@ Ao aplicar o método GOMS, é possível quantificar e prever o tempo que os usu�
 
 As seguintes tarefas tiveram como apoio os problemas também relacionados na análise de tarefas HTA.
 
-As figuras de 1 a 6 explicitam os modelos GOMS detalhados de suas respectivas tarefas.
+As Figuras de 1 a 6 explicitam os modelos GOMS detalhados de suas respectivas tarefas.
 
 
 
@@ -157,4 +157,4 @@ Enviar a dúvida.
 | 1.2    | 16/10/2023 | Conserto das imagens GOMS          | [Harryson Martins](https://github.com/harry-cmartin)                                                   | [Pedro Henrique](https://github.com/pedro-hsf)                                                                                                  |
 | 1.3    | 16/10/2023 | Adição de Avaliar midia            | [Victor Hugo](https://github.com/ViictorHugoo)                                                         | [Maria Alice](https://github.com/Maliz-30)                                                                                                      |
 | 1.4    | 23/10/2023 | Adição de Contatar Administradores | [Gustavo França](https://github.com/gustavofbs)                                                        | [Victor Hugo](https://github.com/ViictorHugoo)                                                                                                  |
-| 1.5    | 06/12/23 | Correção do Artefato | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina) |
+| 1.5    | 06/12/23   | Correção do Artefato               | [Pedro Henrique](https://github.com/pedro-hsf)                                                         | [Ana Catarina](https://github.com/an4catarina)                                                                                                  |

@@ -345,7 +345,7 @@ A avaliação tem como objetivo principal avaliar se o [Storyboard de Avaliar Mi
 
 ##### Método de avaliação
 
-Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação do Storyboard](./planejamento_avaliacao.md). Além disso foi utilizado um questionário para guiar a entrevista. A tabela 11 e 12 representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
+Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação do Storyboard](./planejamento_avaliacao.md). Além disso foi utilizado um questionário para guiar a entrevista. As Tabelas 11 e 12 representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
 
 <center>
 
@@ -516,14 +516,14 @@ Não há necessidade de reprojeto para essa tarefa.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                         | Autor(es)                                              | Revisor(es)                                            |
-| ------ | ---------- | --------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
-| 1.0    | 01/11/2021 | Criação do documento              | [Luciano Ricardo](https://github.com/l-ricardo)        | [Victor Hugo](https://github.com/ViictorHugoo)         |
-| 1.1    | 01/11/2021 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo)         | [Luciano Ricardo](https://github.com/l-ricardo)        |
-| 1.2    | 08/11/2021 | Relato Acessar Ajuda              | [Luciano Ricardo](https://github.com/l-ricardo)        | [Ana Catarina](https://github.com/an4catarina)         |
-| 1.3    | 08/11/2021 | Relato Download de Mídia          | [Pedro Henrique](https://github.com/pedro-hsf)         | [Ana Catatrina](https://github.com/an4catarina)        |
-| 1.4    | 08/11/2023 | Relato Contatar Admin             | [Gustavo França](https://github.com/gustavofbs)        | [Ana Catarina](https://github.com/an4catarina)         |
-| 1.5    | 08/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina](https://github.com/an4catarinna)        | [Pedro Henrique](https://github.com/pedro-hsf)         |
-| 1.6    | 08/11/2021 | Relato Avaliar Midia              | [Victor Hugo](https://github.com/ViictorHugoo)         | [Pedro Henrique](https://github.com/pedro-hsf)         |
-| 1.7    | 08/11/2021 | Relato Se tornar um colaborador   | [Maria Alice](https://github.com/Maliz30)              | [Ana Catarina](https://github.com/an4catarinna)        |
-| 1.8    | 05/12/2023 | Correções Verificação             | [Victor Hugo](https://github.com/ViictorHugoo)         | [Maria Alice](https://github.com/Maliz30)              |
+| Versão | Data       | Descrição                         | Autor(es)                                       | Revisor(es)                                     |
+| ------ | ---------- | --------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 01/11/2021 | Criação do documento              | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.1    | 01/11/2021 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.2    | 08/11/2021 | Relato Acessar Ajuda              | [Luciano Ricardo](https://github.com/l-ricardo) | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.3    | 08/11/2021 | Relato Download de Mídia          | [Pedro Henrique](https://github.com/pedro-hsf)  | [Ana Catatrina](https://github.com/an4catarina) |
+| 1.4    | 08/11/2023 | Relato Contatar Admin             | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.5    | 08/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina](https://github.com/an4catarinna) | [Pedro Henrique](https://github.com/pedro-hsf)  |
+| 1.6    | 08/11/2021 | Relato Avaliar Midia              | [Victor Hugo](https://github.com/ViictorHugoo)  | [Pedro Henrique](https://github.com/pedro-hsf)  |
+| 1.7    | 08/11/2021 | Relato Se tornar um colaborador   | [Maria Alice](https://github.com/Maliz30)       | [Ana Catarina](https://github.com/an4catarinna) |
+| 1.8    | 05/12/2023 | Correções Verificação             | [Victor Hugo](https://github.com/ViictorHugoo)  | [Maria Alice](https://github.com/Maliz30)       |

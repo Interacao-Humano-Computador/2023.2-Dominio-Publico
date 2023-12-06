@@ -7,32 +7,32 @@ Este documento visa verificar se o artefato de [Planejamento Relato dos Resultad
 
 ## Checklist de Verificação
 
-As perguntas do checklist específico foram elaboradas a partir dos capítulo 9, Planejamento da Avaliação de IHC, do livro "Interação Humano-Computador" de Barbosa e Silva. Foram utilizados 2 checklists, um geral, utilizados em todos os artefatos verificados, e outro específico, utilizado somente neste artefato. Na tabela 1, estão listados os critérios que devem ser verificados no artefato Planejamento Relato dos Resultados da Análise de Tarefas do Grupo 4.
+As perguntas do checklist específico foram elaboradas a partir dos capítulo 9, Planejamento da Avaliação de IHC, do livro "Interação Humano-Computador" de Barbosa e Silva. Foram utilizados 2 checklists, um geral, utilizados em todos os artefatos verificados, e outro específico, utilizado somente neste artefato. Na Tabela 1, estão listados os critérios que devem ser verificados no artefato Planejamento Relato dos Resultados da Análise de Tarefas do Grupo 4.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do artefato "Planejamento Relato dos Resultados da Análise de Tarefas" . </p></font>
 
-| ID  | Critério                                                                                                         | Avaliação |
-| --- | ---------------------------------------------------------------------------------------------------------------- | --------- |
-|**Geral**| | |
-| 01  | O artefato conta com um registro padronizado de suas versões?                                                    | Sim           |
-| 02  | O artefato inclui uma seção de introdução?                                                                       |  Sim         |
-| 03  | As referências bibliográficas e a bibliografia estão corretamente utilizadas no artefato, seguindo a norma ABNT? | Sim          |
-| 04  | Todas as chamadas para tabelas e figuras estão incorporadas ao texto?  | Sim          |
-| 05  | Há uma consistência na apresentação de tabelas e figuras?                                                        |  Sim         |
-| 06  | A estrutura do documento está claramente definida e se mantem consistente durante todo artefato?                 | Sim          |
-|**Específico**| | |
-| 07  | O artefato delineia os objetivos para o relato dos resultados da avaliação? | Não          |
-| 08  | O artefato inclui o modelo do cronograma executado durante a avaliação?                                          | Sim          |
-| 09  | Os métodos utilizados são descritos no artefato?                                                                 | Sim           |
-| 10  | O artefato aborda os aspectos éticos envolvidos no relato dos resultados da avaliação?                           | Não           |
-| 11 | O planejamento apresenta os participantes selecionados? | Sim |	
-| 12 | O artefato menciona a apresentação da quantidade de entrevistados e sua justificativa ? | Incompleto |		
-| 13 | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário? | Incompleto |	
-| 14 | O artefato menciona a apresentação da quantidade de avaliadores e sua justificativa ?	| Incompleto |	
-| 15 | O artefato menciona a apresentação das perguntas e/ou tarefas exploradas durante a Avaliação da Análise de tarefas ? | Sim |		
-| 16 | O artefato menciona a apresentação do termo de consentimento utilizado na Avaliação da Análise de tarefas ? | Não |		
-| 17 | O artefato apresenta uma descrição dos resultados obtidos na avaliação?                                          | Sim           |
-| 18 | O artefato fornece uma explicação das conclusões alcançadas na avaliação? | Incompleto|
+| ID             | Critério                                                                                                             | Avaliação  |
+| -------------- | -------------------------------------------------------------------------------------------------------------------- | ---------- |
+| **Geral**      |                                                                                                                      |            |
+| 01             | O artefato conta com um registro padronizado de suas versões?                                                        | Sim        |
+| 02             | O artefato inclui uma seção de introdução?                                                                           | Sim        |
+| 03             | As referências bibliográficas e a bibliografia estão corretamente utilizadas no artefato, seguindo a norma ABNT?     | Sim        |
+| 04             | Todas as chamadas para tabelas e figuras estão incorporadas ao texto?                                                | Sim        |
+| 05             | Há uma consistência na apresentação de tabelas e figuras?                                                            | Sim        |
+| 06             | A estrutura do documento está claramente definida e se mantem consistente durante todo artefato?                     | Sim        |
+| **Específico** |                                                                                                                      |            |
+| 07             | O artefato delineia os objetivos para o relato dos resultados da avaliação?                                          | Não        |
+| 08             | O artefato inclui o modelo do cronograma executado durante a avaliação?                                              | Sim        |
+| 09             | Os métodos utilizados são descritos no artefato?                                                                     | Sim        |
+| 10             | O artefato aborda os aspectos éticos envolvidos no relato dos resultados da avaliação?                               | Não        |
+| 11             | O planejamento apresenta os participantes selecionados?                                                              | Sim        |
+| 12             | O artefato menciona a apresentação da quantidade de entrevistados e sua justificativa ?                              | Incompleto |
+| 13             | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?                                | Incompleto |
+| 14             | O artefato menciona a apresentação da quantidade de avaliadores e sua justificativa ?                                | Incompleto |
+| 15             | O artefato menciona a apresentação das perguntas e/ou tarefas exploradas durante a Avaliação da Análise de tarefas ? | Sim        |
+| 16             | O artefato menciona a apresentação do termo de consentimento utilizado na Avaliação da Análise de tarefas ?          | Não        |
+| 17             | O artefato apresenta uma descrição dos resultados obtidos na avaliação?                                              | Sim        |
+| 18             | O artefato fornece uma explicação das conclusões alcançadas na avaliação?                                            | Incompleto |
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Alice](https://github.com/Maliz30), 2023</p></font>
 
@@ -85,6 +85,6 @@ A gravação da verificação está presente no vídeo 1.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                   | Autor(es)                                       | Revisor(es)                                    |
-| ------ | ---------- | --------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 03/12/2023 | Elaboração das perguntas da verificação  |[Maria Alice](https://github.com/gustavofbs)| [Pedro Henrique](https://github.com/pedro-hsf)  |
+| Versão | Data       | Descrição                               | Autor(es)                                    | Revisor(es)                                    |
+| ------ | ---------- | --------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 03/12/2023 | Elaboração das perguntas da verificação | [Maria Alice](https://github.com/gustavofbs) | [Pedro Henrique](https://github.com/pedro-hsf) |

@@ -6,7 +6,7 @@ Este documento visa verificar se o artefato de [Storyboards](https://interacao-h
 
 ## Checklist
 
-Na tabela 1, estão listados os critérios que devem ser verificados nos Storyboards do Grupo 5.
+Na Tabela 1, estão listados os critérios que devem ser verificados nos Storyboards do Grupo 5.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do artefato "Nossos Storyboard" . </p></font>
 

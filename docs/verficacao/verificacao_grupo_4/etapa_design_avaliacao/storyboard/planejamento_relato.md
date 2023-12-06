@@ -7,26 +7,26 @@ Este documento visa verificar se o artefato de [Planejamento do Relato dos Resul
 
 ## Checklist de Verificação
 
-Na tabela 1, estão listados os critérios específicos para a avaliação do artefato de Planejamento do Relato dos Resultados Storyboard criado pelo Grupo 4.
+Na Tabela 1, estão listados os critérios específicos para a avaliação do artefato de Planejamento do Relato dos Resultados Storyboard criado pelo Grupo 4.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do artefato "Planejamento do Relato dos Resultados Storyboard". </p></font>
 
-| ID  | Critério                                                                                                         | Avaliação |
-| --- | ---------------------------------------------------------------------------------------------------------------- | --------- |
-| 01  | O artefato conta com um registro padronizado de suas versões?                                                    | sim |
-| 02  | O artefato inclui uma seção de introdução?                                                                       | sim |
-| 03  | As referências bibliográficas e a bibliografia estão corretamente utilizadas no artefato, seguindo a norma ABNT? | sim |
-| 04  | Todas as chamadas para tabelas e figuras estão incorporadas ao texto?                                            | sim |
-| 05  | Há uma consistência na apresentação de tabelas e figuras?                                                        | sim |
-| 06  | A estrutura do documento está claramente definida e se mantem consistente durante todo artefato?                 | sim |
+| ID  | Critério                                                                                                         | Avaliação  |
+| --- | ---------------------------------------------------------------------------------------------------------------- | ---------- |
+| 01  | O artefato conta com um registro padronizado de suas versões?                                                    | sim        |
+| 02  | O artefato inclui uma seção de introdução?                                                                       | sim        |
+| 03  | As referências bibliográficas e a bibliografia estão corretamente utilizadas no artefato, seguindo a norma ABNT? | sim        |
+| 04  | Todas as chamadas para tabelas e figuras estão incorporadas ao texto?                                            | sim        |
+| 05  | Há uma consistência na apresentação de tabelas e figuras?                                                        | sim        |
+| 06  | A estrutura do documento está claramente definida e se mantem consistente durante todo artefato?                 | sim        |
 | 07  | O artefato fornece uma descrição dos objetivos para o relato dos resultados da avaliação?                        | incompleto |
 | 08  | Os métodos utilizados são detalhadamente descritos no artefato?                                                  | incompleto |
 | 09  | O artefato explica a abordagem para apresentar os aspectos práticos no relato dos resultados da avaliação?       | incompleto |
 | 10  | O artefato explica a abordagem para apresentar os aspectos éticos no relato dos resultados da avaliação?         | incompleto |
-| 11  | O artefato explica a abordagem para apresentar os resultados da avaliação?                                       | sim |
-| 12  | O artefato explica a abordagem para apresentar as conclusões da avaliação?                                       | sim |
-| 13  | O artefato inclui o modelo do cronograma executado durante a avaliação?                                          | sim |
-| 14  | O artefato inclui a estrutura do relatório a ser utilizada no relato dos resultados?                             | sim |
+| 11  | O artefato explica a abordagem para apresentar os resultados da avaliação?                                       | sim        |
+| 12  | O artefato explica a abordagem para apresentar as conclusões da avaliação?                                       | sim        |
+| 13  | O artefato inclui o modelo do cronograma executado durante a avaliação?                                          | sim        |
+| 14  | O artefato inclui a estrutura do relatório a ser utilizada no relato dos resultados?                             | sim        |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
 
@@ -76,8 +76,8 @@ Após a avaliação, realizou-se uma análise geral dos artefatos que receberam 
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                   | Autor(es)                                       | Revisor(es)                                    |
-| ------ | ---------- | --------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 03/12/2023 | Relato da inspeção          | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30)     |
-| 1.1    | 04/12/2023 | Incluindo Gráficos          | [Victor Hugo](https://github.com/ViictorHugoo)  | [Pedro Henrique](https://github.com/pedro-hsf) |
+| Versão | Data       | Descrição          | Autor(es)                                      | Revisor(es)                                    |
+| ------ | ---------- | ------------------ | ---------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 03/12/2023 | Relato da inspeção | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30)      |
+| 1.1    | 04/12/2023 | Incluindo Gráficos | [Victor Hugo](https://github.com/ViictorHugoo) | [Pedro Henrique](https://github.com/pedro-hsf) |
 

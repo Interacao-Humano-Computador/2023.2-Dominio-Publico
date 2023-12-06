@@ -7,7 +7,7 @@ Este documento visa verificar se o artefato de [Planejamento da Avaliação da A
 
 ## Checklist de Verificação
 
-As perguntas do checklist específico foram elaboradas a partir do capítulo 9, Planejamento da Avaliação de IHC, do livro "Interação Humano-Computador" de Barbosa e Silva. Foram utilizados 2 checklists, um geral, utilizados em todos os artefatos verificados, e outro específico, utilizado somente neste artefato. Na tabela 1, estão listados os critérios que devem ser verificados no artefato Planejamento da Avaliação de Tarefas do Grupo 4.
+As perguntas do checklist específico foram elaboradas a partir do capítulo 9, Planejamento da Avaliação de IHC, do livro "Interação Humano-Computador" de Barbosa e Silva. Foram utilizados 2 checklists, um geral, utilizados em todos os artefatos verificados, e outro específico, utilizado somente neste artefato. Na Tabela 1, estão listados os critérios que devem ser verificados no artefato Planejamento da Avaliação de Tarefas do Grupo 4.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do artefato "Planejamento da Avaliação de Tarefas" . </p></font>
 
@@ -49,7 +49,7 @@ A gravação da verificação está presente no vídeo 1.
 
 Após a avaliação, foi feita uma análise geral sobre os artefatos que tiveram a sua avaliação como "não" ou "incompleto" para haja uma melhor descrição do respectivo ID.
 
-- **ID 04:** Foi definido como **Incompleto** pois a Tabela 2 é chamada erroneamente como tabela 1, no artefato verificado.
+- **ID 04:** Foi definido como **Incompleto** pois a Tabela 2 é chamada erroneamente como Tabela 1, no artefato verificado.
 
 Observação: No **ID 07** é perguntado se o planejamento segue o framework DECIDE, o que ocorre de fato, porém não é explicitado na introdução que o teste piloto, presente no fim do planejamento, não faz parte desse Framework, sendo um artefato externo a este. 
 

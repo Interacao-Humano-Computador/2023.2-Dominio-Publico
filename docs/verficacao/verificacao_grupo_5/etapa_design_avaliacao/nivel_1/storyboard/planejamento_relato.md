@@ -6,7 +6,7 @@ Este documento visa verificar se o artefato de [Planejamento do Relato dos Resul
 
 ## Checklist
 
-Na tabela 1, estão listados os critérios específicos para a avaliação do artefato de Planejamento do Relato dos Resultados Storyboard criado pelo grupo 5.
+Na Tabela 1, estão listados os critérios específicos para a avaliação do artefato de Planejamento do Relato dos Resultados Storyboard criado pelo grupo 5.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do artefato "Planejamento do Relato dos Resultados Storyboard". </p></font>
 

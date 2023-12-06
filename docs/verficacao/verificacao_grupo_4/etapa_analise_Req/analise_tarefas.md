@@ -10,47 +10,47 @@ As perguntas dos checklists específicos foram elaboradas com base no Capítulo 
 
 Para a análise de tarefas, foram desenvolvidos dois checklists distintos, um destinado à Hierarchical Task Analysis (HTA) e outro ao Goals, Operators, Methods, and Selection rules (GOMS). Ambos os checklists foram estruturados com base nas orientações fornecidas pelo subcapítulo mencionado.
 
-A tabela 1 a seguir apresenta a checklist com os dados obtidos a partir da verificação do HTA. 
+A Tabela 1 a seguir apresenta a checklist com os dados obtidos a partir da verificação do HTA. 
 
 <center>
 <font size="2"><p style="text-align: center">Tabela 1: Checklist com os dados obtidos da avaliação do HTA</p></font>
 
-| ID  | Critério                                                                                                   | Resultado |
-| --- | ---------------------------------------------------------------------------------------------------------- | --------- |
-|**Geral**        |                                                                                                |           |
-| 1   | Há um texto introdutório sobre o artefato?                                                                 |    Sim       |
-| 2   | Há a referencia/bibliografia?                                                                              |    Sim       |
-| 3   | O artefato possui um histórico de versões padronizado?                                                     |    Sim       |
-| 4   | As imagens e tabelas são chamadas no texto?                                                                |    Incompleto       |
-| 5   | As imagens e tabelas possuem titulo e fonte?                                                               |    Sim       |
-|**Específico**  |                                                                                                 |           |
-| 6   | As tarefas foram identificadas de maneira clara e abrangente?                                              |    Sim         |
-| 7   | Os diagramas HTA são claros e concisos?                                                                    |    Sim       |
-| 8   | Os subobjetivos do HTA são suficientes para alcançar o objetivo definido?                                  |    sim       |
-| 9   | Os HTAs possuem tabelas para representar as tarefas descritas?                                             |    Sim       |
-| 10  | As tarefas presentes nos HTAs são decompostas?                                                             |    Sim       |
+| ID             | Critério                                                                  | Resultado  |
+| -------------- | ------------------------------------------------------------------------- | ---------- |
+| **Geral**      |                                                                           |            |
+| 1              | Há um texto introdutório sobre o artefato?                                | Sim        |
+| 2              | Há a referencia/bibliografia?                                             | Sim        |
+| 3              | O artefato possui um histórico de versões padronizado?                    | Sim        |
+| 4              | As imagens e tabelas são chamadas no texto?                               | Incompleto |
+| 5              | As imagens e tabelas possuem titulo e fonte?                              | Sim        |
+| **Específico** |                                                                           |            |
+| 6              | As tarefas foram identificadas de maneira clara e abrangente?             | Sim        |
+| 7              | Os diagramas HTA são claros e concisos?                                   | Sim        |
+| 8              | Os subobjetivos do HTA são suficientes para alcançar o objetivo definido? | sim        |
+| 9              | Os HTAs possuem tabelas para representar as tarefas descritas?            | Sim        |
+| 10             | As tarefas presentes nos HTAs são decompostas?                            | Sim        |
 
 <font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf) </p></font>
 </center>
 
-A tabela 2 a seguir apresenta a checklist com os dados obtidos a partir da verificação do GOMS. 
+A Tabela 2 a seguir apresenta a checklist com os dados obtidos a partir da verificação do GOMS. 
 
 <center>
 <font size="2"><p style="text-align: center">Tabela 2: Checklist com os dados obtidos da avaliação do GOMS</p></font>
 
-| ID  | Critério                                                                                                   | Resultado |
-| --- | ---------------------------------------------------------------------------------------------------------- | --------- |
-|**Geral**        |                                                                                                |           |
-| 1   | Há um texto introdutório sobre o artefato?                                                                 |Sim           |
-| 2   | Há a referencia/bibliografia?                                                                              | Sim          |
-| 3   | O artefato possui um histórico de versões padronizado?                                                     |  Sim         |
-| 4   | As imagens e tabelas são chamadas no texto?                                                                |   Sim        |
-| 5   | As imagens e tabelas possuem titulo e fonte?                                                               |   Sim        |
-|**Específico**  |                                                                                                 |           |
-| 6   |  Os métodos GOMS incluem os quatro elementos principais: objetivos, operadores, métodos e regras de seleção?                                                                                                                                                                                                                                                                          |    Sim      |
-| 7   |O modelo GOMS inclui regras e descrições claras sobre como o usuário decide entre diferentes métodos ou operadores?                                                                                                                                                                                                                                                                         |  Incompleto         |
-| 8   | Os métodos GOMS são descritos usando uma linguagem semelhante a uma linguagem de programação?                                                                                                                                                                                                                                                                     |     Sim      |
-| 9   |   As análises de tarefas GOMS foram todas baseadas nas tarefas identificadas no HTA?                                                                                                           |     Sim      |
+| ID             | Critério                                                                                                            | Resultado  |
+| -------------- | ------------------------------------------------------------------------------------------------------------------- | ---------- |
+| **Geral**      |                                                                                                                     |            |
+| 1              | Há um texto introdutório sobre o artefato?                                                                          | Sim        |
+| 2              | Há a referencia/bibliografia?                                                                                       | Sim        |
+| 3              | O artefato possui um histórico de versões padronizado?                                                              | Sim        |
+| 4              | As imagens e tabelas são chamadas no texto?                                                                         | Sim        |
+| 5              | As imagens e tabelas possuem titulo e fonte?                                                                        | Sim        |
+| **Específico** |                                                                                                                     |            |
+| 6              | Os métodos GOMS incluem os quatro elementos principais: objetivos, operadores, métodos e regras de seleção?         | Sim        |
+| 7              | O modelo GOMS inclui regras e descrições claras sobre como o usuário decide entre diferentes métodos ou operadores? | Incompleto |
+| 8              | Os métodos GOMS são descritos usando uma linguagem semelhante a uma linguagem de programação?                       | Sim        |
+| 9              | As análises de tarefas GOMS foram todas baseadas nas tarefas identificadas no HTA?                                  | Sim        |
 
 <font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf) </p></font>
 </center>
@@ -119,10 +119,10 @@ No gráfico 2 é possível verificar os resultados obtidos na avaliação do art
 > Planejamento da Verificação da Etapa 4 do Grupo 2- Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa4/planejamento-verificacao-etapa4-grupo>>. Acesso em 03 de dezembro de 2023.
 
 
-| Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                      |
-| ------ | ---------- | ---------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| 1.0    | 03/12/2023 | Criação da página e adição do conteúdo     | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina) |
-| 1.1    | 04/12/2023 | Adicionando Vídeos e Gráficos     | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina) |
+| Versão | Data       | Descrição                              | Autor(es)                                      | Revisor(es)                                    |
+| ------ | ---------- | -------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 03/12/2023 | Criação da página e adição do conteúdo | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina) |
+| 1.1    | 04/12/2023 | Adicionando Vídeos e Gráficos          | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina) |
 
 
 
