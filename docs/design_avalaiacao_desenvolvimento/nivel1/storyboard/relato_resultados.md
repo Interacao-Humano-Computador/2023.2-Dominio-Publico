@@ -345,7 +345,7 @@ A avaliação tem como objetivo principal avaliar se o [Storyboard de Avaliar Mi
 
 ##### Método de avaliação
 
-Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação do Storyboard](./planejamento_avaliacao.md). Além disso foi utilizado um questionário de X questões para guiar a entrevista. A tabela 11 e 12 representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
+Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação do Storyboard](./planejamento_avaliacao.md). Além disso foi utilizado um questionário para guiar a entrevista. A tabela 11 e 12 representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
 
 <center>
 
