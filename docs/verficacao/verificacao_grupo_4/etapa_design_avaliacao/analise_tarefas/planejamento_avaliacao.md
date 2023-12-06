@@ -49,7 +49,7 @@ A gravação da verificação está presente no vídeo 1.
 
 Após a avaliação, foi feita uma análise geral sobre os artefatos que tiveram a sua avaliação como "não" ou "incompleto" para haja uma melhor descrição do respectivo ID.
 
-- **ID 04:** Foi definido como Incompleta pois a Tabela 2 é chamada erroneamente como tabela 1, no artefato verificado.
+- **ID 04:** Foi definido como **Incompleto** pois a Tabela 2 é chamada erroneamente como tabela 1, no artefato verificado.
 
 Observação: No **ID 07** é perguntado se o planejamento segue o framework DECIDE, o que ocorre de fato, porém não é explicitado na introdução que o teste piloto, presente no fim do planejamento, não faz parte desse Framework, sendo um artefato externo a este. 
 

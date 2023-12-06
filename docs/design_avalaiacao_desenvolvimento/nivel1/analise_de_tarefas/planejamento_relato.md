@@ -29,11 +29,12 @@ O documento de relato dos resultados será composto pelos seguintes tópicos:
 
 ##### Objetivo e âmbito da avaliação
 
-Neste tópico, o relator deverá descrever o motivo da avaliação que estará sendo realizada, assim como o objetivo que o grupo pretende alcançar com a análise de tarefas.
+A finalidade da avaliação será verificar a concordância entre a HTA de "Pesquisar por mídia" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
 
 ##### Método de avaliação
 
-A metodologia a ser aplicada será de observação de entrevista com os usuários, onde o entrevistador irá observar o usuário realizando as tarefas e irá anotar os problemas encontrados. Após a realização das tarefas, o entrevistador irá questionar o usuário sobre a experiência dele com o sistema, a fim de tomar notas da experencia de forma mais detalhada. Serão recrutados 1 usuário para cada 1 integrante do grupo, totalizando 7 usuários. A Tabela 1 explicita o cronograma planejado para as entrevistas.
+A metodologia a ser aplicada será de observação de entrevista com os usuários, onde o entrevistador irá observar o usuário realizando as tarefas e irá anotar os problemas encontrados. Após a realização das tarefas, o entrevistador irá questionar o usuário sobre a experiência dele com o sistema, a fim de tomar notas da experencia de forma mais detalhada. 
+Nilsen sugere que a entrevista seja realizada com 5 usuários, pois a partir desse número, a maioria dos problemas já terão sido identificados. Porém, como o grupo possui 7 integrantes, será recrutado 1 usuário para cada 1 integrante do grupo, totalizando 7 usuários. A Tabela 1 explicita o cronograma planejado para as entrevistas.
 
 <center>
 
@@ -69,7 +70,7 @@ Por fim, esse tópico do relato da avaliação deve conter uma tabela com o cron
 
 ##### Seleção dos participantes
 
-Seguinte ao preenchimento do cronograma, se fará necessário a justificativa dos usuários escolhidos para a realização das entrevistas. Dentre os critérios para a escolha dos usuários, estão: estar dentro do perfil de usuário anteriormente definido; haver proximidade entre o usuário e uma das personas; o usuário estar participando por livre e espontanea vontade; e o usuário se mostrar capaz de finalizar a entrevista por quaisquer motivos.
+Seguinte ao preenchimento do cronograma, se fará necessário a justificativa dos usuários escolhidos para a realização das entrevistas. Dentre os critérios para a escolha dos usuários, estão: estar dentro do perfil de usuário anteriormente definido; haver proximidade entre o usuário e uma das personas; o usuário estar participando por livre e espontânea vontade; e o usuário se mostrar capaz de finalizar a entrevista por quaisquer motivos. Vale ressaltar que todos os entrevistados presentes no cronograma planejado do [Planejamento da Avaliação da Análise de Tarefas](./planejamento_avaliacao.md) se enquadram neste perfil de usuário.
 
 ##### Registro da avaliação
 
@@ -116,6 +117,23 @@ Nesse topico, o entrevistador deve incluir a gravação da avaliação bem como 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
+
+##### Termo de Consentimento Livre e Esclarecido
+Nesta área serão abordados os aspectos ético da avaliação, porém vale ressaltar que caso o termo de consentimento seja lido e a leitura esteja presenta na gravação da avaliação, não será necessário a inclusão do termo de consentimento no relato dos resultados. Caso contrário, o termo de consentimento deverá ser incluído nesta área do relato dos resultados.
+
+Segue abaixo na Figura 1 o termo de consentimento em <a href= "docs/analise_de_requisitos/aspectos_eticos/aspectos_eticos.md"> Aspectos Éticos </a> a ser utilizado pelo Grupo 04:
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 1: Termo de Consentimento</p></font>
+
+![Figura 1: Termo de consentimento.](../../../assets/aspectos-eticos/termodeconsentimento_analisedetarefas.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf) </p></font>
+
+</center>
+
+## Conclusão
 
 ##### Listagem de problemas encontrados
 

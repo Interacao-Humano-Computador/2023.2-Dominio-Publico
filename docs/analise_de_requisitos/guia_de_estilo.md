@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Um guia de estilo é um registro de decisões de design tomada, de forma que não se percam e sejam efetivamente incluidas no produto final. É uma ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento.<a id="anchor_3" href="#l1">³</a>
+Um guia de estilo é um documento que define as diretrizes de design de um produto ou serviço. Ele registra todas as decisões de design tomadas, de forma a garantir que o produto final seja consistente e coerente. O guia de estilo é uma ferramenta de comunicação essencial para a equipe de design, pois permite que todos os membros da equipe estejam alinhados com as expectativas do produto. O guia de estilo também é importante para a equipe de desenvolvimento, pois fornece um conjunto de regras e padrões que devem ser seguidos.<a id="anchor_3" href="#l1">³</a>
 
 ##### Objetivo do guia de estilo
 
@@ -36,7 +36,7 @@ Este guia deve ser utilizado como uma referência para tomar decisões de design
 
 ##### Descrição do ambiente de trabalho do usuário
 
-O Domíminio Público é comumente acessado através de computadores (notebooks ou desktops). Por isso é necessário que, ao projetar a interface, sejam considerandas as especificidades dos dispositivos, como tamanho de tela, resolução, etc., de forma a garantir uma experiência de usuário satisfatória e eficiente para aqueles que acessem a plataforma por meio destes dispositivos. Isso engloba a adaptação do design para diferentes tipo e tamanhos de telas (responsividade), a definição apropriada de elementos visuais e a implementação de funcionalidades fácil uso, aprendizado e acesso. Os elementos da interface podem ser encontrados na figura 1.
+O Domíminio Público é comumente acessado através de computadores (notebooks ou desktops). Por isso é necessário que, ao projetar a interface, sejam considerandas as especificidades dos dispositivos, como tamanho de tela, resolução, etc, de forma a garantir uma experiência de usuário satisfatória e eficiente para aqueles que acessem a plataforma por meio destes dispositivos. Isso engloba a adaptação do design para diferentes tipo e tamanhos de telas (responsividade), a definição apropriada de elementos visuais e a implementação de funcionalidades de fácil uso, aprendizado e acesso. Os elementos da interface podem ser encontrados na figura 1. Para melhorar a responsividade do site, é necessário adequar as telas às diferentes resoluções de dispositivos. Como se trata de um site antigo, ele provavelmente não foi desenvolvido pensando em dispositivos móveis nem em monitores mais recentes, o que pode resultar em uma visualização descentralizada em telas diferentes. Para resolver esse problema, pode-se implementar um padrão de tela mais atual.
 
 ## Elementos de interface
 
@@ -52,11 +52,11 @@ O Domíminio Público é comumente acessado através de computadores (notebooks 
 
 ##### Estilos de interação
 
-Os usuário conseguem interagir com o site através da pesquisa por midia, do download de midia, ao acessar ajuda, ao acessar a aba para colaboradores, ao acessar estatísticas, ao avaliar midia e ao tirar dúvidas. Os quais são feitos através de botões, hiperlinks e campos preenchimento (*inputs*).
+Os usuários podem interagir com o site de diversas formas, como por meio de pesquisa de mídia, download de mídia, acesso à ajuda, acesso à aba para colaboradores, acesso a estatísticas, avaliação de mídia e esclarecimento de dúvidas. Todas essas ações são realizadas por meio de botões, hiperlinks e campos de preenchimento (*inputs*). Há diversas melhorias que poderão ser feitas em todos esses aspectos, cada um com sua funcionalidade sendo explorada ao máximo para deixar o site mais amplo e bem desenvolvido.
 
 ##### Seleção de um estilo
 
-O estilo do Dominio Público possui uma interface carregada de informações desnecessárias e orientada aos objetivos de achar midia e download, por isso suas páginas não se diferem muito umas das outras, possuindo botões e caminhos semelhantes.
+O estilo do domínio público possui uma interface carregada de informações desnecessárias e orientada aos objetivos de achar mídia e download. Por isso, suas páginas não se diferem muito umas das outras, possuindo botões e caminhos semelhantes. Para melhorar esse aspecto, poderia ser feito um reagrupamento das informações desnecessárias para que ficassem mais bem colocadas no site, fazendo-o parecer menos poluído. Na questão das páginas serem parecidas, poderiam ser feitas diversas mudanças para deixá-las mais interessantes para o usuário se diferindo uma das outras de acordo com a funcionalidade.
 
 ##### Aceleradores/Teclas de Atalho
 Não há teclas de atalho no site do Domínio Público.
@@ -67,7 +67,13 @@ Não há teclas de atalho no site do Domínio Público.
 Os campos de preenchimento disponíveis requerem que o usuário insira manualmente as informações de acordo com seus objetivos, porém não fornecem qualquer modelo ou exemplo sobre como preenchê-los corretamente. Estes campos podem incluir barras de pesquisa, caixas de auxílio para preenchimento, caixas de e-mail para envio de mensagens, entre outros elementos que demandam inserção de texto.
 
 ##### Seleção
-No site há vários elementos de seleção, como: tipo de mídia, categoria e idioma.
+O site oferece vários elementos de seleção, como tipo de mídia, categoria e idioma. Esses elementos permitem que os usuários encontrem conteúdo específico ou restrinjam os resultados da pesquisa.
+
+Tipo de mídia: O site oferece uma variedade de tipos de mídia, incluindo imagens, vídeos, áudio e texto. Os usuários podem selecionar o tipo de mídia que desejam visualizar.
+
+Categoria: O site organiza o conteúdo em categorias, de acordo com o tipo de mídia escolhido. Os usuários podem selecionar a categoria que desejam explorar.
+
+Idioma: O site possui obras em vários idiomas, incluindo português, inglês, espanhol e francês. Os usuários podem selecionar o idioma que desejam explorar.
 
 ##### Ativação
 Há botões, ícones, imagens e _hyperlink_ como elementos clicáveis.
@@ -100,4 +106,5 @@ A sequência de diálogos segue um padrão onde todos os botões são iguais e c
 | 1.0    | 21/10/23 | Introdução do Guia de Estilos | [Luciano Ricardo](https://github.com/l-ricardo) | [Maria Alice](https://github.com/Maliz30) |
 | 1.1    | 21/10/23 | Resultados e Elementos iniciados | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30) |
 | 1.2 | 23/10/2023 | Elementos de interface e elementos de ação | [Maria Alice](https://github.com/Maliz30) e [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.3    | 06/12/23 | Correção do Artefato | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina) |
 
