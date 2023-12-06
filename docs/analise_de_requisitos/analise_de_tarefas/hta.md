@@ -101,7 +101,7 @@ Nessa tarefa o usuário tem por objetivo acessar a parte de ajuda ao usuário de
 | 1.2.1. Iniciar conversa com Inteligência Artificial via prompt recomendado |             |                                                                                                                                           |
 | 1.2.2. Iniciar conversa com Inteligência Artificial via chat               |             |                                                                                                                                           |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo), 2023</p></font>
 
 
 
