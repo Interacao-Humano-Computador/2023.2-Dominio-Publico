@@ -38,11 +38,6 @@ Com base nas considerações apresentadas, o Grupo 04 optou por trabalhar no apr
 > <a id="REF2" href="#anchor_2">2.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 >
 
-## Bibliografia
-
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
->
-
 ## Histórico de versões
 
 | Versão |    Data    | Descrição                              | Autor(es)                                       | Revisor(es)                                    |
