@@ -12,7 +12,7 @@ Ao decorrer do projeto, foram entregue vídeos correspondentes a cata etapa. Est
   </summary>
 
 
-No video 1 pode ser vista a apresentação de entrega da Entrega 1:
+No Vídeo 1 pode ser vista a apresentação da Entrega 1:
 
 <p>
 
@@ -22,7 +22,8 @@ No video 1 pode ser vista a apresentação de entrega da Entrega 1:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/50eZHxfH1w0?si=_S153rjyTLQSvf2z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte:  [Harryson Martins](https://github.com/harry-cmartin)</p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/harry-cmartin">Harryson Martins</a></p>
+
 
 
 </center>
@@ -45,7 +46,7 @@ No video 1 pode ser vista a apresentação de entrega da Entrega 1:
     <h1>Etapa 2</h1>
   </summary>
 
-No video 2 pode ser vista a apresentação de entrega da Entrega 2:
+No Vídeo 2 pode ser vista a apresentação da Entrega 2:
 
 <p>
 
@@ -55,7 +56,7 @@ No video 2 pode ser vista a apresentação de entrega da Entrega 2:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5VNroTJFvxQ?si=I3h2lxPjqywNGK1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte:  [Harryson Martins](https://github.com/harry-cmartin)</p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/harry-cmartin">Harryson Martins</a></p>
 
 
 </center>
@@ -80,7 +81,7 @@ No video 2 pode ser vista a apresentação de entrega da Entrega 2:
   </summary>
 
 
-No video 3 pode ser vista a apresentação de entrega da Entrega 3:
+No Vídeo 3 pode ser vista a apresentação da Entrega 3:
 
 <p>
 
@@ -90,7 +91,7 @@ No video 3 pode ser vista a apresentação de entrega da Entrega 3:
 
 <iframe width="520" height="275" src="https://www.youtube.com/embed/7fP2IvI8hOc?si=F4S8sGZuueULHJrj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte:  [Harryson Martins](https://github.com/harry-cmartin)</p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/harry-cmartin">Harryson Martins</a></p>
 
 
 </center>
@@ -114,7 +115,7 @@ No video 3 pode ser vista a apresentação de entrega da Entrega 3:
     <h1>Etapa 4</h1>
   </summary>
 
-No video 4 pode ser vista a apresentação de entrega da Entrega 4:
+No Vídeo 4 pode ser vista a apresentação da Entrega 4:
 
 <p>
 
@@ -124,7 +125,7 @@ No video 4 pode ser vista a apresentação de entrega da Entrega 4:
 
 <iframe width="520" height="275" src="https://www.youtube.com/embed/waJ1b1dTS3o?si=9N_YxOdLdTBm-5-T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte:  [Harryson Martins](https://github.com/harry-cmartin)</p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/harry-cmartin">Harryson Martins</a></p>
 
 
 </center>
@@ -150,7 +151,7 @@ No video 4 pode ser vista a apresentação de entrega da Entrega 4:
     <h1>Etapa 5</h1>
   </summary>
 
-No video 5 pode ser vista a apresentação de entrega da Entrega 5:
+No Video 5 pode ser vista a apresentação da Entrega 5:
 
 <p>
 
@@ -161,7 +162,7 @@ No video 5 pode ser vista a apresentação de entrega da Entrega 5:
 <iframe width="520" height="275" src="https://www.youtube.com/embed/mOAEfvYrvOk?si=3BSFtYne3kBN7inM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-<font size="2"><p style="text-align: center">Fonte:  [Harryson Martins](https://github.com/harry-cmartin)</p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/harry-cmartin">Harryson Martins</a></p>
 
 
 </center>
@@ -185,7 +186,7 @@ No video 5 pode ser vista a apresentação de entrega da Entrega 5:
     <h1>Etapa 6.1</h1>
   </summary>
 
-No video 6 pode ser vista a apresentação de entrega da Entrega 6.1:
+No Video 6 pode ser vista a apresentação da Entrega 6.1:
 
 <p>
 
@@ -196,7 +197,7 @@ No video 6 pode ser vista a apresentação de entrega da Entrega 6.1:
 <iframe width="520" height="275" src="https://www.youtube.com/embed/A-VVm7DgeSY?si=p4iQ8NfrTTvbjZTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-<font size="2"><p style="text-align: center">Fonte:  [Harryson Martins](https://github.com/harry-cmartin)</p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/harry-cmartin">Harryson Martins</a></p>
 
 
 </center>
@@ -222,7 +223,7 @@ No video 6 pode ser vista a apresentação de entrega da Entrega 6.1:
   </summary>
 
 
-No video 7 pode ser vista a apresentação de entrega da Entrega 6.2:
+No Video 7 pode ser vista a apresentação da Entrega 6.2:
 
 <p>
 
@@ -233,7 +234,7 @@ No video 7 pode ser vista a apresentação de entrega da Entrega 6.2:
 <iframe width="520" height="275" src="https://www.youtube.com/embed/u_yfdYyQIhw?si=gp6PdRWzH4idbHCx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-<font size="2"><p style="text-align: center">Fonte:  [Harryson Martins](https://github.com/harry-cmartin)</p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/harry-cmartin">Harryson Martins</a></p>
 
 
 </center>
@@ -260,7 +261,7 @@ No video 7 pode ser vista a apresentação de entrega da Entrega 6.2:
 
 
 
-No video 8 pode ser vista a apresentação de entrega da Entrega 7:
+No Video 8 pode ser vista a apresentação da Entrega 7:
 
 <p>
 
@@ -272,7 +273,7 @@ No video 8 pode ser vista a apresentação de entrega da Entrega 7:
 
 
 
-<font size="2"><p style="text-align: center">Fonte:  [Harryson Martins](https://github.com/harry-cmartin)</p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/harry-cmartin">Harryson Martins</a></p>
 
 
 </center>
@@ -299,7 +300,7 @@ No video 8 pode ser vista a apresentação de entrega da Entrega 7:
 
 
 
-No video 9 pode ser vista a apresentação de entrega da Entrega 8:
+No Video 9 pode ser vista a apresentação da Entrega 8:
 
 <p>
 
@@ -310,7 +311,7 @@ No video 9 pode ser vista a apresentação de entrega da Entrega 8:
 <iframe width="520" height="275" src="https://www.youtube.com/embed/isF2NwR41UI?si=6_AObOFkFqqZ6tdF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-<font size="2"><p style="text-align: center">Fonte:  [Harryson Martins](https://github.com/harry-cmartin)</p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/harry-cmartin">Harryson Martins</a></p>
 
 
 </center>
