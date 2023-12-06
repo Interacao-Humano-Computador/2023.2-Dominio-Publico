@@ -63,9 +63,9 @@ nav:
       - Apresentação 4: apresentacoes/apresentacao_4.md
       - Apresentação 5: apresentacoes/apresentacao_5.md
       - Apresentação 6.1: apresentacoes/apresentacao_6.1.md
+      - Apresentação 6.2: apresentacoes/apresentacao_6.2.md
       - Apresentação 7: apresentacoes/apresentacao_7.md
       - Apresentação 8: apresentacoes/apresentacao_8.md
-      - Apresentação 6.2: apresentacoes/apresentacao_6.2.md
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
@@ -107,41 +107,6 @@ nav:
           - Planejamento do Relato dos Resultados: design_avalaiacao_desenvolvimento/nivel3/prototipo_alta_fidelidade/planejamento_relato.md
           - Relato dos resultados: design_avalaiacao_desenvolvimento/nivel3/prototipo_alta_fidelidade/relato_resultados.md          
   - Verificação:
-    - Grupo 5 (BRB Mobilidade):
-      - Etapa de Planejamento:
-        - Planejamento da Verificação: verficacao/verificacao_grupo_5/etapa_planejamento/planejamento_avaliacao.md
-        - Ferramentas: verficacao/verificacao_grupo_5/etapa_planejamento/ferramentas.md
-        - Cronograma Planejado: verficacao/verificacao_grupo_5/etapa_planejamento/cronograma_planejado.md
-        - Cronograma Executado: verficacao/verificacao_grupo_5/etapa_planejamento/cronograma_executado.md
-        - Heat-map: verficacao/verificacao_grupo_5/etapa_planejamento/heat-map.md
-        - Sites Avaliados: verficacao/verificacao_grupo_5/etapa_planejamento/sites_avaliados.md
-        - Processo de Design: verficacao/verificacao_grupo_5/etapa_planejamento/processo_desing.md
-        - Site Escolhido: verficacao/verificacao_grupo_5/etapa_planejamento/site_escolhido.md
-      - Etapa de Análise de Requisitos:
-        - Planejamento da Verificação: verficacao/verificacao_grupo_5/etapa_analise_requisitos/planejamento_avaliacao.md
-        - Perfil do Usuário: verficacao/verificacao_grupo_5/etapa_analise_requisitos/perfil_usuario.md
-        - Personas: verficacao/verificacao_grupo_5/etapa_analise_requisitos/personas.md
-        - Cenários: verficacao/verificacao_grupo_5/etapa_analise_requisitos/cenarios.md
-        - Aspectos Éticos: verficacao/verificacao_grupo_5/etapa_analise_requisitos/aspectos_eticos.md
-        - Análise de Tarefas: verficacao/verificacao_grupo_5/etapa_analise_requisitos/analise_tarefas.md
-        - Principios e Diretrizes Gerais: verficacao/verificacao_grupo_5/etapa_analise_requisitos/principios_diretrizes.md
-        - Metas de Usabilidade: verficacao/verificacao_grupo_5/etapa_analise_requisitos/metas_usabilidade.md
-        - Caracteristicas Gerais: verficacao/verificacao_grupo_5/etapa_analise_requisitos/caracteristicas_gerais.md
-        - Guia de Estilo: verficacao/verificacao_grupo_5/etapa_analise_requisitos/guia_estilo.md
-      - Etapa de Design, Avaliação e Desenvolvimento:
-        - Planejamento da Verificação: verficacao/verificacao_grupo_5/etapa_design_avaliacao/planejamento_avaliacao.md
-        - Storyboard:
-          - Planejamento da Avaliação: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_1/storyboard/planejamento_avaliacao.md
-          - Planejamento do Relato dos Resultados: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_1/storyboard/planejamento_relato.md
-          - Relato dos resultados: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_1/storyboard/relato_resultados.md
-          - Nossos Storyboards: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_1/storyboard/storyboards.md
-        - Análise de Tarefas: 
-          - Planejamento da Avaliação: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_1/analise_tarefas/planejamento_avaliacao.md
-          - Planejamento do Relato dos Resultados: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_1/analise_tarefas/planejamento_relato.md
-          - Relato dos resultados: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_1/analise_tarefas/relato_resultados.md
-        - Protótipo de Papel: 
-          - Planejamento da Avaliação: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao.md
-          - Planejamento do Relato dos Resultados: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato.md
     - Grupo 4 (Domínio Público):
       - Etapa de Planejamento:
         - Planejamento da Verificação: verficacao/verificacao_grupo_4/etapa_planejmento/planejamento_verficacao_planejamento.md
@@ -182,6 +147,41 @@ nav:
           - Planejamento da Avaliação: verficacao/verificacao_grupo_4/etapa_design_avaliacao/prototipo_de_alta/planejamento_avaliacao.md
           - Planejamento do Relato dos Resultados: verficacao/verificacao_grupo_4/etapa_design_avaliacao/prototipo_de_alta/planejamento_relato.md
           - Relato dos resultados: verficacao/verificacao_grupo_4/etapa_design_avaliacao/prototipo_de_alta/relato_resultados.md
+    - Grupo 5 (BRB Mobilidade):
+      - Etapa de Planejamento:
+        - Planejamento da Verificação: verficacao/verificacao_grupo_5/etapa_planejamento/planejamento_avaliacao.md
+        - Ferramentas: verficacao/verificacao_grupo_5/etapa_planejamento/ferramentas.md
+        - Cronograma Planejado: verficacao/verificacao_grupo_5/etapa_planejamento/cronograma_planejado.md
+        - Cronograma Executado: verficacao/verificacao_grupo_5/etapa_planejamento/cronograma_executado.md
+        - Heat-map: verficacao/verificacao_grupo_5/etapa_planejamento/heat-map.md
+        - Sites Avaliados: verficacao/verificacao_grupo_5/etapa_planejamento/sites_avaliados.md
+        - Processo de Design: verficacao/verificacao_grupo_5/etapa_planejamento/processo_desing.md
+        - Site Escolhido: verficacao/verificacao_grupo_5/etapa_planejamento/site_escolhido.md
+      - Etapa de Análise de Requisitos:
+        - Planejamento da Verificação: verficacao/verificacao_grupo_5/etapa_analise_requisitos/planejamento_avaliacao.md
+        - Perfil do Usuário: verficacao/verificacao_grupo_5/etapa_analise_requisitos/perfil_usuario.md
+        - Personas: verficacao/verificacao_grupo_5/etapa_analise_requisitos/personas.md
+        - Cenários: verficacao/verificacao_grupo_5/etapa_analise_requisitos/cenarios.md
+        - Aspectos Éticos: verficacao/verificacao_grupo_5/etapa_analise_requisitos/aspectos_eticos.md
+        - Análise de Tarefas: verficacao/verificacao_grupo_5/etapa_analise_requisitos/analise_tarefas.md
+        - Principios e Diretrizes Gerais: verficacao/verificacao_grupo_5/etapa_analise_requisitos/principios_diretrizes.md
+        - Metas de Usabilidade: verficacao/verificacao_grupo_5/etapa_analise_requisitos/metas_usabilidade.md
+        - Caracteristicas Gerais: verficacao/verificacao_grupo_5/etapa_analise_requisitos/caracteristicas_gerais.md
+        - Guia de Estilo: verficacao/verificacao_grupo_5/etapa_analise_requisitos/guia_estilo.md
+      - Etapa de Design, Avaliação e Desenvolvimento:
+        - Planejamento da Verificação: verficacao/verificacao_grupo_5/etapa_design_avaliacao/planejamento_avaliacao.md
+        - Storyboard:
+          - Planejamento da Avaliação: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_1/storyboard/planejamento_avaliacao.md
+          - Planejamento do Relato dos Resultados: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_1/storyboard/planejamento_relato.md
+          - Relato dos resultados: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_1/storyboard/relato_resultados.md
+          - Nossos Storyboards: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_1/storyboard/storyboards.md
+        - Análise de Tarefas: 
+          - Planejamento da Avaliação: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_1/analise_tarefas/planejamento_avaliacao.md
+          - Planejamento do Relato dos Resultados: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_1/analise_tarefas/planejamento_relato.md
+          - Relato dos resultados: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_1/analise_tarefas/relato_resultados.md
+        - Protótipo de Papel: 
+          - Planejamento da Avaliação: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao.md
+          - Planejamento do Relato dos Resultados: verficacao/verificacao_grupo_5/etapa_design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato.md
   - Entrega Final:
     - Site Selecionado: entrega_final/site_selecionado.md
     - Execução do Projeto: entrega-final/ExecucaoDoProjeto.md
