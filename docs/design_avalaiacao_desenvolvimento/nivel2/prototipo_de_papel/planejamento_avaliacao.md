@@ -2,11 +2,15 @@
 
 ## Introdução
 
-O método de prototipação de papel, permite a equipe IHC avaliar o design da aplicação, com simulações das ações feitas pelos usuários.Tal tipo de avaliação nos permite avaliar soluções alcançadas paciais e recber um feedback na prototipação de baixa fidelidade, a fim de obter a avaliação para assim realizar a construção do protótipo de alta fidellidade.
+Para realizar uma entrega de qualidade, é necessário avaliar se o protótipo resultante atende aos critérios de qualidade desejados, desta forma conseguimos corrigir os problemas antes que eles cheguem ao consumidor. Avaliar a qualidade de uso de um protótipo apresenta diversas vantagens, dentre elas a correção rápida de problemas, a equipe de desenvolvimento pode se concentrar em solucionar problemas reais, redução no tempo de desenvolvimento e a identificação e correção de problemas mais robustos de IHC.
+
+No nosso caso, estamos avaliando um protótipo de papel, que é uma representação de baixa fidelidade de um sistema futuro. Este tipo de protótipo é particularmente útil nas fases iniciais do design, pois permite aos designers experimentarem diferentes abordagens sem o compromisso de tempo e recursos necessários para desenvolver protótipos de alta fidelidade.
+
+Com isso, serão analisados critérios de qualidade na perspectiva do usuário, avaliando usabilidade, experiência do usuário, acessibilidade e comunicabilidade.
 
 ## Metodologia
 
-Para a realização do planejamento da avaliação, utilizaremos o framework DECIDE, proposto por Sharp, Rogers e Preece, onde cada letra é uma etapa a ser seguida. Como pode ser visto na figura 1:
+Para a realização do planejamento da avaliação, será utilizado o framework DECIDE, proposto por Sharp, Rogers e Preece [1], onde cada letra representa uma etapa a ser seguida. Como pode ser visto na figura 1:
 
 <center>
 
@@ -22,19 +26,19 @@ Diante disso, a seguir encontra-se o detalhamento do planejamento utilizando o F
 
 ## D - Objetivos da avaliação
 
-Os objetivos dessa avaliação são, por meio do planejamento da construção de um protótipo de baixa fidelidade, identificar os problemas de design e usabilidade das interfaces e comparar as tarefas já avaliadas e sua conformidade com o padrão definido. Este documento de planejamento tem por fim, organizar a metodologia, custos e prazos da construção do protótipo de papel.
+Os objetivos dessa avaliação são, por meio do planejamento da construção de um protótipo de baixa fidelidade, identificar os problemas de design e usabilidade das interfaces e comparar as tarefas já avaliadas e sua conformidade com o padrão definido. Serão considerados, também, os seguintes aspectos na avaliação:
+
+- 1: Verificar a conformidade com um padrão;
+- 2: Identificar problemas na interação e interface;
 
 ## E - Exploração de perguntas
 
-Com base nos objetivos evidenciados, foram preparadas perguntas seguindo critérios conforme é especificado no capítulo 11 da literatura de Barbosa Silva (2011, p.266)
+A partir do objetivo citado anteriormente, podemos aumentar seu nível de detalhamento definindo perguntas verificáveis a serem respondidas na avaliação. Além de auxiliar na investigação e avaliação do site, as perguntas específicas têm como finalidade guiar e operacionalizar todo o processo de avaliação.
 
-### O que iremos avaliar ?
+Com isso, foram desenvolvidas as seguintes perguntas listadas na Tabela 1:
 
-(1) Verificar a conformidade com um padrão;
-
-(2) Identificar problemas na interação e interface.
-
-### Perguntas
+<center>
+<font size="2"><p style="text-align: center">Tabela 1: Perguntas a serem feitas na entrevista</p></font>
 
 | Ordem das perguntas | Objetivos Relacionados | Perguntas                                                                                                                           | Tipo de pergunta | Respostas possíveis                            |
 | ------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------- |
@@ -43,17 +47,25 @@ Com base nos objetivos evidenciados, foram preparadas perguntas seguindo critér
 | 3°                  | 1                      | Em termos de layout e design do site Domínio Público, achou alguma parte que não faça sentido com o objetivo do site?               | Fechada          | Sim<br/>Não<br/>Caso sim, pedir para descrever |
 | 4°                  | 2                      | Você imagina alguma forma de melhorar esta tarefa no site Domínio Público?                                                          | Aberta           | Resposta discursiva                            |
 
+<font size="2"><p style="text-align: center">Fonte:[Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+
+</center>
+
 ## C - Métodos de Avaliação
 
-As estratégias escolhidas para a avaliação foram híbridas, com a investigação, utilizando-se de entrevistas com usuários com questionários e a observação, tirando por parâmetro as ações realizadas pelos usuários durante a entrevista.
+Para a avaliação, foi selecionada a metodologia de prototipação em papel, que será submetida a uma simulação de uso.
 
-Os motivos da escolha desse modelo híbrido, foram a possibilidade de uma grande coleta de informações e feedbacks vindos dos usuários, a facilidade da sua aplicação, os custos reduzidos e a flexibilidade fornecida por esse método.
+Esta simulação é um procedimento eficaz e econômico para identificar problemas de usabilidade antes da implementação de uma solução interativa. Ela permite a avaliação de diferentes propostas de design, mesmo que parciais ou de baixa fidelidade.
+
+A prototipação em papel é particularmente útil nas fases iniciais do design, pois permite aos designers experimentarem diferentes abordagens sem o compromisso de tempo e recursos necessários para desenvolver protótipos de alta fidelidade. Além disso, ela facilita a comunicação e a colaboração entre os membros da equipe de design e os usuários.
+
+A simulação de uso permite aos usuários interagirem com o protótipo como se fosse o sistema real. Através da observação das interações dos usuários, os avaliadores podem identificar áreas problemáticas e oportunidades para melhorias. Ao final da simulação, é comum fazer perguntas aos usuários sobre sua experiência. As respostas a estas perguntas podem fornecer informações valiosas para refinar e melhorar o design.
 
 ## I - Aspectos Práticos da Avaliação
 
 ### Recrutamento
 
-Para essa avaliação serão selecionadas 7 pessoas que estão dentro do estabelecido pelo perfil de usuario. De acordo com Barbosa (2011) de 5 a 8 pessoas são suficientes para indentificar problemas comuns e ter conclusões relevantes.
+Para essa avaliação serão selecionadas 7 pessoas que estão dentro do estabelecido pelo perfil de usuario. De acordo com Barbosa [2] de 5 a 8 pessoas são suficientes para indentificar problemas comuns e ter conclusões relevantes.
 
 ### Preparação
 
@@ -85,11 +97,11 @@ O cronograma das entrevistas com os usuários estão documentadas na Tabela 1 co
 <font size="2"><p style="text-align: center">Tabela 2: Cronograma da entrevista </p></font>
 
 |                                                              Entrevistador(es)                                                              | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Data Executada |                     Tarefa(s)                      | Local |
-| :----------------------------------------------------------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :------------: | :-------------------------: | :---: |
-| [Maria Alice](https://github.com/Maliz30), [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |     Tales |15:30 | 16:00 | 21/11 | 21/11 | Se tornar colaborador, Pedir ajuda e Avaliar midia | FGA |
-| [Maria Alice](https://github.com/Maliz30), [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |     Luciano | 16:00 | 16:30 | 21/11 | 21/11| Se tornar colaborador, Pedir ajuda e Avaliar midia | FGA |
-| [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf) | Gustavo | 11:00 | 11:30| 21/11 | 21/11| Acessar estatisticas e Download de mídia | FGA |
-| [Gustavo França](https://github.com/gustavofbs) e [Harryson Martins](https://github.com/harry-cmartin) | Flávio Augusto | 12:00 | 12:30| 22/11 | 22/11 |Contatar Admin e Pesquisar por mída | FGA |
+| :-----------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :------------: | :------------------------------------------------: | :---: |
+| [Maria Alice](https://github.com/Maliz30), [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |      Tales      |       15:30       |     16:00      |     21/11      |     21/11      | Se tornar colaborador, Pedir ajuda e Avaliar midia |  FGA  |
+| [Maria Alice](https://github.com/Maliz30), [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |     Luciano     |       16:00       |     16:30      |     21/11      |     21/11      | Se tornar colaborador, Pedir ajuda e Avaliar midia |  FGA  |
+|                       [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf)                       |     Gustavo     |       11:00       |     11:30      |     21/11      |     21/11      |      Acessar estatisticas e Download de mídia      |  FGA  |
+|                   [Gustavo França](https://github.com/gustavofbs) e [Harryson Martins](https://github.com/harry-cmartin)                    | Flávio Augusto  |       12:00       |     12:30      |     22/11      |     22/11      |        Contatar Admin e Pesquisar por mída         |  FGA  |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
 
@@ -103,7 +115,7 @@ Segue abaixo na Figura 2 o termo de consentimento em <a href= "docs/analise_de_r
 
 <font size="2"><p style="text-align: center">Figura 2: Termo de Consentimento</p></font>
 
-![Figura 1: Termo de consentimento.](../../../assets/aspectos-eticos/termodeconsentimento_prototipodepapel.png)
+![Protótipo de Papel](../../../assets/aspectos-eticos/termoProtPapel.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) </p></font>
 
@@ -117,7 +129,7 @@ Durante a interação, são registrados os obstáculos e dificuldades, abrangend
 
 Com as entrevistas concluídas e os dados coletados em mãos, realiza-se uma análise dos documentos para assegurar sua coerência com as perspectivas até então identificadas.
 
-Além disso, se identificados problemas, elencados pelos usuários, tais fenômenos serão descritos e classificados, a fim de buscar sua melhora, também olhando pelas possíveis sugestões dos entrevistados.
+Além disso, se forem identificados problemas elencados pelos usuários, esses fenômenos serão descritos e classificados, buscando a melhoria, e levando em consideração as possíveis sugestões dos entrevistados.
 
 Por fim, as informações adquiridas serão validadas novamente, e assim poderão ser desenvolvidas e implementadas, visando a melhoras das vicissitudes encontradas.
 
@@ -129,17 +141,15 @@ De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamen
 
 <font size="2"><p style="text-align: center">Tabela 3: Planejamento do teste piloto </p></font>
 
-| Ordem | Data       | Horário de início e fim | Local | Entrevistadores               | Entrevistado |
-| ----- | ---------- | ----------------------- | ----- | ----------------------------- | ------------ |
-| 1     | 14/10/2023 | 14:10 - 14:25           | FGA   | Victor Hugo e Luciano Ricardo | Maria alice  |
+| Data       | Horário de início e fim | Local | Entrevistadores               | Entrevistado |
+| ---------- | ----------------------- | ----- | ----------------------------- | ------------ |
+| 14/10/2023 | 14:10 - 14:25           | FGA   | Victor Hugo e Luciano Ricardo | Maria alice  |
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
 
 </center>
 
 No Vídeo 1, pode-se conferir a gravação do teste piloto realizado.
-
-**Obs:** Como o teste piloto ainda não foi realizado abaixo consta apenas o placeholder para o video
 
 <center>
 
@@ -151,6 +161,12 @@ No Vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 
 </center>
 
+## Referências Bibliográficas
+
+> [1] Preece, J., Sharp, H., & Rogers, Y. Design de interação: além da interação humano-computador. Porto Alegre: Bookman, 2013
+>
+> [2] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011
+
 ## Bibliografia
 
 > RIBEIRO, Clara; SANTANA, Natan Tavares. Planejamento da avaliação da Análise de tarefas. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/design%2C_avalia%C3%A7%C3%A3o%2C_desenvolvimento/n%C3%ADvel%201/an%C3%A1lise_de_tarefas/planejamento_tarefas/>. Acesso em: 01 de novembro de 2023.
@@ -159,15 +175,12 @@ No Vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 >
 > Bilheteria Digital. Metas de usabilidade. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/metas-usabilidade/. Acesso em: 01 de novembro 2023.
 
-## Referências Bibliográficas
-
-<a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011
-
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                 | Autor(es)                                                                                                                                                                              | Revisor(es)                                     |
-| ------ | ---------- | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| 1.0    | 01/11/2023 | Criação do Documento      | [Victor Hugo](https://github.com/ViictorHugoo)                                                                                                                                         | [Ana Catarina](https://github.com/an4catarina)  |
-| 1.1    | 08/11/2023 | Organização do documento  | [Victor Hugo](https://github.com/ViictorHugoo),[Gustavo](https://github.com/gustavofbs),[Luciano Ricardo](https://github.com/l-ricardo) e [Harryson](https://github.com/harry-cmartin) | [Ana Catarina](https://github.com/an4catarina)  |
-| 1.2    | 20/11/2023 | Organização das perguntas | [Gustavo França](https://github.com/gustavofbs)                                                                                                                                        | [Ana Catarina](https://github.com/an4catarina)  |
-| 1.3    | 21/11/2023 | Corrigindo detalhes       | [Victor Hugo](https://github.com/ViictorHugoo)                                                                                                                                         | [Luciano Ricardo](https://github.com/l-ricardo) |
+| Versão | Data       | Descrição                          | Autor(es)                                                                                                                                                                              | Revisor(es)                                     |
+| ------ | ---------- | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 01/11/2023 | Criação do Documento               | [Victor Hugo](https://github.com/ViictorHugoo)                                                                                                                                         | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.1    | 08/11/2023 | Organização do documento           | [Victor Hugo](https://github.com/ViictorHugoo),[Gustavo](https://github.com/gustavofbs),[Luciano Ricardo](https://github.com/l-ricardo) e [Harryson](https://github.com/harry-cmartin) | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.2    | 20/11/2023 | Organização das perguntas          | [Gustavo França](https://github.com/gustavofbs)                                                                                                                                        | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.3    | 21/11/2023 | Corrigindo detalhes                | [Victor Hugo](https://github.com/ViictorHugoo)                                                                                                                                         | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.4    | 06/12/2023 | Verificação e correção do artefato | [Ana Catarina Santos](https://github.com/an4catarina)                                                                                                                                  | [Victor Hugo](https://github.com/ViictorHugoo)  |

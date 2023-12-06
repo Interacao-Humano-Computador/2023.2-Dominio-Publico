@@ -1,16 +1,12 @@
 # Princípios Gerais
 
-
-
 ## Introdução
 
-Para que um modelo conceitual possa efetivamente atender às necessidades específicas de um usuário, possibilitando uma aprendizagem rápida e clara, é imprescindível que sua estrutura seja construída de acordo com uma série de princípios e diretrizes gerais. Esses princípios, que servem como alicerce do projeto, desempenham um papel crucial, fazendo com que tenha uma relação satisfatória e saudável entre os usuários e o produto final.
-
-
+Para que um modelo conceitual possa efetivamente atender às necessidades específicas de um usuário, possibilitando uma aprendizagem rápida e clara, é imprescindível que sua estrutura seja construída de acordo com uma série de princípios e diretrizes gerais. Esses princípios, que servem como alicerce do projeto, desempenham um papel crucial, fazendo com que tenha uma relação satisfatória e saudável entre os usuários e o produto final. Estes princípios serão utilizados como base na criação e formulação dos artefatos projeto do site do Domínio Público, como o protótipo de papel, o storyboard e o protótipo de alta fidelidade, para a disciplina de Interação Humano Computador.
 
 ## Metodologia
 
-Com o propósito de analisar os princípios gerais do site 'Domínio Público', utilizamos como referência os Princípios e Diretrizes apresentados no livro 'Interação Humano-Computador' (S. D. J. Barbosa, B. S. da Silva). Durante essa análise, identificaremos possíveis desvios desses princípios e diretrizes, juntamente, ofereceremos sugestões para aprimorar e aplicar esses conceitos no projeto.
+Com o propósito de analisar os princípios gerais do site 'Domínio Público', utilizamos como referência os Princípios e Diretrizes apresentados no livro 'Interação Humano-Computador' de Barbosa [1]. Durante essa análise, identificaremos possíveis desvios desses princípios e diretrizes, juntamente, ofereceremos sugestões para aprimorar e aplicar esses conceitos no projeto.
 
 ### Correspondência com as expectativas dos usuários.
 
@@ -28,7 +24,7 @@ Quando se adiciona um tipo de mídia e, em seguida, realiza uma pesquisa, são e
 
 ### Simplicidade nas estruturas das tarefas.
 
-A simplicidade na estrutura das tarefas garante simplificação das atividades, a redução dos problemas e do esforço mental para realizá-las. Norman (1988) sugere quatro abordagens tecnológicas para atingir esse objetivo:
+A simplicidade na estrutura das tarefas garante simplificação das atividades, a redução dos problemas e do esforço mental para realizá-las. Norman [2] sugere quatro abordagens tecnológicas para atingir esse objetivo:
 
 - Oferecer múltiplos tipos de suporte para que os usuários possam aprender e executar a tarefa de maneira mais eficaz.
 - Utilizar tecnologia para tornar visíveis aspectos que seriam inicialmente imperceptíveis, melhorando o feedback e a capacidade do usuário de manter o controle sobre a tarefa.
@@ -125,15 +121,11 @@ Conforme ilustrado na Figura 6, ao acessarmos a página 'Fale Conosco', o sistem
 
 <font size="2"><p style="text-align: center">Fonte: [Domínio Público](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)</p></font>
 
-
-
 ## Referências
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 >
 > <a id="REF2" href="#anchor_2">2.</a> Norman, D.A. & Draper, S.W. User Centered System Design. Hillsdale, NJ: Lawrence Erlbaum, 1986.
-
-
 
 ## Bibliografia
 
@@ -142,3 +134,4 @@ Conforme ilustrado na Figura 6, ao acessarmos a página 'Fale Conosco', o sistem
 | Versão | Data       | Descrição                                    | Autor(es)                                                                                       | Revisor(es)                                     |
 | ------ | ---------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------- |
 | 1.0    | 21/10/2023 | Documentação e análise dos Princípios Gerais | [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf) | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.1    | 05/12/2023 | Correção dos artefatos                       | [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf) | [Luciano Ricardo](https://github.com/l-ricardo) |
