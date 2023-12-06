@@ -8,23 +8,23 @@ O objetivo desse artefato é verificar a qualidade do [Cronograma Executado](doc
 
 ## Metodologia
 
-A metodologia a ser utilizada será a Inspeção por meio do uso de Checklists, baseadas nas perguntas presentes no plano de ensino da matéria e nos padrões desejados para se haver num artefato desse tipo. A checklist criada pode ser visualizada na tabela 1:
+A metodologia a ser utilizada será a Inspeção por meio do uso de Checklists, baseadas nas perguntas presentes no plano de ensino da matéria e nos padrões desejados para se haver num artefato desse tipo. A checklist criada pode ser visualizada na Tabela 1:
 
 <center>
 
 <font size="2"><p style="text-align: center">Tabela 1: Verificação do cronograma executado</p></font>
 
-| ID | Critério | Resultado |
-|:--------:|:--------:|:--------:|
-| 1 |      O artefato possui introdução?    |          |
-| 2|      O artefato possui histórico de versão atualizado?     |
-|3|    Os textos estão em norma padrão e sem erros?      |          |
-|4|    O artefato possui Bibliografia?      |          |
-|5   |  Todas as tarefas que foram realizadas estão no cronograma?  |   |
-|6| A tabela é chamada no texto?  |   |
-|7| A tabela possui fonte e nome? |   |
-|8|  Todas as tarefas possuem revisor?  |     |
-|9   |  As tarefas realizadas foram feitas nas datas planejadas?  |  |
+|  ID   |                          Critério                          | Resultado |
+| :---: | :--------------------------------------------------------: | :-------: |
+|   1   |               O artefato possui introdução?                |           |
+|   2   |     O artefato possui histórico de versão atualizado?      |
+|   3   |        Os textos estão em norma padrão e sem erros?        |           |
+|   4   |              O artefato possui Bibliografia?               |           |
+|   5   | Todas as tarefas que foram realizadas estão no cronograma? |           |
+|   6   |                A tabela é chamada no texto?                |           |
+|   7   |               A tabela possui fonte e nome?                |           |
+|   8   |             Todas as tarefas possuem revisor?              |           |
+|   9   |  As tarefas realizadas foram feitas nas datas planejadas?  |           |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) </p></font>
 
@@ -38,17 +38,17 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 
 <font size="2"><p style="text-align: center">Tabela 2: Execução da verificação do cronograma executado</p></font>
 
-| ID | Critério | Resultado |
-|:--------:|:--------:|:--------:|
-|1|O artefato possui introdução?|  Sim     | 
-|2|O artefato possui histórico de versão atualizado?|  Sim     |
-|3|Os textos estão em norma padrão e sem erros?|Sim      | 
-|4|O artefato possui Bibliografia?|   Sim     | 
-|5|Todas as tarefas que foram realizadas estão no cronograma?| Sim|
-|6|A tabela é chamada no texto?| Sim |
-|7|A tabela possui fonte e nome?|  Não|
-|8|Todas as tarefas possuem revisor?| Sim|
-|9|As tarefas realizadas foram feitas nas datas planejadas?| Não|
+|  ID   |                          Critério                          | Resultado |
+| :---: | :--------------------------------------------------------: | :-------: |
+|   1   |               O artefato possui introdução?                |    Sim    |
+|   2   |     O artefato possui histórico de versão atualizado?      |    Sim    |
+|   3   |        Os textos estão em norma padrão e sem erros?        |    Sim    |
+|   4   |              O artefato possui Bibliografia?               |    Sim    |
+|   5   | Todas as tarefas que foram realizadas estão no cronograma? |    Sim    |
+|   6   |                A tabela é chamada no texto?                |    Sim    |
+|   7   |               A tabela possui fonte e nome?                |    Não    |
+|   8   |             Todas as tarefas possuem revisor?              |    Sim    |
+|   9   |  As tarefas realizadas foram feitas nas datas planejadas?  |    Não    |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)  </p></font>
 
@@ -114,6 +114,6 @@ Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gr�
 
 
 
-| Versão | Data       | Descrição                        | Autor(es)                                                                                  | Revisor(es)                                    |
-| ------ | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
-| 1.0    | 02/11/2023 | Construção e elaboração do documento           |     [Harryson Martins](https://github.com/harry-cmartin)                                              | [Ana Catarina](https://github.com/an4catarina) |
+| Versão | Data       | Descrição                            | Autor(es)                                            | Revisor(es)                                    |
+| ------ | ---------- | ------------------------------------ | ---------------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 02/11/2023 | Construção e elaboração do documento | [Harryson Martins](https://github.com/harry-cmartin) | [Ana Catarina](https://github.com/an4catarina) |

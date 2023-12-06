@@ -3,7 +3,7 @@
 ## Introdução
 
 Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela avaliação do protótipo de papel. Com isso, serão abordados os tópicos referidos no Planejamento do Relato dos Resultados do Protótipo de Papel.
-Durante essa etapa, o grupo desenvolveu o protótipo de papel, o qual pode ser verificado na imagem 1.
+Durante essa etapa, o grupo desenvolveu o protótipo de papel, o qual pode ser verificado na Figura 1.
 
 <center>
 
