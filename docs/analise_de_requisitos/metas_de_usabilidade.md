@@ -58,11 +58,11 @@ O site não oferece elementos claros para que o usuário saia de uma situção d
 
 ## Utilidade
 
-A utilidade de um sistema diz respeito a um conjunto apropriado de funções, isso é, se o sistema oferece a quantidade necessária de ferramentas para que o usuário realize uma atividade eficientemente.
+A utilidade de um sistema é medida pela adequação de suas funções para atender às necessidades dos usuários. Em outras palavras, um sistema é útil se oferece as ferramentas necessárias para que os usuários realizem suas atividades de forma eficiente.
 
 **No site avaliado:**
 
-O site oferece as ferramentas necessárias ao usuário para alcançar o seu objetivo final.
+O site oferece  as ferramentas necessárias que permitem ao usuário alcançar seu objetivo final. Porém essas ferramentas poderiam ser organizadas de forma mais intuitiva e fácil de navegar, para que os usuários possam encontrar o que precisam com mais agilidade ainda.
 
 
 
@@ -72,7 +72,7 @@ A facilidade de aprendizado diz respeito ao tempo e esforços necessários para 
 
 **No site avaliado:**
 
-Algumas funcionalidades presentes no site são muito escondidas ou mascaradas pelas imagens, os elementos não muito intuitivos ou chamativos não facilitam com que o usuário ache o que procura, como pode ser visto na figura 3:
+Algumas funcionalidades presentes no site são muito escondidas ou mascaradas pelas imagens, os elementos não muito intuitivos ou chamativos não facilitam com que o usuário ache o que procura, como pode ser visto na figura 3. Com isso em mente, é possível reagrupar os itens necessários para que sejam de mais fácil acesso e visualização, enquanto os itens desnecessários podem ter menos destaque. Isso melhoraria a navegação do site e a facilidade de aprendizado.
 
 <font size="2"><p style="text-align: center">Figura 3: Meta de usabilidade facilidade de aprendizagem </p></font>
 
@@ -88,7 +88,7 @@ A facilidade de recordação diz respeito ao esforço cognitivo do usuário nece
 
 **No site avaliado:**
 
-Icones iguais dificultam a memoria do usuario de saber onde estão os objetos desejados como pode ser visto na figura 4:
+Icones iguais dificultam a memoria do usuario de saber onde estão os objetos desejados como pode ser visto na figura 4, uma adaptação mudando as imagens iguais e uma reagrupação do que não é muito importante seria eficiente para melhorar essa questão.
 
 <font size="2"><p style="text-align: center">Figura 4: Meta de usabilidade memorização </p></font>
 
@@ -100,7 +100,11 @@ Icones iguais dificultam a memoria do usuario de saber onde estão os objetos de
 
 ## Conclusão
 
-Conforme mencionado anteriormente, as metas prioritárias identificadas são a Eficiência, a Segurança, a Aprendizagem e a Memorização. Dado que essas metas possuem pontos a serem corrigidos, faz-se necessário uma abordagem cuidadosa e dedicada, a fim de serem reestruturadas e aprimoradas ao longo de nossa análise minuciosa.
+Como mencionado anteriormente, as metas prioritárias do projeto são a eficiência, a segurança, a aprendizagem e a memorização. Essas metas são importantes para garantir o sucesso do projeto, pois impactam diretamente na satisfação dos usuários, na qualidade do produto e na segurança dos dados.
+
+No entanto, uma análise preliminar identificou alguns pontos que podem ser aprimorados em cada uma dessas metas. Por exemplo, a eficiência pode ser aprimorada deixando as tarefas mais rápidas e intuitivas, a segurança pode ser aprimorada implementando controles de acesso, como avisos de confirmação com pop ups entre outros e a aprendizagem pode ser aprimorada oferecendo recursos de apoio para o usuário identificar por meio de ícones e aparatos visuais, assim como a memorização.
+
+Para garantir que essas metas sejam alcançadas, é necessário um esforço cuidadoso e dedicado. A equipe do projeto irá realizar uma análise detalhada de cada meta, identificando oportunidades de melhoria e desenvolvendo planos de ação para implementá-las.
 
 
 
@@ -124,3 +128,5 @@ Conforme mencionado anteriormente, as metas prioritárias identificadas são a E
 | ------ | ---------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1.0    | 21/10/2023 | Criação do artefato Metas de Usabilidade        | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo) |
 | 1.1    | 21/10/2023 | Construção do documento de metas de usabilidade | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Maria Alice](https://github.com/Maliz30)                                                                                                       |
+| 1.2    | 06/12/23 | Correção do Artefato | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina) |
+

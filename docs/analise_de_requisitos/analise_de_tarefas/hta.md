@@ -56,27 +56,26 @@ Nessa tarefa o usuário tem por objetivo fazer o dowload da mídia por ele pesqu
 
 <font size="2"><p style="text-align: center">Figura 3: Diagrama da representação HTA da tarefa "Fazer download da mídia" </p></font>
 
-![Dowload](../../assets/analise_de_requisitos/HTAFazerDownload.png)
+![Dowload](../../assets/analise_de_requisitos/HTA_Download_de_Midia.png)
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf), 2023</p></font>
 
 <font size="2"><p style="text-align: center">Tabela 2: Tabela da representação HTA da tarefa "Fazer download da mídia" </p></font>
 
 | Objetivos / Operações                                 | Relações | Problemas e Recomendações                                                                                     |
 | ----------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------- |
-| 0. Baixar uma mídia                                   | 1 / 2    | feedback: mostrado o arquivo baixado <br> plano: usuário deve ser capaz de baixar e acessar o arquivo         |
-| 1. Encontrar mídia na tela                            | 1 > 2    | feedback: usuário é redirecionado a página correspondente                                                     |
+| 0. Baixar uma mídia                                   | 1 / 2    | feedback: O usuário deve conseguir concluir o processo de Download  <br> plano: usuário deve ser capaz de baixar e acessar o arquivo         |
+| 1. Entrar na página da mídia selecionada                                                     |1 + 2| feedback: O usuário deverá ter acesso a página da mídia selecionada  <br> plano: O usuário deve conseguir ver todos os dados da determinada mídia para conseguir prosseguir para o Download.
 | 1.1 Clicar na mídia desejada                          |          | feedback: usuário é redirecionado a tela da mídia clicada                                                     |
-| 1.2 Entrar na página de encontro da mídia selecionada |          | feedback: é mostrado as características da mídia                                                              |
-| 1.3 Selecionar a mídia                                |          | feedback: o usuário é redirecionado a página correspondente                                                   |
-| 1.4 Clicar em baixar mídia                            |          | feedback: é mostrado o arquivo baixado <br> plano: o usuário deve ser capaz de acessar e utilizar o dowload   |
-| 2. Pesquisar nos campos de pesquisa                   | 1 > 2    | input: nomes das mídias desejadas <br> plano: usuário deve preencher os campos, pesquisar e ser correspondido |
+| 1.2 Entrar na página da mídia selecionada |          | feedback: é mostrado as características da mídia                                                              |
+| 1.3 Clicar em baixar                           |          | feedback: é mostrado o arquivo baixado|
+| 2. Pesquisar nos campos de texto                | 1 + 2    | input: nomes das mídias desejadas <br> plano: usuário deve preencher os campos, pesquisar e ser correspondido |
 | 2.1 Preencher campo de pesquisa desejado              |          | plano: usuário deve preencher os campos, pesquisar e encontrar a mídia                                        |
-| 2.2 Gerar pesquisa                                    |          |                                                                                                               |
+| 2.2 Pesquisar                                    |          |                                                                                                               |
 | 2.3 Selecionar a mídia                                |          |                                                                                                               |
-| 2.4 Clicar em baixar mídia                            |          | feedback: é mostrado os arquivos da mídia baixada                                                             |
+| 2.4 Clicar em baixar                            |          | feedback: é mostrado os arquivos baixado                                                             |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf), 2023</p></font>
 
 
 
@@ -172,15 +171,13 @@ Nesta tarefa, o objetivo do usuário é avaliar as midias que já foram consumid
 
 <font size="2"><p style="text-align: center">Tabela 6: Tabela da representação HTA da tarefa "Avaliar Mídia"</p></font>
 
-| Objetivos / Operações              | Relações | Problemas e Recomendações                                                                                                                                                               |
-| ---------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Avaliar Mídia                      | 1 > 2    | Input: Nota entre 1 a 5 e comentário sobre a midia <br> feedback: novo comentário aparece com a nota e o comentário inseridos <br> plano: achar a midia **e depois** deixar a avaliação |
-| 1. Pesquisar por uma mídia         |          |                                                                                                                                                                                         |
-| 1.1 Enviar confirmação de pesquisa |          |                                                                                                                                                                                         |
-| 2.  Selecionar a midia             |          |                                                                                                                                                                                         |
-| 2.1 Econtrar campo de avaliação    | 1 + 2    | plano: definiar a nota da midia e o comentário sobre **e** escolher uma nota de 1 a 5                                                                                                   |
-| 2.1.1 definir comentário e nota    |          |                                                                                                                                                                                         |
-| 2.1.2 postar avaliação             |          |                                                                                                                                                                                         |
+| Objetivos/Operações | Problemas e Recomendações |
+| ------------------- | ------------------------- |
+| 0. Avaliar Midia 1>2 | Input: formulário de avaliação de mídia, com campos de nota de tradução, formatação, estrutura de capítulos e nota geral, nome, data de nascimento, e-mail e comentário. <br> Feedback: um novo comentário aparece <br> Plano: informar detalhes da avaliação e do avaliador, e depois enviar mensagem de confirmação da publicação da avaliação |
+| 1. Inserir dados da avaliação 1+2 | Plano: Dar nota de tradução, formatação, estrutura de capítulos e nota geral e  informar, nome, data de nascimento, e-mail e comentário |
+| 1.1 Dar nota de tradução, formatação, estrutura de capítulos e nota geral 
+| 1.2 Informar, nome, data de nascimento, e-mail e comentário 
+| 2. Enviar confirmação de publicação da avaliação ||                                                                                                                                                                                       |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
 
@@ -188,9 +185,9 @@ Nesta tarefa, o objetivo do usuário é avaliar as midias que já foram consumid
 
 ### Contatar administradores
 
-Nessa tarefa, o usuário tem como objetivo acessar um painel para enviar uma mensagem aos administradores do site.
+Nessa tarefa, o usuário tem como objetivo acessar um painel para enviar uma mensagem aos administradores do site. A Figura 8 apresenta seu diagram HTA e a Tabela 7 suas especificações: 
 
-<font size="2"><p style="text-align: center">Figura 8: Descrição GOMS da tarefa "Contatar administrador"</p></font>
+<font size="2"><p style="text-align: center">Figura 8: Diagrama da representação HTA da tarefa "Contatar administrador"</p></font>
 
 ![GOMSContatoAdmin](../../assets/analise_de_requisitos/HTAContatoAdmin.png)
 
@@ -237,3 +234,4 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para enviar uma men
 | 1.4    | 22/10/2023 | Adição de Avaliar Midia                         | [Victor Hugo](https://github.com/ViictorHugoo)                                                         | [Maria Alice](https://github.com/Maliz-30)      |
 | 1.5    | 23/10/2023 | Adição de Contatar Administradores              | [Gustavo França](https://github.com/gustavofbs)                                                        | [Victor Hugo](https://github.com/ViictorHugoo)  |
 | 1.6    | 23/10/2023 | Correção na HTA da ação "Se tornar colaborador" | [Maria Alice](https://github.com/Maliz30)                                                              | [Gustavo França](https://github.com/gustavofbs) |
+| 1.7    | 06/12/23 | Correção do Artefato | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina) |
