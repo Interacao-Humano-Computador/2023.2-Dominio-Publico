@@ -39,6 +39,26 @@ A Tabela 1 exibe as datas da realização da avaliação.
 
 </center>
 
+##### Protótipo de Alta Fidelidade
+
+Nas Figuras 1 e 2 é possível visualizar o protótipo de alta fidelidade utilizado para a avaliação da intervenção da tarefa "Pesquisar por mídia".
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 1: Protótipo de alta de "Pesquisar por mídia"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/pesquisa1.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+<font size="2"><p style="text-align: center">Figura 2: Protótipo de alta de "Pesquisar por mídia"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/pesquisa2.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+</center>
+
 ##### Seleção dos participantes
 
 Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o entrevistador. O usuário entrevistado selecionado possui entre 18 e 34 anos; é experiente com tecnologia e lê com frequencia media, conforme estabelecido no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md).
@@ -205,6 +225,26 @@ A Tabela 8 exibe as datas da realização da avaliação.
 | [Pedro Henrique](https://github.com/pedro-hsf) | Nicolas Bomfim  | 19:50             | 19:55          | 29/11/2023 | Microsoft Teams  |
 
 <font size="2"><p style="text-align: center">Fonte:[Pedro Henrique](https://github.com/pedro-hsf).</p></font>
+
+</center>
+
+##### Protótipo de Alta Fidelidade
+
+Nas Figuras 3 e 4 é possível visualizar o protótipo de alta fidelidade utilizado para a avaliação da intervenção da tarefa "Fazer download de mídia".
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 3: Protótipo de alta de "Fazer download de mídia"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/down1.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+<font size="2"><p style="text-align: center">Figura 4: Protótipo de alta de "Fazer download de mídia"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/down2.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
 
 </center>
 
@@ -377,6 +417,26 @@ A Tabela 8 exibe as datas da realização da avaliação.
 | [Victor Hugo](https://github.com/ViictorHugoo) | Julia Takaki | 21:12             | 21:19          | 29/11/2023 | Microsoft Teams  |
 
 <font size="2"><p style="text-align: center">Fonte:[Victor Hugo](https://github.com/ViictorHugoo).</p></font>
+
+</center>
+
+##### Protótipo de Alta Fidelidade
+
+Nas Figuras 5 e 6 é possível visualizar o protótipo de alta fidelidade utilizado para a avaliação da intervenção da tarefa "Avaliar Midia".
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 5: Protótipo de alta de "Avaliar Midia"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/avaliar1.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+<font size="2"><p style="text-align: center">Figura 6: Protótipo de alta de "Avaliar Midia"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/avaliar2.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
 
 </center>
 
@@ -601,6 +661,26 @@ A Tabela 22 exibe as datas da realização da avaliação.
 
 </center>
 
+##### Protótipo de Alta Fidelidade
+
+Nas Figuras 7 e 8 é possível visualizar o protótipo de alta fidelidade utilizado para a avaliação da intervenção da tarefa "Acessar Estatisticas".
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 7: Protótipo de alta de "Acessar Estatisticas"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/estatistica1.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+<font size="2"><p style="text-align: center">Figura 8: Protótipo de alta de "Acessar Estatisticas"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/estatistica2.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+</center>
+
 ##### Seleção dos participantes
 
 A seleção dos participantes foi realizada de forma criteriosa, atribuindo a cada tarefa um responsável designado. O entrevistador foi escolhido com base nessa responsabilidade específica. O usuário selecionado para a entrevista está na faixa etária de 18 a 34 anos, demonstrando experiência significativa com tecnologia e uma frequência média de leitura, conforme detalhado no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md). Essa abordagem visa garantir que os participantes se alinhem adequadamente com as características necessárias para fornecer insights valiosos durante o processo de avaliação.
@@ -774,17 +854,17 @@ A Tabela 29 exibe as datas da realização da avaliação.
 
 ##### Protótipo de Alta Fidelidade
 
-Nas Figuras 1 e 2 é possível visualizar o protótipo de alta fidelidade utilizado para a avaliação da intervenção da tarefa "Receber ajuda".
+Nas Figuras 9 e 10 é possível visualizar o protótipo de alta fidelidade utilizado para a avaliação da intervenção da tarefa "Receber ajuda".
 
 <center>
 
-<font size="2"><p style="text-align: center">Figura 1: Protótipo de alta de "Receber ajuda"</p></font>
+<font size="2"><p style="text-align: center">Figura 9: Protótipo de alta de "Receber ajuda"</p></font>
 
 ![Protótipo de Alta](../../../assets/prototipo_de_alta/ajuda1.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
 
-<font size="2"><p style="text-align: center">Figura 2: Protótipo de alta de "Receber ajuda"</p></font>
+<font size="2"><p style="text-align: center">Figura 10: Protótipo de alta de "Receber ajuda"</p></font>
 
 ![Protótipo de Alta](../../../assets/prototipo_de_alta/ajuda2.png)
 
@@ -961,6 +1041,26 @@ A Tabela 21 exibe as datas da realização da avaliação.
 
 </center>
 
+##### Protótipo de Alta Fidelidade
+
+Nas Figuras 11 e 12 é possível visualizar o protótipo de alta fidelidade utilizado para a avaliação da intervenção da tarefa "Se tornar Colaborador".
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 11: Protótipo de alta de "Se tornar Colaborador"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/colab1.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+<font size="2"><p style="text-align: center">Figura 12: Protótipo de alta de "Se tornar Colaborador"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/colab2.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+</center>
+
 ##### Seleção dos participantes
 
 Os entrevistares foram agrupados com base em compatibilidade de horários. Já os entrevistados foram selecionados com base no perfil de usuário estabelecido no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md), de forma que todos possuem idade entre 18 e 34 anos, além de serem experientes com tecnologia (tecnófilos) e lerem com frequencia média.
@@ -1127,6 +1227,20 @@ A Tabela 14 exibe as datas da realização da avaliação.
 | [Gustavo França](https://github.com/gustavofbs) | Juan Pablo     | 12:00             | 12:03          | 28/11/2023 | FGA                        |
 
 <font size="2"><p style="text-align: center">Fonte:[Gustavo França](https://github.com/gustavofbs).</p></font>
+
+</center>
+
+##### Protótipo de Alta Fidelidade
+
+Na Figura 13 é possível visualizar o protótipo de alta fidelidade utilizado para a avaliação da intervenção da tarefa "Contatar Administradores".
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 13: Protótipo de alta de "Contatar Administradores"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/fale.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
 
 </center>
 
