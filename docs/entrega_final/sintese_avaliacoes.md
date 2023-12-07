@@ -2,7 +2,7 @@
 
 ## Introdução
 
-No decorrer do projeto foram realizadas diversas avaliações dos protótipos feitos. 
+No decorrer do projeto foram realizadas diversas avaliações dos protótipos feitos. Foram executadas avaliações da Análise de Tarefas, do Storyboard e dos Protótipos de Baixa e Alta Fidelidade.
 
 ## Síntese
 
