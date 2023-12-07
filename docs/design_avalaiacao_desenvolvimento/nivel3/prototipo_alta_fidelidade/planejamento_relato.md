@@ -10,11 +10,12 @@ O relato dos resultados será construido com base no documento [Planejamento da 
 
 1. Objetivo e âmbito da avaliação;
 2. Método de avaliação;
-3. Seleção dos participantes;
-4. Listagem de problemas;
-5. Sugestões de melhoria;
-6. Registro da avaliação.
-7. Planejamento de reprojeto.
+3. Protótipo de Alta Fidelidade;
+4. Seleção dos participantes;
+5. Listagem de problemas;
+6. Sugestões de melhoria;
+7. Registro da avaliação.
+8. Planejamento de reprojeto.
 
 ## Tópicos
 
@@ -34,12 +35,15 @@ Além disso os entrevistadores deverão seguir o cronograma planejado explicitad
 
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma planejado</p></font>
 
-|                                                              Entrevistador(es)                                                              | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Tarefa | Local |
-| :-----------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---------------: | :------------: | :------------: | :----: | :---: |
-|                       [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf)                       |       ---       |        ---        |      ---       |      ---       |  ---   |  FGA  |
-|                   [Gustavo França](https://github.com/gustavofbs) e [Harryson Martins](https://github.com/harry-cmartin)                    |       ---       |        ---        |      ---       |      ---       |  ---   |  FGA  |
-| [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30) e [Victor Hugo](https://github.com/ViictorHugoo) |       ---       |        ---        |      ---       |      ---       |  ---   |  FGA  |
-|                                                                                                                                             |
+| Entrevistador(es)                                    | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada | Tarefa(s)                    | Local                      |
+| ---------------------------------------------------- | --------------- | ----------------- | -------------- | -------------- | ---------------------------- | -------------------------- |
+| [Ana Catarina](https://github.com/an4catarina)       | Gustavo         | 15:00             | 15:15          | 20/11          | Acessar as Estatísticas      | Plataforma Microsoft Teams |
+| [Gustavo França](https://github.com/gustavofbs)      | Flávio Augusto  | 12:00             | 12:15          | 20/11          | Contatar Admin               | Plataforma Microsoft Teams |
+| [Harryson Martins](https://github.com/harry-cmartin) | Kelven Cunha    | 14:30             | 14:50          | 23/11          | Pesquisar por Mídia          | FGA                        |
+| [Luciano Ricardo](https://github.com/l-ricardo)      | Bruno           | 16:00             | 16:15          | 17/11          | Pedir Ajuda                  | Plataforma Microsoft Teams |
+| [Maria Alice](https://github.com/Maliz30)            | Maria Abritta   | 16:30             | 16:45          | 21/11          | Candidatura para Colaborador | Plataforma Microsoft Teams |
+| [Pedro Henrique](https://github.com/pedro-hsf)       | Nicolas         | 14:00             | 14:15          | 21/11          | Download de Mídia            | Plataforma Microsoft Teams |
+| [Victor Hugo](https://github.com/ViictorHugoo)       | Tales           | 13:00             | 13:15          | 21/11          | Avaliar Mídia                | Plataforma Microsoft Teams |
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
@@ -58,6 +62,10 @@ Por fim, esse tópico do relato da avaliação deve conter uma tabela com o cron
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
 </center>
+
+#### Protótipo de Alta Fidelidade
+
+Nesse topico deve ser registrada figuras com as telas que se referem a tarefa sendo avaliada.
 
 ##### Seleção dos participantes
 

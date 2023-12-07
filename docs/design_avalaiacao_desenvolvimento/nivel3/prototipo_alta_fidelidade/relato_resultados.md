@@ -21,7 +21,7 @@ A finalidade da avaliação foi verificar a coerência da tarefa de "Pesquisar p
 
 ##### Método de avaliação
 
-Conforme sugerido pelo [planejamento da avaliação](docs/design_avalaiacao_desenvolvimento/nivel3/prototipo_alta_fidelidade/planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
+Conforme sugerido pelo [planejamento da avaliação](planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
 
 A Tabela 1 exibe as datas da realização da avaliação.
 
@@ -36,6 +36,26 @@ A Tabela 1 exibe as datas da realização da avaliação.
 | [Harryson Martins](https://github.com/harry-cmartin) | Leandro Almeida | 14:20             | 14:50          | 26/11/2023 | FGA              |
 
 <font size="2"><p style="text-align: center">Fonte:[Harryson Martins](https://github.com/harry-cmartin).</p></font>
+
+</center>
+
+##### Protótipo de Alta Fidelidade
+
+Nas Figuras 1 e 2 é possível visualizar o protótipo de alta fidelidade utilizado para a avaliação da intervenção da tarefa "Pesquisar por mídia".
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 1: Protótipo de alta de "Pesquisar por mídia"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/pesquisa1.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+<font size="2"><p style="text-align: center">Figura 2: Protótipo de alta de "Pesquisar por mídia"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/pesquisa2.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
 
 </center>
 
@@ -102,7 +122,7 @@ No Video 2 e Tabela 4 e 5 é possível verificar os registros feitos durante a a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 3: Perguntas propostas</p></font>
+<font size="2"><p style="text-align: center">Tabela 4: Perguntas propostas</p></font>
 
 |                                                Pergunta                                                 | Resposta |
 | :-----------------------------------------------------------------------------------------------------: | :------: |
@@ -117,7 +137,7 @@ No Video 2 e Tabela 4 e 5 é possível verificar os registros feitos durante a a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 4: Diretrizes</p></font>
+<font size="2"><p style="text-align: center">Tabela 5: Diretrizes</p></font>
 
 |                                         Pergunta                                          |                         Resposta                          |
 | :---------------------------------------------------------------------------------------: | :-------------------------------------------------------: |
@@ -208,6 +228,26 @@ A Tabela 8 exibe as datas da realização da avaliação.
 
 </center>
 
+##### Protótipo de Alta Fidelidade
+
+Nas Figuras 3 e 4 é possível visualizar o protótipo de alta fidelidade utilizado para a avaliação da intervenção da tarefa "Fazer download de mídia".
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 3: Protótipo de alta de "Fazer download de mídia"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/down1.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+<font size="2"><p style="text-align: center">Figura 4: Protótipo de alta de "Fazer download de mídia"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/down2.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+</center>
+
 ##### Seleção dos participantes
 
 A seleção dos participantes foi realizada de forma criteriosa, atribuindo a cada tarefa um responsável designado. O entrevistador foi escolhido com base nessa responsabilidade específica. O usuário selecionado para a entrevista está na faixa etária de 18 a 34 anos, demonstrando experiência significativa com tecnologia e uma frequência média de leitura, conforme detalhado no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md). Essa abordagem visa garantir que os participantes se alinhem adequadamente com as características necessárias para fornecer insights valiosos durante o processo de avaliação.
@@ -216,7 +256,7 @@ A seleção dos participantes foi realizada de forma criteriosa, atribuindo a ca
 
 Antes do início dos testes, os entrevistados receberam um roteiro que delineava as ações a serem realizadas no sistema. Estas incluíam acessar a área de Download, baixar uma mídia no formato desejado, completar o processo de Download e, em seguida, baixar outra mídia de escolha, com a instrução de cancelar o download antes da conclusão. Foi solicitado ao entrevistado que narrasse em voz alta as ações que estava executando.
 
-No Video 4 e Tabela 8 e 9 é possível verificar os registros feitos durante a avaliação.
+No Video 4 e Tabela 9 e 10 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
@@ -230,7 +270,7 @@ No Video 4 e Tabela 8 e 9 é possível verificar os registros feitos durante a a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 8: Perguntas propostas</p></font>
+<font size="2"><p style="text-align: center">Tabela 9: Perguntas propostas</p></font>
 
 |                                                Pergunta                                                 | Resposta |
 | :-----------------------------------------------------------------------------------------------------: | :------: |
@@ -245,7 +285,7 @@ No Video 4 e Tabela 8 e 9 é possível verificar os registros feitos durante a a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 9: Diretrizes</p></font>
+<font size="2"><p style="text-align: center">Tabela 10: Diretrizes</p></font>
 
 |                                         Pergunta                                          |            Resposta             |
 | :---------------------------------------------------------------------------------------: | :-----------------------------: |
@@ -259,7 +299,7 @@ No Video 4 e Tabela 8 e 9 é possível verificar os registros feitos durante a a
 
 </center>
 
-No Video 5 e Tabela 10 e 11 é possível verificar os registros feitos durante a avaliação.
+No Video 5 e Tabela 11 e 12 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
@@ -273,7 +313,7 @@ No Video 5 e Tabela 10 e 11 é possível verificar os registros feitos durante a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 10: Perguntas propostas</p></font>
+<font size="2"><p style="text-align: center">Tabela 11: Perguntas propostas</p></font>
 
 |                                                Pergunta                                                 | Resposta |
 | :-----------------------------------------------------------------------------------------------------: | :------: |
@@ -288,7 +328,7 @@ No Video 5 e Tabela 10 e 11 é possível verificar os registros feitos durante a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 11: Diretrizes</p></font>
+<font size="2"><p style="text-align: center">Tabela 12: Diretrizes</p></font>
 
 |                                         Pergunta                                          |           Resposta            |
 | :---------------------------------------------------------------------------------------: | :---------------------------: |
@@ -302,7 +342,7 @@ No Video 5 e Tabela 10 e 11 é possível verificar os registros feitos durante a
 
 </center>
 
-No Video 6 e Tabela 12 e 13 é possível verificar os registros feitos durante a avaliação.
+No Video 6 e Tabela 13 e 14 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
@@ -316,7 +356,7 @@ No Video 6 e Tabela 12 e 13 é possível verificar os registros feitos durante a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 12: Perguntas propostas</p></font>
+<font size="2"><p style="text-align: center">Tabela 13: Perguntas propostas</p></font>
 
 |                                                Pergunta                                                 | Resposta |
 | :-----------------------------------------------------------------------------------------------------: | :------: |
@@ -331,7 +371,7 @@ No Video 6 e Tabela 12 e 13 é possível verificar os registros feitos durante a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 13: Diretrizes</p></font>
+<font size="2"><p style="text-align: center">Tabela 14: Diretrizes</p></font>
 
 |                                         Pergunta                                          |             Resposta              |
 | :---------------------------------------------------------------------------------------: | :-------------------------------: |
@@ -363,11 +403,11 @@ A avaliação teve como objetivo analisar a eficácia da função de "Avaliar Mi
 
 Conforme sugerido pelo [planejamento da avaliação](docs/design_avalaiacao_desenvolvimento/nivel3/prototipo_alta_fidelidade/planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
 
-A Tabela 8 exibe as datas da realização da avaliação.
+A Tabela 15 exibe as datas da realização da avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 8: Cronograma executado</p></font>
+<font size="2"><p style="text-align: center">Tabela 15: Cronograma executado</p></font>
 
 | Entrevistador                                  | Entrevistado | Horário de Início | Horário de Fim | Data       | Local/Plataforma |
 | ---------------------------------------------- | ------------ | ----------------- | -------------- | ---------- | ---------------- |
@@ -380,6 +420,26 @@ A Tabela 8 exibe as datas da realização da avaliação.
 
 </center>
 
+##### Protótipo de Alta Fidelidade
+
+Nas Figuras 5 e 6 é possível visualizar o protótipo de alta fidelidade utilizado para a avaliação da intervenção da tarefa "Avaliar Midia".
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 5: Protótipo de alta de "Avaliar Midia"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/avaliar1.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+<font size="2"><p style="text-align: center">Figura 6: Protótipo de alta de "Avaliar Midia"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/avaliar2.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+</center>
+
 ##### Seleção dos participantes
 
 A seleção dos participantes foi realizada de forma criteriosa, atribuindo a cada tarefa um responsável designado. O entrevistador foi escolhido com base nessa responsabilidade específica. O usuário selecionado para a entrevista está na faixa etária de 18 a 34 anos, demonstrando experiência significativa com tecnologia e uma frequência média de leitura, conforme detalhado no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md). Essa abordagem visa garantir que os participantes se alinhem adequadamente com as características necessárias para fornecer insights valiosos durante o processo de avaliação.
@@ -388,7 +448,7 @@ A seleção dos participantes foi realizada de forma criteriosa, atribuindo a ca
 
 Antes do início dos testes, os entrevistados receberam um roteiro que delineava as ações a serem realizadas no sistema. Estas incluíam acessar a midia que deseja avaliar, avaliar uma midia, completar e publicar uma avaliação, iniciar uma segunda avaliação, porém cancelando-a antes de publicar e, em seguida, denunciar uma avaliação. Foi solicitado ao entrevistado que narrasse em voz alta as ações que estava executando.
 
-No Video 7 e Tabela 14 e 15 é possível verificar os registros feitos durante a avaliação da participante Clara Closs.
+No Video 7 e Tabela 16 e 17 é possível verificar os registros feitos durante a avaliação da participante Clara Closs.
 
 <center>
 
@@ -402,7 +462,7 @@ No Video 7 e Tabela 14 e 15 é possível verificar os registros feitos durante a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 14: Perguntas propostas</p></font>
+<font size="2"><p style="text-align: center">Tabela 16: Perguntas propostas</p></font>
 
 |                                                Pergunta                                                 | Resposta |
 | :-----------------------------------------------------------------------------------------------------: | :------: |
@@ -417,7 +477,7 @@ No Video 7 e Tabela 14 e 15 é possível verificar os registros feitos durante a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 15: Diretrizes</p></font>
+<font size="2"><p style="text-align: center">Tabela 17: Diretrizes</p></font>
 
 |                                         Pergunta                                          |             Resposta             |
 | :---------------------------------------------------------------------------------------: | :------------------------------: |
@@ -431,11 +491,11 @@ No Video 7 e Tabela 14 e 15 é possível verificar os registros feitos durante a
 
 </center>
 
-No Video 7 e Tabela 16 e 17 é possível verificar os registros feitos durante a avaliação da participante Maria Helena.
+No Video 8 e Tabela 18 e 19 é possível verificar os registros feitos durante a avaliação da participante Maria Helena.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 7: Gravação da avaliação "Avaliar Midia"</p></font>
+<font size="2"><p style="text-align: center">Video 8: Gravação da avaliação "Avaliar Midia"</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wOBaGx9GaO0?si=GUSuJIw1hIx47-iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -445,7 +505,7 @@ No Video 7 e Tabela 16 e 17 é possível verificar os registros feitos durante a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 16: Perguntas propostas</p></font>
+<font size="2"><p style="text-align: center">Tabela 18: Perguntas propostas</p></font>
 
 |                                                Pergunta                                                 |              Resposta              |
 | :-----------------------------------------------------------------------------------------------------: | :--------------------------------: |
@@ -460,7 +520,7 @@ No Video 7 e Tabela 16 e 17 é possível verificar os registros feitos durante a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 17: Diretrizes</p></font>
+<font size="2"><p style="text-align: center">Tabela 19: Diretrizes</p></font>
 
 |                                         Pergunta                                          |                                         Resposta                                         |
 | :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
@@ -474,56 +534,13 @@ No Video 7 e Tabela 16 e 17 é possível verificar os registros feitos durante a
 
 </center>
 
-No Video 8 e Tabela 18 e 19 é possível verificar os registros feitos durante a avaliação do participante Tales Seixas.
-
-<center>
-
-<font size="2"><p style="text-align: center">Video 8: Gravação da avaliação "Avaliar Midia"</p></font>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1z5UJJuxDJE?si=E2Hsdu_Vp9P99n1x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
-
-</center>
-
-<center>
-
-<font size="2"><p style="text-align: center">Tabela 18: Perguntas propostas</p></font>
-
-|                                                Pergunta                                                 | Resposta |
-| :-----------------------------------------------------------------------------------------------------: | :------: |
-|            Você acredita que as tarefas desenvolvidas foram de facil compreensão e execução?            |   sim    |
-|                      Você encontrou alguma dificuldade na realização das tarefas?                       |   não    |
-| Você acredita que os elementos na tela oferecem uma disposição satisfatória e um design compreensivel ? |   sim    |
-|            Você encontrou algum erro ou omissão de elementos durante a execuação da tarefa?             |   não    |
-
-<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo).</p></font>
-
-</center>
-
-<center>
-
-<font size="2"><p style="text-align: center">Tabela 19: Diretrizes</p></font>
-
-|                                         Pergunta                                          |        Resposta        |
-| :---------------------------------------------------------------------------------------: | :--------------------: |
-|                           O usuário consegue operar o sistema ?                           |          sim           |
-|      O usuário atinge todos os objetivos determinados? Com qual eficiencia e tempo ?      |    sim, rapidamente    |
-| O usuário entende as sequencias de ações que devem ser realizadas para realizar uma ação? |          sim           |
-|                  O usuário encontrou barreiras para concluir as tarefas?                  |          não           |
-|  Se encontradas, as barreiras foram determinates para o usuário não concluir as tarefas?  | não houveram barreiras |
-
-<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo).</p></font>
-
-</center>
-
-No Video 9 e Tabela 20 e 21 é possível verificar os registros feitos durante a avaliação da participante Julia Takaki.
+No Video 9 e Tabela 20 e 21 é possível verificar os registros feitos durante a avaliação do participante Tales Seixas.
 
 <center>
 
 <font size="2"><p style="text-align: center">Video 9: Gravação da avaliação "Avaliar Midia"</p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-js0AoMfaZE?si=ThYem18AhK5PT6N2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1z5UJJuxDJE?si=E2Hsdu_Vp9P99n1x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
@@ -547,6 +564,49 @@ No Video 9 e Tabela 20 e 21 é possível verificar os registros feitos durante a
 <center>
 
 <font size="2"><p style="text-align: center">Tabela 21: Diretrizes</p></font>
+
+|                                         Pergunta                                          |        Resposta        |
+| :---------------------------------------------------------------------------------------: | :--------------------: |
+|                           O usuário consegue operar o sistema ?                           |          sim           |
+|      O usuário atinge todos os objetivos determinados? Com qual eficiencia e tempo ?      |    sim, rapidamente    |
+| O usuário entende as sequencias de ações que devem ser realizadas para realizar uma ação? |          sim           |
+|                  O usuário encontrou barreiras para concluir as tarefas?                  |          não           |
+|  Se encontradas, as barreiras foram determinates para o usuário não concluir as tarefas?  | não houveram barreiras |
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo).</p></font>
+
+</center>
+
+No Video 10 e Tabela 22 e 23 é possível verificar os registros feitos durante a avaliação da participante Julia Takaki.
+
+<center>
+
+<font size="2"><p style="text-align: center">Video 10: Gravação da avaliação "Avaliar Midia"</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-js0AoMfaZE?si=ThYem18AhK5PT6N2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 22: Perguntas propostas</p></font>
+
+|                                                Pergunta                                                 | Resposta |
+| :-----------------------------------------------------------------------------------------------------: | :------: |
+|            Você acredita que as tarefas desenvolvidas foram de facil compreensão e execução?            |   sim    |
+|                      Você encontrou alguma dificuldade na realização das tarefas?                       |   não    |
+| Você acredita que os elementos na tela oferecem uma disposição satisfatória e um design compreensivel ? |   sim    |
+|            Você encontrou algum erro ou omissão de elementos durante a execuação da tarefa?             |   não    |
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo).</p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 23: Diretrizes</p></font>
 
 |                                         Pergunta                                          |            Resposta             |
 | :---------------------------------------------------------------------------------------: | :-----------------------------: |
@@ -585,11 +645,11 @@ A avaliação teve como objetivo analisar a eficácia da função de "Fazer Down
 
 Conforme sugerido pelo [planejamento da avaliação](docs/design_avalaiacao_desenvolvimento/nivel3/prototipo_alta_fidelidade/planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
 
-A Tabela 22 exibe as datas da realização da avaliação.
+A Tabela 24 exibe as datas da realização da avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 22: Cronograma executado</p></font>
+<font size="2"><p style="text-align: center">Tabela 24: Cronograma executado</p></font>
 
 | Entrevistador                                  | Entrevistado      | Horário de Início | Horário de Fim | Data       | Local/Plataforma |
 | ---------------------------------------------- | ----------------- | ----------------- | -------------- | ---------- | ---------------- |
@@ -601,6 +661,26 @@ A Tabela 22 exibe as datas da realização da avaliação.
 
 </center>
 
+##### Protótipo de Alta Fidelidade
+
+Nas Figuras 7 e 8 é possível visualizar o protótipo de alta fidelidade utilizado para a avaliação da intervenção da tarefa "Acessar Estatisticas".
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 7: Protótipo de alta de "Acessar Estatisticas"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/estatistica1.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+<font size="2"><p style="text-align: center">Figura 8: Protótipo de alta de "Acessar Estatisticas"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/estatistica2.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+</center>
+
 ##### Seleção dos participantes
 
 A seleção dos participantes foi realizada de forma criteriosa, atribuindo a cada tarefa um responsável designado. O entrevistador foi escolhido com base nessa responsabilidade específica. O usuário selecionado para a entrevista está na faixa etária de 18 a 34 anos, demonstrando experiência significativa com tecnologia e uma frequência média de leitura, conforme detalhado no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md). Essa abordagem visa garantir que os participantes se alinhem adequadamente com as características necessárias para fornecer insights valiosos durante o processo de avaliação.
@@ -609,11 +689,11 @@ A seleção dos participantes foi realizada de forma criteriosa, atribuindo a ca
 
 Antes do início dos testes, os entrevistados receberam um roteiro que delineava as ações a serem realizadas no sistema. Estas incluíam acessar a área de Download, baixar uma mídia no formato desejado, completar o processo de Download e, em seguida, baixar outra mídia de escolha, com a instrução de cancelar o download antes da conclusão. Foi solicitado ao entrevistado que narrasse em voz alta as ações que estava executando.
 
-No Video 10 e nas Tabelas 23 e 24 é possível verificar os registros feitos durante a avaliação com o entrevistado Douglas Alves.
+No Video 11 e nas Tabelas 25 e 26 é possível verificar os registros feitos durante a avaliação com o entrevistado Douglas Alves.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 10: Gravação da avaliação "Acessar estatísticas"</p></font>
+<font size="2"><p style="text-align: center">Video 11: Gravação da avaliação "Acessar estatísticas"</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1IMxjk_fkiI?si=zSb3X_qQaewcJYEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -623,7 +703,7 @@ No Video 10 e nas Tabelas 23 e 24 é possível verificar os registros feitos dur
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 23: Perguntas propostas</p></font>
+<font size="2"><p style="text-align: center">Tabela 25: Perguntas propostas</p></font>
 
 |                                                Pergunta                                                 | Resposta |
 | :-----------------------------------------------------------------------------------------------------: | :------: |
@@ -638,7 +718,7 @@ No Video 10 e nas Tabelas 23 e 24 é possível verificar os registros feitos dur
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 24: Diretrizes</p></font>
+<font size="2"><p style="text-align: center">Tabela 26: Diretrizes</p></font>
 
 |                                         Pergunta                                          |            Resposta             |
 | :---------------------------------------------------------------------------------------: | :-----------------------------: |
@@ -652,11 +732,11 @@ No Video 10 e nas Tabelas 23 e 24 é possível verificar os registros feitos dur
 
 </center>
 
-No Video 11 e nas Tabelas 25 e 26 é possível verificar os registros feitos durante a avaliação com o entrevistado Rafael.
+No Video 12 e nas Tabelas 27 e 28 é possível verificar os registros feitos durante a avaliação com o entrevistado Rafael.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 11: Gravação da avaliação "Fazer Download"</p></font>
+<font size="2"><p style="text-align: center">Video 12: Gravação da avaliação "Fazer Download"</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TdGioBeRMBI?si=TT0j8qaGyj-eAuhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -666,7 +746,7 @@ No Video 11 e nas Tabelas 25 e 26 é possível verificar os registros feitos dur
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 25: Perguntas propostas</p></font>
+<font size="2"><p style="text-align: center">Tabela 27: Perguntas propostas</p></font>
 
 |                                                Pergunta                                                 |                                   Resposta                                    |
 | :-----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
@@ -681,7 +761,7 @@ No Video 11 e nas Tabelas 25 e 26 é possível verificar os registros feitos dur
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 26: Diretrizes</p></font>
+<font size="2"><p style="text-align: center">Tabela 28: Diretrizes</p></font>
 
 |                                         Pergunta                                          |                                                       Resposta                                                        |
 | :---------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
@@ -695,11 +775,11 @@ No Video 11 e nas Tabelas 25 e 26 é possível verificar os registros feitos dur
 
 </center>
 
-No Video 12 e nas Tabelas 27 e 28 é possível verificar os registros feitos durante a avaliação com o entrevistado Wanjo Christopher.
+No Video 13 e nas Tabelas 29 e 30 é possível verificar os registros feitos durante a avaliação com o entrevistado Wanjo Christopher.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 12: Gravação da avaliação "Fazer Download"</p></font>
+<font size="2"><p style="text-align: center">Video 13: Gravação da avaliação "Fazer Download"</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MbiWWb2K4Y4?si=D16R76pqyPCTtzvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -709,7 +789,7 @@ No Video 12 e nas Tabelas 27 e 28 é possível verificar os registros feitos dur
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 27: Perguntas propostas</p></font>
+<font size="2"><p style="text-align: center">Tabela 29: Perguntas propostas</p></font>
 
 |                                                Pergunta                                                 |                             Resposta                             |
 | :-----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------: |
@@ -724,7 +804,7 @@ No Video 12 e nas Tabelas 27 e 28 é possível verificar os registros feitos dur
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 28: Diretrizes</p></font>
+<font size="2"><p style="text-align: center">Tabela 30: Diretrizes</p></font>
 
 |                                         Pergunta                                          |                                                                                  Resposta                                                                                   |
 | :---------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -756,11 +836,11 @@ A finalidade da avaliação foi verificar a coerência da tarefa de "Receber Aju
 
 Conforme sugerido pelo [planejamento da avaliação](docs/design_avalaiacao_desenvolvimento/nivel3/prototipo_alta_fidelidade/planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
 
-A Tabela 29 exibe as datas da realização da avaliação.
+A Tabela 31 exibe as datas da realização da avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 29: Cronograma executado</p></font>
+<font size="2"><p style="text-align: center">Tabela 31: Cronograma executado</p></font>
 
 | Entrevistador                                                                               | Entrevistado    | Horário de Início | Horário de Fim | Data       | Local/Plataforma |
 | ------------------------------------------------------------------------------------------- | --------------- | ----------------- | -------------- | ---------- | ---------------- |
@@ -774,17 +854,17 @@ A Tabela 29 exibe as datas da realização da avaliação.
 
 ##### Protótipo de Alta Fidelidade
 
-Nas Figuras 1 e 2 é possível visualizar o protótipo de alta fidelidade utilizado para a avaliação da intervenção da tarefa "Receber ajuda".
+Nas Figuras 9 e 10 é possível visualizar o protótipo de alta fidelidade utilizado para a avaliação da intervenção da tarefa "Receber ajuda".
 
 <center>
 
-<font size="2"><p style="text-align: center">Figura 1: Protótipo de alta de "Receber ajuda"</p></font>
+<font size="2"><p style="text-align: center">Figura 9: Protótipo de alta de "Receber ajuda"</p></font>
 
 ![Protótipo de Alta](../../../assets/prototipo_de_alta/ajuda1.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
 
-<font size="2"><p style="text-align: center">Figura 2: Protótipo de alta de "Receber ajuda"</p></font>
+<font size="2"><p style="text-align: center">Figura 10: Protótipo de alta de "Receber ajuda"</p></font>
 
 ![Protótipo de Alta](../../../assets/prototipo_de_alta/ajuda2.png)
 
@@ -798,56 +878,13 @@ Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o
 
 ##### Registro da avaliação
 
-No Video 13 e Tabela 30 e 31 é possível verificar os registros feitos durante a avaliação.
-
-<center>
-
-<font size="2"><p style="text-align: center">Video 13: Gravação da avaliação</p></font>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GUjq8eWONsM?si=4camF3jCQw8JN1_R" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<font size="2"><p style="text-align: center">Fonte:[Luciano Ricardo](https://github.com/l-ricardo).</p></font>
-
-</center>
-
-<center>
-
-<font size="2"><p style="text-align: center">Tabela 30: Perguntas propostas</p></font>
-
-|                                                Pergunta                                                 | Resposta |
-| :-----------------------------------------------------------------------------------------------------: | :------: |
-|            Você acredita que as tarefas desenvolvidas foram de facil compreensão e execução?            |   Sim    |
-|                      Você encontrou alguma dificuldade na realização das tarefas?                       |   Não    |
-| Você acredita que os elementos na tela oferecem uma disposição satisfatória e um design compreensivel ? |   Sim    |
-|            Você encontrou algum erro ou omissão de elementos durante a execuação da tarefa?             |   Não    |
-
-<font size="2"><p style="text-align: center">Fonte:[Luciano Ricardo](https://github.com/l-ricardo).</p></font>
-
-</center>
-
-<center>
-
-<font size="2"><p style="text-align: center">Tabela 31: Diretrizes</p></font>
-
-|                                         Pergunta                                          |                         Resposta                          |
-| :---------------------------------------------------------------------------------------: | :-------------------------------------------------------: |
-|                           O usuário consegue operar o sistema ?                           |                            Sim                            |
-|      O usuário atinge todos os objetivos determinados? Com qual eficiencia e tempo ?      | Sim, consegue atingir todos com eficiencia e pouco tempo. |
-| O usuário entende as sequencias de ações que devem ser realizadas para realizar uma ação? |                            Sim                            |
-|                  O usuário encontrou barreiras para concluir as tarefas?                  |                            Não                            |
-|  Se encontradas, as barreiras foram determinates para o usuário não concluir as tarefas?  |              Não foram encontradas barreiras              |
-
-<font size="2"><p style="text-align: center">Fonte:[Luciano Ricardo](https://github.com/l-ricardo).</p></font>
-
-</center>
-
 No Video 14 e Tabela 32 e 33 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
 <font size="2"><p style="text-align: center">Video 14: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7NX_wAlCHEM?si=mjIMvCefeecLGOJn" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GUjq8eWONsM?si=4camF3jCQw8JN1_R" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte:[Luciano Ricardo](https://github.com/l-ricardo).</p></font>
 
@@ -875,7 +912,7 @@ No Video 14 e Tabela 32 e 33 é possível verificar os registros feitos durante 
 |                                         Pergunta                                          |                         Resposta                          |
 | :---------------------------------------------------------------------------------------: | :-------------------------------------------------------: |
 |                           O usuário consegue operar o sistema ?                           |                            Sim                            |
-|      O usuário atinge todos os objetivos determinados? Com qual eficiencia e tempo ?      | Sim, consegue atingir todos com eficiência e pouco tempo. |
+|      O usuário atinge todos os objetivos determinados? Com qual eficiencia e tempo ?      | Sim, consegue atingir todos com eficiencia e pouco tempo. |
 | O usuário entende as sequencias de ações que devem ser realizadas para realizar uma ação? |                            Sim                            |
 |                  O usuário encontrou barreiras para concluir as tarefas?                  |                            Não                            |
 |  Se encontradas, as barreiras foram determinates para o usuário não concluir as tarefas?  |              Não foram encontradas barreiras              |
@@ -890,7 +927,7 @@ No Video 15 e Tabela 34 e 35 é possível verificar os registros feitos durante 
 
 <font size="2"><p style="text-align: center">Video 15: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hL1L4gEe0eE?si=CMt0WMrI_-SDKGft" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7NX_wAlCHEM?si=mjIMvCefeecLGOJn" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte:[Luciano Ricardo](https://github.com/l-ricardo).</p></font>
 
@@ -927,6 +964,49 @@ No Video 15 e Tabela 34 e 35 é possível verificar os registros feitos durante 
 
 </center>
 
+No Video 16 e Tabela 36 e 37 é possível verificar os registros feitos durante a avaliação.
+
+<center>
+
+<font size="2"><p style="text-align: center">Video 16: Gravação da avaliação</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hL1L4gEe0eE?si=CMt0WMrI_-SDKGft" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte:[Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 36: Perguntas propostas</p></font>
+
+|                                                Pergunta                                                 | Resposta |
+| :-----------------------------------------------------------------------------------------------------: | :------: |
+|            Você acredita que as tarefas desenvolvidas foram de facil compreensão e execução?            |   Sim    |
+|                      Você encontrou alguma dificuldade na realização das tarefas?                       |   Não    |
+| Você acredita que os elementos na tela oferecem uma disposição satisfatória e um design compreensivel ? |   Sim    |
+|            Você encontrou algum erro ou omissão de elementos durante a execuação da tarefa?             |   Não    |
+
+<font size="2"><p style="text-align: center">Fonte:[Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 37: Diretrizes</p></font>
+
+|                                         Pergunta                                          |                         Resposta                          |
+| :---------------------------------------------------------------------------------------: | :-------------------------------------------------------: |
+|                           O usuário consegue operar o sistema ?                           |                            Sim                            |
+|      O usuário atinge todos os objetivos determinados? Com qual eficiencia e tempo ?      | Sim, consegue atingir todos com eficiência e pouco tempo. |
+| O usuário entende as sequencias de ações que devem ser realizadas para realizar uma ação? |                            Sim                            |
+|                  O usuário encontrou barreiras para concluir as tarefas?                  |                            Não                            |
+|  Se encontradas, as barreiras foram determinates para o usuário não concluir as tarefas?  |              Não foram encontradas barreiras              |
+
+<font size="2"><p style="text-align: center">Fonte:[Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+</center>
+
 ##### Listagem de problemas encontrados
 
 Após a entrevista e com todas as perguntas e diretrizes analisadas e respondidas, não foi encontrado nenhum problema com as três entrevistas realizadas para a tarefa, atingindo-se,logo, o resultado esperado.
@@ -945,11 +1025,11 @@ A finalidade da avaliação do Protótipo de Alta Fidelidade foi verificar a har
 
 Conforme sugerido no [planejamento da avaliação](docs/design_avalaiacao_desenvolvimento/nivel3/prototipo_alta_fidelidade/planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questionario em uma entrevista aplicada.
 
-A Tabela 21 exibe as datas da realização da avaliação.
+A Tabela 38 exibe as datas da realização da avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 21: Cronograma executado</p></font>
+<font size="2"><p style="text-align: center">Tabela 38: Cronograma executado</p></font>
 
 | Entrevistador                                                                               | Entrevistado    | Horário de Início | Horário de Fim | Data       | Local/Plataforma                                    |
 | ------------------------------------------------------------------------------------------- | --------------- | ----------------- | -------------- | ---------- | --------------------------------------------------- |
@@ -961,17 +1041,37 @@ A Tabela 21 exibe as datas da realização da avaliação.
 
 </center>
 
+##### Protótipo de Alta Fidelidade
+
+Nas Figuras 11 e 12 é possível visualizar o protótipo de alta fidelidade utilizado para a avaliação da intervenção da tarefa "Se tornar Colaborador".
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 11: Protótipo de alta de "Se tornar Colaborador"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/colab1.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+<font size="2"><p style="text-align: center">Figura 12: Protótipo de alta de "Se tornar Colaborador"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/colab2.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+</center>
+
 ##### Seleção dos participantes
 
 Os entrevistares foram agrupados com base em compatibilidade de horários. Já os entrevistados foram selecionados com base no perfil de usuário estabelecido no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md), de forma que todos possuem idade entre 18 e 34 anos, além de serem experientes com tecnologia (tecnófilos) e lerem com frequencia média.
 
 ##### Registro da avaliação
 
-No Video 10 e Tabela 15 e 16 é possível verificar os registros feitos durante a avaliação com o participante Pedro Cabeceira.
+No Video 17 e Tabela 39 e 40 é possível verificar os registros feitos durante a avaliação com o participante Pedro Cabeceira.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 10: Avaliação do Protótipo de Alta Fidelidade com participante Pedro Cabeceira</p></font>
+<font size="2"><p style="text-align: center">Video 17: Avaliação do Protótipo de Alta Fidelidade com participante Pedro Cabeceira</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GUjq8eWONsM?si=4camF3jCQw8JN1_R" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -981,7 +1081,7 @@ No Video 10 e Tabela 15 e 16 é possível verificar os registros feitos durante 
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 15: Perguntas propostas</p></font>
+<font size="2"><p style="text-align: center">Tabela 39: Perguntas propostas</p></font>
 
 |                                                Pergunta                                                 | Resposta |
 | :-----------------------------------------------------------------------------------------------------: | :------: |
@@ -996,7 +1096,7 @@ No Video 10 e Tabela 15 e 16 é possível verificar os registros feitos durante 
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 16: Diretrizes</p></font>
+<font size="2"><p style="text-align: center">Tabela 40: Diretrizes</p></font>
 
 |                                         Pergunta                                          |                                                  Resposta                                                   |
 | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
@@ -1010,11 +1110,11 @@ No Video 10 e Tabela 15 e 16 é possível verificar os registros feitos durante 
 
 </center>
 
-No Video 11 e Tabela 17 e 18 é possível verificar os registros feitos durante a avaliação.
+No Video 18 e Tabela 41 e 42 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 11: Avaliação do Protótipo de Alta Fidelidade com participante Luciano Freitas</p></font>
+<font size="2"><p style="text-align: center">Video 18: Avaliação do Protótipo de Alta Fidelidade com participante Luciano Freitas</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7NX_wAlCHEM?si=mjIMvCefeecLGOJn" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -1024,7 +1124,7 @@ No Video 11 e Tabela 17 e 18 é possível verificar os registros feitos durante 
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 17: Perguntas propostas</p></font>
+<font size="2"><p style="text-align: center">Tabela 41: Perguntas propostas</p></font>
 
 |                                                Pergunta                                                 |                                       Resposta                                       |
 | :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
@@ -1039,7 +1139,7 @@ No Video 11 e Tabela 17 e 18 é possível verificar os registros feitos durante 
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 18: Diretrizes</p></font>
+<font size="2"><p style="text-align: center">Tabela 42: Diretrizes</p></font>
 
 |                                         Pergunta                                          |              Resposta              |
 | :---------------------------------------------------------------------------------------: | :--------------------------------: |
@@ -1053,11 +1153,11 @@ No Video 11 e Tabela 17 e 18 é possível verificar os registros feitos durante 
 
 </center>
 
-No Video 9 e Tabela 19 e 20 é possível verificar os registros feitos durante a avaliação.
+No Video 19 e Tabela 43 e 44 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 12: Avaliação do Protótipo de Alta Fidelidade com participante Davi Rodrigues</p></font>
+<font size="2"><p style="text-align: center">Video 19: Avaliação do Protótipo de Alta Fidelidade com participante Davi Rodrigues</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hL1L4gEe0eE?si=CMt0WMrI_-SDKGft" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -1067,7 +1167,7 @@ No Video 9 e Tabela 19 e 20 é possível verificar os registros feitos durante a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 19: Perguntas propostas</p></font>
+<font size="2"><p style="text-align: center">Tabela 43: Perguntas propostas</p></font>
 
 |                                                Pergunta                                                 |                    Resposta                    |
 | :-----------------------------------------------------------------------------------------------------: | :--------------------------------------------: |
@@ -1082,7 +1182,7 @@ No Video 9 e Tabela 19 e 20 é possível verificar os registros feitos durante a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 20: Diretrizes</p></font>
+<font size="2"><p style="text-align: center">Tabela 44: Diretrizes</p></font>
 
 |                                         Pergunta                                          |                         Resposta                          |
 | :---------------------------------------------------------------------------------------: | :-------------------------------------------------------: |
@@ -1114,11 +1214,11 @@ A finalidade da avaliação foi verificar a coerência da tarefa de "Contatar Ad
 
 Conforme sugerido pelo [planejamento da avaliação](docs/design_avalaiacao_desenvolvimento/nivel3/prototipo_alta_fidelidade/planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
 
-A Tabela 14 exibe as datas da realização da avaliação.
+A Tabela 45 exibe as datas da realização da avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 14: Cronograma executado</p></font>
+<font size="2"><p style="text-align: center">Tabela 45: Cronograma executado</p></font>
 
 | Entrevistador                                   | Entrevistado   | Horário de Início | Horário de Fim | Data       | Local/Plataforma           |
 | ----------------------------------------------- | -------------- | ----------------- | -------------- | ---------- | -------------------------- |
@@ -1130,17 +1230,31 @@ A Tabela 14 exibe as datas da realização da avaliação.
 
 </center>
 
+##### Protótipo de Alta Fidelidade
+
+Na Figura 13 é possível visualizar o protótipo de alta fidelidade utilizado para a avaliação da intervenção da tarefa "Contatar Administradores".
+
+<center>
+
+<font size="2"><p style="text-align: center">Figura 13: Protótipo de alta de "Contatar Administradores"</p></font>
+
+![Protótipo de Alta](../../../assets/prototipo_de_alta/fale.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo).</p></font>
+
+</center>
+
 ##### Seleção dos participantes
 
 Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o entrevistador. O usuário entrevistado selecionado possui entre 18 e 34 anos; é experiente com tecnologia e lê com frequencia media, conforme estabelecido no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md).
 
 ##### Registro da avaliação
 
-No Video 7 e Tabela 15 e 16 é possível verificar os registros feitos durante a avaliação.
+No Video 20 e Tabela 46 e 47 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 7: Gravação da avaliação</p></font>
+<font size="2"><p style="text-align: center">Video 20: Gravação da avaliação</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IpjQvZF6E-w?si=KoTHL5bpmRXN9AIf" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -1150,7 +1264,7 @@ No Video 7 e Tabela 15 e 16 é possível verificar os registros feitos durante a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 15: Perguntas propostas</p></font>
+<font size="2"><p style="text-align: center">Tabela 46: Perguntas propostas</p></font>
 
 |                                                Pergunta                                                 | Resposta |
 | :-----------------------------------------------------------------------------------------------------: | :------: |
@@ -1165,7 +1279,7 @@ No Video 7 e Tabela 15 e 16 é possível verificar os registros feitos durante a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 16: Diretrizes</p></font>
+<font size="2"><p style="text-align: center">Tabela 47: Diretrizes</p></font>
 
 |                                         Pergunta                                          |            Resposta             |
 | :---------------------------------------------------------------------------------------: | :-----------------------------: |
@@ -1179,11 +1293,11 @@ No Video 7 e Tabela 15 e 16 é possível verificar os registros feitos durante a
 
 </center>
 
-No Video 8 e Tabela 17 e 18 é possível verificar os registros feitos durante a avaliação.
+No Video 21 e Tabela 48 e 49 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 8: Gravação da avaliação</p></font>
+<font size="2"><p style="text-align: center">Video 21: Gravação da avaliação</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uz3KX28TYNI?si=a8OZs95KeJqKxu0u" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -1193,7 +1307,7 @@ No Video 8 e Tabela 17 e 18 é possível verificar os registros feitos durante a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 17: Perguntas propostas</p></font>
+<font size="2"><p style="text-align: center">Tabela 48: Perguntas propostas</p></font>
 
 |                                                Pergunta                                                 | Resposta |
 | :-----------------------------------------------------------------------------------------------------: | :------: |
@@ -1208,7 +1322,7 @@ No Video 8 e Tabela 17 e 18 é possível verificar os registros feitos durante a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 18: Diretrizes</p></font>
+<font size="2"><p style="text-align: center">Tabela 49: Diretrizes</p></font>
 
 |                                         Pergunta                                          |            Resposta             |
 | :---------------------------------------------------------------------------------------: | :-----------------------------: |
@@ -1222,11 +1336,11 @@ No Video 8 e Tabela 17 e 18 é possível verificar os registros feitos durante a
 
 </center>
 
-No Video 9 e Tabela 19 e 20 é possível verificar os registros feitos durante a avaliação.
+No Video 22 e Tabela 50 e 51 é possível verificar os registros feitos durante a avaliação.
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 9: Gravação da avaliação</p></font>
+<font size="2"><p style="text-align: center">Video 22: Gravação da avaliação</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YhdQshihi8g?si=RCyRGG-ppSMWKsD-" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -1236,7 +1350,7 @@ No Video 9 e Tabela 19 e 20 é possível verificar os registros feitos durante a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 19: Perguntas propostas</p></font>
+<font size="2"><p style="text-align: center">Tabela 50: Perguntas propostas</p></font>
 
 |                                                Pergunta                                                 | Resposta |
 | :-----------------------------------------------------------------------------------------------------: | :------: |
@@ -1251,7 +1365,7 @@ No Video 9 e Tabela 19 e 20 é possível verificar os registros feitos durante a
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 20: Diretrizes</p></font>
+<font size="2"><p style="text-align: center">Tabela 51: Diretrizes</p></font>
 
 |                                         Pergunta                                          |            Resposta             |
 | :---------------------------------------------------------------------------------------: | :-----------------------------: |
