@@ -21,7 +21,7 @@ A finalidade da avaliação foi verificar a coerência da tarefa de "Pesquisar p
 
 ##### Método de avaliação
 
-Conforme sugerido pelo [planejamento da avaliação](docs/design_avalaiacao_desenvolvimento/nivel3/prototipo_alta_fidelidade/planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
+Conforme sugerido pelo [planejamento da avaliação](planejamento_avaliacao.md), o método de avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
 
 A Tabela 1 exibe as datas da realização da avaliação.
 
