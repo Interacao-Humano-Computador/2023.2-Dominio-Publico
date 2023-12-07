@@ -7,27 +7,27 @@ Este documento visa verificar se o artefato de [Storyboards](../../../../design_
 
 ## Checklist de Verificação
 
-Na tabela 1, estão listados os critérios que devem ser verificados nos Storyboards do Grupo 4.
+Na Tabela 1, estão listados os critérios que devem ser verificados nos Storyboards do Grupo 4.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do artefato "Storyboards" . </p></font>
 
-| ID  | Critério                                                                                                         | Avaliação |
-| --- | ---------------------------------------------------------------------------------------------------------------- | --------- |
-| 01  | O artefato conta com um registro padronizado de suas versões?                                                    | sim |
-| 02  | O artefato inclui uma seção de introdução?                                                                       | sim |
-| 03  | As referências bibliográficas e a bibliografia estão corretamente utilizadas no artefato, seguindo a norma ABNT? | sim |
+| ID  | Critério                                                                                                         | Avaliação  |
+| --- | ---------------------------------------------------------------------------------------------------------------- | ---------- |
+| 01  | O artefato conta com um registro padronizado de suas versões?                                                    | sim        |
+| 02  | O artefato inclui uma seção de introdução?                                                                       | sim        |
+| 03  | As referências bibliográficas e a bibliografia estão corretamente utilizadas no artefato, seguindo a norma ABNT? | sim        |
 | 04  | Todas as chamadas para tabelas e figuras estão incorporadas ao texto?                                            | incompleto |
-| 05  | Há uma consistência na apresentação de tabelas e figuras?                                                        | sim |
-| 06  | A estrutura do documento está claramente definida e se mantem consistente durante todo artefato?                 | sim |
-| 07  | Cada storyboard inclui um título no próprio papel ou no texto introdutório?                                      | sim |
-| 08  | Foi atribuída a autoria de cada storyboard a um membro específico do grupo?                                      | sim |
-| 03  | Existe um storyboard correspondente a cada tarefa apresentada pelo grupo?                                        | sim |
-| 09  | Cada storyboard incorpora atores em sua representação?                                                           | sim |
-| 10  | Cada storyboard contém cenários relevantes?                                                                      | sim |
-| 11  | A satisfação do usuário ao final da cena está representada em cada storyboard?                                   | sim |
-| 12  | Os storyboards incluem ações específicas do usuário?                                                             | sim |
-| 13  | Objetivos são claramente delineados em cada storyboard?                                                          | sim |
-| 14  | Os storyboards foram elaborados em formato físico, em papel?                                                     | sim |
+| 05  | Há uma consistência na apresentação de tabelas e figuras?                                                        | sim        |
+| 06  | A estrutura do documento está claramente definida e se mantem consistente durante todo artefato?                 | sim        |
+| 07  | Cada storyboard inclui um título no próprio papel ou no texto introdutório?                                      | sim        |
+| 08  | Foi atribuída a autoria de cada storyboard a um membro específico do grupo?                                      | sim        |
+| 03  | Existe um storyboard correspondente a cada tarefa apresentada pelo grupo?                                        | sim        |
+| 09  | Cada storyboard incorpora atores em sua representação?                                                           | sim        |
+| 10  | Cada storyboard contém cenários relevantes?                                                                      | sim        |
+| 11  | A satisfação do usuário ao final da cena está representada em cada storyboard?                                   | sim        |
+| 12  | Os storyboards incluem ações específicas do usuário?                                                             | sim        |
+| 13  | Objetivos são claramente delineados em cada storyboard?                                                          | sim        |
+| 14  | Os storyboards foram elaborados em formato físico, em papel?                                                     | sim        |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
 
@@ -54,7 +54,7 @@ Após a avaliação, realizou-se uma análise geral dos artefatos que receberam 
 
 ## Gravação da Verificação
 
-É possível ver a gravação da verificação do artefato "Storyboards" no vídeo 1.
+É possível ver a gravação da verificação do artefato "Storyboards" no Vídeo 1.
 
 <center>
 
@@ -77,8 +77,8 @@ Após a avaliação, realizou-se uma análise geral dos artefatos que receberam 
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                   | Autor(es)                                       | Revisor(es)                                    |
-| ------ | ---------- | --------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 03/12/2023 | Relato da inspeção          | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30)     |
-| 1.1    | 04/12/2023 | Incluindo Gráficos          | [Victor Hugo](https://github.com/ViictorHugoo)  | [Pedro Henrique](https://github.com/pedro-hsf) |
+| Versão | Data       | Descrição          | Autor(es)                                      | Revisor(es)                                    |
+| ------ | ---------- | ------------------ | ---------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 03/12/2023 | Relato da inspeção | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30)      |
+| 1.1    | 04/12/2023 | Incluindo Gráficos | [Victor Hugo](https://github.com/ViictorHugoo) | [Pedro Henrique](https://github.com/pedro-hsf) |
 

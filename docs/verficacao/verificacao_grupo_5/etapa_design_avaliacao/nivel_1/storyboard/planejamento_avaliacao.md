@@ -6,7 +6,7 @@ Este documento visa verificar se o artefato de [Planejamento da Avaliação dos 
 
 ## Verificações
 
-Na tabela 1, estão listados os critérios específicos para a avaliação do artefato de Planejamento da Avaliação dos Storyboards criado pelo grupo 5.
+Na Tabela 1, estão listados os critérios específicos para a avaliação do artefato de Planejamento da Avaliação dos Storyboards criado pelo grupo 5.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> Checklist do artefato "Planejamento da Avaliação dos Storyboards" </p></font>
 

@@ -8,7 +8,7 @@ O objetivo desse artefato é verificar a qualidade do [Aspectos Éticos](docs/an
 
 ## Metodologia
 
-A metodologia a ser utilizada será a Inspeção por meio do uso de Checklists, baseadas nas perguntas presentes no plano de ensino da matéria e nos padrões desejados para se haver num artefato desse tipo. A checklist criada pode ser visualizada na tabela 1:
+A metodologia a ser utilizada será a Inspeção por meio do uso de Checklists, baseadas nas perguntas presentes no plano de ensino da matéria e nos padrões desejados para se haver num artefato desse tipo. A checklist criada pode ser visualizada na Tabela 1:
 
 <center>
 
@@ -16,11 +16,11 @@ A metodologia a ser utilizada será a Inspeção por meio do uso de Checklists, 
 
 | ID  | Critério                                                                                                   | Resultado |
 | --- | ---------------------------------------------------------------------------------------------------------- | --------- |
-| 1   | Há um texto introdutório sobre o artefato?                                                                                |                                                                                         |
-| 2   | Há a referencia/bibliografia?                                                                                             |                                                                                         |
-| 3   | O artefato possui um histórico de versões padronizado?                                                                    |                                                                                         |
-| 4   | As imagens e tabelas são chamadas no texto?                                                                               |                                                                                         |
-| 5   | As imagens e tabelas possuem titulo e fonte?                                                                              |                                                                                         |
+| 1   | Há um texto introdutório sobre o artefato?                                                                 |           |
+| 2   | Há a referencia/bibliografia?                                                                              |           |
+| 3   | O artefato possui um histórico de versões padronizado?                                                     |           |
+| 4   | As imagens e tabelas são chamadas no texto?                                                                |           |
+| 5   | As imagens e tabelas possuem titulo e fonte?                                                               |           |
 | 6   | São citados os princípios da autonomia, da beneficência, da não maleficência e da justiça e equidade?      |           |
 | 7   | Existe um modelo de termo de consentimento livre e esclarecido que será disponibilizado aos participantes? |           |
 | 8   | É citado que os avaliadores irão solicitar a permissão para gravar a pessoa, antes de começar a gravação?  |           |
@@ -41,15 +41,15 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 
 | ID  | Critério                                                                                                   | Resultado |
 | --- | ---------------------------------------------------------------------------------------------------------- | --------- |
-| 1   | Há um texto introdutório sobre o artefato?                                                                                |  Sim                                                                                       |
-| 2   | Há a referencia/bibliografia?                                                                                             |        Sim                                                                                     |
-| 3   | O artefato possui um histórico de versões padronizado?                                                                    |          Sim                                                                                   |
-| 4   | As imagens e tabelas são chamadas no texto?                                                                               |  Sim                                                                                           |
-| 5   | As imagens e tabelas possuem titulo e fonte?                                                                              |     Sim                                                                                    |
-| 6   | São citados os princípios da autonomia, da beneficência, da não maleficência e da justiça e equidade?      | Sim              |
-| 7   | Existe um modelo de termo de consentimento livre e esclarecido que será disponibilizado aos participantes? |  Sim             |
-| 8   | É citado que os avaliadores irão solicitar a permissão para gravar a pessoa, antes de começar a gravação?  |Sim               |
-| 9   | No TCLE é explicado o objetivo da pesquisa e como ela será realizada aos participantes?                    |  Sim             |
+| 1   | Há um texto introdutório sobre o artefato?                                                                 | Sim       |
+| 2   | Há a referencia/bibliografia?                                                                              | Sim       |
+| 3   | O artefato possui um histórico de versões padronizado?                                                     | Sim       |
+| 4   | As imagens e tabelas são chamadas no texto?                                                                | Sim       |
+| 5   | As imagens e tabelas possuem titulo e fonte?                                                               | Sim       |
+| 6   | São citados os princípios da autonomia, da beneficência, da não maleficência e da justiça e equidade?      | Sim       |
+| 7   | Existe um modelo de termo de consentimento livre e esclarecido que será disponibilizado aos participantes? | Sim       |
+| 8   | É citado que os avaliadores irão solicitar a permissão para gravar a pessoa, antes de começar a gravação?  | Sim       |
+| 9   | No TCLE é explicado o objetivo da pesquisa e como ela será realizada aos participantes?                    | Sim       |
 
 
 <font size="2"><p style="text-align: center">Fonte:  [Harryson Martins](https://github.com/harry-cmartin)  </p></font>
@@ -98,6 +98,6 @@ Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gr�
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                        | Autor(es)                                                                                  | Revisor(es)                                    |
-| ------ | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
-| 1.0 | 02/21 | Construção e elaboração do documento  |[Gustavo França](https://github.com/gustavofbs)| [Harryson Martins](https://github.com/harry-cmartin) |
+| Versão | Data  | Descrição                            | Autor(es)                                       | Revisor(es)                                          |
+| ------ | ----- | ------------------------------------ | ----------------------------------------------- | ---------------------------------------------------- |
+| 1.0    | 02/21 | Construção e elaboração do documento | [Gustavo França](https://github.com/gustavofbs) | [Harryson Martins](https://github.com/harry-cmartin) |

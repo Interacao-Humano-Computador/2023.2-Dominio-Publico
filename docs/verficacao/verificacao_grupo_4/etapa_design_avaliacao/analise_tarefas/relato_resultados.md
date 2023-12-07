@@ -6,7 +6,7 @@ Este documento visa verificar se o artefato de [Relato dos Resultados - Análise
 
 ## Checklist de Verificação
 
-As perguntas do checklist específico foram elaboradas a partir dos capítulos 9, Planejamento da Avaliação de IHC, e 10, Métodos de Avaliação de IHC, do livro "Interação Humano-Computador" de Barbosa e Silva. Foram utilizados 2 checklists, um geral, utilizados em todos os artefatos verificados, e outro específico, utilizado somente neste artefato. Na tabela 1, estão listados os critérios que devem ser verificados no artefato Relato dos Resultados da Análise de Tarefas do Grupo 4.
+As perguntas do checklist específico foram elaboradas a partir dos capítulos 9, Planejamento da Avaliação de IHC, e 10, Métodos de Avaliação de IHC, do livro "Interação Humano-Computador" de Barbosa e Silva. Foram utilizados 2 checklists, um geral, utilizados em todos os artefatos verificados, e outro específico, utilizado somente neste artefato. Na Tabela 1, estão listados os critérios que devem ser verificados no artefato Relato dos Resultados da Análise de Tarefas do Grupo 4.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do artefato "Relato dos Resultados da Análise de Tarefas" . </p></font>
 
@@ -41,9 +41,9 @@ As perguntas do checklist específico foram elaboradas a partir dos capítulos 9
 Após a avaliação, foi feita uma análise geral sobre os artefatos que tiveram a sua avaliação como "não" ou "incompleto" para haja uma melhor descrição do respectivo ID.
 
 - **ID 02:** Foi definido como "Não" pois o artefato apresenta uma área separada para a introdução, porém ela não está preenchida.
-- **ID 05:** Foi definido como "Incompleto" pois o artefato apresenta apresenta título e fonte na maioria de suas tabelas e figuras, porém da figura 01 a 04 não há o título e a fonte, além de um erro de chamada na tabela 12, que se refere a outra tabela.
-- **ID 06:** Foi definido como "Não" pois o artefato não apresenta a seção "Seleção dos participantes" preenchida na tarefa Acessar ajuda; a seção ""Sugestões de melhorias" está duplicada nas tarefas: Acessar ajuda e Se tornar um colaborador, e a tarefa Avaliar Midia apresenta imagens referentes a página analisada pelo entrevistado, o que não ocorre para as outras tarefas.
-- **ID 07:** Foi definido como "Incompleto" pois o artefato não apresenta a seção "Planejamento do Reprojeto" preenchida para as tarefa Acessar ajuda, Se tornar um colaborador, Contatar administradores e Fazer download da mídia.
+- **ID 05:** Foi definido como "Incompleto" pois o artefato apresenta apresenta título e fonte na maioria de suas tabelas e figuras, porém das Figuras 01 a 04 não há o título e a fonte, além de um erro de chamada na Tabela 12, que se refere a outra tabela.
+- **ID 06:** Foi definido como "Não" pois o artefato não apresenta a seção "Seleção dos participantes" preenchida na tarefa Receber ajuda; a seção ""Sugestões de melhorias" está duplicada nas tarefas: Receber ajuda e Se tornar um colaborador, e a tarefa Avaliar Midia apresenta imagens referentes a página analisada pelo entrevistado, o que não ocorre para as outras tarefas.
+- **ID 07:** Foi definido como "Incompleto" pois o artefato não apresenta a seção "Planejamento do Reprojeto" preenchida para as tarefa Receber ajuda, Se tornar um colaborador, Contatar administradores e Fazer download da mídia.
 - **ID 12:** Foi definido como "Não" pois o artefato não apresenta a seção um teste piloto.
 - **ID 13:** Foi definido como "Não" pois o artefato não apresenta uma definição de teste piloto.
 - **ID 15:** Foi definido como "Incompleto" pois o artefato não apresenta ou lê o termo de consentimento durante a gravação da tarefa Se tornar colaborador.
@@ -62,7 +62,7 @@ Com base nessa análise, foi possível gerar o Gráfico 1, que apresenta de form
 
 ## Gravação de Verificação
 
-A gravação da verificação está presente no vídeo 1. É importante mencionar que durante a gravação desta verificação ocorreu um erro, de forma que a tela da avaliadora não foi transmitida. Apesar disso, a verificação não foi completamente comprometida, uma vez que a avaliadora mecionou em todos os elementos no momento que estavam sendo verificados.
+A gravação da verificação está presente no Vídeo 1. É importante mencionar que durante a gravação desta verificação ocorreu um erro, de forma que a tela da avaliadora não foi transmitida. Apesar disso, a verificação não foi completamente comprometida, uma vez que a avaliadora mecionou em todos os elementos no momento que estavam sendo verificados.
 
 <center>
 
@@ -74,7 +74,7 @@ A gravação da verificação está presente no vídeo 1. É importante menciona
 
 
 
-No vídeo 2 podemos conferir a avaliação junto dos autores do artefato.
+No Vídeo 2 podemos conferir a avaliação junto dos autores do artefato.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nsCF9ZhdS0Q?si=KA-iYj6_nvPRHk-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

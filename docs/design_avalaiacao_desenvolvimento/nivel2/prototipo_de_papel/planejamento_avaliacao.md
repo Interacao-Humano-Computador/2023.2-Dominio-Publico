@@ -10,7 +10,7 @@ Com isso, serão analisados critérios de qualidade na perspectiva do usuário, 
 
 ## Metodologia
 
-Para a realização do planejamento da avaliação, será utilizado o framework DECIDE, proposto por Sharp, Rogers e Preece [1], onde cada letra representa uma etapa a ser seguida. Como pode ser visto na figura 1:
+Para a realização do planejamento da avaliação, será utilizado o framework DECIDE, proposto por Sharp, Rogers e Preece [1], onde cada letra representa uma etapa a ser seguida. Como pode ser visto na Figura 1:
 
 <center>
 
@@ -132,7 +132,7 @@ Por fim, as informações adquiridas serão validadas novamente, e assim poderã
 
 ## Planejamento do Teste Piloto
 
-De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamento com o objetivo de validar e conferir se o mesmo produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve fazer o teste piloto como se estivesse fazendo uma simulação real. A tabela 3 contém as informações do teste piloto.
+De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamento com o objetivo de validar e conferir se o mesmo produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve fazer o teste piloto como se estivesse fazendo uma simulação real. A Tabela 3 contém as informações do teste piloto.
 
 <center>
 

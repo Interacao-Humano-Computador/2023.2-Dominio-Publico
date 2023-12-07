@@ -8,22 +8,22 @@ O objetivo desse artefato é verificar a qualidade do [Ferramentas](https://inte
 
 ## Metodologia
 
-A metodologia a ser utilizada será a Inspeção por meio do uso de Checklists, baseadas nas perguntas presentes no plano de ensino da matéria e nos padrões desejados para se haver num artefato desse tipo. A checklist criada pode ser visualizada na tabela 1:
+A metodologia a ser utilizada será a Inspeção por meio do uso de Checklists, baseadas nas perguntas presentes no plano de ensino da matéria e nos padrões desejados para se haver num artefato desse tipo. A checklist criada pode ser visualizada na Tabela 1:
 
 <center>
 
 <font size="2"><p style="text-align: center">Tabela 1: Verificação de Ferramentas</p></font>
 
-| ID | Critério | Resultados |
-|:--------:|:--------:|:--------:|
-|1|O artefato possui introdução?|          |  
-|2|O artefato possui histórico de versão atualizado?|          |  
-|3|Os textos estão em norma padrão e sem erros?|          |  
-|4|O artefato possui Bibliografia?|          |  
-|5|As ferramentas possuem descrição?|          |  
-|6|Na descrição é dito para que será usada a ferramenta?|          | 
-|7|Todas as ferramentas utilizadas no processo estão no artefato?|          | 
-|8|Há alguma ferramenta que não foi utilizada e não está sendo citada?|          | 
+|  ID   |                              Critério                               | Resultados |
+| :---: | :-----------------------------------------------------------------: | :--------: |
+|   1   |                    O artefato possui introdução?                    |            |
+|   2   |          O artefato possui histórico de versão atualizado?          |            |
+|   3   |            Os textos estão em norma padrão e sem erros?             |            |
+|   4   |                   O artefato possui Bibliografia?                   |            |
+|   5   |                  As ferramentas possuem descrição?                  |            |
+|   6   |        Na descrição é dito para que será usada a ferramenta?        |            |
+|   7   |   Todas as ferramentas utilizadas no processo estão no artefato?    |            |
+|   8   | Há alguma ferramenta que não foi utilizada e não está sendo citada? |            |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) </p></font>
 
@@ -37,16 +37,16 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 
 <font size="2"><p style="text-align: center">Tabela 2: Execução da verificação de Ferramentas</p></font>
 
-| ID | Critério | Resultados |
-|:--------:|:--------:|:--------:|
-|1|O artefato possui introdução?|     Sim     |  
-|2|O artefato possui histórico de versão atualizado?|    Sim      |  
-|3|Os textos estão em norma padrão e sem erros?|    Sim      |  
-|4|O artefato possui Bibliografia?|    Sim, mas é necessário padronizá-la      |  
-|5|As ferramentas possuem descrição?|    Sim      |  
-|6|Na descrição é dito para que será usada a ferramenta?|     Sim     | 
-|7|Todas as ferramentas utilizadas no processo estão no artefato?|    Sim      | 
-|8|Há alguma ferramenta que não foi utilizada e não está sendo citada?|    Sim      | 
+|  ID   |                              Critério                               |             Resultados             |
+| :---: | :-----------------------------------------------------------------: | :--------------------------------: |
+|   1   |                    O artefato possui introdução?                    |                Sim                 |
+|   2   |          O artefato possui histórico de versão atualizado?          |                Sim                 |
+|   3   |            Os textos estão em norma padrão e sem erros?             |                Sim                 |
+|   4   |                   O artefato possui Bibliografia?                   | Sim, mas é necessário padronizá-la |
+|   5   |                  As ferramentas possuem descrição?                  |                Sim                 |
+|   6   |        Na descrição é dito para que será usada a ferramenta?        |                Sim                 |
+|   7   |   Todas as ferramentas utilizadas no processo estão no artefato?    |                Sim                 |
+|   8   | Há alguma ferramenta que não foi utilizada e não está sendo citada? |                Sim                 |
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) </p></font>
 
@@ -64,6 +64,6 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 
 
 
-| Versão | Data       | Descrição                        | Autor(es)                                                                                  | Revisor(es)                                    |
-| ------ | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
-| 1.0 | 14/11 | Construção e elaboração do documento | [Gustavo França](https://github.com/gustavofbs) | [Maria Alice](https://github.com/Maliz30) |
+| Versão | Data  | Descrição                            | Autor(es)                                       | Revisor(es)                               |
+| ------ | ----- | ------------------------------------ | ----------------------------------------------- | ----------------------------------------- |
+| 1.0    | 14/11 | Construção e elaboração do documento | [Gustavo França](https://github.com/gustavofbs) | [Maria Alice](https://github.com/Maliz30) |

@@ -7,7 +7,7 @@ Este documento visa verificar se o artefato de [Planejamento do Relato dos Resul
 
 ## Checklist de Verificação
 
-Na tabela 1, estão listados os critérios que devem ser verificados no Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade do Grupo 4.
+Na Tabela 1, estão listados os critérios que devem ser verificados no Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade do Grupo 4.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do artefato "Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade" . </p></font>
 

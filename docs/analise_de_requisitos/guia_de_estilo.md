@@ -36,7 +36,7 @@ Este guia deve ser utilizado como uma referência para tomar decisões de design
 
 ##### Descrição do ambiente de trabalho do usuário
 
-O Domíminio Público é comumente acessado através de computadores (notebooks ou desktops). Por isso é necessário que, ao projetar a interface, sejam considerandas as especificidades dos dispositivos, como tamanho de tela, resolução, etc, de forma a garantir uma experiência de usuário satisfatória e eficiente para aqueles que acessem a plataforma por meio destes dispositivos. Isso engloba a adaptação do design para diferentes tipo e tamanhos de telas (responsividade), a definição apropriada de elementos visuais e a implementação de funcionalidades de fácil uso, aprendizado e acesso. Os elementos da interface podem ser encontrados na figura 1. Para melhorar a responsividade do site, é necessário adequar as telas às diferentes resoluções de dispositivos. Como se trata de um site antigo, ele provavelmente não foi desenvolvido pensando em dispositivos móveis nem em monitores mais recentes, o que pode resultar em uma visualização descentralizada em telas diferentes. Para resolver esse problema, pode-se implementar um padrão de tela mais atual.
+O Domíminio Público é comumente acessado através de computadores (notebooks ou desktops). Por isso é necessário que, ao projetar a interface, sejam considerandas as especificidades dos dispositivos, como tamanho de tela, resolução, etc, de forma a garantir uma experiência de usuário satisfatória e eficiente para aqueles que acessem a plataforma por meio destes dispositivos. Isso engloba a adaptação do design para diferentes tipo e tamanhos de telas (responsividade), a definição apropriada de elementos visuais e a implementação de funcionalidades de fácil uso, aprendizado e acesso. Os elementos da interface podem ser encontrados na Figura1. Para melhorar a responsividade do site, é necessário adequar as telas às diferentes resoluções de dispositivos. Como se trata de um site antigo, ele provavelmente não foi desenvolvido pensando em dispositivos móveis nem em monitores mais recentes, o que pode resultar em uma visualização descentralizada em telas diferentes. Para resolver esse problema, pode-se implementar um padrão de tela mais atual.
 
 ## Elementos de interface
 
@@ -101,10 +101,10 @@ A sequência de diálogos segue um padrão onde todos os botões são iguais e c
 
 ## Histórico de versões
 
-| Versão | Data     | Descrição                     | Autor(es)                                       | Revisor(es)                               |
-| ------ | -------- | ----------------------------- | ----------------------------------------------- | ----------------------------------------- |
-| 1.0    | 21/10/23 | Introdução do Guia de Estilos | [Luciano Ricardo](https://github.com/l-ricardo) | [Maria Alice](https://github.com/Maliz30) |
-| 1.1    | 21/10/23 | Resultados e Elementos iniciados | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30) |
-| 1.2 | 23/10/2023 | Elementos de interface e elementos de ação | [Maria Alice](https://github.com/Maliz30) e [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo) |
-| 1.3    | 06/12/23 | Correção do Artefato | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina) |
+| Versão | Data       | Descrição                                  | Autor(es)                                                                                  | Revisor(es)                                     |
+| ------ | ---------- | ------------------------------------------ | ------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| 1.0    | 21/10/23   | Introdução do Guia de Estilos              | [Luciano Ricardo](https://github.com/l-ricardo)                                            | [Maria Alice](https://github.com/Maliz30)       |
+| 1.1    | 21/10/23   | Resultados e Elementos iniciados           | [Victor Hugo](https://github.com/ViictorHugoo)                                             | [Maria Alice](https://github.com/Maliz30)       |
+| 1.2    | 23/10/2023 | Elementos de interface e elementos de ação | [Maria Alice](https://github.com/Maliz30) e [Victor Hugo](https://github.com/ViictorHugoo) | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.3    | 06/12/23   | Correção do Artefato                       | [Pedro Henrique](https://github.com/pedro-hsf)                                             | [Ana Catarina](https://github.com/an4catarina)  |
 

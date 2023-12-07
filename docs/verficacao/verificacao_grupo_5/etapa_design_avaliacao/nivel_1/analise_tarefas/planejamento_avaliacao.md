@@ -6,7 +6,7 @@ Este documento visa verificar se o artefato de [Planejamento da Avaliação de T
 
 ## Checklist
 
-Na tabela 1, estão listados os critérios que devem ser verificados no artefato Planejamento da Avaliação de Tarefas do Grupo 5.
+Na Tabela 1, estão listados os critérios que devem ser verificados no artefato Planejamento da Avaliação de Tarefas do Grupo 5.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do artefato "Planejamento da Avaliação de Tarefas" . </p></font>
 

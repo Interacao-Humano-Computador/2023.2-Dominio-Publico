@@ -137,11 +137,11 @@ Nesta etapa do Storyboard, nenhum problema foi identificado.
 
 O entrevistado observou que existem potenciais oportunidades para tornar a realização dos objetivos dos usuários mais eficiente. No entanto, dada a natureza relativamente simples da tarefa, ele também destacou que a seção de Downloads se apresenta de forma coerente e descomplicada.
 
-### Tarefa: Acessar ajuda
+### Tarefa: Receber ajuda
 
 ##### Objetivo e âmbito da avaliação
 
-A finalidade da avaliação foi verificar a concordância entre a Storyboard de "Acessar ajuda" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
+A finalidade da avaliação foi verificar a concordância entre a Storyboard de "Receber ajuda" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
 
 ##### Método de avaliação
 
@@ -173,7 +173,7 @@ No Video 3 e Tabela 6 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Video 3: Gravação da avaliação</p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JPVhzqFGwEE?si=DZVevHy79ykVTEj8" title="Storyboard Acessar Ajuda" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JPVhzqFGwEE?si=DZVevHy79ykVTEj8" title="Storyboard Receber ajuda" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
@@ -345,7 +345,7 @@ A avaliação tem como objetivo principal avaliar se o [Storyboard de Avaliar Mi
 
 ##### Método de avaliação
 
-Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação do Storyboard](./planejamento_avaliacao.md). Além disso foi utilizado um questionário para guiar a entrevista. A tabela 11 e 12 representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
+Durante a entrevista foi usado o método investigativo conforme descrito no [Planejamento da Avaliação do Storyboard](./planejamento_avaliacao.md). Além disso foi utilizado um questionário para guiar a entrevista. As Tabelas 11 e 12 representam, respectivamente, o cronograma de avaliação e as perguntas feitas durante a entrevista com suas respectivas respostas.
 
 <center>
 
@@ -488,7 +488,7 @@ A partir das sugestões coletadas, sugere-se que sejam incluídos ações contí
 
 Não há necessidade de reprojeto para essa tarefa.
 
-##### Tarefa: Acessar ajuda
+##### Tarefa: Receber ajuda
 
 A partir das sugestões coletadas, sugere-se que sejam feitas melhorias no dialogo do storyboard, de modo a torna-los mais legiveis.
 
@@ -516,14 +516,14 @@ Não há necessidade de reprojeto para essa tarefa.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                         | Autor(es)                                              | Revisor(es)                                            |
-| ------ | ---------- | --------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
-| 1.0    | 01/11/2021 | Criação do documento              | [Luciano Ricardo](https://github.com/l-ricardo)        | [Victor Hugo](https://github.com/ViictorHugoo)         |
-| 1.1    | 01/11/2021 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo)         | [Luciano Ricardo](https://github.com/l-ricardo)        |
-| 1.2    | 08/11/2021 | Relato Acessar Ajuda              | [Luciano Ricardo](https://github.com/l-ricardo)        | [Ana Catarina](https://github.com/an4catarina)         |
-| 1.3    | 08/11/2021 | Relato Download de Mídia          | [Pedro Henrique](https://github.com/pedro-hsf)         | [Ana Catatrina](https://github.com/an4catarina)        |
-| 1.4    | 08/11/2023 | Relato Contatar Admin             | [Gustavo França](https://github.com/gustavofbs)        | [Ana Catarina](https://github.com/an4catarina)         |
-| 1.5    | 08/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina](https://github.com/an4catarinna)        | [Pedro Henrique](https://github.com/pedro-hsf)         |
-| 1.6    | 08/11/2021 | Relato Avaliar Midia              | [Victor Hugo](https://github.com/ViictorHugoo)         | [Pedro Henrique](https://github.com/pedro-hsf)         |
-| 1.7    | 08/11/2021 | Relato Se tornar um colaborador   | [Maria Alice](https://github.com/Maliz30)              | [Ana Catarina](https://github.com/an4catarinna)        |
-| 1.8    | 05/12/2023 | Correções Verificação             | [Victor Hugo](https://github.com/ViictorHugoo)         | [Maria Alice](https://github.com/Maliz30)              |
+| Versão | Data       | Descrição                         | Autor(es)                                       | Revisor(es)                                     |
+| ------ | ---------- | --------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 01/11/2021 | Criação do documento              | [Luciano Ricardo](https://github.com/l-ricardo) | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.1    | 01/11/2021 | Relato Avaliar Midia (preliminar) | [Victor Hugo](https://github.com/ViictorHugoo)  | [Luciano Ricardo](https://github.com/l-ricardo) |
+| 1.2    | 08/11/2021 | Relato Receber ajuda              | [Luciano Ricardo](https://github.com/l-ricardo) | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.3    | 08/11/2021 | Relato Download de Mídia          | [Pedro Henrique](https://github.com/pedro-hsf)  | [Ana Catatrina](https://github.com/an4catarina) |
+| 1.4    | 08/11/2023 | Relato Contatar Admin             | [Gustavo França](https://github.com/gustavofbs) | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.5    | 08/11/2021 | Relato Acessar Estatísticas       | [Ana Catarina](https://github.com/an4catarinna) | [Pedro Henrique](https://github.com/pedro-hsf)  |
+| 1.6    | 08/11/2021 | Relato Avaliar Midia              | [Victor Hugo](https://github.com/ViictorHugoo)  | [Pedro Henrique](https://github.com/pedro-hsf)  |
+| 1.7    | 08/11/2021 | Relato Se tornar um colaborador   | [Maria Alice](https://github.com/Maliz30)       | [Ana Catarina](https://github.com/an4catarinna) |
+| 1.8    | 05/12/2023 | Correções Verificação             | [Victor Hugo](https://github.com/ViictorHugoo)  | [Maria Alice](https://github.com/Maliz30)       |

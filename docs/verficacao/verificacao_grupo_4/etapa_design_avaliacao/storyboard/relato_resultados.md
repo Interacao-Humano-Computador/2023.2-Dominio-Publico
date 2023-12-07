@@ -7,26 +7,26 @@ Este documento visa verificar se o artefato de [Relato dos resultados do Storybo
 
 ## Checklist de Verificação
 
-Na tabela 1, estão listados os critérios específicos para a avaliação do artefato de Relato dos resultados do Storyboard criado pelo Grupo 4.
+Na Tabela 1, estão listados os critérios específicos para a avaliação do artefato de Relato dos resultados do Storyboard criado pelo Grupo 4.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> Checklist do artefato "Relato dos resultados do Storyboard" </p></font>
 
-| ID  | Critério                                                                                                         | Avaliação |
-| --- | ---------------------------------------------------------------------------------------------------------------- | --------- |
+| ID  | Critério                                                                                                         | Avaliação  |
+| --- | ---------------------------------------------------------------------------------------------------------------- | ---------- |
 | 01  | O artefato conta com um registro padronizado de suas versões?                                                    | incompleto |
-| 02  | O artefato inclui uma seção de introdução?                                                                       | não |
-| 03  | As referências bibliográficas e a bibliografia estão corretamente utilizadas no artefato, seguindo a norma ABNT? | não |
+| 02  | O artefato inclui uma seção de introdução?                                                                       | não        |
+| 03  | As referências bibliográficas e a bibliografia estão corretamente utilizadas no artefato, seguindo a norma ABNT? | não        |
 | 04  | Todas as chamadas para tabelas e figuras estão incorporadas ao texto?                                            | incompleto |
-| 05  | Há uma consistência na apresentação de tabelas e figuras?                                                        | sim |
+| 05  | Há uma consistência na apresentação de tabelas e figuras?                                                        | sim        |
 | 06  | A estrutura do documento está claramente definida e se mantem consistente durante todo artefato?                 | incompleto |
-| 07  | Os objetivos do relato são apresentados?                                                                         | sim |
-| 08  | A metodologia do relato é apresentada?                                                                           | sim |
-| 09  | Os participantes estão documentados?                                                                             | sim |
-| 10  | Existe uma análise e interpretação dos dados?                                                                    | sim |
-| 11  | Os problemas encontrados estão listados?                                                                         | sim |
-| 12  | Existe sugestões e/ou planejamento de correção para os problemas?                                                | sim |
-| 13  | As entrevistas são gravadas?                                                                                     | sim |
-| 14  | As entrevistas duram no máximo 20 minutos?                                                                       | sim |
+| 07  | Os objetivos do relato são apresentados?                                                                         | sim        |
+| 08  | A metodologia do relato é apresentada?                                                                           | sim        |
+| 09  | Os participantes estão documentados?                                                                             | sim        |
+| 10  | Existe uma análise e interpretação dos dados?                                                                    | sim        |
+| 11  | Os problemas encontrados estão listados?                                                                         | sim        |
+| 12  | Existe sugestões e/ou planejamento de correção para os problemas?                                                | sim        |
+| 13  | As entrevistas são gravadas?                                                                                     | sim        |
+| 14  | As entrevistas duram no máximo 20 minutos?                                                                       | sim        |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
 
@@ -66,14 +66,14 @@ Após a avaliação, realizou-se uma análise geral dos artefatos que receberam 
     - Solução: Inclusão de numerção das tabelas e vídeos.
 - **ID 06:** Foi definido como "incompleto".
     - Problema: Repetição desnecessária de "Sugestões de Melhoria";
-    - Local: "Tarefa: Download de Midia" e "Tarefa: Acessar Ajuda";
+    - Local: "Tarefa: Download de Midia" e "Tarefa: Receber ajuda";
     - Gravidade: Problema pequeno;
     - Solução: Exclusão do texto em excesso.
 
 
 ## Gravação da Verificação
 
-É possível ver a gravação da verificação do artefato "Relato dos resultados do Storyboard" no vídeo 1 e a gravação da validação com os autores do artefato no vídeo 2.
+É possível ver a gravação da verificação do artefato "Relato dos resultados do Storyboard" no Vídeo 1 e a gravação da validação com os autores do artefato no Vídeo 2.
 
 <center>
 
@@ -103,8 +103,8 @@ Após a avaliação, realizou-se uma análise geral dos artefatos que receberam 
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                   | Autor(es)                                       | Revisor(es)                                    |
-| ------ | ---------- | --------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 03/12/2023 | Relato da inspeção          | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30)     |
-| 1.1    | 04/12/2023 | Incluindo Gráficos          | [Victor Hugo](https://github.com/ViictorHugoo)  | [Pedro Henrique](https://github.com/pedro-hsf) |
+| Versão | Data       | Descrição          | Autor(es)                                      | Revisor(es)                                    |
+| ------ | ---------- | ------------------ | ---------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 03/12/2023 | Relato da inspeção | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30)      |
+| 1.1    | 04/12/2023 | Incluindo Gráficos | [Victor Hugo](https://github.com/ViictorHugoo) | [Pedro Henrique](https://github.com/pedro-hsf) |
 

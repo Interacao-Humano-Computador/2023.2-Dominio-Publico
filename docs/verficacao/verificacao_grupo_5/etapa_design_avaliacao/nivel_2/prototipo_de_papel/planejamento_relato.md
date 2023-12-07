@@ -6,7 +6,7 @@ Este documento visa verificar se o artefato de [Planejamento do Relato dos Resul
 
 ## Checklist
 
-Na tabela 1, estão listados os critérios que devem ser verificados no Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papeldo Grupo 5.
+Na Tabela 1, estão listados os critérios que devem ser verificados no Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papeldo Grupo 5.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do artefato "Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel" . </p></font>
 

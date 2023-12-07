@@ -8,25 +8,25 @@ O objetivo desse artefato é verificar a qualidade do [Perfil de Usuário](docs/
 
 ## Metodologia
 
-A metodologia a ser utilizada será a Inspeção por meio do uso de Checklists, baseadas nas perguntas presentes no plano de ensino da matéria e nos padrões desejados para se haver num artefato desse tipo. A checklist criada pode ser visualizada na tabela 1:
+A metodologia a ser utilizada será a Inspeção por meio do uso de Checklists, baseadas nas perguntas presentes no plano de ensino da matéria e nos padrões desejados para se haver num artefato desse tipo. A checklist criada pode ser visualizada na Tabela 1:
 
 <center>
 
 <font size="2"><p style="text-align: center">Tabela 1: Verificação do perfil de usuário</p></font>
 
-| ID  | Critério                                                                                                                  | Resultado                                                                               |
-| --- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 1   | Há um texto introdutório sobre o artefato?                                                                                |                                                                                         |
-| 2   | Há a referencia/bibliografia?                                                                                             |                                                                                         |
-| 3   | O artefato possui um histórico de versões padronizado?                                                                    |                                                                                         |
-| 4   | As imagens e tabelas são chamadas no texto?                                                                               |                                                                                         |
-| 5   | As imagens e tabelas possuem titulo e fonte?                                                                              |                                                                                         |
-| 6   | O perfil de usuário foi definido com base em dados coletados por meio de algum estudo, como entrevistas ou questionários?                                                                                                                    |                                                                                         |
-| 7   | O percentual de usuários em cada faixa de características foi determinado?                                                |                                                                                         |
-| 8   | O perfil do usuário possui idade, sexo, status socioeconômico e grau de escolaridade definidos?                           |                                                                                         |
-| 9   | O perfil do usuário possui sua experiência com tecnologia definida?                                                       |                                                                                         |
-| 10  | O perfil do usuário é definido entre tecnófilos ou tecnófobos?                                                            |                                                                                         |
-| 11  | O perfil do usuário possui a experiência com o produto ou semelhantes definidos?                                          |                                                                                         |
+| ID  | Critério                                                                                                                  | Resultado |
+| --- | ------------------------------------------------------------------------------------------------------------------------- | --------- |
+| 1   | Há um texto introdutório sobre o artefato?                                                                                |           |
+| 2   | Há a referencia/bibliografia?                                                                                             |           |
+| 3   | O artefato possui um histórico de versões padronizado?                                                                    |           |
+| 4   | As imagens e tabelas são chamadas no texto?                                                                               |           |
+| 5   | As imagens e tabelas possuem titulo e fonte?                                                                              |           |
+| 6   | O perfil de usuário foi definido com base em dados coletados por meio de algum estudo, como entrevistas ou questionários? |           |
+| 7   | O percentual de usuários em cada faixa de características foi determinado?                                                |           |
+| 8   | O perfil do usuário possui idade, sexo, status socioeconômico e grau de escolaridade definidos?                           |           |
+| 9   | O perfil do usuário possui sua experiência com tecnologia definida?                                                       |           |
+| 10  | O perfil do usuário é definido entre tecnófilos ou tecnófobos?                                                            |           |
+| 11  | O perfil do usuário possui a experiência com o produto ou semelhantes definidos?                                          |           |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)  </p></font>
@@ -41,19 +41,19 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 
 <font size="2"><p style="text-align: center">Tabela 2: Execução da verificação do perfil de usuário</p></font>
 
-| ID  | Critério                                                                                                                  | Resultado                                                                               |
-| --- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 1   | Há um texto introdutório sobre o artefato?                                                                                |         Sim                                                                             |
-| 2   | Há a referencia/bibliografia?                                                                                             |         Sim                                                                             |
-| 3   | O artefato possui um histórico de versões padronizado?                                                                    |         Sim                                                                             |
-| 4   | As imagens e tabelas são chamadas no texto?                                                                               |         Sim                                                                             |
-| 5   | As imagens e tabelas possuem titulo e fonte?                                                                              |         Sim                                                                             |
-| 6   | O perfil de usuário foi definido com base em dados coletados por meio de algum estudo, como entrevistas ou questionários?                                                                                                                    |         Sim                                                                                |
-| 7   | O percentual de usuários em cada faixa de características foi determinado?                                                |         Sim                                                                                |
-| 8   | O perfil do usuário possui idade, sexo, status socioeconômico e grau de escolaridade definidos?                           |         Sim                                                                                |
-| 9   | O perfil do usuário possui sua experiência com tecnologia definida?                                                       |         Sim                                                                                |
-| 10  | O perfil do usuário é definido entre tecnófilos ou tecnófobos?                                                            |         Sim                                                                                |
-| 11  | O perfil do usuário possui a experiência com o produto ou semelhantes definidos?                                          |         Sim                                                                                |
+| ID  | Critério                                                                                                                  | Resultado |
+| --- | ------------------------------------------------------------------------------------------------------------------------- | --------- |
+| 1   | Há um texto introdutório sobre o artefato?                                                                                | Sim       |
+| 2   | Há a referencia/bibliografia?                                                                                             | Sim       |
+| 3   | O artefato possui um histórico de versões padronizado?                                                                    | Sim       |
+| 4   | As imagens e tabelas são chamadas no texto?                                                                               | Sim       |
+| 5   | As imagens e tabelas possuem titulo e fonte?                                                                              | Sim       |
+| 6   | O perfil de usuário foi definido com base em dados coletados por meio de algum estudo, como entrevistas ou questionários? | Sim       |
+| 7   | O percentual de usuários em cada faixa de características foi determinado?                                                | Sim       |
+| 8   | O perfil do usuário possui idade, sexo, status socioeconômico e grau de escolaridade definidos?                           | Sim       |
+| 9   | O perfil do usuário possui sua experiência com tecnologia definida?                                                       | Sim       |
+| 10  | O perfil do usuário é definido entre tecnófilos ou tecnófobos?                                                            | Sim       |
+| 11  | O perfil do usuário possui a experiência com o produto ou semelhantes definidos?                                          | Sim       |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)  </p></font>
@@ -101,6 +101,6 @@ Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gr�
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                        | Autor(es)                                                                                  | Revisor(es)                                    |
-| ------ | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
-| 1.0 | 02/21 | Construção e elaboração do documento  |[Gustavo França](https://github.com/gustavofbs)| [Harryson Martins](https://github.com/harry-cmartin) |
+| Versão | Data  | Descrição                            | Autor(es)                                       | Revisor(es)                                          |
+| ------ | ----- | ------------------------------------ | ----------------------------------------------- | ---------------------------------------------------- |
+| 1.0    | 02/21 | Construção e elaboração do documento | [Gustavo França](https://github.com/gustavofbs) | [Harryson Martins](https://github.com/harry-cmartin) |
