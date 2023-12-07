@@ -542,6 +542,16 @@ A Tabela 15 exibe as datas da realização da avaliação.
 
 Os usuários entrevistados possuem entre 18 e 34 anos; é experiente com tecnologia (tecnófilo); e lê com frequencia media, conforme estabelecido no [Perfil de Usuário](../../../analise_de_requisitos/perfil_de_usuario.md).
 
+##### Protótipo de papel
+
+Na Figura 6 é possível visualizar o protótipo de papel utilizado para a avaliação da intervenção da tarefa "Contatar Administradores"
+
+<font size="2"><p style="text-align: center">Figura 6: Protótipo de papel de "Contatar Administradores"</p></font>
+
+![Protótipo de Papel](../../../assets/prototipo_de_papel/contAdmin.jpeg)
+
+<font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
+
 ##### Registro da avaliação
 
 No Video 12 e Tabela 16 é possível verificar os registros feitos durante a avaliação.
