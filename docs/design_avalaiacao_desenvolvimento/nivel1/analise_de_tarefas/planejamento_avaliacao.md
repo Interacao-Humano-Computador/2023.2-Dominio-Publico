@@ -6,7 +6,7 @@ Para realizar uma entrega de qualidade, é necessário avaliar se o produto resu
 
 ## Metodologia
 
-Para a realização do planejamento da avaliação, utilizaremos o framework DECIDE, proposto por Sharp, Rogers e Preece, onde cada letra é uma etapa a ser seguida. Como pode ser visto na figura 1:
+Para a realização do planejamento da avaliação, utilizaremos o framework DECIDE, proposto por Sharp, Rogers e Preece, onde cada letra é uma etapa a ser seguida. Como pode ser visto na Figura 1:
 
 <center>
 
@@ -75,7 +75,7 @@ A Tabela 1 apresenta o roteiro de perguntas, que tem como base a "Tabela 11.1: E
 |   18   | As estatísticas do site são claras, completas e úteis? Por que?                         | Resposta discursiva                                                                                                                                                                                                                                        |
 |   19   | O processo de contatar os administradores é fácil e rápido?                             | Resposta discursiva                                                                                                                                                                                                                                        |
 |   20   | Quais são as suas sugestões para melhorar esse contato com os administradores?          | Resposta discursiva                                                                                                                                                                                                                                        |
-|   21   | Qual é o seu nível de satisfação com o domínio público?                                 | - Alto. Gosto de como está e não desejo que sejam feitas alterações; <br> - Médio. Gosto do formato do site, mas gostaria que fossem feitas algumas alterações; <br> - Baixo. Não gosto do formato do site e gostaria que fossem feitas muitas alterações. |                                                                                                                                                                                                                                    |
+|   21   | Qual é o seu nível de satisfação com o domínio público?                                 | - Alto. Gosto de como está e não desejo que sejam feitas alterações; <br> - Médio. Gosto do formato do site, mas gostaria que fossem feitas algumas alterações; <br> - Baixo. Não gosto do formato do site e gostaria que fossem feitas muitas alterações. |  |
 |   22   | Você tem alguma outra fonte legal para acessar conteúdo gratuito ou de domínio público? | Resposta discursiva                                                                                                                                                                                                                                        |
 |   23   | Você tem alguma outra sugestão ou melhoria para o site do Domínio Público?              | Resposta discursiva                                                                                                                                                                                                                                        |
  
@@ -113,7 +113,7 @@ Como definido anteriormente a entrevista seá realizada por meio de ferramentas 
 
 ### Prazos
 
-O cronograma das entrevistas com os usuários estão documentadas na tabela 2 com os seguintes tópicos:
+O cronograma das entrevistas com os usuários estão documentadas na Tabela 2 com os seguintes tópicos:
 
 - Entrevistador;
 - Entrevistado;
@@ -170,7 +170,7 @@ Por fim, as informações adquiridas serão validadas novamente, e assim poderã
 
 ## Planejamento do Teste Piloto
 
-De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamento com o objetivo de validar e conferir se o mesmo produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve fazer o teste piloto como se estivesse fazendo uma simulação real. A tabela 3 contém as informações do teste piloto.
+De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamento com o objetivo de validar e conferir se o mesmo produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve fazer o teste piloto como se estivesse fazendo uma simulação real. A Tabela 3 contém as informações do teste piloto.
 
 <center>
 
@@ -184,7 +184,7 @@ De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamen
 
 </center>
 
-No vídeo 1, pode-se conferir a gravação do teste piloto realizado.
+No Vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 
 <center>
 

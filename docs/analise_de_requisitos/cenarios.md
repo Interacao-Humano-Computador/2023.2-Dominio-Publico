@@ -3,7 +3,7 @@
 
 
 ## Introdução
-Os cenários são basicamente histórias sobre pessoas realizando uma atividade. Como forma de elaborar cenários mais completos, utilizamos a técnica do **questionamento sistemático**. Nessa técnica, segmentamos os cenários em proposições e investigamos cada uma delas, a partir de um conjunto de perguntas, que as respostam geram mais proposições. Repetimos esse ciclo até que tudo esteja completo. As perguntas sugeridas são: Por quê? Como? O que é? X pode ser feito da forma y? X faz parte de y? Conforme podemos ver nas figuras 1 e 2.
+Os cenários são basicamente histórias sobre pessoas realizando uma atividade. Como forma de elaborar cenários mais completos, utilizamos a técnica do **questionamento sistemático**. Nessa técnica, segmentamos os cenários em proposições e investigamos cada uma delas, a partir de um conjunto de perguntas, que as respostam geram mais proposições. Repetimos esse ciclo até que tudo esteja completo. As perguntas sugeridas são: Por quê? Como? O que é? X pode ser feito da forma y? X faz parte de y? Conforme podemos ver nas Figuras 1 e 2.
 
 ### Questões exploratórias
 
@@ -40,7 +40,7 @@ Maria, é uma estudante universitária apaixonada por literatura clássica. Mari
 
 Carlos é um cinéfilo e estudante de cinema. Carlos está em seu quarto, rodeado de pôsteres de filmes clássicos e equipamentos de filmagem. Ele está utilizando seu laptop para realizar pesquisas e projetos relacionados ao cinema, ele se lembra que durante uma aula de história do cinema, o professor menciona a importância de um filme específico dos anos 1950 para entender a evolução da linguagem cinematográfica. Carlos acessa o site do Domínio Público em busca do filme mencionado utilizando filtros de pesquisa para encontrar a obra desejada e, ao identificá-la, clica no botão de download. Durante o download, Carlos aproveita para explorar outras obras disponíveis no site, ampliando sua coleção de filmes clássicos para futuras análises. O filme é baixado com sucesso, e Carlos encontra-se agora com uma cópia digitalizada rica em qualidade. Ele abre o arquivo, verifica a integridade da obra, sorri e fica feliz ao perceber que terá acesso a uma versão restaurada do filme para aprofundar sua pesquisa acadêmica, trazendo-lhe uma sensação de realização.
 
-### Acessar ajuda
+### Receber ajuda
 
 Carlos é um professor de história empenhado em encontrar materiais educativos no Domínio Público para sua nova unidade de ensino. Carlos está em seu escritório, rodeado por estantes de livros e papéis utilizando um computador para buscar recursos no Domínio Público. Carlos, ao explorar o site, encontra-se perdido em relação a certos recursos avançados do Domínio Público e percebe a necessidade de ajuda. Com o objetivo de obter orientação e suporte para maximizar a eficiência na busca por materiais educativos no Domínio Público ele localiza a opção “Ajuda" no site e, ao clicar, é redirecionado para uma seção abrangente que oferece ajuda de acesso e suporte. Carlos encontra respostas para algumas de suas dúvidas, expressa alívio e gratidão pela assistência recebida, reconhecendo a eficiência do suporte do Domínio Público.
 
@@ -68,7 +68,7 @@ Lucas conclui uma obra recém obtida no Domínio Público, e com afinco de propo
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição            | Autor(es)                                 | Revisor(es)                                    |
-| ------ | ---------- | -------------------- | ----------------------------------------- | ---------------------------------------------- |
-| 1.0    | 15/10/2023 | Criação dos cenários | [Maria Alice](https://github.com/Maliz30) | [Ana Catarina](https://github.com/an4catarina) |
-| 1.1    | 04/12/2023 | Correção de erros    |[Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)| [Maria Alice](https://github.com/Maliz30)|
+| Versão | Data       | Descrição            | Autor(es)                                                                                              | Revisor(es)                                    |
+| ------ | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------- |
+| 1.0    | 15/10/2023 | Criação dos cenários | [Maria Alice](https://github.com/Maliz30)                                                              | [Ana Catarina](https://github.com/an4catarina) |
+| 1.1    | 04/12/2023 | Correção de erros    | [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | [Maria Alice](https://github.com/Maliz30)      |

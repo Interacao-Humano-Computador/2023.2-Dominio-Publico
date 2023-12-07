@@ -2,10 +2,10 @@
 
 ## Introdução
 
-Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela avaliação do protótipo de alta fidelidade. Com isso, serão abordados os tópicos referidos no Planejamento do Relato dos Resultados do Protótipo de alta fidelidade.
-Durante essa etapa, o grupo desenvolveu o protótipo de papel, o qual pode ser verificado na figura 1.
+Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela avaliação do Protótipo de alta fidelidade. Com isso, serão abordados os tópicos referidos no Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade.
+Durante essa etapa, o grupo desenvolveu o Protótipo de Alta Fidelidade, o qual pode ser verificado na Figura 1.
 
-<font size="2"><p style="text-align: center">Figura 1: Protótipo de papel </p></font>
+<font size="2"><p style="text-align: center">Figura 1: Protótipo de Alta Fidelidade </p></font>
 
 <center>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fmt0jyg74Q5BxVJ21fXN5Ey%2FDom%25C3%25ADnio-P%25C3%25BAblico%3Ftype%3Ddesign%26node-id%3D371-5%26t%3DdVmk021WcMpbl7mx-1%26scaling%3Dmin-zoom%26page-id%3D358%253A2%26starting-point-node-id%3D371%253A5%26show-proto-sidebar%3D1%26mode%3Ddesign" allowfullscreen></iframe>
@@ -939,7 +939,7 @@ Os participantes não forneceram propostas de melhoria para o protótipo.
 
 ##### Objetivo e âmbito da avaliação
 
-A finalidade da avaliação do protótipo de papel foi verificar a harmonia entre o "Se tornar colaborador" e o fluxo de interações dos usuários no Domínio Público. Simultaneamente, buscamos identificar oportunidades de aprimoramento para oferecer suporte mais eficiente e satisfatório aos usuários.
+A finalidade da avaliação do Protótipo de Alta Fidelidade foi verificar a harmonia entre o "Se tornar colaborador" e o fluxo de interações dos usuários no Domínio Público. Simultaneamente, buscamos identificar oportunidades de aprimoramento para oferecer suporte mais eficiente e satisfatório aos usuários.
 
 ##### Método de avaliação
 
@@ -971,7 +971,7 @@ No Video 10 e Tabela 15 e 16 é possível verificar os registros feitos durante 
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 10: Avaliação do protótipo de papel com participante Pedro Cabeceira</p></font>
+<font size="2"><p style="text-align: center">Video 10: Avaliação do Protótipo de Alta Fidelidade com participante Pedro Cabeceira</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GUjq8eWONsM?si=4camF3jCQw8JN1_R" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -1014,7 +1014,7 @@ No Video 11 e Tabela 17 e 18 é possível verificar os registros feitos durante 
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 11: Avaliação do protótipo de papel com participante Luciano Freitas</p></font>
+<font size="2"><p style="text-align: center">Video 11: Avaliação do Protótipo de Alta Fidelidade com participante Luciano Freitas</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7NX_wAlCHEM?si=mjIMvCefeecLGOJn" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -1057,7 +1057,7 @@ No Video 9 e Tabela 19 e 20 é possível verificar os registros feitos durante a
 
 <center>
 
-<font size="2"><p style="text-align: center">Video 12: Avaliação do protótipo de papel com participante Davi Rodrigues</p></font>
+<font size="2"><p style="text-align: center">Video 12: Avaliação do Protótipo de Alta Fidelidade com participante Davi Rodrigues</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hL1L4gEe0eE?si=CMt0WMrI_-SDKGft" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -1284,3 +1284,4 @@ Os participantes não forneceram propostas de melhoria para o protótipo.
 | 1.4    | 29/11/2021 | Relato se Tornar Colaborador  | [Maria Alice](https://github.com/Maliz30)            | [Luciano Ricardo](https://github.com/l-ricardo)      |
 | 1.5    | 29/11/2021 | Relato Pesquisar mídia        | [Harryson Martins](https://github.com/harry-cmartin) | [Luciano Ricardo](https://github.com/l-ricardo)      |
 | 1.6    | 29/11/2021 | Relato Contatar Administrador | [Gustavo França](https://github.com/gustavofbs)      | [Harryson Martins](https://github.com/harry-cmartin) |
+| 1.7    | 06/12/2023 | Correções                     | [Luciano Ricardo](https://github.com/l-ricardo)      | [Gustavo França](https://github.com/gustavofbs)      |

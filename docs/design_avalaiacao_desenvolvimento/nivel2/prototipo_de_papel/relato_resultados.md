@@ -3,7 +3,7 @@
 ## Introdução
 
 Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela avaliação do protótipo de papel. Com isso, serão abordados os tópicos referidos no Planejamento do Relato dos Resultados do Protótipo de Papel.
-Durante essa etapa, o grupo desenvolveu o protótipo de papel, o qual pode ser verificado na imagem 1.
+Durante essa etapa, o grupo desenvolveu o protótipo de papel, o qual pode ser verificado na Figura 1.
 
 <center>
 
@@ -138,7 +138,7 @@ Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o
 
 ##### Protótipo de papel
 
-Na figura 2 é possível visualizar o protótipo de papel utilizado para a avaliação da intervenção da tarefa "Fazer download da mídia".
+Na Figura 2 é possível visualizar o protótipo de papel utilizado para a avaliação da intervenção da tarefa "Fazer download da mídia".
 
 <font size="2"><p style="text-align: center">Figura 2: Protótipo de papel de "Fazer download da mídia"</p></font>
 
@@ -214,7 +214,7 @@ Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o
 
 ##### Protótipo de papel
 
-Na figura 3 é possível visualizar o protótipo de papel utilizado para a avaliação da intervenção da tarefa "Acessar estatísticas"
+Na Figura 3 é possível visualizar o protótipo de papel utilizado para a avaliação da intervenção da tarefa "Acessar estatísticas"
 
 <font size="2"><p style="text-align: center">Figura 3: Protótipo de papel de "Acessar estatísticas"</p></font>
 
@@ -260,7 +260,7 @@ O usuário não encontrou dificuldades ao utilizar a funcionalidade de acessar e
 
 O usuário não apenas teve uma experiência livre de problemas ao utilizar a funcionalidade de acessar estatísticas, mas também não apresentou quaisquer sugestões para aprimoramentos. Isso reflete positivamente na eficiência e na qualidade percebida dessa funcionalidade.
 
-### Tarefas: Acessar ajuda
+### Tarefas: Receber ajuda
 
 ##### Objetivo e âmbito da avaliação
 
@@ -362,7 +362,7 @@ Os entrevistares foram agrupados com base em compatibilidade de horários. Já o
 
 ##### Protótipo de papel
 
-Na figura 4 é possível visualizar o protótipo de papel utilizado para a avaliação da intervenção da tarefa "Se tornar colaborador".
+Na Figura 4 é possível visualizar o protótipo de papel utilizado para a avaliação da intervenção da tarefa "Se tornar colaborador".
 
 <font size="2"><p style="text-align: center">Figura 4: Protótipo de papel de "Se tornar colaborador"</p></font>
 
@@ -461,7 +461,7 @@ Cada tarefa possui seu respectivo reponsável e com base nisso foi selecionado o
 
 ##### Protótipo de papel
 
-Na figura 5 é possível visualizar o protótipo de papel utilizado para a avaliação da intervenção da tarefa "avaliar midia".
+Na Figura 5 é possível visualizar o protótipo de papel utilizado para a avaliação da intervenção da tarefa "avaliar midia".
 
 <font size="2"><p style="text-align: center">Figura 5: Protótipo de papel de "avaliar midia"</p></font>
 

@@ -62,42 +62,46 @@ Nessa tarefa o usuário tem por objetivo fazer o dowload da mídia por ele pesqu
 
 <font size="2"><p style="text-align: center">Tabela 2: Tabela da representação HTA da tarefa "Fazer download da mídia" </p></font>
 
-| Objetivos / Operações                                 | Relações | Problemas e Recomendações                                                                                     |
-| ----------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------- |
-| 0. Baixar uma mídia                                   | 1 / 2    | feedback: O usuário deve conseguir concluir o processo de Download  <br> plano: usuário deve ser capaz de baixar e acessar o arquivo         |
-| 1. Entrar na página da mídia selecionada                                                     |1 + 2| feedback: O usuário deverá ter acesso a página da mídia selecionada  <br> plano: O usuário deve conseguir ver todos os dados da determinada mídia para conseguir prosseguir para o Download.
-| 1.1 Clicar na mídia desejada                          |          | feedback: usuário é redirecionado a tela da mídia clicada                                                     |
-| 1.2 Entrar na página da mídia selecionada |          | feedback: é mostrado as características da mídia                                                              |
-| 1.3 Clicar em baixar                           |          | feedback: é mostrado o arquivo baixado|
-| 2. Pesquisar nos campos de texto                | 1 + 2    | input: nomes das mídias desejadas <br> plano: usuário deve preencher os campos, pesquisar e ser correspondido |
-| 2.1 Preencher campo de pesquisa desejado              |          | plano: usuário deve preencher os campos, pesquisar e encontrar a mídia                                        |
-| 2.2 Pesquisar                                    |          |                                                                                                               |
-| 2.3 Selecionar a mídia                                |          |                                                                                                               |
-| 2.4 Clicar em baixar                            |          | feedback: é mostrado os arquivos baixado                                                             |
+| Objetivos / Operações                     | Relações | Problemas e Recomendações                                                                                                                                                                    |
+| ----------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0. Baixar uma mídia                       | 1 / 2    | feedback: O usuário deve conseguir concluir o processo de Download  <br> plano: usuário deve ser capaz de baixar e acessar o arquivo                                                         |
+| 1. Entrar na página da mídia selecionada  | 1 + 2    | feedback: O usuário deverá ter acesso a página da mídia selecionada  <br> plano: O usuário deve conseguir ver todos os dados da determinada mídia para conseguir prosseguir para o Download. |
+| 1.1 Clicar na mídia desejada              |          | feedback: usuário é redirecionado a tela da mídia clicada                                                                                                                                    |
+| 1.2 Entrar na página da mídia selecionada |          | feedback: é mostrado as características da mídia                                                                                                                                             |
+| 1.3 Clicar em baixar                      |          | feedback: é mostrado o arquivo baixado                                                                                                                                                       |
+| 2. Pesquisar nos campos de texto          | 1 + 2    | input: nomes das mídias desejadas <br> plano: usuário deve preencher os campos, pesquisar e ser correspondido                                                                                |
+| 2.1 Preencher campo de pesquisa desejado  |          | plano: usuário deve preencher os campos, pesquisar e encontrar a mídia                                                                                                                       |
+| 2.2 Pesquisar                             |          |                                                                                                                                                                                              |
+| 2.3 Selecionar a mídia                    |          |                                                                                                                                                                                              |
+| 2.4 Clicar em baixar                      |          | feedback: é mostrado os arquivos baixado                                                                                                                                                     |
 
 <font size="2"><p style="text-align: center">Fonte: [Pedro Henrique](https://github.com/pedro-hsf), 2023</p></font>
 
 
 
-### Acessar ajuda
+### Receber ajuda
 
 Nessa tarefa o usuário tem por objetivo acessar a parte de ajuda ao usuário desenvolvida pelo site. No planejamento do site avaliado, essa tarefa está relacionado a heurística "Visibilidade do status do sistema". A Figura 4 apresenta seu diagrama HTA e a Tabela 3 suas especificações:
 
-<font size="2"><p style="text-align: center">Figura 4: Diagrama da representação HTA da tarefa "Acessar ajuda" </p></font>
+<font size="2"><p style="text-align: center">Figura 4: Diagrama da representação HTA da tarefa "Receber ajuda" </p></font>
 
-![Acessa ajuda](../../assets/analise_de_requisitos/HTAAcessarAjuda.png)
+![Acessa ajuda](../../assets/analise_de_requisitos/HTAReceberAjuda.png)
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo), 2023</p></font>
 
-<font size="2"><p style="text-align: center">Tabela 3: Diagrama da representação HTA da tarefa "Acessar ajuda" </p></font>
+<font size="2"><p style="text-align: center">Tabela 3: Diagrama da representação HTA da tarefa "Receber ajuda" </p></font>
 
-| Objetivos / Operações                   | Relações | Problemas e Recomendações                                                                                                                 |
-| --------------------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 0. Acessar página de ajuda              | 1 / 2    |                                                                                                                                           |
-| 1. Selecionar "ajuda" na tela principal | 1 > 2    | feedback: o usuário é redirecionado a página correspondente <br> plano: o usúario deve acessar a página e encontrar a ajuda que necessita |
-| 2. Selecionar a opção de ajuda desejada |          | feedback: é mostrado as opções relacionadas a seleção do usuário                                                                          |
+| Objetivos / Operações                                                      | Relações    | Problemas e Recomendações                                                                                                                 |
+| -------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 0. Receber ajuda                                                           |             |                                                                                                                                           |
+| 1. Clicar em "Ajuda" na barra de navegação                                 | 1.1/1.2     | feedback: o usuário é redirecionado a página correspondente <br> plano: o usúario deve acessar a página e encontrar a ajuda que necessita |
+| 1.1. Visualizar listagem de problemas comuns                               |             |                                                                                                                                           |
+| 1.1.1. Visualizar passo a passo da solução do problema                     |             | feedback: é mostrado ao usuario uma confirmação de sucesso                                                                                |
+| 1.2. Clicar em receber ajuda de Inteligência Artificial                    | 1.2.1/1.2.2 | feedback: o usuario ve um menu lateral de chat                                                                                            |
+| 1.2.1. Iniciar conversa com Inteligência Artificial via prompt recomendado |             |                                                                                                                                           |
+| 1.2.2. Iniciar conversa com Inteligência Artificial via chat               |             |                                                                                                                                           |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs), 2023</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Luciano Ricardo](https://github.com/l-ricardo), 2023</p></font>
 
 
 
@@ -171,13 +175,13 @@ Nesta tarefa, o objetivo do usuário é avaliar as midias que já foram consumid
 
 <font size="2"><p style="text-align: center">Tabela 6: Tabela da representação HTA da tarefa "Avaliar Mídia"</p></font>
 
-| Objetivos/Operações | Problemas e Recomendações |
-| ------------------- | ------------------------- |
-| 0. Avaliar Midia 1>2 | Input: formulário de avaliação de mídia, com campos de nota de tradução, formatação, estrutura de capítulos e nota geral, nome, data de nascimento, e-mail e comentário. <br> Feedback: um novo comentário aparece <br> Plano: informar detalhes da avaliação e do avaliador, e depois enviar mensagem de confirmação da publicação da avaliação |
-| 1. Inserir dados da avaliação 1+2 | Plano: Dar nota de tradução, formatação, estrutura de capítulos e nota geral e  informar, nome, data de nascimento, e-mail e comentário |
-| 1.1 Dar nota de tradução, formatação, estrutura de capítulos e nota geral 
-| 1.2 Informar, nome, data de nascimento, e-mail e comentário 
-| 2. Enviar confirmação de publicação da avaliação ||                                                                                                                                                                                       |
+| Objetivos/Operações                                                       | Problemas e Recomendações                                                                                                                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0. Avaliar Midia 1>2                                                      | Input: formulário de avaliação de mídia, com campos de nota de tradução, formatação, estrutura de capítulos e nota geral, nome, data de nascimento, e-mail e comentário. <br> Feedback: um novo comentário aparece <br> Plano: informar detalhes da avaliação e do avaliador, e depois enviar mensagem de confirmação da publicação da avaliação |
+| 1. Inserir dados da avaliação 1+2                                         | Plano: Dar nota de tradução, formatação, estrutura de capítulos e nota geral e  informar, nome, data de nascimento, e-mail e comentário                                                                                                                                                                                                          |
+| 1.1 Dar nota de tradução, formatação, estrutura de capítulos e nota geral |
+| 1.2 Informar, nome, data de nascimento, e-mail e comentário               |
+| 2. Enviar confirmação de publicação da avaliação                          |                                                                                                                                                                                                                                                                                                                                                  |  |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
 
@@ -234,4 +238,5 @@ Nessa tarefa, o usuário tem como objetivo acessar um painel para enviar uma men
 | 1.4    | 22/10/2023 | Adição de Avaliar Midia                         | [Victor Hugo](https://github.com/ViictorHugoo)                                                         | [Maria Alice](https://github.com/Maliz-30)      |
 | 1.5    | 23/10/2023 | Adição de Contatar Administradores              | [Gustavo França](https://github.com/gustavofbs)                                                        | [Victor Hugo](https://github.com/ViictorHugoo)  |
 | 1.6    | 23/10/2023 | Correção na HTA da ação "Se tornar colaborador" | [Maria Alice](https://github.com/Maliz30)                                                              | [Gustavo França](https://github.com/gustavofbs) |
-| 1.7    | 06/12/23 | Correção do Artefato | [Pedro Henrique](https://github.com/pedro-hsf) | [Ana Catarina](https://github.com/an4catarina) |
+| 1.7    | 06/12/23   | Correção do Artefato                            | [Pedro Henrique](https://github.com/pedro-hsf)                                                         | [Ana Catarina](https://github.com/an4catarina)  |
+| 1.7    | 06/12/23   | Correção do Artefato                            | [Luciano Ricardo](https://github.com/l-ricardo)                                                        | [Gustavo França](https://github.com/gustavofbs) |

@@ -7,21 +7,21 @@ Este documento visa verificar se o artefato de [Ferramentas](../../../planejamen
 
 ## Checklist de Verificação
 
-Na tabela 1, estão listados os critérios específicos para a avaliação do artefato de Ferramentas criado pelo Grupo 4.
+Na Tabela 1, estão listados os critérios específicos para a avaliação do artefato de Ferramentas criado pelo Grupo 4.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> Checklist do artefato "Ferramentas" </p></font>
 
-|  ID   |                              Critério                               | Resultados |
-| :---: | :-----------------------------------------------------------------: | :--------: |
-|   1   |                    O artefato possui introdução?                    | sim        |
-|   2   |          O artefato possui histórico de versão atualizado?          | sim        |
-|   3   |            Os textos estão em norma padrão e sem erros?             | não        |
-|   4   |                   O artefato possui Bibliografia?                   | sim        |
-|   5   |                  As ferramentas possuem descrição?                  | sim        |
-|   6   |        Na descrição é dito para que será usada a ferramenta?        | sim        |
-|   7   |   Todas as ferramentas utilizadas no processo estão no artefato?    | sim        |
-|   8   |  Todas as ferramentas no artefato foram utilizadas para o desenvolvimento do projeto?     | não |
-|   9   | O artefato apresenta uma forma de acessar as ferramentas?           | sim |
+|  ID   |                                       Critério                                       | Resultados |
+| :---: | :----------------------------------------------------------------------------------: | :--------: |
+|   1   |                            O artefato possui introdução?                             |    sim     |
+|   2   |                  O artefato possui histórico de versão atualizado?                   |    sim     |
+|   3   |                     Os textos estão em norma padrão e sem erros?                     |    não     |
+|   4   |                           O artefato possui Bibliografia?                            |    sim     |
+|   5   |                          As ferramentas possuem descrição?                           |    sim     |
+|   6   |                Na descrição é dito para que será usada a ferramenta?                 |    sim     |
+|   7   |            Todas as ferramentas utilizadas no processo estão no artefato?            |    sim     |
+|   8   | Todas as ferramentas no artefato foram utilizadas para o desenvolvimento do projeto? |    não     |
+|   9   |              O artefato apresenta uma forma de acessar as ferramentas?               |    sim     |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo), 2023</p></font>
 
@@ -48,12 +48,12 @@ Após a avaliação, realizou-se uma análise geral dos artefatos que receberam 
     - Problema: A ferramenta "Miro" não foi utilizada para o desenvolvimento do projeto;
     - Local: Tabela 1;
     - Gravidade: Problema pequeno;
-    - Solução: Remoção da ferramenta "Miro" da tabela 1.
+    - Solução: Remoção da ferramenta "Miro" da Tabela 1.
 
 
 ## Gravação da Verificação
 
-É possível ver a gravação da verificação do artefato "Storyboards" no vídeo 1.
+É possível ver a gravação da verificação do artefato "Storyboards" no Vídeo 1.
 
 <center>
 
@@ -76,9 +76,9 @@ Após a avaliação, realizou-se uma análise geral dos artefatos que receberam 
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                   | Autor(es)                                       | Revisor(es)                                    |
-| ------ | ---------- | --------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 03/12/2023 | Relato da inspeção          | [Victor Hugo](https://github.com/ViictorHugoo)  | [Maria Alice](https://github.com/Maliz30)      |
-| 1.1    | 03/12/2023 | Concertando pergunta        | [Victor Hugo](https://github.com/ViictorHugoo)  | [Maria Alice](https://github.com/Maliz30)      |
-| 1.2    | 04/12/2023 | Incluindo Gráficos          | [Victor Hugo](https://github.com/ViictorHugoo)  | [Pedro Henrique](https://github.com/pedro-hsf) |
+| Versão | Data       | Descrição            | Autor(es)                                      | Revisor(es)                                    |
+| ------ | ---------- | -------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 03/12/2023 | Relato da inspeção   | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30)      |
+| 1.1    | 03/12/2023 | Concertando pergunta | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30)      |
+| 1.2    | 04/12/2023 | Incluindo Gráficos   | [Victor Hugo](https://github.com/ViictorHugoo) | [Pedro Henrique](https://github.com/pedro-hsf) |
 

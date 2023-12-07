@@ -41,7 +41,7 @@ Os artefatos a serem verificados são descritos na Tabela 1.
 
 ## Cronograma
 
-A tabela 2 a seguir contempla o cronograma planejado para as verificações da fase de planejamento.
+A Tabela 2 a seguir contempla o cronograma planejado para as verificações da fase de planejamento.
 
 <center>
 <font size="2"><p style="text-align: center">Tabela 2: Cronograma e verificadores</p></font>
@@ -74,7 +74,7 @@ Os checklists são baseados nos critérios definidos no Plano de Ensino da disci
 
 ### Checklist Geral
 
-Na tabela 3, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 4 do Grupo 4.
+Na Tabela 3, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 4 do Grupo 4.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist Geral. </p></font>
@@ -98,7 +98,7 @@ Na tabela 3, estão listados os critérios que devem ser verificados em todos os
 
 ### Planejamento da Avaliação do Storyboard
 
-Na tabela 4, estão listados os critérios que devem ser verificados no Planejamento da Avaliação do Storyboard do Grupo 4.
+Na Tabela 4, estão listados os critérios que devem ser verificados no Planejamento da Avaliação do Storyboard do Grupo 4.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist do artefato "Planejamento da Avaliação do Storyboard". </p></font>
@@ -127,7 +127,7 @@ As perguntas dos checklists específicos foram elaboradas com base nos Capítulo
 
 ### Planejamento do Relato dos Resultados da Avaliação do Storyboard
 
-Na tabela 5, estão listados os critérios que devem ser verificados no Planejamento do Relato dos Resultados da Avaliação do Storyboard do Grupo 4.
+Na Tabela 5, estão listados os critérios que devem ser verificados no Planejamento do Relato dos Resultados da Avaliação do Storyboard do Grupo 4.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Checklist do artefato "Planejamento do Relato dos Resultados da Avaliação do Storyboard". </p></font>
@@ -153,7 +153,7 @@ As perguntas dos checklists específicos foram elaboradas com base nos Capítulo
 
 ### Storyboards
 
-Na tabela 6, estão listados os critérios que devem ser verificados nos Storyboards do Grupo 4.
+Na Tabela 6, estão listados os critérios que devem ser verificados nos Storyboards do Grupo 4.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Checklist do artefato "Nossos Storyboards" . </p></font>
@@ -180,7 +180,7 @@ As perguntas dos checklists específicos foram elaboradas com base nos Capítulo
 
 ### Resultado da Avaliação do Storyboard
 
-A tabela 7 a seguir apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
+A Tabela 7 a seguir apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 7</b> - Checklist do artefato "Resultado da Avaliação do Storyboard". </p></font>
@@ -206,7 +206,7 @@ As perguntas dos checklists específicos foram elaboradas com base nos Capítulo
 
 ### Planejamento da Avaliação da Análise de Tarefas
 
-As perguntas do checklist específico foram elaboradas a partir do capítulo 9, Planejamento da Avaliação de IHC, do livro "Interação Humano-Computador" de Barbosa e Silva. Serão utilizados 2 checklists, um geral, a ser utilizado em todos os artefatos verificados, e outro específico, utilizado somente neste artefato. Na tabela 8, estão listados os critérios específicos que devem ser verificados no Planejamento da Avaliação da Análise de Tarefas do Grupo 4.
+As perguntas do checklist específico foram elaboradas a partir do capítulo 9, Planejamento da Avaliação de IHC, do livro "Interação Humano-Computador" de Barbosa e Silva. Serão utilizados 2 checklists, um geral, a ser utilizado em todos os artefatos verificados, e outro específico, utilizado somente neste artefato. Na Tabela 8, estão listados os critérios específicos que devem ser verificados no Planejamento da Avaliação da Análise de Tarefas do Grupo 4.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 8</b> - Checklist do artefato "Planejamento da Avaliação da Análise de Tarefas". </p></font>
@@ -228,7 +228,7 @@ As perguntas do checklist específico foram elaboradas a partir do capítulo 9, 
 
 ### Planejamento do Relato dos Resultados da Análise de Tarefas
 
-As perguntas do checklist específico foram elaboradas a partir do capítulo 9, Planejamento da Avaliação de IHC, do livro "Interação Humano-Computador" de Barbosa e Silva. Serão utilizados 2 checklists, um geral, a ser utilizado em todos os artefatos verificados, e outro específico, utilizado somente neste artefato. Na tabela 9, estão listados os critérios que devem ser verificados no Planejamento do Relato dos Resultados da Análise de Tarefas do Grupo 4.
+As perguntas do checklist específico foram elaboradas a partir do capítulo 9, Planejamento da Avaliação de IHC, do livro "Interação Humano-Computador" de Barbosa e Silva. Serão utilizados 2 checklists, um geral, a ser utilizado em todos os artefatos verificados, e outro específico, utilizado somente neste artefato. Na Tabela 9, estão listados os critérios que devem ser verificados no Planejamento do Relato dos Resultados da Análise de Tarefas do Grupo 4.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 9</b> - Checklist do artefato "Planejamento do Relato dos Resultados da Análise de Tarefas". </p></font>
@@ -254,7 +254,7 @@ As perguntas do checklist específico foram elaboradas a partir do capítulo 9, 
 
 ### Relato dos resultados da Análise de Tarefas
 
-As perguntas do checklist específico foram elaboradas a partir dos capítulos 9, Planejamento da Avaliação de IHC, e 10, Métodos de Avaliação de IHC, do livro "Interação Humano-Computador" de Barbosa e Silva. Serão utilizados 2 checklists, um geral, a ser utilizado em todos os artefatos verificados, e outro específico, utilizado somente neste artefato. A tabela 10, a seguir, apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
+As perguntas do checklist específico foram elaboradas a partir dos capítulos 9, Planejamento da Avaliação de IHC, e 10, Métodos de Avaliação de IHC, do livro "Interação Humano-Computador" de Barbosa e Silva. Serão utilizados 2 checklists, um geral, a ser utilizado em todos os artefatos verificados, e outro específico, utilizado somente neste artefato. A Tabela 10, a seguir, apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 10</b> - Checklist do artefato "Relato dos resultados da Análise de Tarefas". </p></font>
@@ -281,7 +281,7 @@ As perguntas do checklist específico foram elaboradas a partir dos capítulos 9
 
 ### Planejamento de Avaliação do Protótipo de Papel
 
-Na tabela 11, estão listados os critérios que devem ser verificados no Planejamento da Avaliação da Análise do protótipo de papel do Grupo 4.
+Na Tabela 11, estão listados os critérios que devem ser verificados no Planejamento da Avaliação da Análise do protótipo de papel do Grupo 4.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 11</b> - Checklist do artefato "Planejamento de Avaliação dos Protótipos de papel". </p></font>
@@ -318,7 +318,7 @@ Os Capítulos 9 e 10 tratam, respectivamente, do planejamento e dos métodos de 
 
 ### Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel
 
-Na tabela 12, estão listados os critérios que devem ser verificados no Planejamento da Avaliação da Análise do protótipo de papel do Grupo 4.
+Na Tabela 12, estão listados os critérios que devem ser verificados no Planejamento da Avaliação da Análise do protótipo de papel do Grupo 4.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 12</b> - Checklist do artefato "Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel". </p></font>
@@ -349,7 +349,7 @@ Os Capítulos 9 e 10 tratam, respectivamente, do planejamento e dos métodos de 
 
 ### Relato dos resultados do Protótipo de Papel
 
-A tabela 13 a seguir apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
+A Tabela 13 a seguir apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 13</b> - Checklist do artefato "Relato dos resultados do Protótipo de Papel". </p></font>
@@ -382,7 +382,7 @@ Os Capítulos 9 e 10 tratam, respectivamente, do planejamento e dos métodos de 
 
 ### Planejamento de Avaliação do Protótipo de Alta Fidelidade
 
-Na tabela 14, estão listados os critérios que devem ser verificados no Planejamento da Avaliação da Análise do protótipo de Alta Fidelidade do Grupo 4.
+Na Tabela 14, estão listados os critérios que devem ser verificados no Planejamento da Avaliação da Análise do protótipo de Alta Fidelidade do Grupo 4.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 14</b> - Checklist do artefato "Planejamento de Avaliação do Protótipo de Alta Fidelidade". </p></font>
@@ -416,7 +416,7 @@ Os Capítulos 9 e 10 tratam, respectivamente, do planejamento e dos métodos de 
 
 ### Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade
 
-Na tabela 15, estão listados os critérios que devem ser verificados no Planejamento da Avaliação da Análise do Protótipo de Alta Fidelidade do Grupo 4.
+Na Tabela 15, estão listados os critérios que devem ser verificados no Planejamento da Avaliação da Análise do Protótipo de Alta Fidelidade do Grupo 4.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 15</b> - Checklist do artefato "Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade". </p></font>
@@ -445,7 +445,7 @@ Os Capítulos 9 e 10 tratam, respectivamente, do planejamento e dos métodos de 
 
 ### Relato dos resultados do Protótipo de Alta Fidelidade
 
-A tabela 16 a seguir apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
+A Tabela 16 a seguir apresenta a checklist referente aos itens exigidos para o resultados da avaliação.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 16</b> - Checklist do artefato "Relato dos resultados do Protótipo de Alta Fidelidade". </p></font>

@@ -8,7 +8,7 @@ Para realizar uma entrega de qualidade, é necessário avaliar se o produto resu
 
 ## Metodologia
 
-Na realização do seguinte planejamento será utilizado o framework DECIDE conforme orientado, onde cada letra é uma etapa a ser seguida. Como pode ser visto na figura 1:
+Na realização do seguinte planejamento será utilizado o framework DECIDE conforme orientado, onde cada letra é uma etapa a ser seguida. Como pode ser visto na Figura 1:
 
 <center>
 
@@ -31,15 +31,15 @@ Os objetivos dessa avaliação são, por meio do planejamento da construção de
 
 ## E - Exploração de perguntas
 
-A partir do objetivo citado anteriormente, podemos aumentar seu nível de detalhamento definindo perguntas verificáveis a serem respondidas pela avaliação. Além de auxiliar na investigação e avaliação do site, as perguntas específicas, que podem ser encontradas na tabela 1, têm como finalidade guiar e operacionalizar todo o processo de avaliação.
+A partir do objetivo citado anteriormente, podemos aumentar seu nível de detalhamento definindo perguntas verificáveis a serem respondidas pela avaliação. Além de auxiliar na investigação e avaliação do site, as perguntas específicas, que podem ser encontradas na Tabela 1, têm como finalidade guiar e operacionalizar todo o processo de avaliação.
 
 <center>
 <font size="2"><p style="text-align: center">Tabela 1: Perguntas a serem respondidas pela avaliação</p></font>
 
-| Ordem das perguntas | Perguntas |
-| --- | ---------------------- |
-| 1 | O que é possível modificar nos storyboards para adequá-los melhor ao ambiente de trabalho e as necessidades do usuário? |
-| 2 | A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |
+| Ordem das perguntas | Perguntas                                                                                                                |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 1                   | O que é possível modificar nos storyboards para adequá-los melhor ao ambiente de trabalho e as necessidades do usuário?  |
+| 2                   | A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |
 
 
 <font size="2"><p style="text-align: center">Fonte:[Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
@@ -66,7 +66,7 @@ A avaliação irá gerar custos mínimos para a equipe de modo que os unicos gas
 
 ### Prazos
 
-O cronograma das entrevistas com os usuários estão documentadas na tabela 1 com os seguintes tópicos:
+O cronograma das entrevistas com os usuários estão documentadas na Tabela 1 com os seguintes tópicos:
 
 - Entrevistador;
 - Entrevistado;
@@ -132,7 +132,7 @@ Na parte inicial do encontro será disponibilizado termo de consentimento para a
 
 Ao realizar avaliações com usuários, é importante seguir as diretrizes éticas para garantir respeito aos envolvidos, evitando qualquer dano durante e após a divulgação dos resultados. A condução de metodologias com terceiros requer a consciência dos participantes sobre os princípios éticos e a assinatura ou concordância de um termo de consentimento.
 
-O termo de consentimento que deve ser usado durante a entrevista pode ser visto na figura 2:
+O termo de consentimento que deve ser usado durante a entrevista pode ser visto na Figura 2:
 
 <center>
 
@@ -161,7 +161,7 @@ Por fim, as informações adquiridas serão validadas novamente, e assim poderã
 
 ## Planejamento do Teste Piloto
 
-De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamento com o objetivo de validar e conferir se o mesmo produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve fazer o teste piloto como se estivesse fazendo uma simulação real. A tabela 3 contém as informações do teste piloto.
+De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamento com o objetivo de validar e conferir se o mesmo produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve fazer o teste piloto como se estivesse fazendo uma simulação real. A Tabela 3 contém as informações do teste piloto.
 
 <font size="2"><p style="text-align: center">Tabela 3: Planejamento do teste piloto </p></font>
 
@@ -171,7 +171,7 @@ De acordo com Barbosa e Silva[1], um teste piloto é a avaliação do planejamen
 
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina).</p></font>
 
-No vídeo 1, pode-se conferir a gravação do teste piloto realizado.
+No Vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 
 <center>
 
@@ -211,5 +211,5 @@ No vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 | 1.5    | 28/10/2023 | Correção de fontes                      | [Gustavo França](https://github.com/gustavofbs)                                                        | [Pedro Henrique](https://github.com/pedro-hsf)                                                                                                  |
 | 1.6    | 30/10/2023 | Adição do teste piloto                  | [Pedro Henrique](https://github.com/pedro-hsf)                                                         | [Maria Alice](https://github.com/Maliz30)                                                                                                       |
 | 1.7    | 01/11/2021 | Correções cronograma                    | [Victor Hugo](https://github.com/ViictorHugoo)                                                         | [Ana Catarina](https://github.com/an4catarina)                                                                                                  |
-| 1.8    | 06/12/2023 | Correções Verificação| [Victor Hugo](https://github.com/ViictorHugoo)  | [Pedro Henrique](https://github.com/pedro-hsf) |
+| 1.8    | 06/12/2023 | Correções Verificação                   | [Victor Hugo](https://github.com/ViictorHugoo)                                                         | [Pedro Henrique](https://github.com/pedro-hsf)                                                                                                  |
 

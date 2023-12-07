@@ -6,7 +6,7 @@ O documento em questão tem como referência o [Planejamento da Avaliação do P
 
 ## Metodologia
 
-O relato dos resultados será construido com base no documento [Planejamento da Avaliação do Protótipo de Papel](./planejamento_avaliacao.md) e nos elementos de avaliação citados por Barbosa <a id="anchor_1" href="#FRM1">¹</a>, que são:
+O relato dos resultados será construido com base no documento [Planejamento da Avaliação do Protótipo de Alta Fidelidade](./planejamento_avaliacao.md) e nos elementos de avaliação citados por Barbosa <a id="anchor_1" href="#FRM1">¹</a>, que são:
 
 1. Objetivo e âmbito da avaliação;
 2. Método de avaliação;
@@ -113,6 +113,7 @@ Os problemas encontrados, sugestões de melhorias e quaisquer outros pontos enco
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor(es)                                       | Revisor(es)                                    |
-| ------ | ---------- | -------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 01/11/2021 | Criação do documento | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo) |
+| Versão | Data       | Descrição            | Autor(es)                                       | Revisor(es)                                     |
+| ------ | ---------- | -------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 01/11/2021 | Criação do documento | [Gustavo França](https://github.com/gustavofbs) | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| 1.1    | 06/12/2023 | Correções            | [Luciano Ricardo](https://github.com/l-ricardo) | [Gustavo França](https://github.com/gustavofbs) |

@@ -8,23 +8,23 @@ O objetivo desse artefato é verificar a qualidade do [Metodologia](docs/planeja
 
 ## Metodologia
 
-A metodologia a ser utilizada será a Inspeção por meio do uso de Checklists, baseadas nas perguntas presentes no plano de ensino da matéria e nos padrões desejados para se haver num artefato desse tipo. A checklist criada pode ser visualizada na tabela 1:
+A metodologia a ser utilizada será a Inspeção por meio do uso de Checklists, baseadas nas perguntas presentes no plano de ensino da matéria e nos padrões desejados para se haver num artefato desse tipo. A checklist criada pode ser visualizada na Tabela 1:
 
 <center>
 
 <font size="2"><p style="text-align: center">Tabela 1: Verificação do cronograma planejado</p></font>
 
-| ID | Critério | Resultado |
-|:--------:|:--------:|:--------:|
-| 1 |      O artefato possui introdução?    |          |
-| 2|      O artefato possui histórico de versão atualizado?     |
-|3|    Os textos estão em norma padrão e sem erros?      |          |
-|4|    O artefato possui Bibliografia?      |          |
-|5|É evidenciado a metodologia a ser utilizada no projeto?||
-|6|A metodologia escolhida é descrita e contextualizada?||
-|7|É explicado o por que da escolha da metodologia?||
-|8|É evidenciado a metodologia de avaliaçã a ser seguida?||
-|9|É descrito como funciona esse tipo de avaliação?||
+|  ID   |                        Critério                         | Resultado |
+| :---: | :-----------------------------------------------------: | :-------: |
+|   1   |              O artefato possui introdução?              |           |
+|   2   |    O artefato possui histórico de versão atualizado?    |
+|   3   |      Os textos estão em norma padrão e sem erros?       |           |
+|   4   |             O artefato possui Bibliografia?             |           |
+|   5   | É evidenciado a metodologia a ser utilizada no projeto? |           |
+|   6   |  A metodologia escolhida é descrita e contextualizada?  |           |
+|   7   |    É explicado o por que da escolha da metodologia?     |           |
+|   8   | É evidenciado a metodologia de avaliaçã a ser seguida?  |           |
+|   9   |    É descrito como funciona esse tipo de avaliação?     |           |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)  </p></font>
@@ -39,17 +39,17 @@ O checklist feito após a verificação pode ser visualizado a seguir na Tabela 
 
 <font size="2"><p style="text-align: center">Tabela 2: Execução da verificação do cronograma planejado</p></font>
 
-| ID | Critério | Resultado |
-|:--------:|:--------:|:--------:|
-| 1 |      O artefato possui introdução?    |  Sim        |
-| 2|      O artefato possui histórico de versão atualizado?     |Sim|
-|3|    Os textos estão em norma padrão e sem erros?      | Sim         |
-|4|    O artefato possui Bibliografia?      |Sim          |
-|5|É evidenciado a metodologia a ser utilizada no projeto?|Sim|
-|6|A metodologia escolhida é descrita e contextualizada?|Sim|
-|7|É explicado o por que da escolha da metodologia?|Sim|
-|8|É evidenciado a metodologia de avaliaçã a ser seguida?|Sim|
-|9|É descrito como funciona esse tipo de avaliação?|Sim|
+|  ID   |                        Critério                         | Resultado |
+| :---: | :-----------------------------------------------------: | :-------: |
+|   1   |              O artefato possui introdução?              |    Sim    |
+|   2   |    O artefato possui histórico de versão atualizado?    |    Sim    |
+|   3   |      Os textos estão em norma padrão e sem erros?       |    Sim    |
+|   4   |             O artefato possui Bibliografia?             |    Sim    |
+|   5   | É evidenciado a metodologia a ser utilizada no projeto? |    Sim    |
+|   6   |  A metodologia escolhida é descrita e contextualizada?  |    Sim    |
+|   7   |    É explicado o por que da escolha da metodologia?     |    Sim    |
+|   8   | É evidenciado a metodologia de avaliaçã a ser seguida?  |    Sim    |
+|   9   |    É descrito como funciona esse tipo de avaliação?     |    Sim    |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin)  </p></font>
@@ -99,6 +99,6 @@ Aqui serão expostos os resultados obtidos a partir dos checklists, em forma gr�
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                        | Autor(es)                                                                                  | Revisor(es)                                    |
-| ------ | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
-| 1.0 | 02/21 | Construção e elaboração do documento | [Harryson Martins](https://github.com/harry-cmartin) |[Gustavo França](https://github.com/gustavofbs)|
+| Versão | Data  | Descrição                            | Autor(es)                                            | Revisor(es)                                     |
+| ------ | ----- | ------------------------------------ | ---------------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 02/21 | Construção e elaboração do documento | [Harryson Martins](https://github.com/harry-cmartin) | [Gustavo França](https://github.com/gustavofbs) |
