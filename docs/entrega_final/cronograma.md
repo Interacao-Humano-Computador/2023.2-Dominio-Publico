@@ -23,7 +23,7 @@ As etapas foram documentadas com base no [cronograma](../planejamento/cronograma
 
 ## Entrega 1
 
-Na Tabela 2, tem-se o **cronograma planejado** para todas as Artefatos da primeira entrega.
+Na Tabela 2, tem-se o **cronograma planejado** para os Artefatos da primeira entrega.
 
 <center>
 
@@ -31,20 +31,21 @@ Na Tabela 2, tem-se o **cronograma planejado** para todas as Artefatos da primei
 
 | Artefato                  | Data de desenvolvimento   | Autor(es)     | Data de Revisão           | Revisor(es)        |
 | ------------------------- | ------------------------- | ---------------- | ------------------------- | ---------------- |
-| Site Escolhido            | 21/09 | Maria Alice       | 25/09 | Victor           |
-| Sites Avaliados           | 21/09 | Todos             | 25/09 | -                |
-| Ferramentas               | 21/09 | Harryson Martins  | 25/09 | Luciano Ricardo  |
-| Cronograma                | 25/09 | Victor            | 25/09 | Ana Catarina     |
-| Metodologia               | 26/09 | Maria Alice       | 27/09 | Gustavo França   |
-| Processo de Design        | 26/09 | Pedro Henrique    | 27/09 | Harryson Martins |
-| Gravar apresentação       | 29/09 | Ana Catarina      | 29/09 | Victor Hugo      |
+| Site Escolhido            | 21/09 | [Maria Alice](https://github.com/Maliz30)       | 25/09 | [Victor Hugo](https://github.com/ViictorHugoo)           |
+| Sites Avaliados           | 21/09 | [Ana Catarina](https://github.com/an4catarina), [Gustano França](https://github.com/gustavofbs), [Harryson Martins](https://github.com/harry-cmartin), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo)             | 25/09 | [Ana Catarina](https://github.com/an4catarina), [Gustano França](https://github.com/gustavofbs), [Harryson Martins](https://github.com/harry-cmartin), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo)                |
+| Ferramentas               | 21/09 | [Harryson Martins](https://github.com/harry-cmartin)  | 25/09 | [Luciano Ricardo](https://github.com/l-ricardo)  |
+| Cronograma                | 25/09 | [Victor Hugo](https://github.com/ViictorHugoo)            | 25/09 | [Ana Catarina](https://github.com/an4catarina)     |
+| Metodologia               | 26/09 | [Maria Alice](https://github.com/Maliz30)       | 27/09 | [Gustano França](https://github.com/gustavofbs)   |
+| Processo de Design        | 26/09 | [Pedro Henrique](https://github.com/pedro-hsf)    | 27/09 | [Harryson Martins](https://github.com/harry-cmartin) |
+| Ata                       | 28/09 | [Ana Catarina](https://github.com/an4catarina)      | 29/09 | [Pedro Henrique](https://github.com/pedro-hsf)   |
+| Gravar apresentação       | 29/09 | [Ana Catarina](https://github.com/an4catarina)      | 29/09 | [Victor Hugo](https://github.com/ViictorHugoo)      |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte:  [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 
 </center>
 
-Na Tabela 3, tem-se o **cronograma executado** para todas as Artefatos da primeira entrega.
+Na Tabela 3, tem-se o **cronograma executado** para os Artefatos da primeira entrega.
 
 <center>
 
@@ -52,21 +53,22 @@ Na Tabela 3, tem-se o **cronograma executado** para todas as Artefatos da primei
 
 | Artefato                 | Data de desenvolvimento   | Autor(es)     | Data de Revisão           | Revisor(es)        |
 | ------------------------- | ------------------------- | ---------------- | ------------------------- | ---------------- |
-| Site Escolhido            | 21/09 | Maria Alice       | 25/09 | Victor           |
-| Sites Avaliados           | 21/09 | Todos             | 25/09 | -                |
-| Ferramentas               | 21/09 | Harryson Martins  | 25/09 | Luciano Ricardo  |
-| Cronograma                | 25/09 | Victor            | 25/09 | Ana Catarina     |
-| Metodologia               | 26/09 | Maria Alice       | 27/09 | Gustavo França   |
-| Processo de Design        | 26/09 | Pedro Henrique    | 27/09 | Harryson Martins |
-| Gravar apresentação       | 29/09 | Ana Catarina      | 29/09 | Victor Hugo      |
+| Site Escolhido            | 01/10 | [Maria Alice](https://github.com/Maliz30) e [Gustano França](https://github.com/gustavofbs)      | 01/10 | [Ana Catarina](https://github.com/an4catarina) |
+| Sites Avaliados           | 30/09 | [Ana Catarina](https://github.com/an4catarina), [Gustano França](https://github.com/gustavofbs), [Harryson Martins](https://github.com/harry-cmartin), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo)             | 30/09 | [Victor Hugo](https://github.com/ViictorHugoo), [Maria Alice](https://github.com/Maliz30), [Luciano Ricardo](https://github.com/l-ricardo), [Ana Catarina](https://github.com/an4catarina) e [Gustano França](https://github.com/gustavofbs)              |
+| Ferramentas               | 27/09 | [Gustano França](https://github.com/gustavofbs)    | 27/09 | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| Cronograma                | 29/09 | [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)             | 29/09 | [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo) |
+| Metodologia               | 30/09 | [Maria Alice](https://github.com/Maliz30), [Victor Hugo](https://github.com/ViictorHugoo) e [Gustano França](https://github.com/gustavofbs) | 30/09 | [Luciano Ricardo](https://github.com/l-ricardo)|
+| Processo de Design        | 26/09 | [Harryson Martins](https://github.com/harry-cmartin) e [Pedro Henrique](https://github.com/pedro-hsf)         | 27/09 | [Gustano França](https://github.com/gustavofbs) |
+| Ata                       | 27/09 | [Ana Catarina](https://github.com/an4catarina)      | 27/09 | [Victor Hugo](https://github.com/ViictorHugoo)   |
+| Gravar apresentação       | 02/10 | [Ana Catarina](https://github.com/an4catarina)      | 02/10 | [Victor Hugo](https://github.com/ViictorHugoo)   |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte:  [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
 ## Entrega 2
 
-Na Tabela 4, tem-se o **cronograma planejado** para todas as Artefatos da segunda entrega.
+Na Tabela 4, tem-se o **cronograma planejado** para todos os Artefatos da segunda entrega.
 
 <center>
 
@@ -74,19 +76,19 @@ Na Tabela 4, tem-se o **cronograma planejado** para todas as Artefatos da segund
 
 | Artefato                                     | Data de desenvolvimento   | Autor(es)     | Data de Revisão           | Revisor(es)        |
 | --------------------------------------------- | ---------------------------- | ---------------- | ---------------------------- | ---------------- |
-| Perfil do usuário                             | Inicio: 06/10 <br>Fim: 08/10 | Victor           | Inicio: 09/10 <br>Fim: 09/10 | Maria Alice      |
-| Personas                                      | Inicio: 06/10 <br>Fim: 08/10 | Gustavo França   | Inicio: 09/10 <br>Fim: 09/10 | Harryson Martins |
-| Pesquisa sobre ética                          | Inicio: 08/10 <br>Fim: 09/10 | Luciano Ricardo  | Inicio: 10/10 <br>Fim: 10/10 | Victor           |
-| Execução do documento de pesquisa sobre ética | Inicio: 10/10 <br>Fim: 10/10 | Maria Alice      | Inicio: 11/10 <br>Fim: 11/10 | Luciano Ricardo  |
-| Análise de tarefas: HTA                       | Inicio: 10/10 <br>Fim: 10/10 | Pedro Henrique   | Inicio: 11/10 <br>Fim: 11/10 | Ana Catarina     |
-| Implementar Git Pages                         | Inicio: 11/10 <br>Fim: 11/10 | Harryson Martins | Inicio: 12/10 <br>Fim: 12/10 | Gustavo França   |
-| Gravar apresentação                           | Inicio: 13/10 <br>Fim: 13/10 | Pedro Henrique   | Inicio: 13/10 <br>Fim: 13/10 | Ana Catarina     |
+| Perfil do usuário                             |  06/10 | [Victor Hugo](https://github.com/ViictorHugoo)           |  09/10 | [Maria Alice](https://github.com/Maliz30)      |
+| Personas                                      |  06/10 | [Gustano França](https://github.com/gustavofbs)   |  09/10 | [Harryson Martins](https://github.com/harry-cmartin) |
+| Aspectos Éticos                               |  08/10 | [Luciano Ricardo](https://github.com/l-ricardo)  |  10/10 | [Victor Hugo](https://github.com/ViictorHugoo)           |
+| Cenários                                      |  10/10 | [Maria Alice](https://github.com/Maliz30)      |  11/10 | [Luciano Ricardo](https://github.com/l-ricardo)  |
+| Análise de tarefas                            |  10/10 | [Pedro Henrique](https://github.com/pedro-hsf)   |  11/10 | [Ana Catarina](https://github.com/an4catarina)     |
+| Ata                                           |  10/10 | [Ana Catarina](https://github.com/an4catarina)     |  10/10 | [Victor Hugo](https://github.com/ViictorHugoo)   |
+| Gravar apresentação                           |  13/10 | [Pedro Henrique](https://github.com/pedro-hsf)   |  13/10 | [Ana Catarina](https://github.com/an4catarina)     |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte:  [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
-Na Tabela 5, tem-se o **cronograma executado** para todas as Artefatos da segunda entrega.
+Na Tabela 5, tem-se o **cronograma executado** para todos os Artefatos da segunda entrega.
 
 <center>
 
@@ -94,21 +96,21 @@ Na Tabela 5, tem-se o **cronograma executado** para todas as Artefatos da segund
 
 | Artefato                                     | Data de desenvolvimento   | Autor(es)                  | Data de Revisão           | Revisor(es)        |
 | --------------------------------------------- | ---------------------------- | ----------------------------- | ---------------------------- | ---------------- |
-| Perfil do usuário                             | Inicio: 08/10 <br>Fim: 14/10 | Luciano Ricardo               | Inicio: 15/10 <br>Fim: 15/10 | Maria Alice      |
-| Personas                                      | Inicio: 08/10 <br>Fim: 14/10 | Victor Hugo                   | Inicio: 15/10 <br>Fim: 15/10 | Harryson Martins |
-| Pesquisa sobre ética                          | Inicio: 08/10 <br>Fim: 10/10 | Ana Catarina e Pedro Henrique | Inicio: 10/10 <br>Fim: 10/10 | Victor Hugo      |
-| Execução do documento de pesquisa sobre ética | Inicio: 08/10 <br>Fim: 14/10 | Ana Catarina e Pedro Henrique | Inicio: 10/10 <br>Fim: 10/10 | Luciano Ricardo  |
-| Análise de tarefas: HTA                       | Inicio: 08/10 <br>Fim: 10/10 | Harryson e Gustavo            | Inicio: 14/10 <br>Fim: 14/10 | Ana Catarina     |
-| Implementar Git Pages                         | Inicio: 08/10 <br>Fim: 10/10 | Luciano Ricardo               | Inicio: 10/10 <br>Fim: 10/10 | Gustavo França   |
-| Gravar apresentação                           | Inicio: 16/10 <br>Fim: 16/10 | Ana Catarina                  | Inicio: 16/10 <br>Fim: 16/10 | Pedro Henrique   |
+| Perfil do usuário       |  15/10 | [Luciano Ricardo](https://github.com/l-ricardo)                |  15/10 | [Maria Alice](https://github.com/Maliz30) e [Victor Hugo](https://github.com/ViictorHugoo)     |
+| Personas                |  15/10 | [Victor Hugo](https://github.com/ViictorHugoo)                    |  15/10 | [Maria Alice](https://github.com/Maliz30) |
+| Aspectos Éticos         |  10/10 | [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf)  |  10/10 | [Luciano Ricardo](https://github.com/l-ricardo)           |
+| Cenários                |  15/10 | [Maria Alice](https://github.com/Maliz30)                    |  15/10 | [Ana Catarina](https://github.com/an4catarina)  |
+| Análise de tarefas      |  15/10 | [Ana Catarina](https://github.com/an4catarina), [Gustano França](https://github.com/gustavofbs), [Harryson Martins](https://github.com/harry-cmartin), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo)                          |  15/10 | [Victor Hugo](https://github.com/ViictorHugoo), [Maria Alice](https://github.com/Maliz30) e [Ana Catarina](https://github.com/an4catarina) |
+| Ata                     |  12/10 | [Ana Catarina](https://github.com/an4catarina)     |  13/10 | [Pedro Henrique](https://github.com/pedro-hsf)   |
+| Gravar apresentação     |  16/10 | [Pedro Henrique](https://github.com/pedro-hsf)   |  16/10 | [Ana Catarina](https://github.com/an4catarina)     |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte:  [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
 ## Entrega 3
 
-Na Tabela 6, tem-se o **cronograma planejado** para todas as Artefatos da terceira entrega.
+Na Tabela 6, tem-se o **cronograma planejado** para todos os Artefatos da terceira entrega.
 
 <center>
 
@@ -116,54 +118,58 @@ Na Tabela 6, tem-se o **cronograma planejado** para todas as Artefatos da tercei
 
 | Artefato                    | Data de desenvolvimento   | Autor(es)                  | Data de Revisão           | Revisor(es)        |
 | ---------------------------- | ---------------------------- | ----------------------------- | ---------------------------- | ---------------- |
-| Princípios gerais do projeto | Inicio: 17/10 <br>Fim: 19/10 | Ana catarina e Pedro Henrique | Inicio: 19/10 <br>Fim: 19/10 | Luciano Ricardo  |
-| Metas de usabilidade         | Inicio: 18/10 <br>Fim: 20/10 | Luciano Ricardo               | Inicio: 20/10 <br>Fim: 20/10 | Victor           |
-| Guia de estilo               | Inicio: 19/10 <br>Fim: 21/10 | Harryson Martins              | Inicio: 21/10 <br>Fim: 21/10 | Gustavo França   |
-| Implementar Git Pages        | Inicio: 21/10 <br>Fim: 21/10 | Pedro Henrique                | Inicio: 21/10 <br>Fim: 21/10 | Ana Catarina     |
-| Gravar apresentação          | Inicio: 22/10 <br>Fim: 22/10 | Gustavo França                | Inicio: 22/10 <br>Fim: 22/10 | Harryson Martins |
+| Princípios gerais do projeto |  17/10 | [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf) |  19/10 | [Luciano Ricardo](https://github.com/l-ricardo)  |
+| Metas de usabilidade         |  18/10 | [Luciano Ricardo](https://github.com/l-ricardo)               |  20/10 | [Victor Hugo](https://github.com/ViictorHugoo)           |
+| Guia de estilo               |  19/10 | [Harryson Martins](https://github.com/harry-cmartin)              |  21/10 | [Gustano França](https://github.com/gustavofbs)   |
+| Caracteristicas da plataforma|  20/10 | [Maria Alice](https://github.com/Maliz30)                   |  22/10 | [Ana Catarina](https://github.com/an4catarina)     |
+| Ata                          |  21/10 | [Ana Catarina](https://github.com/an4catarina)                  |  22/10 | [Pedro Henrique](https://github.com/pedro-hsf)   |
+| Gravar apresentação          |  22/10 | [Gustano França](https://github.com/gustavofbs)                |  22/10 | [Harryson Martins](https://github.com/harry-cmartin) |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte:  [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
-Na Tabela 7, tem-se o **cronograma executado** para todas as Artefatos da terceira entrega.
+Na Tabela 7, tem-se o **cronograma executado** para todos os Artefatos da terceira entrega.
 
 <center>
 
 <font size="2"><p style="text-align: center">Tabela 7: Cronograma executado de Artefatos da Entrega 3 - Princípios gerais.</p></font>
 
-| Artefato                    | Data de desenvolvimento   | Autor(es)                  | Data de Revisão           | Revisor(es)       |
-| ---------------------------- | ---------------------------- | ----------------------------- | ---------------------------- | --------------- |
-| Princípios gerais do projeto | Inicio: 17/10 <br>Fim: 17/10 | Ana Catarina e Pedro Henrique | Inicio: 17/10 <br>Fim: 23/10 | Luciano Ricardo |
-| Metas de usabilidade         | Inicio: 19/10 <br>Fim: 21/10 | Harryson e Gustavo            | Inicio: 23/10 <br>Fim: 23/10 | Victor          |
-| Guia de estilo               | Inicio: 22/10 <br>Fim: 23/10 | Maria Alice e Victor Hugo     | Inicio: 23/10 <br>Fim: 23/10 | Luciano Ricardo |
-| Gravar apresentação          | Inicio: 23/10 <br>Fim: 23/10 | Maria Alice                   | Inicio: 23/10 <br>Fim: 23/10 | Ana Catarina    |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+| Artefato                    | Data de desenvolvimento   | Autor(es)                  | Data de Revisão           | Revisor(es)        |
+| ---------------------------- | ---------------------------- | ----------------------------- | ---------------------------- | ---------------- |
+| Princípios gerais do projeto |  21/10 | [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf) |  21/10 | [Luciano Ricardo](https://github.com/l-ricardo)  |
+| Metas de usabilidade         |  21/10 | [Harryson Martins](https://github.com/harry-cmartin) e [Gustano França](https://github.com/gustavofbs) |  21/10 | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo) |
+| Guia de estilo               |  21/10 | [Victor Hugo](https://github.com/ViictorHugoo), [Maria Alice](https://github.com/Maliz30) e [Luciano Ricardo](https://github.com/l-ricardo) |  21/10 | [Gustano França](https://github.com/gustavofbs)   |
+| Caracteristicas da plataforma|  21/10 | [Luciano Ricardo](https://github.com/l-ricardo)               |  21/10 | [Maria Alice](https://github.com/Maliz30)      |
+| Gravar apresentação          |  23/10 | [Gustano França](https://github.com/gustavofbs)                |  23/10 | [Harryson Martins](https://github.com/harry-cmartin) |
+
+<font size="2"><p style="text-align: center">Fonte:  [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
 ## Entrega 4
 
-Na Tabela 8, tem-se o **cronograma planejado** para todas as Artefatos da quarta entrega.
+Na Tabela 8, tem-se o **cronograma planejado** para todos os Artefatos da quarta entrega.
 
 <center>
 
 <font size="2"><p style="text-align: center">Tabela 8: Cronograma planejado de Artefatos da Entrega 4.</p></font>
 
-| Artefato                                                        | Data de desenvolvimento   | Autor(es)     | Data de Revisão           | Revisor(es)        |
+| Artefato                                                         | Data de desenvolvimento   | Autor(es)     | Data de Revisão           | Revisor(es)        |
 | ---------------------------------------------------------------- | ---------------------------- | ---------------- | ---------------------------- | ---------------- |
-| Planejamento da avaliação do Storyboard                          | Inicio: 24/10 <br>Fim: 27/10 | Harryson Martins | Inicio: 27/10 <br>Fim: 27/10 | Gustavo França   |
-| Planejamento do relato dos resultados da avaliação do Storyboard | Inicio: 25/10 <br>Fim: 28/10 | Gustavo França   | Inicio: 28/10 <br>Fim: 28/10 | Harryson Martins |
-| Planejamento da Avaliação da Análise de tarefas                  | Inicio: 25/10 <br>Fim: 28/10 | Maria Alice      | Inicio: 28/10 <br>Fim: 28/10 | Luciano Ricardo  |
-| Planejamento do relato da avaliação da análise de tarefas        | Inicio: 28/10 <br>Fim: 29/10 | Pedro Henrique   | Inicio: 29/10 <br>Fim: 29/10 | Ana Catarina     |
-| Gravar apresentação                                              | Inicio: 30/10 <br>Fim: 30/10 | Gustavo França   | Inicio: 30/10 <br>Fim: 30/10 | Harryson Martins |
+| Planejamento da Avaliação do Storyboard                          |  24/10 | [Harryson Martins](https://github.com/harry-cmartin) |  27/10 | [Gustano França](https://github.com/gustavofbs)   |
+| Planejamento do Relato dos Resultados da Avaliação do Storyboard |  25/10 | [Gustano França](https://github.com/gustavofbs)   |  28/10 | [Harryson Martins](https://github.com/harry-cmartin) |
+| Planejamento da Avaliação da Análise de Tarefas                  |  25/10 | [Maria Alice](https://github.com/Maliz30)      |  28/10 | [Luciano Ricardo](https://github.com/l-ricardo)  |
+| Planejamento do Relato dos Resultados da Análise de Tarefas        |  28/10 | [Pedro Henrique](https://github.com/pedro-hsf)   |  29/10 | [Ana Catarina](https://github.com/an4catarina)     |
+| Ata                                                              |  29/10 | [Ana Catarina](https://github.com/an4catarina)     |  30/10 | [Pedro Henrique](https://github.com/pedro-hsf)   |
+| Gravar apresentação                                              |  30/10 | [Gustano França](https://github.com/gustavofbs)   |  30/10 | [Harryson Martins](https://github.com/harry-cmartin) |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte:  [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
-Na Tabela 9, tem-se o **cronograma executado** para todas as Artefatos da quarta entrega.
+Na Tabela 9, tem-se o **cronograma executado** para todos os Artefatos da quarta entrega.
 
 <center>
 
@@ -171,19 +177,19 @@ Na Tabela 9, tem-se o **cronograma executado** para todas as Artefatos da quarta
 
 | Artefato                                                        | Data de desenvolvimento   | Autor(es)                               | Data de Revisão           | Revisor(es)       |
 | ---------------------------------------------------------------- | ---------------------------- | ------------------------------------------ | ---------------------------- | --------------- |
-| Planejamento da avaliação do Storyboard                          | Inicio:28/10 <br>Fim: 29/10  | Pedro Henrique, Gustavo e Harryson         | Inicio:29/10 <br>Fim: 29/10  | Victor Hugo     |
-| Planejamento do relato dos resultados da avaliação do Storyboard | Inicio: 29/10 <br>Fim: 29/10 | Luciano Ricardo                            | Inicio:29/10 <br>Fim: 30/10  | Victor Hugo     |
-| Planejamento da Avaliação da Análise de tarefas                  | Inicio: 29/10 <br>Fim: 30/10 | Ana Catarina, Maria Alice e Pedro Henrique | Inicio: 30/10 <br>Fim: 30/10 | Pedro Henrique  |
-| Planejamento do relato da avaliação da análise de tarefas        | Inicio: 29/10 <br>Fim: 29/10 | Victor Hugo                                | Inicio: 29/10 <br>Fim: 29/10 | Luciano Ricardo |
-| Gravar apresentação                                              | Inicio: 30/10 <br>Fim: 30/10 | Ana Catarina                               | Inicio: 30/10 <br>Fim: 30/10 | Victor Hugo     |
+| Planejamento da Avaliação do Storyboard                          |  30/10 | [Harryson Martins](https://github.com/harry-cmartin) e [Gustano França](https://github.com/gustavofbs) |  30/10 | [Victor Hugo](https://github.com/ViictorHugoo), [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf) e [Maria Alice](https://github.com/Maliz30)     |
+| Planejamento do Relato dos Resultados da Avaliação do Storyboard |  29/10 | [Luciano Ricardo](https://github.com/l-ricardo)                            |  29/10 | [Victor Hugo](https://github.com/ViictorHugoo)     |
+| Planejamento da Avaliação da Análise de Tarefas                  |  29/10 | [Pedro Henrique](https://github.com/pedro-hsf), [Maria Alice](https://github.com/Maliz30) e [Ana Catarina](https://github.com/an4catarina) |  30/10 | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| Planejamento do Relato dos Resultados da Análise de Tarefas        |  29/10 | [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo) |  29/10 | [Luciano Ricardo](https://github.com/l-ricardo) e [Victor Hugo](https://github.com/ViictorHugoo) |
+| Gravar apresentação                                              |  30/10 | [Ana Catarina](https://github.com/an4catarina)                               |  30/10 | [Victor Hugo](https://github.com/ViictorHugoo)     |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte:  [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
 ## Entrega 5
 
-Na Tabela 10, tem-se o **cronograma planejado** para todas as Artefatos da quinta entrega.
+Na Tabela 10, tem-se o **cronograma planejado** para todos os Artefatos da quinta entrega.
 
 <center>
 
@@ -191,17 +197,19 @@ Na Tabela 10, tem-se o **cronograma planejado** para todas as Artefatos da quint
 
 | Artefato                                                               | Data de desenvolvimento   | Autor(es)     | Data de Revisão           | Revisor(es)        |
 | ----------------------------------------------------------------------- | ---------------------------- | ---------------- | ---------------------------- | ---------------- |
-| Relato dos resultados do Storyboard                                     | Inicio: 01/11 <br>Fim: 03/11 | Ana Catarina     | Inicio: 03/11 <br>Fim: 03/11 | Pedro Henrique   |
-| Relato dos resultados da Análise de tarefas                             | Inicio: 01/11 <br>Fim: 04/11 | Harryson Martins | Inicio: 04/11 <br>Fim: 04/11 | Gutavo           |
-| Planejamento do relato de resultados da avaliação do protótipo de papel | Inicio: 03/11 <br>Fim: 06/11 | Gustavo França   | Inicio: 06/11 <br>Fim: 06/11 | Harryson Martins |
-| Planejamento da avaliação do protótipo de papel                         | Inicio: 06/11 <br>Fim: 07/11 | Luciano Ricardo  | Inicio: 07/11 <br>Fim: 07/11 | Victor           |
-| Gravar apresentação                                                     | Inicio: 07/11 <br>Fim: 07/11 | Victor           | Inicio: 07/11 <br>Fim: 07/11 | Maria Alice      |
+| Relato dos Resultados do Storyboard                                     |  01/11 | [Ana Catarina](https://github.com/an4catarina)     |  03/11 | [Pedro Henrique](https://github.com/pedro-hsf)   |
+| Storyboards                                                             |  01/11 | [Ana Catarina](https://github.com/an4catarina)     |  03/11 | [Pedro Henrique](https://github.com/pedro-hsf)   |
+| Relato dos Resultados da Análise de tarefas                             |  01/11 | [Harryson Martins](https://github.com/harry-cmartin) |  04/11 | [Gustano França](https://github.com/gustavofbs)           |
+| Planejamento do Relato de Resultados da Avaliação do Protótipo de Papel |  03/11 | [Gustano França](https://github.com/gustavofbs)   |  06/11 | [Harryson Martins](https://github.com/harry-cmartin) |
+| Planejamento da Avaliação do Protótipo de Papel                         |  06/11 | [Luciano Ricardo](https://github.com/l-ricardo)  |  07/11 | [Victor Hugo](https://github.com/ViictorHugoo)           |
+| Ata                                                                     |  08/11 | [Ana Catarina](https://github.com/an4catarina)     |  08/11 | [Victor Hugo](https://github.com/ViictorHugoo)   |
+| Gravar apresentação                                                     |  08/11 | [Victor Hugo](https://github.com/ViictorHugoo)           |  08/11 | [Maria Alice](https://github.com/Maliz30)      |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte:  [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
-Na Tabela 11, tem-se o **cronograma executado** para todas as Artefatos da quinta entrega.
+Na Tabela 11, tem-se o **cronograma executado** para todos os Artefatos da quinta entrega.
 
 <center>
 
@@ -209,19 +217,21 @@ Na Tabela 11, tem-se o **cronograma executado** para todas as Artefatos da quint
 
 | Artefato | Data de desenvolvimento                                  | Autor(es)                                                                                                                              | Data de Revisão            | Revisor(es)                     |
 | --------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ----------------------------- |
-| Relato dos resultados do Storyboard                                     | Inicio: 01/11 <br>Fim: 08/11 | Ana Catarina, Harryson Martins, Gustavo França, Luciano Ricardo, Victor Hugo, Maria Alice e Pedro Henrique | Inicio: 01/11 <br>Fim: 08/11  | Luciano Ricardo e Victor Hugo |
-| Relato dos resultados da Análise de tarefas                             | Inicio: 01/11 <br>Fim: 08/11 | Ana Catarina, Harryson Martins, Gustavo França, Luciano Ricardo, Victor Hugo, Maria Alice e Pedro Henrique | Inicio: 01/11 <br>Fim: 08/11  | Luciano Ricardo e Victor Hugo |
-| Planejamento do relato de resultados da avaliação do protótipo de papel | Inicio: 01/11 <br>Fim: 08/11 | Luciano Ricardo                                                                                            | Inicio: 01/11 <br>Fim: 08/11  | Victor Hugo                   |
-| Planejamento da avaliação do protótipo de papel                         | Inicio: 01/11 <br>Fim: 08/11 | Gustavo,Victor Hugo, Harryson e Luciano Ricardo                                                            | Inicio: 01/11 <br>Fim: 08/11  | Victor Hugo                   |
-| Gravar apresentação                                                     | Inicio: 08/11 <br>Fim: 08/11 | Ana Catarina                                                                                               | Inicio: 08/11 <br>Fim: 08/11  | Luciano Ricardo               |
+| Relato dos Resultados do Storyboard                                     |  08/11 | [Ana Catarina](https://github.com/an4catarina), [Gustano França](https://github.com/gustavofbs), [Harryson Martins](https://github.com/harry-cmartin), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo)     |  08/11 | [Pedro Henrique](https://github.com/pedro-hsf) e [Ana Catarina](https://github.com/an4catarina)  |
+| Storyboards                                                             |  30/10 | [Ana Catarina](https://github.com/an4catarina), [Gustano França](https://github.com/gustavofbs), [Harryson Martins](https://github.com/harry-cmartin), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo)     |  30/11 | [Ana Catarina](https://github.com/an4catarina), [Gustano França](https://github.com/gustavofbs), [Harryson Martins](https://github.com/harry-cmartin), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo)   |
+| Relato dos Resultados da Análise de tarefas                             |  01/11 | [Ana Catarina](https://github.com/an4catarina), [Gustano França](https://github.com/gustavofbs), [Harryson Martins](https://github.com/harry-cmartin), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo) |  04/11 | [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo), [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf) |
+| Planejamento da Avaliação do Protótipo de Papel |  03/11 | [Victor Hugo](https://github.com/ViictorHugoo), [Gustano França](https://github.com/gustavofbs), [Luciano Ricardo](https://github.com/l-ricardo) e [Harryson Martins](https://github.com/harry-cmartin)  |  03/11 | [Ana Catarina](https://github.com/an4catarina) |
+| Planejamento do Relato de Resultados da Avaliação do Protótipo de Papel |  07/11 | [Luciano Ricardo](https://github.com/l-ricardo)  |  07/11 | [Victor Hugo](https://github.com/ViictorHugoo)  |
+| Ata                                                                     |  08/11 | [Ana Catarina](https://github.com/an4catarina)     |  08/11 | [Victor Hugo](https://github.com/ViictorHugoo)   |
+| Gravar apresentação                                                     |  08/11 | [Victor Hugo](https://github.com/ViictorHugoo)           |  08/11 | [Maria Alice](https://github.com/Maliz30)      |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte:  [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
 ## Entrega 6.1
 
-Na Tabela 12, tem-se o **cronograma planejado** para todas as Artefatos da entrega 6.1.
+Na Tabela 12, tem-se o **cronograma planejado** para todos os Artefatos da entrega 6.1.
 
 <center>
 
@@ -229,15 +239,20 @@ Na Tabela 12, tem-se o **cronograma planejado** para todas as Artefatos da entre
 
 | Artefato                                     | Data de desenvolvimento   | Autor(es)    | Data de Revisão           | Revisor(es)        |
 | --------------------------------------------- | ---------------------------- | --------------- | ---------------------------- | ---------------- |
-| Verificação e Relato artefatos etapa 1, 2 e 3 | Inicio: 13/11 <br>Fim: 14/11 | Victor          | Inicio: 15/11 <br>Fim: 15/11 | Harryson Martins |
-| Verificação e Relato artefatos etapa 4, 5 | Inicio: 13/11 <br>Fim: 14/11 | Maria Alice     | Inicio: 15/11 <br>Fim: 15/11 | Gustavo França   |
+| Verificação e Relato artefatos etapa 1 |  13/11 | [Victor Hugo](https://github.com/ViictorHugoo)          |  15/11 | [Harryson Martins](https://github.com/harry-cmartin) |
+| Verificação e Relato artefatos etapa 2 |  13/11 | [Victor Hugo](https://github.com/ViictorHugoo)          |  15/11 | [Harryson Martins](https://github.com/harry-cmartin) |
+| Verificação e Relato artefatos etapa 3 |  13/11 | [Victor Hugo](https://github.com/ViictorHugoo)          |  15/11 | [Harryson Martins](https://github.com/harry-cmartin) |
+| Verificação e Relato artefatos etapa 4 |  13/11 | [Maria Alice](https://github.com/Maliz30)     |  15/11 | [Gustano França](https://github.com/gustavofbs)   |
+| Verificação e Relato artefatos etapa 5 |  13/11 | [Maria Alice](https://github.com/Maliz30)     |  15/11 | [Gustano França](https://github.com/gustavofbs)   |
+| Ata                                    |  15/11 | [Ana Catarina](https://github.com/an4catarina)    |  15/11 | [Pedro Henrique](https://github.com/pedro-hsf)   |
+| Gravar apresentação                    |  15/11 | [Ana Catarina](https://github.com/an4catarina)    |  15/11  | [Luciano Ricardo](https://github.com/l-ricardo)               |
 
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte:  [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
-Na Tabela 13, tem-se o **cronograma executado** para todas as Artefatos da entrega 6.1.
+Na Tabela 13, tem-se o **cronograma executado** para todos os Artefatos da entrega 6.1.
 
 <center>
 
@@ -245,16 +260,21 @@ Na Tabela 13, tem-se o **cronograma executado** para todas as Artefatos da entre
 
 | Artefato                                     | Data de desenvolvimento | Autor(es) | Data de Revisão | Revisor(es) |
 | --------------------------------------------- | -------------------------- | ------------ | ------------------ | --------- |
-| Verificação e Relato artefatos etapa 1, 2 e 3 | Inicio:14/11<br>Fim:15/11| Harryson, Victor e Gustavo                    | Inicio: 15/11 <br>Fim: 15/11|Pedro Henrique            |
-| Verificação e Relato artefatos etapa 4, 5 | Inicio:14/11<br>Fim:15/11| Maria Alice, Ana Catarina e Pedro             | Inicio: 15/11 <br>Fim: 15/11|Gustavo França           |
+| Verificação e Relato artefatos etapa 1 |  14/11 | [Harryson Martins](https://github.com/harry-cmartin) e [Gustano França](https://github.com/gustavofbs)         |  14/11 | [Harryson Martins](https://github.com/harry-cmartin) |
+| Verificação e Relato artefatos etapa 2 |  14/11 | [Victor Hugo](https://github.com/ViictorHugoo), [Maria Alice](https://github.com/Maliz30) e [Luciano Ricardo](https://github.com/l-ricardo) |  14/11 | [Victor Hugo](https://github.com/ViictorHugoo), [Maria Alice](https://github.com/Maliz30) e [Luciano Ricardo](https://github.com/l-ricardo)  |
+| Verificação e Relato artefatos etapa 3 |  14/11 | [Victor Hugo](https://github.com/ViictorHugoo), [Maria Alice](https://github.com/Maliz30) e [Luciano Ricardo](https://github.com/l-ricardo) |  14/11 | [Victor Hugo](https://github.com/ViictorHugoo), [Maria Alice](https://github.com/Maliz30) e [Luciano Ricardo](https://github.com/l-ricardo)  |
+| Verificação e Relato artefatos etapa 4 |  14/11 | [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf)  |  14/11 | [Victor Hugo](https://github.com/ViictorHugoo)   |
+| Verificação e Relato artefatos etapa 5 |  14/11 | [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf)  |  14/11 | [Victor Hugo](https://github.com/ViictorHugoo)   |
+| Ata                                    |  22/11 | [Ana Catarina](https://github.com/an4catarina)    |  22/11 | [Victor Hugo](https://github.com/ViictorHugoo)   |
+| Gravar apresentação                    |  15/11 | [Ana Catarina](https://github.com/an4catarina)    |  15/11 | [Luciano Ricardo](https://github.com/l-ricardo)  |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte:  [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
 ## Entrega 6.2
 
-Na Tabela 14, tem-se o **cronograma planejado** para todas as Artefatos da entrega 6.2.
+Na Tabela 14, tem-se o **cronograma planejado** para todos os Artefatos da entrega 6.2.
 
 <center>
 
@@ -263,18 +283,20 @@ Na Tabela 14, tem-se o **cronograma planejado** para todas as Artefatos da entre
 
 | Artefato                              | Data de desenvolvimento   | Autor(es)     | Data de Revisão           | Revisor(es)        |
 | -------------------------------------- | ---------------------------- | ---------------- | ---------------------------- | ---------------- |
-| Verificação e Relato artefatos etapa 1 | Inicio: 10/11 <br>Fim: 11/11 | Ana Catarina     | Inicio: 11/11 <br>Fim: 11/11 | Pedro Henrique   |
-| Verificação e Relato artefatos etapa 2 | Inicio: 10/11 <br>Fim: 10/11 | Gustavo França   | Inicio: 10/11 <br>Fim: 11/11 | Harryson Martins |
-| Verificação e Relato artefatos etapa 3 | Inicio: 10/11 <br>Fim: 11/11 | Harryson Martins | Inicio: 11/11 <br>Fim: 11/11 | Gustavo França   |
-| Verificação e Relato artefatos etapa 4 | Início: 12/11 <br>Fim: 13/11 | Luciano Ricardo  | Inicio: 13/11 <br>Fim: 13/11 | Victor           |
-| Verificação e Relato artefatos etapa 5 | Início: 10/11 <br>Fim: 14/11 | Victor           | Inicio: 14/11 <br>Fim: 14/11 | Maria Alice      |
-| Gravar apresentação                    | Inicio: 14/11 <br>Fim: 14/11 | Pedro Henrique   | Inicio: 14/11 <br>Fim: 14/11 | Ana Catarina     |
+| Verificação e Relato artefatos etapa 1 |  10/11 | [Ana Catarina](https://github.com/an4catarina)     |  11/11 | [Pedro Henrique](https://github.com/pedro-hsf)   |
+| Verificação e Relato artefatos etapa 2 |  10/11 | [Gustano França](https://github.com/gustavofbs)   |  10/11 | [Harryson Martins](https://github.com/harry-cmartin) |
+| Verificação e Relato artefatos etapa 3 |  10/11 | [Harryson Martins](https://github.com/harry-cmartin) |  11/11 | [Gustano França](https://github.com/gustavofbs)   |
+| Verificação e Relato artefatos etapa 4 |  12/11 | [Luciano Ricardo](https://github.com/l-ricardo)  |  13/11 | Victor           |
+| Verificação e Relato artefatos etapa 5 |  12/11 | [Victor Hugo](https://github.com/ViictorHugoo)           |  14/11 | [Maria Alice](https://github.com/Maliz30)      |
+| Verificação e Relato artefatos etapa 7 |  12/11 | [Victor Hugo](https://github.com/ViictorHugoo)           |  14/11 | [Maria Alice](https://github.com/Maliz30)      |
+| Verificação e Relato artefatos etapa 8 |  12/11 | [Victor Hugo](https://github.com/ViictorHugoo)           |  14/11 | [Maria Alice](https://github.com/Maliz30)      |
+| Gravar apresentação                    |  14/11 | [Pedro Henrique](https://github.com/pedro-hsf)   |  14/11 | [Ana Catarina](https://github.com/an4catarina)     |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte:  [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
-Na Tabela 15, tem-se o **cronograma executado** para todas as Artefatos da entrega 6.2.
+Na Tabela 15, tem-se o **cronograma executado** para todos os Artefatos da entrega 6.2.
 
 <center>
 
@@ -282,21 +304,22 @@ Na Tabela 15, tem-se o **cronograma executado** para todas as Artefatos da entre
 
 | Artefato                              | Data de desenvolvimento                | Autor(es) | Data de Revisão                          | Revisor(es) |
 | -------------------------------------- | ----------------------------------------- | ------------ | ------------------------------------------- | --------- |
-| Verificação e Relato artefatos etapa 1 |  Inicio: 02/12    <br>Fim:  04/12         | Harryson Martins, Gustavo França, Victor Hugo e Ana Catarina    |   Inicio: 02/12    <br>Fim:  04/12          | Maria Alice, Gustavo França, Harryson Martins, Pedro Henrique |
-| Verificação e Relato artefatos etapa 2 |  Inicio: 02/12    <br>Fim:  04/12         | Harryson Martins, Gustavo França, Pedro Henrique e Maria Alice  |   Inicio: 02/12    <br>Fim:  04/12          | Victor Hugo, Ana Catarina, Harryson Martins, Gustavo França |
-| Verificação e Relato artefatos etapa 3 |  Inicio: 02/12    <br>Fim:  04/12         | Harryson Martins, Gustavo França, Pedro Henrique e Maria Alice  |   Inicio: 02/12    <br>Fim:  04/12          | Victor Hugo, Ana Catarina, Harryson Martins, Gustavo França |
-| Verificação e Relato artefatos etapa 4 |  Inicio: 02/12    <br>Fim:  04/12         | Victor Hugo, Luciano Ricardo e Maria Alice                      |   Inicio: 02/12    <br>Fim:  04/12          | Ana Catarina e Pedro Henrique|
-| Verificação e Relato artefatos etapa 5 |  Inicio: 02/12    <br>Fim:  04/12         | Luciano Ricardo, Ana Catarina                                   |   Inicio: 02/12    <br>Fim:  04/12          | Maria Alice, Victor Hugo e Pedro Henrique |
-| Verificação e Relato artefatos etapa 7 |  Inicio: 02/12    <br>Fim:  04/12         | Luciano Ricardo                                                 |   Inicio: 02/12    <br>Fim:  04/12          | Gustavo França |
-| Gravar apresentação                    |  Inicio: 04/12    <br>Fim:  04/12         | Ana Catarina |   Inicio: 02/12    <br>Fim:  04/12          | Victor Hugo |
+| Verificação e Relato artefatos etapa 1 |   02/12 /12         | [Harryson Martins](https://github.com/harry-cmartin), [Gustano França](https://github.com/gustavofbs), [Victor Hugo](https://github.com/ViictorHugoo) e [Ana Catarina](https://github.com/an4catarina)    |    02/12 /12          | [Maria Alice](https://github.com/Maliz30), [Gustano França](https://github.com/gustavofbs), [Harryson Martins](https://github.com/harry-cmartin), [Pedro Henrique](https://github.com/pedro-hsf) |
+| Verificação e Relato artefatos etapa 2 |   02/12 /12         | [Harryson Martins](https://github.com/harry-cmartin), [Gustano França](https://github.com/gustavofbs), [Pedro Henrique](https://github.com/pedro-hsf) e [Maria Alice](https://github.com/Maliz30)  |    02/12 /12          | [Victor Hugo](https://github.com/ViictorHugoo), [Ana Catarina](https://github.com/an4catarina), [Harryson Martins](https://github.com/harry-cmartin), [Gustano França](https://github.com/gustavofbs) |
+| Verificação e Relato artefatos etapa 3 |   02/12 /12         | [Harryson Martins](https://github.com/harry-cmartin), [Gustano França](https://github.com/gustavofbs), [Pedro Henrique](https://github.com/pedro-hsf) e [Maria Alice](https://github.com/Maliz30)  |    02/12 /12          | [Victor Hugo](https://github.com/ViictorHugoo), [Ana Catarina](https://github.com/an4catarina), [Harryson Martins](https://github.com/harry-cmartin), [Gustano França](https://github.com/gustavofbs) |
+| Verificação e Relato artefatos etapa 4 |   02/12 /12         | [Victor Hugo](https://github.com/ViictorHugoo), [Luciano Ricardo](https://github.com/l-ricardo) e [Maria Alice](https://github.com/Maliz30)                      |    02/12 /12          | [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf)|
+| Verificação e Relato artefatos etapa 5 |   02/12 /12         | [Luciano Ricardo](https://github.com/l-ricardo), [Ana Catarina](https://github.com/an4catarina)                                   |    02/12 /12          | [Maria Alice](https://github.com/Maliz30), [Victor Hugo](https://github.com/ViictorHugoo) e [Pedro Henrique](https://github.com/pedro-hsf) |
+| Verificação e Relato artefatos etapa 7 |   02/12 /12         | [Luciano Ricardo](https://github.com/l-ricardo)                                                 |    02/12 /12          | [Gustano França](https://github.com/gustavofbs) |
+| Verificação e Relato artefatos etapa 8 |   02/12 /12         | [Luciano Ricardo](https://github.com/l-ricardo)                                                 |    02/12 /12          | [Gustano França](https://github.com/gustavofbs) |
+| Gravar apresentação                    |   04/12 /12         | [Ana Catarina](https://github.com/an4catarina) |    02/12 /12          | [Victor Hugo](https://github.com/ViictorHugoo) |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte:  [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
 ## Entrega 7
 
-Tabela 16, tem-se o **cronograma planejado** para todas as Artefatos da sétima entrega
+Tabela 16, tem-se o **cronograma planejado** para todos os Artefatos da sétima entrega
 
 <center>
 
@@ -304,17 +327,17 @@ Tabela 16, tem-se o **cronograma planejado** para todas as Artefatos da sétima 
 
 | Artefato                                                                          | Data de desenvolvimento   | Autor(es)     | Data de Revisão           | Revisor(es)        |
 | ---------------------------------------------------------------------------------- | ---------------------------- | ---------------- | ---------------------------- | ---------------- |
-| Protótipo de papel                                                                 | Inicio: 17/11 <br>Fim: 21/11 | Victor           | Inicio: 21/11 <br>Fim: 21/11 | Maria Alice      |
-| Relato dos resultados do Protótipo de Papel                                        | Inicio: 21/11 <br>Fim: 21/11 | Maria Alice      | Inicio: 21/11 <br>Fim: 21/11 | Luciano Ricardo  |
-| Planejamento da avaliação do protótipo de alta fidelidade                          | Inicio: 21/11 <br>Fim: 21/11 | Harryson Martins | Inicio: 21/11 <br>Fim: 21/11 | Gustavo França   |
-| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Inicio: 21/11 <br>Fim: 22/11 | Gustavo França   | Inicio: 22/11 <br>Fim: 22/11 | Harryson Martins |
-| Gravar apresentação                                                                | Inicio: 22/11 <br>Fim: 22/11 | Gustavo França   | Inicio: 22/11 <br>Fim: 22/11 | Harryson Martins |
+| Protótipo de Papel                                                                 |  17/11 | [Victor Hugo](https://github.com/ViictorHugoo)           |  21/11 | [Maria Alice](https://github.com/Maliz30)      |
+| Relato dos resultados do Protótipo de Papel                                        |  21/11 | [Maria Alice](https://github.com/Maliz30)      |  21/11 | [Luciano Ricardo](https://github.com/l-ricardo)  |
+| Planejamento da avaliação do Protótipo de Alta Fidelidade                          |  21/11 | [Harryson Martins](https://github.com/harry-cmartin) |  21/11 | [Gustano França](https://github.com/gustavofbs)   |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Alta Fidelidade |  21/11 | [Gustano França](https://github.com/gustavofbs)   |  22/11 | [Harryson Martins](https://github.com/harry-cmartin) |
+| Gravar apresentação                                                                |  22/11 | [Gustano França](https://github.com/gustavofbs)   |  22/11 | [Harryson Martins](https://github.com/harry-cmartin) |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
-Tabela 17, tem-se o **cronograma executado** para todas as Artefatos da sétima entrega.
+Tabela 17, tem-se o **cronograma executado** para todos os Artefatos da sétima entrega.
 
 <center>
 
@@ -322,19 +345,19 @@ Tabela 17, tem-se o **cronograma executado** para todas as Artefatos da sétima 
 
 | Artefato                                                                          | Data de desenvolvimento | Autor(es)                                                                                               | Data de Revisão | Revisor(es)      |
 | ---------------------------------------------------------------------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------ | -------------- |
-| Protótipo de papel                                                                 | Inicio: 20/11         <br>Fim: 22/11              | Ana Catarina, Pedro Henrique, Victor Hugo, Maria Alice, Luciano Ricardo, Gustavo França e Harryson Martins | 22/11              | Pedro Henrique |
-| Relato dos resultados do Protótipo de Papel                                        | Inicio: 20/11         <br>Fim: 22/11              | Ana Catarina, Pedro Henrique, Victor Hugo, Maria Alice, Luciano Ricardo, Gustavo França e Harryson Martins | 22/11              | Victor Hugo    |
-| Planejamento da avaliação do protótipo de alta fidelidade                          | Inicio: 20/11         <br>Fim: 21/11              | Gustavo França                                                                                             | 22/11              | Maria Alice    |
-| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Inicio: 20/11         <br>Fim: 21/11              | Harryson Martins                                                                                           | 22/11              | Ana Catarina   |
-| Gravar apresentação                                                                | Inicio: 21/11         <br>Fim: 22/11              | Victor Hugo                                                                                                | 22/11              | Ana Catarina   |
+| Protótipo de Papel |  22/11 | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf), [Victor Hugo](https://github.com/ViictorHugoo), [Maria Alice](https://github.com/Maliz30), [Luciano Ricardo](https://github.com/l-ricardo), [Gustano França](https://github.com/gustavofbs) e [Harryson Martins](https://github.com/harry-cmartin) | 22/11 | [Victor Hugo](https://github.com/ViictorHugoo) e [Maria Alice](https://github.com/Maliz30) |
+| Relato dos resultados do Protótipo de Papel |  21/11 | [Ana Catarina](https://github.com/an4catarina), [Pedro Henrique](https://github.com/pedro-hsf), [Victor Hugo](https://github.com/ViictorHugoo), [Maria Alice](https://github.com/Maliz30), [Luciano Ricardo](https://github.com/l-ricardo), [Gustano França](https://github.com/gustavofbs) e [Harryson Martins](https://github.com/harry-cmartin) | 22/11 | [Victor Hugo](https://github.com/ViictorHugoo)  e [Luciano Ricardo](https://github.com/l-ricardo) |
+| Planejamento da avaliação do Protótipo de Alta Fidelidade |  21/11 | [Gustano França](https://github.com/gustavofbs) | 22/11 | [Victor Hugo](https://github.com/ViictorHugoo) |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Alta Fidelidade |  21/11 | [Harryson Martins](https://github.com/harry-cmartin) | 22/11 | [Ana Catarina](https://github.com/an4catarina)   |
+| Gravar apresentação  |  22/11 | [Victor Hugo](https://github.com/ViictorHugoo)  | 22/11              | [Ana Catarina](https://github.com/an4catarina)   |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte:  [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
 ## Entrega 8
 
-Na Tabela 18, tem-se o **cronograma planejado** para todas as Artefatos da entrega 8.
+Na Tabela 18, tem-se o **cronograma planejado** para todos os Artefatos da entrega 8.
 
 <center>
 
@@ -342,16 +365,15 @@ Na Tabela 18, tem-se o **cronograma planejado** para todas as Artefatos da entre
 
 | Artefato                                                          | Data de desenvolvimento   | Autor(es)     | Data de Revisão           | Revisor(es)        |
 | ------------------------------------------------------------------ | ---------------------------- | ---------------- | ---------------------------- | ---------------- |
-| Relato dos resultados da avaliação do protótipo de alta fidelidade | Inicio: 24/11 <br>Fim: 25/11 | Luciano Ricardo  | Inicio: 25/11 <br>Fim: 25/11 | Victor           |
-| Planejamento de verificação dos artefatos da entrega 8             | Inicio: 24/11 <br>Fim: 25/11 | Gustavo França   | Inicio: 25/11 <br>Fim: 25/11 | Harryson Martins |
-| Relato da verificação da Etapa 8 e ajustes nos artefatos           | Inicio: 24/11 <br>Fim: 25/11 | Pedro Henrique   | Inicio: 25/11 <br>Fim: 25/11 | Ana Catarina     |
-| Gravar apresentação                                                | Inicio: 26/11 <br>Fim: 26/11 | Harryson Martins | Inicio: 26/11 <br>Fim: 26/11 | Gustavo França   |
+| Relato dos resultados da avaliação do Protótipo de Alta Fidelidade |  24/11 | [Luciano Ricardo](https://github.com/l-ricardo)  |  25/11 | [Victor Hugo](https://github.com/ViictorHugoo)           |
+| Ata                                                                |  25/11 | [Ana Catarina](https://github.com/an4catarina)     |  25/11 | [Pedro Henrique](https://github.com/pedro-hsf)   |
+| Gravar apresentação                                                |  27/11 | [Harryson Martins](https://github.com/harry-cmartin) |  27/11 | [Gustano França](https://github.com/gustavofbs)   |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte:  [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
-Na Tabela 19, tem-se o **cronograma executado** para todas as Artefatos da entrega 8.
+Na Tabela 19, tem-se o **cronograma executado** para todos os Artefatos da entrega 8.
 
 <center>
 
@@ -359,50 +381,14 @@ Na Tabela 19, tem-se o **cronograma executado** para todas as Artefatos da entre
 
 | Artefato                                                         | Data de desenvolvimento    | Autor(es)                                                                                                  | Data de Revisão            | Revisor(es)        |
 | ----------------------------------------------------------------- | ------------------------------| ------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------- |
-| Relato dos resultados da avaliação do protótipo de alta fidelidade | Inicio: 24/11 <br>Fim: 27/11 | Ana Catarina, Gustavo França, Harryson Martins ,Luciano Ricardo, Maria Alice, Pedro Henrique, Victor Hugo     | Início: 27/11 <br>Fim: 27/11  | Luciano Ricardo                  |
-| Planejamento de verificação dos artefatos da entrega 8             | Inicio: 24/11 <br>Fim: 27/11 | Gustavo França e Harryson Martins                                                                             | Início: 27/11 <br>Fim: 27/11  | Victor Hugo                 |
-| Relato da verificação da Etapa 8 e ajustes nos artefatos           | Inicio: 24/11 <br>Fim: 27/11 | Ana Catarina, Gustavo França, Harryson Martins ,Luciano Ricardo, Maria Alice, Pedro Henrique, Victor Hugo     | Início: 27/11 <br>Fim: 27/11  | Maria Alice e Victor Hugo                 |
-| Gravar apresentação                                                | Inicio: 27/11 <br>Fim: 27/11 | Luciano Ricardo                                                                                               | Início: 27/11 <br>Fim: 27/11  | Gustavo França                 |
+| Relato dos resultados da avaliação do Protótipo de Alta Fidelidade |  29/11 | [Ana Catarina](https://github.com/an4catarina), [Gustano França](https://github.com/gustavofbs), [Harryson Martins](https://github.com/harry-cmartin), [Luciano Ricardo](https://github.com/l-ricardo), [Maria Alice](https://github.com/Maliz30), [Pedro Henrique](https://github.com/pedro-hsf) e [Victor Hugo](https://github.com/ViictorHugoo)     |  29/11  | [Ana Catarina](https://github.com/an4catarina), [Maria Alice](https://github.com/Maliz30), [Victor Hugo](https://github.com/ViictorHugoo) e [Pedro Henrique](https://github.com/pedro-hsf)                  |
+| Gravar apresentação                                                |  29/11 | [Luciano Ricardo](https://github.com/l-ricardo)                                                                                               |  29/11  | [Gustano França](https://github.com/gustavofbs)                 |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
 ## Entrega final
-
-Na Tabela 20, tem-se o **cronograma planejado** para todas as Artefatos da entrega final.
-
-<center>
-
-<font size="2"><p style="text-align: center">Tabela 20: Cronograma planejado de Artefatos da Entrega Final.</p></font>
-
-| Artefato                                                | Data de desenvolvimento   | Autor(es)     | Data de Revisão           | Revisor(es)       |
-| -------------------------------------------------------- | ---------------------------- | ---------------- | ---------------------------- | --------------- |
-| Planejamento de verificação dos artefatos da Etapa 8     | Inicio: 01/12 <br>Fim: 02/12 | Maria Alice      | Inicio: 02/12 <br>Fim: 02/12 | Luciano Ricardo |
-| Relato da verificação da Etapa 8 e ajustes nos artefatos | Inicio: 02/12 <br>Fim: 04/12 | Harryson Martins | Inicio: 04/12 <br>Fim: 04/12 | Gustavo França  |
-| Implementar Git Pages                                    | Inicio: 05/12 <br>Fim: 05/12 | Pedro Henrique   | Inicio: 05/12 <br>Fim: 05/12 | Ana Catarina    |
-| Gravar apresentação                                      | Inicio: 05/12 <br>Fim: 05/12 | Luciano Ricardo  | Inicio: 05/12 <br>Fim: 05/12 | Victor          |
-
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
-
-</center>
-
-Na Tabela 21, tem-se o **cronograma executado** para todas as Artefatos da entrega final.
-
-<center>
-
-<font size="2"><p style="text-align: center">Tabela 21: Cronograma executado de Artefatos da Entrega Final.</p></font>
-
-| Artefato                                                | Data de desenvolvimento | Autor(es) | Data de Revisão | Revisor(es) |
-| -------------------------------------------------------- | -------------------------- | ------------ | ------------------ | --------- |
-| Planejamento de verificação dos artefatos da Etapa 8     |Inicio: 01/12 <br>Fim: 04/12| Ana Catarina, Gustavo França, Harryson Martins ,Luciano Ricardo, Maria Alice, Pedro Henrique, Victor Hugo             |Inicio: 01/12 <br>Fim: 02/12|           |
-| Relato da verificação da Etapa 8 e ajustes nos artefatos |Inicio: 01/12 <br>Fim: 04/12| Ana Catarina, Gustavo França, Harryson Martins ,Luciano Ricardo, Maria Alice, Pedro Henrique, Victor Hugo             |Inicio: 01/12 <br>Fim: 02/12|           |
-| Implementar Git Pages                                    |Inicio: 01/12 <br>Fim: 04/12| Harryson     |Inicio: 01/12 <br>Fim: 02/12|Maria Alice|
-| Gravar apresentação                                      |Inicio: 04/12 <br>Fim: 04/12|Ana Catarina  |Inicio: 01/12 <br>Fim: 02/12|Pedro Henrique|
-
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
-
-</center>
 
 ## Bibliografia
 
