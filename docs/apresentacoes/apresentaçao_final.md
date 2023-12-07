@@ -1,8 +1,8 @@
-# Apresentação etapa 8
+# Apresentação Final
 
 ## Introdução
 
-Esta página é destinada à apresentação da etapa 8 do projeto de Interação Humano Computador. Focada no Relato dos Resultados da Avaliação do Protótipo de Papel. A apresentação foi gravada no 06 de dezembro de 2023
+Esta página é destinada à apresentação da etapa final do projeto de Interação Humano Computador. Focada no Relato dos Resultados da Avaliação do Protótipo de Papel. A apresentação foi gravada no 06 de dezembro de 2023
 
 ## Apresentação
 
