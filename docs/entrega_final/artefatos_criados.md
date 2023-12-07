@@ -200,3 +200,7 @@ Na Tabela 9, tem-se os **Artefatos Criados** para a oitava entrega, com seus res
 > Cronograma Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io.1-BilheteriaDigital/planejamento/cronograma/>>. Acesso em 29 de setembro de 2023.
 
 ## Histórico de versões
+
+| Versão |    Data    | Descrição                              | Autor(es)                                       | Revisor(es)                                    |
+| ------ | :--------: | -------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 06/12/2023 | Criação e estruturação do arquivo      | [Maria Alice](https://github.com/Maliz30) | [Victor Hugo](https://github.com/ViictorHugoo) |
