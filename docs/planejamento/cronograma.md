@@ -46,7 +46,7 @@ Na Tabela 2, tem-se o <b>cronograma planejado</b> para todas as atividades da pr
 | Edição da gravação        | Início: 30/09 <br>Fim: 25/09 | Ana Catarina     | Início: 29/09 <br>Fim: 01/10 | Victor           |
 | Correção pós apresentação | Início: 03/10 <br>Fim: 03/10 | Luciano Ricardo  | Início: 03/10 <br>Fim: 03/10 | Pedro Henrique   |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 
 </center>
@@ -70,7 +70,7 @@ Na Tabela 3, tem-se o <b>cronograma executado</b> para todas as atividades da pr
 | Edição da gravação        | Início: 01/10 <br>Fim: 02/10 | Ana Catarina                      | Início: 02/10 <br>Fim: 02/10 | Victor Hugo      |
 | Correção pós apresentação | Início: 03/10 <br>Fim: 04/10 | Victor Hugo                       | Início: 04/10 <br>Fim: 04/10 | Ana Catarina     |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 
@@ -94,7 +94,7 @@ Na Tabela 4, tem-se o <b>cronograma planejado</b> para todas as atividades da se
 | Edição da gravação                            | Inicio: 14/10 <br>Fim: 14/10 | Ana Catarina     | Inicio: 14/10 <br>Fim: 14/10 | Pedro Henrique   |
 | Correção pós apresentação                     | Inicio: 17/10 <br>Fim: 17/10 | Gustavo França   | Inicio: 17/10 <br>Fim: 17/10 | Harryson Martins |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 
@@ -116,7 +116,7 @@ Na Tabela 5, tem-se o <b>cronograma executado</b> para todas as atividades da se
 | Edição da gravação                            | Inicio: 16/10 <br>Fim: 16/10 | Ana Catarina                  | Inicio: 16/10 <br>Fim: 16/10 | Pedro Henrique   |
 | Correção pós apresentação                     | Inicio: 08/10 <br>Fim: 16/10 | Maria Alice                   | Inicio: 16/10 <br>Fim: 16/10 | Harryson Martins |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 
@@ -138,7 +138,7 @@ Na Tabela 6, tem-se o <b>cronograma planejado</b> para todas as atividades da te
 | Edição da gravação           | Inicio: 22/10 <br>Fim: 23/10 | Ana Catarina                  | Inicio: 23/10 <br>Fim: 23/10 | Pedro Henrique   |
 | Correção pós apresentação    | Inicio: 24/10 <br>Fim: 24/10 | Victor                        | Inicio: 25/10 <br>Fim: 26/10 | Maria Alice      |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 
@@ -157,7 +157,7 @@ Na Tabela 7, tem-se o <b>cronograma executado</b> para todas as atividades da te
 | Edição da gravação           | Inicio: 23/10 <br>Fim: 23/10 | Ana Catarina                  | Inicio: 23/10 <br>Fim: 23/10 | Victor Hugo     |
 | Correção pós apresentação    | Inicio: 24/10 <br>Fim: 25/10 | Harryson Martins              | Inicio: 25/10 <br>Fim: 25/10 | Gustavo França  |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 
@@ -179,7 +179,7 @@ Na Tabela 8, tem-se o <b>cronograma planejado</b> para todas as atividades da qu
 | Edição da gravação                                               | Inicio: 30/10 <br>Fim: 30/10 | Ana Catarina     | Inicio: 30/10 <br>Fim: 30/10 | Pedro Henrique   |
 | Correção pós apresentação                                        | Inicio: 31/10 <br>Fim: 31/10 | Harryson Martins | Inicio: 31/10 <br>Fim: 31/10 | Gustavo França   |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 
@@ -199,7 +199,7 @@ Na Tabela 9, tem-se o <b>cronograma executado</b> para todas as atividades da qu
 | Edição da gravação                                               | Inicio: 30/10 <br>Fim: 30/10 | Ana Catarina                               | Inicio: 30/10 <br>Fim: 30/10 | Victor Hugo     |
 | Correção pós apresentação                                        | Inicio: 01/11 <br>Fim: 01/11 | Victor Hugo                                | Inicio: 01/11 <br>Fim: 01/11 | Ana Catarina    |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 
@@ -221,7 +221,7 @@ Na Tabela 10, tem-se o <b>cronograma planejado</b> para todas as atividades da q
 | Edição da gravação                                                      | Inicio: 08/11 <br>Fim: 08/11 | Ana Catarina     | Inicio: 08/11 <br>Fim: 08/11 | Pedro Henrique   |
 | Correção pós apresentação                                               | Inicio: 09/11 <br>Fim: 09/11 | Luciano Ricardo  | Inicio: 09/11 <br>Fim: 09/11 | Victor           |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 
@@ -241,7 +241,7 @@ Na Tabela 11, tem-se o <b>cronograma executado</b> para todas as atividades da q
 | Edição da gravação                                                      | Inicio: 08/11 <br>Fim: 08/11 | Ana Catarina                                                                                               | Inicio: 08/11 <br>Fim: 08/11  | Victor Hugo                   |
 | Correção pós apresentação                                               | Inicio: 11/11 <br>Fim: 11/11 | Harryson Martin e Gustavo França                                                                           | Inicio: 11/11 <br>Fim: 11/11  | Ana Catarina                  |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf)</p></font>
 
 </center>
 
@@ -259,7 +259,7 @@ Na Tabela 12, tem-se o <b>cronograma planejado</b> para todas as atividades da e
 | Verificação e Relato artefatos etapa 4, 5 | Inicio: 13/11 <br>Fim: 14/11 | Maria Alice     | Inicio: 15/11 <br>Fim: 15/11 | Gustavo França   |
 
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 
@@ -274,7 +274,7 @@ Na Tabela 13, tem-se o <b>cronograma executado</b> para todas as atividades da e
 | Verificação e Relato artefatos etapa 1, 2 e 3 | Inicio:14/11<br>Fim:15/11| Harryson, Victor e Gustavo                    | Inicio: 15/11 <br>Fim: 15/11|Pedro Henrique            |
 | Verificação e Relato artefatos etapa 4, 5 | Inicio:14/11<br>Fim:15/11| Maria Alice, Ana Catarina e Pedro             | Inicio: 15/11 <br>Fim: 15/11|Gustavo França           |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 
@@ -298,7 +298,7 @@ Na Tabela 14, tem-se o <b>cronograma planejado</b> para todas as atividades da e
 | Edição da gravação                     | Inicio: 15/11 <br>Fim: 15/11 | Ana Catarina     | Inicio: 15/11 <br>Fim: 15/11 | Pedro Henrique   |
 | Correção pós apresentação              | Inicio: 16/11 <br>Fim: 16/11 | Gustavo França   | Inicio: 16/11 <br>Fim: 16/11 | Harryson Martins |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 
@@ -320,7 +320,8 @@ Na Tabela 15, tem-se o <b>cronograma executado</b> para todas as atividades da e
 | Edição da gravação                     |  Inicio: 04/12    <br>Fim:  04/12         | Ana Catarina |   Inicio: 02/12    <br>Fim:  04/12          | Victor Hugo |
 | Correção pós apresentação              |  Inicio:          <br>Fim:                |              |    Inicio:          <br>Fim:                |           |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina) e [Pedro Henrique](https://github.com/pedro-hsf)</p></font>
+
 
 </center>
 
@@ -342,7 +343,7 @@ Tabela 16, tem-se o <b>cronograma planejado</b> para todas as atividades da sét
 | Edição da gravação                                                                 | Inicio: 22/11 <br>Fim: 22/11 | Ana Catarina     | Inicio: 22/11 <br>Fim: 22/11 | Pedro Henrique   |
 | Correção pós apresentação                                                          | Inicio: 23/11 <br>Fim: 23/11 | Harryson Martins | Inicio: 23/11 <br>Fim: 23/11 | Gustavo França   |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 
@@ -362,7 +363,7 @@ Tabela 17, tem-se o <b>cronograma executado</b> para todas as atividades da sét
 | Edição da gravação                                                                 | Inicio: 22/11         <br>Fim: 22/11              | Ana Catarina                                                                                               | 22/11              | Victor Hugo    |
 | Correção pós apresentação                                                          | Inicio: 23/11         <br>Fim: 23/11              | Ana Catarina, Pedro Henrique, Victor Hugo, Maria Alice, Luciano Ricardo, Gustavo França e Harryson Martins | 23/11              | Gustavo França |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 
@@ -383,7 +384,7 @@ Na Tabela 18, tem-se o <b>cronograma planejado</b> para todas as atividades da e
 | Edição da gravação                                                 | Inicio: 27/11 <br>Fim: 27/11 | Ana Catarina     | Inicio: 27/11 <br>Fim: 27/11 | Pedro Henrique   |
 | Correção pós apresentação                                          | Inicio: 28/11 <br>Fim: 28/11 | Pedro Henrique   | Inicio: 28/11 <br>Fim: 28/11 | Ana Catarina     |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 
@@ -402,7 +403,7 @@ Na Tabela 19, tem-se o <b>cronograma executado</b> para todas as atividades da e
 | Edição da gravação                                                 | Início: 27/11 <br>Fim: 27/11 | Ana Catarina                                                                                                  | Início: 27/11 <br>Fim: 27/11  | Pedro Henrique   |
 | Correção pós apresentação                                          | Inicio: 28/11 <br>Fim: 30/11 | Ana Catarina, Gustavo França, Harryson Martins ,Luciano Ricardo, Maria Alice, Pedro Henrique, Victor Hugo     | Início: 27/11 <br>Fim: 27/11  | Gustavo França e Harryson Martins                 |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 
@@ -422,7 +423,7 @@ Na Tabela 20, tem-se o <b>cronograma planejado</b> para todas as atividades da e
 | Gravar apresentação                                      | Inicio: 05/12 <br>Fim: 05/12 | Luciano Ricardo  | Inicio: 05/12 <br>Fim: 05/12 | Victor          |
 | Edição da gravação                                       | Inicio: 06/12 <br>Fim: 06/12 | Ana Catarina     | Inicio: 06/12 <br>Fim: 06/12 | Pedro Henrique  |
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 
@@ -440,7 +441,7 @@ Na Tabela 21, tem-se o <b>cronograma executado</b> para todas as atividades da e
 | Gravar apresentação                                      |Inicio: 04/12 <br>Fim: 04/12|Ana Catarina  |Inicio: 01/12 <br>Fim: 02/12|Pedro Henrique|
 | Edição da gravação                                       |Inicio: 04/12 <br>Fim: 04/12|Ana Catarina  |Inicio: 01/12 <br>Fim: 02/12|Luciano Ricardo|
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/ViictorHugoo) e [Luciano Ricardo](https://github.com/l-ricardo)</p></font>
 
 </center>
 

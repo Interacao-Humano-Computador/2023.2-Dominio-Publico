@@ -33,9 +33,9 @@ Os objetivos dessa avaliação são, por meio do planejamento da construção de
 
 ## E - Exploração de perguntas
 
-A partir do objetivo citado anteriormente, podemos aumentar seu nível de detalhamento definindo perguntas verificáveis a serem respondidas na avaliação. Além de auxiliar na investigação e avaliação do site, as perguntas específicas têm como finalidade guiar e operacionalizar todo o processo de avaliação.
+A partir do objetivo citado anteriormente, podemos aumentar seu nível de detalhamento definindo perguntas verificáveis a serem respondidas durante a avaliação. Além de auxiliar na investigação e avaliação do site, as perguntas específicas têm como finalidade guiar e operacionalizar todo o processo de avaliação.
 
-Com isso, foram desenvolvidas as seguintes perguntas listadas na Tabela 1:
+Com isso, foram desenvolvidas as perguntas listadas na Tabela 1:
 
 <center>
 <font size="2"><p style="text-align: center">Tabela 1: Perguntas a serem feitas na entrevista</p></font>
@@ -65,7 +65,9 @@ A simulação de uso permite aos usuários interagirem com o protótipo como se 
 
 ### Recrutamento
 
-Para essa avaliação serão selecionadas 7 pessoas que estão dentro do estabelecido pelo perfil de usuario. De acordo com Barbosa [2] de 5 a 8 pessoas são suficientes para indentificar problemas comuns e ter conclusões relevantes.
+Dumas e Redish [3] destacam que uma avaliação de Interação Humano-Computador (IHC) geralmente envolve de cinco a 12 usuários. Nielsen [4], por sua vez, afirma que apenas cinco usuários são suficientes para identificar a maioria dos problemas na interface (85%, de acordo com seu experimento), proporcionando uma relação custo-benefício favorável. Se a obtenção de resultados estatisticamente significativos for necessária, a amostra de usuários deve ser suficientemente grande e representativa. No entanto, o tempo e outros recursos necessários para a coleta e análise de dados de muitos usuários podem tornar inviável uma abordagem estatística.
+
+Portanto, em muitos casos, uma avaliação de IHC busca apenas obter indícios sobre a qualidade de uso do sistema e maneiras de aprimorá-la. Em outras palavras, mesmo quando os resultados não atingem significância estatística, eles ainda podem ser úteis para o redesenho do sistema avaliado.
 
 ### Preparação
 
@@ -87,12 +89,7 @@ A avaliação irá gerar custos mínimos para a equipe de modo que os unicos gas
 
 ### Prazos
 
-O cronograma das entrevistas com os usuários estão documentadas na Tabela 1 com os seguintes tópicos:
-
-- Entrevistador;
-- Entrevistado;
-- Horário de início e fim;
-- Local e data que ocorreu a entrevista;
+O cronograma das entrevistas com os usuários estão documentadas na Tabela 1.
 
 <font size="2"><p style="text-align: center">Tabela 2: Cronograma da entrevista </p></font>
 
@@ -166,6 +163,10 @@ No Vídeo 1, pode-se conferir a gravação do teste piloto realizado.
 > [1] Preece, J., Sharp, H., & Rogers, Y. Design de interação: além da interação humano-computador. Porto Alegre: Bookman, 2013
 >
 > [2] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011
+>
+> [3] Dumas, J.S. & Redish, J.C. A Practical Guide to Usability Testing, edição revisada. Exeter, UK: Intellect, 1999.
+>
+> [4] Nielsen, J. e Molich, R. “Heuristic evaluation of user interfaces”. Proceedings of ACM CHI’90, pp. 249–256, 1990.
 
 ## Bibliografia
 
