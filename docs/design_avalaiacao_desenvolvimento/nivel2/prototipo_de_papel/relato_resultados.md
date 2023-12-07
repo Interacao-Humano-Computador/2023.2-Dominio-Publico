@@ -548,7 +548,7 @@ Na Figura 6 é possível visualizar o protótipo de papel utilizado para a avali
 
 <font size="2"><p style="text-align: center">Figura 6: Protótipo de papel de "Contatar Administradores"</p></font>
 
-![Protótipo de Papel](../../../assets/prototipo_de_papel/contAdmin.jpeg)
+![Protótipo de Papel](../../../assets/prototipo_de_papel/contAdmin.jpg)
 
 <font size="2"><p style="text-align: center">Fonte: [Gustavo França](https://github.com/gustavofbs)</p></font>
 
