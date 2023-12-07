@@ -398,3 +398,4 @@ Na Tabela 19, tem-se o **cronograma executado** para todos os Artefatos da entre
 
 | Versão |    Data    | Descrição                                                                | Autor(es)                                                                                  | Revisor(es)                                     |
 | ------ | :--------: | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| 1.0   | 06/12 | Criação e estruturação do documento | [Victor Hugo](https://github.com/ViictorHugoo) | [Maria Alice](https://github.com/Maliz30) |
